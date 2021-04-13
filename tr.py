@@ -11,7 +11,7 @@ with open('list.json', 'r', encoding='utf-8') as f:
 with open('list.json', 'w', encoding='utf-8') as f:
     for item in data:
         item['currency'] = 'btc'
-        item['product'] = 'coin-perp'
+        item['product'] = 'perp'
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 # with open('list.json', 'w', encoding='utf-8') as f:

@@ -13,6 +13,11 @@ with open('list.json', 'w', encoding='utf-8') as f:
             item['annual_return'] = metrics['strategy']['annual_return_ratio']
             item['sharpe_ratio'] = metrics['strategy']['sharpe_ratio']
 
+        with open(f"{item['id']}/statistic.json", 'r', encoding='utf-8') as f3:
+            metrics = json.load(f3)
+
+            item['max_retracement'] = metrics['dollar_retracement']
+
     with open(f'list.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 

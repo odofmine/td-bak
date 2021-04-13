@@ -7,9 +7,11 @@ data = []
 
 with open('list.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
-    data.sort(key=lambda x : int(x['id']), reverse=True)
 
 with open('list.json', 'w', encoding='utf-8') as f:
+    for item in data:
+        item['currency'] = 'btc'
+        item['product'] = 'coin-perp'
     json.dump(data, f, indent=2, ensure_ascii=False)
 
 # with open('list.json', 'w', encoding='utf-8') as f:

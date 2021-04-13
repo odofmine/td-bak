@@ -1,4 +1,5 @@
 import json
+import os
 
 from datetime import datetime
 
@@ -28,6 +29,13 @@ with open('list.json', 'w', encoding='utf-8') as f:
 
             item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
             item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')
+
+        dt = item['date']
+        current_id = item['id']
+        target_id = f"{''.join(dt.split('-'))}001"
+
+        os.rename(current_id, target_id)
+        item['id'] = target_id
 
     with open(f'list.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)

@@ -1,0 +1,57 @@
+{
+  "closes": {},
+  "closes_count": {
+    "daily_end": 328,
+    "daily_end_win": 185,
+    "month_end": 10,
+    "month_end_win": 6
+  },
+  "current_margin_value": 20188.755372894488,
+  "dollar_retracement": 0.25378589404204904,
+  "dollar_retracement_at": 1584057600000,
+  "init_total_margin_value": 10000.0,
+  "nm_statistic": {
+    "btc_daily_return": {
+      "max": 0.16,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": -0.39,
+      "std": 0.04
+    },
+    "btc_max_month_retracement": {
+      "max": 0.47,
+      "mean": 0.14,
+      "median": 0.11,
+      "min": 0.03,
+      "std": 0.12
+    },
+    "btc_month_return": {
+      "max": 0.34,
+      "mean": 0.08,
+      "median": 0.06,
+      "min": -0.25,
+      "std": 0.19
+    },
+    "fiat_daily_return": {
+      "max": 0.12,
+      "mean": 0.0,
+      "median": 0.0,
+      "min": -0.11,
+      "std": 0.03
+    },
+    "fiat_max_month_retracement": {
+      "max": 0.18,
+      "mean": 0.09,
+      "median": 0.1,
+      "min": 0.02,
+      "std": 0.06
+    },
+    "fiat_month_return": {
+      "max": 0.2,
+      "mean": 0.05,
+      "median": 0.06,
+      "min": -0.12,
+      "std": 0.12
+    }
+  }
+}

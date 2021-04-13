@@ -1,33 +1,33 @@
 [
   {
-    "id": "20210222001",
-    "date": "2021-02-22",
+    "id": "20210408001",
+    "date": "2021-04-08",
     "strategy": {
       "name": "t4",
       "version": "1.0"
     },
     "source": "bitmex-bitstamp",
     "start_point": "2014-01-01",
-    "end_point": "2021-02-22",
+    "end_point": "2021-04-07",
     "frequency": "1d",
-    "annual_return": 1.5875906263832635,
-    "max_retracement": 0.27071055106544717,
-    "sharpe_ratio": 2.2734865119638794
+    "annual_return": 2.623302964652127,
+    "max_retracement": 0.36376497544421393,
+    "sharpe_ratio": 2.200939133975004
   },
   {
-    "id": "20201231001",
-    "date": "2020-12-31",
+    "id": "20210407001",
+    "date": "2021-04-07",
     "strategy": {
       "name": "t4",
       "version": "1.0"
     },
     "source": "bitmex-bitstamp",
     "start_point": "2014-01-01",
-    "end_point": "2020-12-28",
+    "end_point": "2021-04-07",
     "frequency": "1d",
-    "annual_return": 3.198196892130105,
-    "max_retracement": 0.2739276091399989,
-    "sharpe_ratio": 2.6361952852380375
+    "annual_return": 3.532338886858936,
+    "max_retracement": 0.48177471286301693,
+    "sharpe_ratio": 2.307106191102354
   },
   {
     "id": "20210324001",
@@ -45,21 +45,6 @@
     "sharpe_ratio": 3.2374607130874153
   },
   {
-    "id": "20201225001",
-    "date": "2020-12-25",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2014-01-01",
-    "end_point": "2020-12-25",
-    "frequency": "1d",
-    "annual_return": 4.53138997705603,
-    "max_retracement": 0.46130477307419837,
-    "sharpe_ratio": 2.477398880296987
-  },
-  {
     "id": "20210308001",
     "date": "2021-03-08",
     "strategy": {
@@ -75,19 +60,94 @@
     "sharpe_ratio": 1.061664917641421
   },
   {
-    "id": "20201215001",
-    "date": "2020-12-15",
+    "id": "20210222001",
+    "date": "2021-02-22",
     "strategy": {
       "name": "t4",
       "version": "1.0"
     },
     "source": "bitmex-bitstamp",
-    "start_point": "2009-03-01",
-    "end_point": "2020-11-23",
+    "start_point": "2014-01-01",
+    "end_point": "2021-02-22",
     "frequency": "1d",
-    "annual_return": 0.04296799576963428,
-    "max_retracement": 0.14323449755903217,
-    "sharpe_ratio": 0.11147825235192359
+    "annual_return": 1.5875906263832635,
+    "max_retracement": 0.27071055106544717,
+    "sharpe_ratio": 2.2734865119638794
+  },
+  {
+    "id": "20210114001",
+    "date": "2021-01-14",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2014-01-01",
+    "end_point": "2021-01-14",
+    "frequency": "1d",
+    "annual_return": 5.0442249926674485,
+    "max_retracement": 0.4613047729414749,
+    "sharpe_ratio": 2.568041684435447
+  },
+  {
+    "id": "20210108001",
+    "date": "2021-01-08",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2012-04-01",
+    "end_point": "2021-01-08",
+    "frequency": "1d",
+    "annual_return": 8.451856290998942,
+    "max_retracement": 0.7112345930947199,
+    "sharpe_ratio": 2.863573105595584
+  },
+  {
+    "id": "20201231001",
+    "date": "2020-12-31",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2014-01-01",
+    "end_point": "2020-12-28",
+    "frequency": "1d",
+    "annual_return": 3.198196892130105,
+    "max_retracement": 0.2739276091399989,
+    "sharpe_ratio": 2.6361952852380375
+  },
+  {
+    "id": "20201229001",
+    "date": "2020-12-29",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2014-01-01",
+    "end_point": "2019-12-28",
+    "frequency": "1d",
+    "annual_return": 4.121179763590166,
+    "max_retracement": 0.46130477307419837,
+    "sharpe_ratio": 2.3826719661175373
+  },
+  {
+    "id": "20201225001",
+    "date": "2020-12-25",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2014-01-01",
+    "end_point": "2020-12-25",
+    "frequency": "1d",
+    "annual_return": 4.53138997705603,
+    "max_retracement": 0.46130477307419837,
+    "sharpe_ratio": 2.477398880296987
   },
   {
     "id": "20201224001",
@@ -120,51 +180,6 @@
     "sharpe_ratio": 2.2415771276351313
   },
   {
-    "id": "20210108001",
-    "date": "2021-01-08",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2012-04-01",
-    "end_point": "2021-01-08",
-    "frequency": "1d",
-    "annual_return": 8.451856290998942,
-    "max_retracement": 0.7112345930947199,
-    "sharpe_ratio": 2.863573105595584
-  },
-  {
-    "id": "20210407001",
-    "date": "2021-04-07",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-07",
-    "frequency": "1d",
-    "annual_return": 3.532338886858936,
-    "max_retracement": 0.48177471286301693,
-    "sharpe_ratio": 2.307106191102354
-  },
-  {
-    "id": "20210408001",
-    "date": "2021-04-08",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-07",
-    "frequency": "1d",
-    "annual_return": 2.623302964652127,
-    "max_retracement": 0.36376497544421393,
-    "sharpe_ratio": 2.200939133975004
-  },
-  {
     "id": "20201221001",
     "date": "2020-12-21",
     "strategy": {
@@ -178,51 +193,6 @@
     "annual_return": 3.4195029304800135,
     "max_retracement": 0.5442780577212161,
     "sharpe_ratio": 2.1361465857570576
-  },
-  {
-    "id": "20201217001",
-    "date": "2020-12-17",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2006-03-01",
-    "end_point": "2020-12-10",
-    "frequency": "1d",
-    "annual_return": 0.03377460258642673,
-    "max_retracement": 0.06793360093013313,
-    "sharpe_ratio": -0.07353893249632404
-  },
-  {
-    "id": "20201229001",
-    "date": "2020-12-29",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2014-01-01",
-    "end_point": "2019-12-28",
-    "frequency": "1d",
-    "annual_return": 4.121179763590166,
-    "max_retracement": 0.46130477307419837,
-    "sharpe_ratio": 2.3826719661175373
-  },
-  {
-    "id": "20201216001",
-    "date": "2020-12-16",
-    "strategy": {
-      "name": "t4",
-      "version": "1.0"
-    },
-    "source": "bitmex-bitstamp",
-    "start_point": "2020-01-01",
-    "end_point": "2020-11-24",
-    "frequency": "1d",
-    "annual_return": 1.1853877132960617,
-    "max_retracement": 0.25378589404204904,
-    "sharpe_ratio": 1.7742628061753931
   },
   {
     "id": "20201218001",
@@ -240,18 +210,48 @@
     "sharpe_ratio": 2.16139838239264
   },
   {
-    "id": "20210114001",
-    "date": "2021-01-14",
+    "id": "20201217001",
+    "date": "2020-12-17",
     "strategy": {
       "name": "t4",
       "version": "1.0"
     },
     "source": "bitmex-bitstamp",
-    "start_point": "2014-01-01",
-    "end_point": "2021-01-14",
+    "start_point": "2006-03-01",
+    "end_point": "2020-12-10",
     "frequency": "1d",
-    "annual_return": 5.0442249926674485,
-    "max_retracement": 0.4613047729414749,
-    "sharpe_ratio": 2.568041684435447
+    "annual_return": 0.03377460258642673,
+    "max_retracement": 0.06793360093013313,
+    "sharpe_ratio": -0.07353893249632404
+  },
+  {
+    "id": "20201216001",
+    "date": "2020-12-16",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2020-01-01",
+    "end_point": "2020-11-24",
+    "frequency": "1d",
+    "annual_return": 1.1853877132960617,
+    "max_retracement": 0.25378589404204904,
+    "sharpe_ratio": 1.7742628061753931
+  },
+  {
+    "id": "20201215001",
+    "date": "2020-12-15",
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "start_point": "2009-03-01",
+    "end_point": "2020-11-23",
+    "frequency": "1d",
+    "annual_return": 0.04296799576963428,
+    "max_retracement": 0.14323449755903217,
+    "sharpe_ratio": 0.11147825235192359
   }
 ]

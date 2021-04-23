@@ -1,0 +1,102 @@
+{
+  "closes": {
+    "macd_down_cross": [
+      1610841600000,
+      1614297600000,
+      1616371200000,
+      1618790400000
+    ],
+    "macd_up_cross": [
+      1612569600000,
+      1615420800000,
+      1618358400000
+    ],
+    "stop_profit": [
+      1610064000000,
+      1613606400000
+    ]
+  },
+  "closes_count": {
+    "daily_end": 112,
+    "daily_end_win": 57,
+    "macd_down_cross": 4,
+    "macd_down_cross_win": 1,
+    "macd_up_cross": 3,
+    "macd_up_cross_win": 1,
+    "month_end": 3,
+    "month_end_win": 3,
+    "stop_profit": 2,
+    "stop_profit_win": 2
+  },
+  "coin_retracement": 0.3155978385877906,
+  "coin_retracement_at": 1618963200000,
+  "current_margin": 3017.5935790548297,
+  "current_margin_value": 156068431.11192626,
+  "dollar_retracement": 0.34945413555947413,
+  "dollar_retracement_at": 1619136000000,
+  "nm_statistic": {
+    "btc_daily_return": {
+      "max": 0.19,
+      "mean": 0.01,
+      "median": 0.0,
+      "min": -0.13,
+      "std": 0.05
+    },
+    "btc_max_month_retracement": {
+      "max": 0.25,
+      "mean": 0.21,
+      "median": 0.21,
+      "min": 0.16,
+      "std": 0.04
+    },
+    "btc_month_return": {
+      "max": 0.37,
+      "mean": 0.27,
+      "median": 0.3,
+      "min": 0.14,
+      "std": 0.09
+    },
+    "coin_daily_return": {
+      "max": 0.09,
+      "mean": -0.0,
+      "median": -0.0,
+      "min": -0.07,
+      "std": 0.02
+    },
+    "coin_max_month_retracement": {
+      "max": 0.13,
+      "mean": 0.11,
+      "median": 0.12,
+      "min": 0.08,
+      "std": 0.02
+    },
+    "coin_month_return": {
+      "max": 0.18,
+      "mean": 0.02,
+      "median": -0.01,
+      "min": -0.12,
+      "std": 0.12
+    },
+    "fiat_daily_return": {
+      "max": 0.3,
+      "mean": 0.01,
+      "median": 0.0,
+      "min": -0.11,
+      "std": 0.05
+    },
+    "fiat_max_month_retracement": {
+      "max": 0.24,
+      "mean": 0.21,
+      "median": 0.21,
+      "min": 0.18,
+      "std": 0.03
+    },
+    "fiat_month_return": {
+      "max": 0.35,
+      "mean": 0.28,
+      "median": 0.35,
+      "min": 0.15,
+      "std": 0.1
+    }
+  }
+}

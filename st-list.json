@@ -6,44 +6,54 @@
     "updated_at": "2020-12-25 12:30:12",
     "params": [
       {
+        "name": "牛市初始仓位比例",
         "key": "bull_init_long_pnt",
         "type": "float"
       },
       {
+        "name": "熊市市初始仓位比例",
         "key": "bear_init_short_pnt",
         "type": "float"
       },
       {
+        "name": "牛市止盈",
         "key": "bull_stop_profit",
         "type": "float"
       },
       {
+        "name": "熊市止盈",
         "key": "bear_stop_profit",
         "type": "float"
       },
       {
-        "key": "bull_stop_loss",
-        "type": "float"
-      },
-      {
-        "key": "bear_stop_loss",
-        "type": "float"
-      },
-      {
+        "name": "牛市资金比例",
         "key": "bull_invest_pnt",
         "type": "float"
       },
       {
+        "name": "熊市资金比例",
         "key": "bear_invest_pnt",
         "type": "float"
       },
       {
+        "name": "单位",
         "key": "qty_pnt",
         "type": "float"
       },
       {
+        "name": "投入资金",
         "key": "init_margin",
         "type": "float"
+      },
+      {
+        "name": "起始日期",
+        "key": "start_day",
+        "type": "string"
+      },
+      {
+        "name": "结束日期",
+        "key": "end_day",
+        "type": "string"
       }
     ]
   }

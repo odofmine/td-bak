@@ -358,5 +358,23 @@
     "currency": "btc",
     "product": "perp",
     "status": "done"
+  },
+  {
+    "id": "1619164015",
+    "date": "2021-04-23 15:46:55",
+    "start_point": "2014-01-01",
+    "end_point": "2021-04-23",
+    "annual_return": 3.318726748323064,
+    "sharpe_ratio": 2.2443931229337397,
+    "max_retracement": 0.481774713161292,
+    "strategy": {
+      "name": "t4",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
   }
 ]

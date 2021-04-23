@@ -2,9 +2,8 @@ import json
 import os
 import glob
 import calendar
-import pytz
 
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 dirs = glob.glob('./*/')
 
@@ -25,9 +24,8 @@ data = []
 dirs = sorted(list(map(lambda x : int(x[2:-1]), dirs)))
 
 for ts in dirs:
-    tzinfo = pytz.timezone('Asia/Shanghai')
-    dt = datetime.fromtimestamp(ts)
-    dt = dt.replace(tzinfo=tzinfo)
+    dt = datetime.utcfromtimestamp(ts)
+    dt += timedelta(hours=8)
 
     item = {}
 

@@ -9,7 +9,7 @@ dirs = glob.glob('./*/')
 
 base = {
     "strategy": {
-      "name": "t4",
+      "name": "trend-m-1",
       "version": "1.0"
     },
     "source": "bitmex-bitstamp",

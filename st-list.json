@@ -1,0 +1,50 @@
+[
+  {
+    "name": "trend-m-1",
+    "type": "趋势跟踪",
+    "version": "1.0",
+    "updated_at": "2020-12-25 12:30:12",
+    "params": [
+      {
+        "key": "bull_init_long_pnt",
+        "type": "float"
+      },
+      {
+        "key": "bear_init_short_pnt",
+        "type": "float"
+      },
+      {
+        "key": "bull_stop_profit",
+        "type": "float"
+      },
+      {
+        "key": "bear_stop_profit",
+        "type": "float"
+      },
+      {
+        "key": "bull_stop_loss",
+        "type": "float"
+      },
+      {
+        "key": "bear_stop_loss",
+        "type": "float"
+      },
+      {
+        "key": "bull_invest_pnt",
+        "type": "float"
+      },
+      {
+        "key": "bear_invest_pnt",
+        "type": "float"
+      },
+      {
+        "key": "qty_pnt",
+        "type": "float"
+      },
+      {
+        "key": "init_margin",
+        "type": "float"
+      }
+    ]
+  }
+]

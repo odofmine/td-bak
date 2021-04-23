@@ -21,7 +21,7 @@ base = {
 
 data = []
 
-dirs = sorted(list(map(lambda x : int(x[2:-1]), dirs)))
+dirs = sorted(list(map(lambda x : int(x[2:-1]), dirs)), reverse=True)
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)

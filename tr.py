@@ -23,7 +23,7 @@ data = []
 
 for d in dirs:
     ts = d[2:-1]
-    dt = datetime.utcfromtimestamp(int(ts))
+    dt = datetime.fromtimestamp(int(ts))
 
     item = {}
 

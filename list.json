@@ -1,5 +1,23 @@
 [
   {
+    "id": "1619495014",
+    "date": "2021-04-27 11:43:34",
+    "start_point": "2014-01-01",
+    "end_point": "2021-04-27",
+    "annual_return": 1.8450873760638151,
+    "sharpe_ratio": 1.8689801609761774,
+    "max_retracement": 0.5007660791532436,
+    "strategy": {
+      "name": "trend-m-1",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+  },
+  {
     "id": "1619182884",
     "date": "2021-04-23 21:01:24",
     "start_point": "2021-01-01",

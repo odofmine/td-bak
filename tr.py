@@ -1,7 +1,5 @@
 import json
-import os
 import glob
-import calendar
 
 from datetime import datetime, timezone, timedelta
 
@@ -21,7 +19,9 @@ base = {
 
 data = []
 
-dirs = sorted(list(map(lambda x : int(x[2:-1]), dirs)), reverse=True)
+dirs = [x[2:-1] for x in dirs]
+dirs = [x for x in dirs if not x.endswith('3d')]
+dirs = sorted(list(map(lambda x : int(x), dirs)), reverse=True)
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)

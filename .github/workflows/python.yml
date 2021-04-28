@@ -29,6 +29,7 @@ jobs:
 
         python tr.py
         python tr-3d.py
+        touch updated
         git add .
         git commit -m "update"
         git push origin master

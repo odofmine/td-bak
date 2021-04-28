@@ -22,7 +22,7 @@ jobs:
       with:
         python-version: 3.8.5
 
-    - name: Install dependencies
+    - name: Update list
       run: |
         git config --global user.email "anonymouse@x.com"
         git config --global user.name "anonymouse"

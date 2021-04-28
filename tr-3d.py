@@ -5,6 +5,18 @@ from datetime import datetime, timedelta
 
 dirs = glob.glob('./*/')
 
+base = {
+    "strategy": {
+      "name": "trend-m-1",
+      "version": "1.0"
+    },
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+}
+
 data = []
 
 dirs = [x[2:-1] for x in dirs]
@@ -19,6 +31,8 @@ for ts in dirs:
 
     item['id'] = str(ts) + '-3d'
     item['date'] = str(dt)
+
+    item = {**item, **base}
 
     data.append(item)
 

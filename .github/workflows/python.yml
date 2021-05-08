@@ -29,6 +29,8 @@ jobs:
 
         python scripts/tr-bt.py
         python scripts/tr-3d.py
+        python scripts/tr-fof.py
+
         git add .
         git commit -m "update"
         git push origin master

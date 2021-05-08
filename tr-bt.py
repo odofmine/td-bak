@@ -20,7 +20,7 @@ base = {
 data = []
 
 dirs = [x[2:-1] for x in dirs]
-dirs = sorted(list(map(lambda x : int(x), dirs)), reverse=True)
+dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)
@@ -31,7 +31,9 @@ for ts in dirs:
     item['id'] = str(ts)
     item['date'] = str(dt)
 
-    with open(f"{ts}/price.json", 'r', encoding='utf-8') as f4:
+    base_dir = f'bt/{ts}'
+
+    with open(f"{base_dir}/price.json", 'r', encoding='utf-8') as f4:
         prices = json.load(f4)
 
         start_ts = prices[0][0] / 1000
@@ -41,13 +43,13 @@ for ts in dirs:
         item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')
 
 
-    with open(f"{ts}/metrics.json", 'r', encoding='utf-8') as f2:
+    with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f2:
         metrics = json.load(f2)
 
         item['annual_return'] = metrics['strategy']['annual_return_ratio']
         item['sharpe_ratio'] = metrics['strategy']['sharpe_ratio']
 
-    with open(f"{ts}/statistic.json", 'r', encoding='utf-8') as f3:
+    with open(f"{base_dir}/statistic.json", 'r', encoding='utf-8') as f3:
         statistic = json.load(f3)
 
         item['max_retracement'] = statistic['dollar_retracement']
@@ -55,5 +57,5 @@ for ts in dirs:
     item = {**item, **base}
     data.append(item)
 
-with open(f'list.json', 'w', encoding='utf-8') as f:
+with open(f'list-bt.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)

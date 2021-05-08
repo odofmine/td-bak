@@ -20,7 +20,7 @@ base = {
 data = []
 
 dirs = [x[2:-1] for x in dirs]
-dirs = sorted(list(map(lambda x : int(x[0:-3]), dirs)), reverse=True)
+dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)
@@ -28,7 +28,7 @@ for ts in dirs:
 
     item = {}
 
-    item['id'] = str(ts) + '-3d'
+    item['id'] = str(ts)
     item['date'] = str(dt)
 
     item = {**item, **base}

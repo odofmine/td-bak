@@ -10,6 +10,7 @@ base = {
       "name": "trend-m-1",
       "version": "1.0"
     },
+    "type": "3d",
     "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",

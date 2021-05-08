@@ -3,7 +3,7 @@ import glob
 
 from datetime import datetime, timezone, timedelta
 
-dirs = glob.glob('./*/')
+dirs = glob.glob('./bt/*/')
 
 base = {
     "strategy": {
@@ -20,7 +20,6 @@ base = {
 data = []
 
 dirs = [x[2:-1] for x in dirs]
-dirs = [x for x in dirs if not x.endswith('3d') and not x.endswith('fof')]
 dirs = sorted(list(map(lambda x : int(x), dirs)), reverse=True)
 
 for ts in dirs:

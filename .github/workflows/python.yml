@@ -27,7 +27,7 @@ jobs:
         git config --global user.email "anonymouse@x.com"
         git config --global user.name "anonymouse"
 
-        python tr.py
+        python tr-bt.py
         python tr-3d.py
         git add .
         git commit -m "update"

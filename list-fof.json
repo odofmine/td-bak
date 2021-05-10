@@ -1,62 +1,17 @@
 [
   {
-    "id": "1620624758",
-    "date": "2021-05-10 13:32:38",
+    "id": "1620625518",
+    "date": "2021-05-10 13:45:18",
     "start_point": "2014-01-01",
     "end_point": "2021-05-07",
+    "funds": [
+      "t4",
+      "fof",
+      "base"
+    ],
     "type": "fof",
     "source": "bitmex-bitstamp",
     "frequency": "1d",
-    "currency": "btc",
-    "funds": [
-      "base",
-      "t4",
-      "t5"
-    ]
-  },
-  {
-    "id": "1620624199",
-    "date": "2021-05-10 13:23:19",
-    "start_point": "2014-01-01",
-    "end_point": "2021-05-07",
-    "type": "fof",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "funds": [
-      "base",
-      "t4",
-      "t5"
-    ]
-  },
-  {
-    "id": "1620517435",
-    "date": "2021-05-09 07:43:55",
-    "start_point": "2014-01-01",
-    "end_point": "2021-05-07",
-    "type": "fof",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "funds": [
-      "base",
-      "t4",
-      "t5"
-    ]
-  },
-  {
-    "id": "1620516252",
-    "date": "2021-05-09 07:24:12",
-    "start_point": "2014-01-01",
-    "end_point": "2021-05-07",
-    "type": "fof",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "funds": [
-      "base",
-      "t4",
-      "t5"
-    ]
+    "currency": "btc"
   }
 ]

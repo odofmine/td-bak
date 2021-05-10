@@ -1,0 +1,62 @@
+{
+  "t4": {
+    "alpha": 1.7995000029576533,
+    "beta": 0.5780622075374966,
+    "sharpe_ratio": 1.9004558757811298,
+    "sortino_ratio": 3.4166714477970457,
+    "annual_volatility": 0.763214435581073,
+    "annual_return_ratio": 2.3368689731511747,
+    "skew": 1.6096181059533683,
+    "kurtosis": 9.800396759559787,
+    "daily_winning_ratio": 0.5277324632952691,
+    "max_drawdown": 0.4818400836401655
+  },
+  "eth": {
+    "alpha": 0.2762986191796357,
+    "beta": 1.002784603634848,
+    "sharpe_ratio": 0.9711454783178803,
+    "sortino_ratio": 1.4125477217470765,
+    "annual_volatility": 1.0007497235923029,
+    "annual_return_ratio": 0.6416205599462685,
+    "skew": -0.35395509974387596,
+    "kurtosis": 5.91093113986288,
+    "daily_winning_ratio": 0.5212071778140294,
+    "max_drawdown": 0.9399936302044125
+  },
+  "btc": {
+    "alpha": 0.001424909955036524,
+    "beta": 0.9681462095385952,
+    "sharpe_ratio": 0.9001281078910278,
+    "sortino_ratio": 1.301484325163864,
+    "annual_volatility": 0.782234157122434,
+    "annual_return_ratio": 0.5333469042254861,
+    "skew": -0.4922014088927572,
+    "kurtosis": 9.088379213921057,
+    "daily_winning_ratio": 0.5252854812398042,
+    "max_drawdown": 0.8144463766222175
+  },
+  "fof": {
+    "alpha": 2.5480779067906743,
+    "beta": 0.5792109291595641,
+    "sharpe_ratio": 2.0707537190273393,
+    "sortino_ratio": 3.4916112146129166,
+    "annual_volatility": 0.8156453933061998,
+    "annual_return_ratio": 3.041662111068181,
+    "skew": 0.7209788766403059,
+    "kurtosis": 4.9457754669003,
+    "daily_winning_ratio": 0.6582381729200653,
+    "max_drawdown": 0.48263162707083507
+  },
+  "base": {
+    "alpha": 0.0,
+    "beta": 1.0000000000000002,
+    "sharpe_ratio": 0.9024204360889144,
+    "sortino_ratio": 1.3038777382475917,
+    "annual_volatility": 0.8042889105244069,
+    "annual_return_ratio": 0.5332902194610187,
+    "skew": -0.6274009533073036,
+    "kurtosis": 14.164341765194253,
+    "daily_winning_ratio": 0.531810766721044,
+    "max_drawdown": 0.8150493898895991
+  }
+}

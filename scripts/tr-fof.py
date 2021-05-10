@@ -9,10 +9,7 @@ base = {
     "type": "fof",
     "source": "bitmex-bitstamp",
     "frequency": "1d",
-    "currency": "btc",
-    "funds": [
-      "base", "t4", "t5"
-    ]
+    "currency": "btc"
 }
 
 data = []
@@ -31,14 +28,19 @@ for ts in dirs:
 
     base_dir = f'fof/{ts}'
 
-    with open(f"{base_dir}/base.json", 'r', encoding='utf-8') as f4:
-        prices = json.load(f4)
+    with open(f"{base_dir}/base.json", 'r', encoding='utf-8') as f:
+        prices = json.load(f)
 
         start_ts = prices[0][0]
         end_ts = prices[-1][0]
 
         item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
         item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')
+
+    with open(f"{base_dir}/funds.json", 'r', encoding='utf-8') as f:
+        funds = json.load(f)
+
+        item['funds'] = funds
 
     item = {**item, **base}
     data.append(item)

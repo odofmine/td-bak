@@ -43,13 +43,11 @@ for ts in dirs:
         item['funds'] = funds
 
     with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
-        data = json.load(f)['fof']
+        metrics = json.load(f)['fof']
 
-        item ['max_drawdown'] = data['max_drawdown']
-        item ['annual_return_ratio'] = data['annual_return_ratio']
-        item ['sharpe_ratio'] = data['sharpe_ratio']
-
-        item['funds'] = funds
+        item ['max_drawdown'] = metrics['max_drawdown']
+        item ['annual_return_ratio'] = metrics['annual_return_ratio']
+        item ['sharpe_ratio'] = metrics['sharpe_ratio']
 
     item = {**item, **base}
     data.append(item)

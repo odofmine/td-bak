@@ -1,5 +1,59 @@
 [
   {
+    "id": "1622878883",
+    "date": "2021-06-05 15:41:23",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-04",
+    "funds": [
+      "t1",
+      "fof",
+      "base"
+    ],
+    "max_retracement": 0.12453872523370613,
+    "annual_return": 0.3832290999882755,
+    "sharpe_ratio": 1.634270064099621,
+    "type": "fof",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc"
+  },
+  {
+    "id": "1622878877",
+    "date": "2021-06-05 15:41:17",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-04",
+    "funds": [
+      "t2",
+      "fof",
+      "base"
+    ],
+    "max_retracement": 0.1715428867284231,
+    "annual_return": 1.0113623215966943,
+    "sharpe_ratio": 2.0124928292935316,
+    "type": "fof",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc"
+  },
+  {
+    "id": "1622878869",
+    "date": "2021-06-05 15:41:09",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-04",
+    "funds": [
+      "t3",
+      "fof",
+      "base"
+    ],
+    "max_retracement": 0.273178840358109,
+    "annual_return": 2.0760296162640923,
+    "sharpe_ratio": 2.2686775163881285,
+    "type": "fof",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc"
+  },
+  {
     "id": "1622877393",
     "date": "2021-06-05 15:16:33",
     "start_point": "2014-01-01",

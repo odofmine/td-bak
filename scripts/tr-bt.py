@@ -37,8 +37,8 @@ for ts in dirs:
     with open(f"{base_dir}/price.json", 'r', encoding='utf-8') as f4:
         prices = json.load(f4)
 
-        start_ts = prices[0][0] / 1000
-        end_ts = prices[-1][0] / 1000
+        start_ts = prices[0][0]
+        end_ts = prices[-1][0]
 
         item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
         item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')

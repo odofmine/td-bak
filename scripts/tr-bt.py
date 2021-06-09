@@ -38,6 +38,18 @@ for ts in dirs:
         prices = json.load(f4)
 
         start_ts = prices[0][0]
+
+        if len(str(start_ts)) > 10:
+            data = list(map(lambda x : [int(x[0] / 1000), x[1]], prices))
+
+            with open(f"{base_dir}/price.json", 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+    with open(f"{base_dir}/price.json", 'r', encoding='utf-8') as f4:
+        prices = json.load(f4)
+
+        start_ts = prices[0][0]
         end_ts = prices[-1][0]
 
         item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
@@ -58,5 +70,5 @@ for ts in dirs:
     item = {**item, **base}
     data.append(item)
 
-with open(f'list-bt.json', 'w', encoding='utf-8') as f:
+with open('list-bt.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)

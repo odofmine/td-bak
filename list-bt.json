@@ -1,5 +1,62 @@
 [
   {
+    "id": "1623722503",
+    "date": "2021-06-15 10:01:43",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-15",
+    "annual_return": 2.479230187302742,
+    "sharpe_ratio": 2.1505314394277337,
+    "max_retracement": 0.3922191337345194,
+    "strategy": {
+      "name": "trend-m-1",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+  },
+  {
+    "id": "1623722502",
+    "date": "2021-06-15 10:01:42",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-15",
+    "annual_return": 1.299984104313959,
+    "sharpe_ratio": 2.133394672472189,
+    "max_retracement": 0.25564978714652986,
+    "strategy": {
+      "name": "trend-m-1",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+  },
+  {
+    "id": "1623722500",
+    "date": "2021-06-15 10:01:40",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-15",
+    "annual_return": 0.5764934365053185,
+    "sharpe_ratio": 2.059885734710868,
+    "max_retracement": 0.13624325499549692,
+    "strategy": {
+      "name": "trend-m-1",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+  },
+  {
     "id": "1623629408",
     "date": "2021-06-14 08:10:08",
     "start_point": "2014-01-01",

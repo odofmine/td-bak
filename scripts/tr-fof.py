@@ -28,7 +28,7 @@ for ts in dirs:
 
     base_dir = f'fof/{ts}'
 
-    with open(f"{base_dir}/base.json", 'r', encoding='utf-8') as f:
+    with open(f"{base_dir}/fof.json", 'r', encoding='utf-8') as f:
         prices = json.load(f)
 
         start_ts = prices[0][0]

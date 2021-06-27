@@ -1,0 +1,74 @@
+{
+  "cash": {
+    "alpha": -0.035843665807902325,
+    "beta": 0.0,
+    "sharpe_ratio": -7.0467330660623944e+16,
+    "sortino_ratio": -19.104973174542806,
+    "annual_volatility": 0.0,
+    "annual_return_ratio": 0.0,
+    "skew": 0,
+    "kurtosis": 0,
+    "daily_winning_ratio": 1.0,
+    "max_drawdown": 0.0
+  },
+  "r3": {
+    "alpha": 2.5106504989268963,
+    "beta": 0.32945266828612846,
+    "sharpe_ratio": 2.425102891116651,
+    "sortino_ratio": 4.871102697630273,
+    "annual_volatility": 0.6659183656791213,
+    "annual_return_ratio": 3.214626373126448,
+    "skew": 2.611641339232196,
+    "kurtosis": 21.39526364150489,
+    "daily_winning_ratio": 0.5660847880299252,
+    "max_drawdown": 0.37493546016847856
+  },
+  "er3": {
+    "alpha": 4.644199462845362,
+    "beta": 0.14179437093273006,
+    "sharpe_ratio": 2.343107691576271,
+    "sortino_ratio": 4.524675139338421,
+    "annual_volatility": 0.8059251911316689,
+    "annual_return_ratio": 4.027445756152782,
+    "skew": 2.4428045148040947,
+    "kurtosis": 21.22331472804836,
+    "daily_winning_ratio": 0.543640897755611,
+    "max_drawdown": 0.47292841493444493
+  },
+  "fof": {
+    "alpha": 3.550109626205968,
+    "beta": 0.1578945741492536,
+    "sharpe_ratio": 2.9162499760934915,
+    "sortino_ratio": 6.610474862184443,
+    "annual_volatility": 0.579297581638225,
+    "annual_return_ratio": 3.7811102243882173,
+    "skew": 3.2439421997389335,
+    "kurtosis": 26.177252180869456,
+    "daily_winning_ratio": 0.628428927680798,
+    "max_drawdown": 0.2638250403426766
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.341599339900963,
+    "sortino_ratio": 1.9967236274485174,
+    "annual_volatility": 0.807605578181124,
+    "annual_return_ratio": 1.1981333004951207,
+    "skew": -0.1845608530395443,
+    "kurtosis": 10.961022227896144,
+    "daily_winning_ratio": 0.5481296758104738,
+    "max_drawdown": 0.8371658779895128
+  },
+  "eth": {
+    "alpha": 2.090667234230751,
+    "beta": 0.8103469521355534,
+    "sharpe_ratio": 1.7445205717842254,
+    "sortino_ratio": 2.8033701273646385,
+    "annual_volatility": 1.1511072191290612,
+    "annual_return_ratio": 2.9869845656858174,
+    "skew": 0.34366899115698435,
+    "kurtosis": 4.902147569485057,
+    "daily_winning_ratio": 0.513715710723192,
+    "max_drawdown": 0.9408001486786897
+  }
+}

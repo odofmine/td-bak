@@ -1,0 +1,62 @@
+{
+  "r3": {
+    "alpha": 1.7728646026062265,
+    "beta": 0.4888191104107729,
+    "sharpe_ratio": 2.2472537276174562,
+    "sortino_ratio": 4.217336547397342,
+    "annual_volatility": 0.6901465421684226,
+    "annual_return_ratio": 2.885797445147019,
+    "skew": 2.112036305933941,
+    "kurtosis": 16.980358857567925,
+    "daily_winning_ratio": 0.5376558603491272,
+    "max_drawdown": 0.37493546968854574
+  },
+  "er3": {
+    "alpha": 4.644199462845362,
+    "beta": 0.14179437093273006,
+    "sharpe_ratio": 2.343107691576271,
+    "sortino_ratio": 4.524675139338421,
+    "annual_volatility": 0.8059251911316689,
+    "annual_return_ratio": 4.027445756152782,
+    "skew": 2.4428045148040947,
+    "kurtosis": 21.22331472804836,
+    "daily_winning_ratio": 0.543640897755611,
+    "max_drawdown": 0.47292841493444493
+  },
+  "fof": {
+    "alpha": 3.643035297335441,
+    "beta": 0.20310491429630545,
+    "sharpe_ratio": 3.003718252821187,
+    "sortino_ratio": 6.794316874796578,
+    "annual_volatility": 0.5854952744788815,
+    "annual_return_ratio": 4.10441923833795,
+    "skew": 3.1373184336550852,
+    "kurtosis": 24.750555950365385,
+    "daily_winning_ratio": 0.628428927680798,
+    "max_drawdown": 0.29440009121521016
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.341599339900963,
+    "sortino_ratio": 1.9967236274485174,
+    "annual_volatility": 0.807605578181124,
+    "annual_return_ratio": 1.1981333004951207,
+    "skew": -0.1845608530395443,
+    "kurtosis": 10.961022227896144,
+    "daily_winning_ratio": 0.5481296758104738,
+    "max_drawdown": 0.8371658779895128
+  },
+  "eth": {
+    "alpha": 2.090667234230751,
+    "beta": 0.8103469521355534,
+    "sharpe_ratio": 1.7445205717842254,
+    "sortino_ratio": 2.8033701273646385,
+    "annual_volatility": 1.1511072191290612,
+    "annual_return_ratio": 2.9869845656858174,
+    "skew": 0.34366899115698435,
+    "kurtosis": 4.902147569485057,
+    "daily_winning_ratio": 0.513715710723192,
+    "max_drawdown": 0.9408001486786897
+  }
+}

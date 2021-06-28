@@ -1,5 +1,24 @@
 [
   {
+    "id": "1624865585",
+    "date": "2021-06-28 15:33:05",
+    "start_point": "2014-01-01",
+    "end_point": "2021-06-28",
+    "annual_return": 2.14,
+    "sharpe_ratio": 1.97,
+    "max_retracement": 0.40043880028643264,
+    "source": "btcusd",
+    "strategy": {
+      "name": "r3",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "frequency": "1d",
+    "currency": "btc",
+    "product": "perp",
+    "status": "done"
+  },
+  {
     "id": "1624664872",
     "date": "2021-06-26 07:47:52",
     "start_point": "2014-01-01",
@@ -7,12 +26,12 @@
     "annual_return": 0.54,
     "sharpe_ratio": 1.95,
     "max_retracement": 0.1383080770076407,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -26,12 +45,12 @@
     "annual_return": 0.54,
     "sharpe_ratio": 1.93,
     "max_retracement": 0.1383080770076407,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -45,12 +64,12 @@
     "annual_return": 1.19,
     "sharpe_ratio": 1.99,
     "max_retracement": 0.2580935561662892,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -64,12 +83,12 @@
     "annual_return": 2.18,
     "sharpe_ratio": 2.0,
     "max_retracement": 0.3937570867863998,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -83,12 +102,12 @@
     "annual_return": 0.54,
     "sharpe_ratio": 1.93,
     "max_retracement": 0.1383080770076407,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -102,12 +121,12 @@
     "annual_return": 2.18,
     "sharpe_ratio": 2.0,
     "max_retracement": 0.3937570867863998,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -121,12 +140,12 @@
     "annual_return": 0.58,
     "sharpe_ratio": 2.05,
     "max_retracement": 0.13361713994362764,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -140,12 +159,12 @@
     "annual_return": 2.47,
     "sharpe_ratio": 2.14,
     "max_retracement": 0.38153060281236884,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -159,12 +178,12 @@
     "annual_return": 0.54,
     "sharpe_ratio": 1.91,
     "max_retracement": 0.13830737426133174,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -178,12 +197,12 @@
     "annual_return": 2.17,
     "sharpe_ratio": 1.96,
     "max_retracement": 0.3937569199363032,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -197,12 +216,12 @@
     "annual_return": 0.56,
     "sharpe_ratio": 1.89,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -216,12 +235,12 @@
     "annual_return": 2.25,
     "sharpe_ratio": 1.98,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -235,12 +254,12 @@
     "annual_return": 0.57,
     "sharpe_ratio": 1.95,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -254,12 +273,12 @@
     "annual_return": 2.37,
     "sharpe_ratio": 2.04,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -273,12 +292,12 @@
     "annual_return": 0.57,
     "sharpe_ratio": 1.95,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -292,12 +311,12 @@
     "annual_return": 2.37,
     "sharpe_ratio": 2.04,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -311,12 +330,12 @@
     "annual_return": 0.57,
     "sharpe_ratio": 1.95,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -330,12 +349,12 @@
     "annual_return": 2.38,
     "sharpe_ratio": 2.05,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -349,12 +368,12 @@
     "annual_return": 0.58,
     "sharpe_ratio": 1.97,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -368,12 +387,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -387,12 +406,12 @@
     "annual_return": 0.58,
     "sharpe_ratio": 1.97,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -406,12 +425,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -425,12 +444,12 @@
     "annual_return": 0.58,
     "sharpe_ratio": 1.97,
     "max_retracement": 0.14293292222696613,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -444,12 +463,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.4032072590155182,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -463,12 +482,12 @@
     "annual_return": 0.35,
     "sharpe_ratio": 1.76,
     "max_retracement": 0.1130408084433286,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -482,12 +501,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.40267463430333705,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -501,12 +520,12 @@
     "annual_return": 0.56,
     "sharpe_ratio": 1.92,
     "max_retracement": 0.14428129269798806,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -520,12 +539,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.40267463430333705,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -539,12 +558,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.40267463430333705,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -558,12 +577,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.40267463430333705,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -577,12 +596,12 @@
     "annual_return": 2.44,
     "sharpe_ratio": 2.07,
     "max_retracement": 0.40267463430333705,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -596,12 +615,12 @@
     "annual_return": 2.470686852269785,
     "sharpe_ratio": 2.146995969739649,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -615,12 +634,12 @@
     "annual_return": 1.296380706176413,
     "sharpe_ratio": 2.129806438421873,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -634,12 +653,12 @@
     "annual_return": 0.5751955028392128,
     "sharpe_ratio": 2.056274686681283,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -653,12 +672,12 @@
     "annual_return": 2.470686852269785,
     "sharpe_ratio": 2.146995969739649,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -672,12 +691,12 @@
     "annual_return": 1.296380706176413,
     "sharpe_ratio": 2.129806438421873,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -691,12 +710,12 @@
     "annual_return": 0.5751955028392128,
     "sharpe_ratio": 2.056274686681283,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -710,12 +729,12 @@
     "annual_return": 2.479230187302742,
     "sharpe_ratio": 2.1505314394277337,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -729,12 +748,12 @@
     "annual_return": 1.299984104313959,
     "sharpe_ratio": 2.133394672472189,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -748,12 +767,12 @@
     "annual_return": 0.5764934365053185,
     "sharpe_ratio": 2.059885734710868,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -767,12 +786,12 @@
     "annual_return": 2.479230187302742,
     "sharpe_ratio": 2.1505314394277337,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -786,12 +805,12 @@
     "annual_return": 1.299984104313959,
     "sharpe_ratio": 2.133394672472189,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -805,12 +824,12 @@
     "annual_return": 0.5764934365053185,
     "sharpe_ratio": 2.059885734710868,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -824,12 +843,12 @@
     "annual_return": 2.453828818164788,
     "sharpe_ratio": 2.1398465135345237,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -843,12 +862,12 @@
     "annual_return": 1.2895061127689256,
     "sharpe_ratio": 2.1227883343569687,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -862,12 +881,12 @@
     "annual_return": 0.572792706677959,
     "sharpe_ratio": 2.0494055315677517,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -881,12 +900,12 @@
     "annual_return": 2.4135103987159767,
     "sharpe_ratio": 2.128248088359348,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -900,12 +919,12 @@
     "annual_return": 1.2734252905363141,
     "sharpe_ratio": 2.111796623163023,
     "max_retracement": 0.25564978714652986,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -919,12 +938,12 @@
     "annual_return": 0.56726730550766,
     "sharpe_ratio": 2.038719733677223,
     "max_retracement": 0.13624325499549692,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -938,12 +957,12 @@
     "annual_return": 2.4135103987159767,
     "sharpe_ratio": 2.128248088359348,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -957,12 +976,12 @@
     "annual_return": 2.3578715508224475,
     "sharpe_ratio": 2.109313363456345,
     "max_retracement": 0.3922191337345194,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -976,12 +995,12 @@
     "annual_return": 2.402011182365269,
     "sharpe_ratio": 2.13036367134745,
     "max_retracement": 0.3922167347045451,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -995,12 +1014,12 @@
     "annual_return": 2.402011182365269,
     "sharpe_ratio": 2.13036367134745,
     "max_retracement": 0.3922167347045451,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1014,12 +1033,12 @@
     "annual_return": 2.4535741105003086,
     "sharpe_ratio": 2.1541934666843954,
     "max_retracement": 0.3922167347045451,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1033,12 +1052,12 @@
     "annual_return": 2.9353394464679163,
     "sharpe_ratio": 2.287137981711383,
     "max_retracement": 0.3922160991828516,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1052,12 +1071,12 @@
     "annual_return": 2.561097269191254,
     "sharpe_ratio": 2.1783388868244287,
     "max_retracement": 0.3922167347045451,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1071,12 +1090,12 @@
     "annual_return": 3.084180906222392,
     "sharpe_ratio": 2.2935796651139673,
     "max_retracement": 0.40058032361352713,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1090,12 +1109,12 @@
     "annual_return": 2.538247170304882,
     "sharpe_ratio": 2.1490441745572872,
     "max_retracement": 0.40058064304848107,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1109,12 +1128,12 @@
     "annual_return": 2.5207082867280626,
     "sharpe_ratio": 2.1414787054587117,
     "max_retracement": 0.40058064304848107,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1128,12 +1147,12 @@
     "annual_return": 2.49166559485383,
     "sharpe_ratio": 2.113395422069004,
     "max_retracement": 0.40058005710133876,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1147,12 +1166,12 @@
     "annual_return": 2.4630279707695033,
     "sharpe_ratio": 2.1140108511008164,
     "max_retracement": 0.39739336063471054,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1166,12 +1185,12 @@
     "annual_return": 2.6428819230572937,
     "sharpe_ratio": 2.1419628440012564,
     "max_retracement": 0.4005809250852753,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1185,12 +1204,12 @@
     "annual_return": 1.702715111535659,
     "sharpe_ratio": 2.0411614960765596,
     "max_retracement": 0.2888963482398576,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1204,12 +1223,12 @@
     "annual_return": 1.690629410259648,
     "sharpe_ratio": 2.0320507187377315,
     "max_retracement": 0.2888963482398576,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1223,12 +1242,12 @@
     "annual_return": 1.3557694186502984,
     "sharpe_ratio": 1.866095213552679,
     "max_retracement": 0.36316903272596457,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1242,12 +1261,12 @@
     "annual_return": 1.7243146750625158,
     "sharpe_ratio": 2.248502355682626,
     "max_retracement": 0.3087665219120961,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1261,12 +1280,12 @@
     "annual_return": 1.706947292756785,
     "sharpe_ratio": 2.236134211608262,
     "max_retracement": 0.30876654167395634,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1280,12 +1299,12 @@
     "annual_return": 1.6740530181410156,
     "sharpe_ratio": 2.208700617842644,
     "max_retracement": 0.3126283559656066,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1299,12 +1318,12 @@
     "annual_return": 1.6740530181410156,
     "sharpe_ratio": 2.208700617842644,
     "max_retracement": 0.3126283559656066,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1318,12 +1337,12 @@
     "annual_return": 1.698922436019016,
     "sharpe_ratio": 2.1546977892852723,
     "max_retracement": 0.3391277691096118,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1337,12 +1356,12 @@
     "annual_return": 1.698922436019016,
     "sharpe_ratio": 2.1546977892852723,
     "max_retracement": 0.3391277691096118,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1356,12 +1375,12 @@
     "annual_return": 2.008488165493694,
     "sharpe_ratio": 2.2092645188390705,
     "max_retracement": 0.3592699504041572,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1375,12 +1394,12 @@
     "annual_return": 3.356818238009252,
     "sharpe_ratio": 2.4572102870592962,
     "max_retracement": 0.42875440655163244,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1394,12 +1413,12 @@
     "annual_return": 3.31886568048664,
     "sharpe_ratio": 2.2469023131221304,
     "max_retracement": 0.48177471286301693,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1413,12 +1432,12 @@
     "annual_return": 1.6530683253362386,
     "sharpe_ratio": 1.9518086472084595,
     "max_retracement": 0.31543832152943463,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",
@@ -1432,354 +1451,12 @@
     "annual_return": 1.6913700850746745,
     "sharpe_ratio": 1.8933353671977984,
     "max_retracement": 0.3756911935131059,
+    "source": "btcusd",
     "strategy": {
       "name": "trend-m-1",
       "version": "1.0"
     },
     "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619625346",
-    "date": "2021-04-28 23:55:46",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 3.0236417967782847,
-    "sharpe_ratio": 2.091291525285236,
-    "max_retracement": 0.5735683082348949,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619586741",
-    "date": "2021-04-28 13:12:21",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 2.1323693624360263,
-    "sharpe_ratio": 1.7513690523789103,
-    "max_retracement": 0.5364850162317211,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619586646",
-    "date": "2021-04-28 13:10:46",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 2.4400550302791166,
-    "sharpe_ratio": 1.780995678617759,
-    "max_retracement": 0.5404079656371571,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619586556",
-    "date": "2021-04-28 13:09:16",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 1.7253639245007064,
-    "sharpe_ratio": 1.6352082030588453,
-    "max_retracement": 0.5476685080341249,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619495094",
-    "date": "2021-04-27 11:44:54",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 3.320069407293734,
-    "sharpe_ratio": 2.2454525203087217,
-    "max_retracement": 0.48177471286301693,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619495014",
-    "date": "2021-04-27 11:43:34",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-27",
-    "annual_return": 1.8450873760638151,
-    "sharpe_ratio": 1.8689801609761774,
-    "max_retracement": 0.5007660791532436,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619182884",
-    "date": "2021-04-23 21:01:24",
-    "start_point": "2021-01-01",
-    "end_point": "2021-04-23",
-    "annual_return": 3.271897769284087,
-    "sharpe_ratio": 1.8482381290026584,
-    "max_retracement": 0.34945413555947413,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619164015",
-    "date": "2021-04-23 15:46:55",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-23",
-    "annual_return": 3.318726748323064,
-    "sharpe_ratio": 2.2443931229337397,
-    "max_retracement": 0.481774713161292,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619163178",
-    "date": "2021-04-23 15:32:58",
-    "start_point": "2014-01-01",
-    "end_point": "2021-01-01",
-    "annual_return": 3.373999514555199,
-    "sharpe_ratio": 2.2924541372569274,
-    "max_retracement": 0.481774713161292,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619162264",
-    "date": "2021-04-23 15:17:44",
-    "start_point": "2020-01-01",
-    "end_point": "2021-01-01",
-    "annual_return": 8.307419847408475,
-    "sharpe_ratio": 3.4365524829776466,
-    "max_retracement": 0.19466132879026396,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1619160034",
-    "date": "2021-04-23 14:40:34",
-    "start_point": "2020-01-01",
-    "end_point": "2021-01-01",
-    "annual_return": 8.307419847408475,
-    "sharpe_ratio": 3.4365524829776466,
-    "max_retracement": 0.19466132879026396,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1617840000",
-    "date": "2021-04-08 08:00:00",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-07",
-    "annual_return": 2.623302964652127,
-    "sharpe_ratio": 2.200939133975004,
-    "max_retracement": 0.36376497544421393,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1617753600",
-    "date": "2021-04-07 08:00:00",
-    "start_point": "2014-01-01",
-    "end_point": "2021-04-07",
-    "annual_return": 3.532338886858936,
-    "sharpe_ratio": 2.307106191102354,
-    "max_retracement": 0.48177471286301693,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1616544000",
-    "date": "2021-03-24 08:00:00",
-    "start_point": "2020-01-01",
-    "end_point": "2021-01-01",
-    "annual_return": 2.254138314028686,
-    "sharpe_ratio": 3.2374607130874153,
-    "max_retracement": 0.11066586252378155,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1615161600",
-    "date": "2021-03-08 08:00:00",
-    "start_point": "2017-04-01",
-    "end_point": "2021-03-01",
-    "annual_return": 1.348355879137897,
-    "sharpe_ratio": 1.061664917641421,
-    "max_retracement": 0.7851072485548366,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1613952000",
-    "date": "2021-02-22 08:00:00",
-    "start_point": "2014-01-01",
-    "end_point": "2021-02-22",
-    "annual_return": 1.5875906263832635,
-    "sharpe_ratio": 2.2734865119638794,
-    "max_retracement": 0.27071055106544717,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1610582400",
-    "date": "2021-01-14 08:00:00",
-    "start_point": "2014-01-01",
-    "end_point": "2021-01-14",
-    "annual_return": 5.0442249926674485,
-    "sharpe_ratio": 2.568041684435447,
-    "max_retracement": 0.4613047729414749,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc",
-    "product": "perp",
-    "status": "done"
-  },
-  {
-    "id": "1610064000",
-    "date": "2021-01-08 08:00:00",
-    "start_point": "2012-04-01",
-    "end_point": "2021-01-08",
-    "annual_return": 8.451856290998942,
-    "sharpe_ratio": 2.863573105595584,
-    "max_retracement": 0.7112345930947199,
-    "strategy": {
-      "name": "trend-m-1",
-      "version": "1.0"
-    },
-    "type": "bt",
-    "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc",
     "product": "perp",

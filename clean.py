@@ -23,7 +23,7 @@ for ts in dirs:
     with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
         metrics = json.load(f)['fof']
 
-        sharpe_ratio = metrics['sharpe_ratio']
-        if sharpe_ratio < 2:
-          print(sharpe_ratio)
-          shutil.rmtree(f'xx/td/fof/{id}')
+        metric = metrics['max_drawdown']
+        if metric > 0.3:
+          print(metric)
+          shutil.rmtree(f'xx/fof/{id}')

@@ -1,0 +1,86 @@
+{
+  "r3": {
+    "alpha": 2.4181,
+    "beta": 0.4322,
+    "sharpe_ratio": 2.0473,
+    "sortino_ratio": 4.0207,
+    "annual_volatility": 0.7283,
+    "annual_return_ratio": 2.5784,
+    "skew": 2.5571,
+    "kurtosis": 19.4384,
+    "daily_winning_ratio": 0.5164,
+    "max_drawdown": 0.4049
+  },
+  "er3": {
+    "alpha": 1.7787,
+    "beta": 0.2007,
+    "sharpe_ratio": 1.5188,
+    "sortino_ratio": 2.6933,
+    "annual_volatility": 0.7533,
+    "annual_return_ratio": 1.4827,
+    "skew": 2.4207,
+    "kurtosis": 27.7529,
+    "daily_winning_ratio": 0.5383,
+    "max_drawdown": 0.4729
+  },
+  "cr3": {
+    "alpha": 0.5391,
+    "beta": 0.1909,
+    "sharpe_ratio": 0.6872,
+    "sortino_ratio": 1.0507,
+    "annual_volatility": 0.795,
+    "annual_return_ratio": 0.2956,
+    "skew": 0.3181,
+    "kurtosis": 29.9522,
+    "daily_winning_ratio": 0.5462,
+    "max_drawdown": 0.7971
+  },
+  "fof": {
+    "alpha": 2.1223,
+    "beta": 0.2027,
+    "sharpe_ratio": 2.3871,
+    "sortino_ratio": 5.4146,
+    "annual_volatility": 0.5288,
+    "annual_return_ratio": 2.211,
+    "skew": 4.2119,
+    "kurtosis": 40.4235,
+    "daily_winning_ratio": 0.5407,
+    "max_drawdown": 0.1547
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 0.7332,
+    "sortino_ratio": 1.0516,
+    "annual_volatility": 0.82,
+    "annual_return_ratio": 0.3369,
+    "skew": -0.5814,
+    "kurtosis": 12.6403,
+    "daily_winning_ratio": 0.5282,
+    "max_drawdown": 0.815
+  },
+  "eth": {
+    "alpha": 0.2647,
+    "beta": 1.0153,
+    "sharpe_ratio": 0.8197,
+    "sortino_ratio": 1.1818,
+    "annual_volatility": 1.0313,
+    "annual_return_ratio": 0.4005,
+    "skew": -0.3474,
+    "kurtosis": 5.9872,
+    "daily_winning_ratio": 0.5125,
+    "max_drawdown": 0.9408
+  },
+  "etc": {
+    "alpha": 0.4871,
+    "beta": 0.972,
+    "sharpe_ratio": 0.7823,
+    "sortino_ratio": 1.2159,
+    "annual_volatility": 1.2546,
+    "annual_return_ratio": 0.2748,
+    "skew": 0.7812,
+    "kurtosis": 8.5308,
+    "daily_winning_ratio": 0.5141,
+    "max_drawdown": 0.9195
+  }
+}

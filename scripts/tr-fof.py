@@ -17,6 +17,8 @@ data = []
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
+not_comps = ['fof', 'base', 'btc', 'eth', 'etc']
+
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)
     dt += timedelta(hours=8)
@@ -39,6 +41,9 @@ for ts in dirs:
 
     with open(f"{base_dir}/funds.json", 'r', encoding='utf-8') as f:
         funds = json.load(f)
+
+        # for intersected in list(set(funds) & set(not_comps)):
+        #     funds.remove(intersected)
 
         item['funds'] = funds
 

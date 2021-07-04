@@ -4,7 +4,7 @@ import shutil
 
 from datetime import datetime, timedelta
 
-dirs = glob.glob('./fof/*/')
+dirs = glob.glob('./bt/*/')
 
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
@@ -18,12 +18,11 @@ for ts in dirs:
     id = str(ts)
     date = str(dt)
 
-    base_dir = f'fof/{ts}'
+    base_dir = f'xxx/bt/{ts}'
 
-    with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
-        metrics = json.load(f)['fof']
+    with open(f"{base_dir}/params.json", 'r', encoding='utf-8') as f:
+        metrics = json.load(f)
 
-        metric = metrics['max_drawdown']
-        if metric > 0.3:
-          print(metric)
-          shutil.rmtree(f'xx/fof/{id}')
+        if not 'pair' in metrics or not 'pstr' in metrics:
+          print(dt)
+          shutil.rmtree(base_dir)

@@ -42,8 +42,8 @@ for ts in dirs:
     with open(f"{base_dir}/funds.json", 'r', encoding='utf-8') as f:
         funds = json.load(f)
 
-        # for intersected in list(set(funds) & set(not_comps)):
-        #     funds.remove(intersected)
+        for intersected in list(set(funds) & set(not_comps)):
+            funds.remove(intersected)
 
         item['funds'] = funds
 

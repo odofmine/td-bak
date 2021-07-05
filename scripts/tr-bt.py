@@ -8,7 +8,6 @@ dirs = glob.glob('./bt/*/')
 base = {
     "type": "bt",
     "frequency": "1d",
-    "currency": "btc",
     "product": "perp",
     "status": "done"
 }
@@ -68,8 +67,11 @@ for ts in dirs:
 
         if 'pair' in params:
             item['source'] = params['pair']
+            item['currency'] = params['pair'].split('usd')[0]
+            print(params['pair'])
         else:
             item['source'] = 'btcusd'
+            item['currency'] = 'btc'
 
         if 'pstr' in params:
             item['strategy'] = {

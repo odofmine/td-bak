@@ -59,3 +59,12 @@ for ts in dirs:
 
 with open(f'list-fof.json', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
+
+fr1 = [x for x in data if x['funds'] == ['r1']][0]
+m3 = [x for x in data if x['funds'] == ['r3', 'er3']][0]
+
+online_data = [fr1, m3]
+
+with open(f'online-list-fof.json', 'w', encoding='utf-8') as f:
+    json.dump(online_data, f, indent=2, ensure_ascii=False)
+

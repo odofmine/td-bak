@@ -1,0 +1,74 @@
+{
+  "alt": {
+    "alpha": 0.5311,
+    "beta": 1.0453,
+    "sharpe_ratio": 1.5341,
+    "sortino_ratio": 2.22,
+    "annual_volatility": 1.0619,
+    "annual_return_ratio": 1.9339,
+    "skew": -0.6304,
+    "kurtosis": 10.5963,
+    "daily_winning_ratio": 0.565,
+    "max_drawdown": 0.6574
+  },
+  "mid": {
+    "alpha": 0.6805,
+    "beta": 0.9461,
+    "sharpe_ratio": 1.5907,
+    "sortino_ratio": 2.2169,
+    "annual_volatility": 1.011,
+    "annual_return_ratio": 2.0049,
+    "skew": -1.1953,
+    "kurtosis": 11.7545,
+    "daily_winning_ratio": 0.5619,
+    "max_drawdown": 0.6738
+  },
+  "shit": {
+    "alpha": 0.9196,
+    "beta": 0.9894,
+    "sharpe_ratio": 1.6849,
+    "sortino_ratio": 2.328,
+    "annual_volatility": 1.063,
+    "annual_return_ratio": 2.3874,
+    "skew": -1.2932,
+    "kurtosis": 12.0258,
+    "daily_winning_ratio": 0.5867,
+    "max_drawdown": 0.6295
+  },
+  "exch": {
+    "alpha": 1.1086,
+    "beta": 0.7749,
+    "sharpe_ratio": 1.7069,
+    "sortino_ratio": 2.7292,
+    "annual_volatility": 0.9599,
+    "annual_return_ratio": 2.3886,
+    "skew": 1.2137,
+    "kurtosis": 23.7458,
+    "daily_winning_ratio": 0.5635,
+    "max_drawdown": 0.6245
+  },
+  "fof": {
+    "alpha": 2.1547,
+    "beta": 0.3919,
+    "sharpe_ratio": 2.4683,
+    "sortino_ratio": 4.0867,
+    "annual_volatility": 0.6489,
+    "annual_return_ratio": 3.171,
+    "skew": 0.6443,
+    "kurtosis": 6.1625,
+    "daily_winning_ratio": 0.709,
+    "max_drawdown": 0.2553
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.3774,
+    "sortino_ratio": 2.0185,
+    "annual_volatility": 0.8354,
+    "annual_return_ratio": 1.2643,
+    "skew": -1.0455,
+    "kurtosis": 21.427,
+    "daily_winning_ratio": 0.5356,
+    "max_drawdown": 0.5809
+  }
+}

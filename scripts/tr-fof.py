@@ -17,7 +17,7 @@ data = []
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
-not_comps = ['fof', 'base', 'btc', 'eth', 'etc']
+not_comps = ['fof', 'base', 'btc', 'eth', 'etc', 'sh000300']
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)

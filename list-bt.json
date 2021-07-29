@@ -1,5 +1,43 @@
 [
   {
+    "id": "1627551258",
+    "date": "2021-07-29 17:34:18",
+    "start_point": "2016-01-01",
+    "end_point": "2021-07-29",
+    "annual_return": 2.78,
+    "sharpe_ratio": 2.2,
+    "max_retracement": -0.514366158960041,
+    "source": "btcusd",
+    "currency": "btc",
+    "strategy": {
+      "name": "r3",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "frequency": "1d",
+    "product": "perp",
+    "status": "done"
+  },
+  {
+    "id": "1627551256",
+    "date": "2021-07-29 17:34:16",
+    "start_point": "2016-01-01",
+    "end_point": "2021-07-29",
+    "annual_return": 3.75,
+    "sharpe_ratio": 2.28,
+    "max_retracement": -0.40383685097787597,
+    "source": "ethusd",
+    "currency": "eth",
+    "strategy": {
+      "name": "er3",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "frequency": "1d",
+    "product": "perp",
+    "status": "done"
+  },
+  {
     "id": "1627450313",
     "date": "2021-07-28 13:31:53",
     "start_point": "2016-01-01",

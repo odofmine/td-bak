@@ -1,0 +1,62 @@
+{
+  "r3": {
+    "alpha": 1.6435,
+    "beta": 0.501,
+    "sharpe_ratio": 2.2163,
+    "sortino_ratio": 4.1445,
+    "annual_volatility": 0.6938,
+    "annual_return_ratio": 2.825,
+    "skew": 2.0583,
+    "kurtosis": 16.228,
+    "daily_winning_ratio": 0.5325,
+    "max_drawdown": -0.5144
+  },
+  "er3": {
+    "alpha": 4.442,
+    "beta": 0.1408,
+    "sharpe_ratio": 2.3211,
+    "sortino_ratio": 4.4674,
+    "annual_volatility": 0.7999,
+    "annual_return_ratio": 3.8927,
+    "skew": 2.4351,
+    "kurtosis": 21.3042,
+    "daily_winning_ratio": 0.5446,
+    "max_drawdown": -0.4729
+  },
+  "fof": {
+    "alpha": 2.7106,
+    "beta": 0.2074,
+    "sharpe_ratio": 3.3044,
+    "sortino_ratio": 7.6596,
+    "annual_volatility": 0.4682,
+    "annual_return_ratio": 3.3764,
+    "skew": 3.014,
+    "kurtosis": 21.0393,
+    "daily_winning_ratio": 0.5552,
+    "max_drawdown": -0.1463
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.4025,
+    "sortino_ratio": 2.0951,
+    "annual_volatility": 0.8032,
+    "annual_return_ratio": 1.303,
+    "skew": -0.1794,
+    "kurtosis": 10.8925,
+    "daily_winning_ratio": 0.548,
+    "max_drawdown": -0.8372
+  },
+  "eth": {
+    "alpha": 2.1202,
+    "beta": 0.8143,
+    "sharpe_ratio": 1.7994,
+    "sortino_ratio": 2.8945,
+    "annual_volatility": 1.1431,
+    "annual_return_ratio": 3.2237,
+    "skew": 0.3384,
+    "kurtosis": 4.9122,
+    "daily_winning_ratio": 0.517,
+    "max_drawdown": -0.9408
+  }
+}

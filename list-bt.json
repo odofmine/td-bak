@@ -1,5 +1,24 @@
 [
   {
+    "id": "1631958506",
+    "date": "2021-09-18 17:48:26",
+    "start_point": "2014-01-01",
+    "end_point": "2021-09-18",
+    "annual_return": 2.47,
+    "sharpe_ratio": 2.18,
+    "max_retracement": -0.5143661511606732,
+    "source": "btcusd",
+    "currency": "btc",
+    "strategy": {
+      "name": "r3",
+      "version": "1.0"
+    },
+    "type": "bt",
+    "frequency": "1d",
+    "product": "perp",
+    "status": "done"
+  },
+  {
     "id": "1631944777",
     "date": "2021-09-18 13:59:37",
     "start_point": "2014-01-01",

@@ -30,14 +30,14 @@ for ts in dirs:
     item['date'] = str(dt)
 
     base_dir = f'fof/{ts}'
-    file_name = 'fof'
+    fof_name = 'fof'
 
     if os.path.exists(f'{base_dir}/config.json'):
         with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
             configs = json.load(f)
-            file_name = configs['name']
+            fof_name = configs['name']
 
-    with open(f'{base_dir}/{file_name}.json', 'r', encoding='utf-8') as f:
+    with open(f'{base_dir}/{fof_name}.json', 'r', encoding='utf-8') as f:
         prices = json.load(f)
 
         start_ts = prices[0][0]
@@ -55,7 +55,7 @@ for ts in dirs:
         item['funds'] = funds
 
     with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
-        metrics = json.load(f)['fof']
+        metrics = json.load(f)[fof_name]
 
         item ['max_retracement'] = metrics['max_drawdown']
         item ['annual_return'] = metrics['annual_return_ratio']

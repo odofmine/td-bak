@@ -1,31 +1,47 @@
 [
   {
-    "id": "1633693426",
-    "date": "2021-10-08 19:43:46",
-    "start_point": "2019-12-30",
+    "id": "1633701382",
+    "date": "2021-10-08 21:56:22",
+    "start_point": "2018-01-08",
     "end_point": "2021-10-08",
     "funds": [
-      "T40"
+      "T10"
     ],
-    "max_retracement": -0.2304,
-    "annual_return": 16.1467,
-    "sharpe_ratio": 4.1057,
+    "max_retracement": -0.3795,
+    "annual_return": 1.2133,
+    "sharpe_ratio": 1.684,
     "type": "fof",
     "source": "bitmex-bitstamp",
     "frequency": "1d",
     "currency": "btc"
   },
   {
-    "id": "1633693179",
-    "date": "2021-10-08 19:39:39",
+    "id": "1633701058",
+    "date": "2021-10-08 21:50:58",
+    "start_point": "2019-12-30",
+    "end_point": "2021-10-08",
+    "funds": [
+      "T40"
+    ],
+    "max_retracement": -0.2307,
+    "annual_return": 16.5113,
+    "sharpe_ratio": 4.1272,
+    "type": "fof",
+    "source": "bitmex-bitstamp",
+    "frequency": "1d",
+    "currency": "btc"
+  },
+  {
+    "id": "1633701007",
+    "date": "2021-10-08 21:50:07",
     "start_point": "2019-12-30",
     "end_point": "2021-10-08",
     "funds": [
       "T10"
     ],
     "max_retracement": -0.2441,
-    "annual_return": 4.7652,
-    "sharpe_ratio": 2.9367,
+    "annual_return": 4.7157,
+    "sharpe_ratio": 2.9248,
     "type": "fof",
     "source": "bitmex-bitstamp",
     "frequency": "1d",

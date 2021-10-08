@@ -30,14 +30,14 @@ for ts in dirs:
     item['date'] = str(dt)
 
     base_dir = f'fof/{ts}'
-    file_name = 'fof.json'
+    file_name = 'fof'
 
     if os.path.exists(f'{base_dir}/config.json'):
         with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
             configs = json.load(f)
-            file_name = f"{configs['name']}.json"
+            file_name = configs['name']
 
-    with open(f'{base_dir}/{file_name}', 'r', encoding='utf-8') as f:
+    with open(f'{base_dir}/{file_name}.json', 'r', encoding='utf-8') as f:
         prices = json.load(f)
 
         start_ts = prices[0][0]

@@ -1,5 +1,6 @@
 import json
 import glob
+import os
 
 from datetime import datetime, timezone, timedelta
 
@@ -29,8 +30,14 @@ for ts in dirs:
     item['date'] = str(dt)
 
     base_dir = f'fof/{ts}'
+    file_name = 'fof.json'
 
-    with open(f"{base_dir}/fof.json", 'r', encoding='utf-8') as f:
+    if os.path.exists(f'{base_dir}/config.json'):
+        with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
+            configs = json.load(f)
+            file_name = f"{configs['name']}.json"
+
+    with open(f'{base_dir}/{file_name}', 'r', encoding='utf-8') as f:
         prices = json.load(f)
 
         start_ts = prices[0][0]

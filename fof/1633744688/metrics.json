@@ -1,0 +1,38 @@
+{
+  "T40": {
+    "alpha": 10.474,
+    "beta": 0.431,
+    "sharpe_ratio": 4.1207,
+    "sortino_ratio": 7.5646,
+    "annual_volatility": 0.7425,
+    "annual_return_ratio": 15.7024,
+    "skew": 0.6827,
+    "kurtosis": 5.103,
+    "daily_winning_ratio": 0.6385,
+    "max_drawdown": -0.2342
+  },
+  "btc": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.7659,
+    "sortino_ratio": 2.5886,
+    "annual_volatility": 0.8031,
+    "annual_return_ratio": 2.0573,
+    "skew": -0.9873,
+    "kurtosis": 13.1853,
+    "daily_winning_ratio": 0.5492,
+    "max_drawdown": -0.5328
+  },
+  "eth": {
+    "alpha": 1.4241,
+    "beta": 1.0706,
+    "sharpe_ratio": 2.2451,
+    "sortino_ratio": 3.3643,
+    "annual_volatility": 1.0712,
+    "annual_return_ratio": 5.3071,
+    "skew": -0.6025,
+    "kurtosis": 8.9504,
+    "daily_winning_ratio": 0.5615,
+    "max_drawdown": -0.6211
+  }
+}

@@ -9,8 +9,8 @@ dirs = glob.glob('./fof/*/')
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
-start = 1631169172
-end = 1631682237
+start = 1626945267
+end = 1626950546
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)

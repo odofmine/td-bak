@@ -9,15 +9,16 @@ dirs = glob.glob('./fof/*/')
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
-bts = 1628240933
+start = 1633677231
+end = 1634623464
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)
 
-    if ts < bts:
+    if ts > end or ts < start:
         continue
 
-    base_dir = f'xxxx/td/fof/{ts}'
+    base_dir = f'/Users/lizhe/Workspace/td/fof/{ts}'
 
     print(f'remove {base_dir}({dt})')
     shutil.rmtree(base_dir)

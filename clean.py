@@ -15,10 +15,10 @@ end = 1626950546
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)
 
-    if ts >= start:
-        continue
-
     base_dir = f'/Users/lizhe/Workspace/td/fof/{ts}'
 
-    print(f'remove {base_dir}({dt})')
-    shutil.rmtree(base_dir)
+    with open(f'{base_dir}/remark.md', 'w') as f:
+        f.write('#### 备注')
+
+    # print(f'remove {base_dir}({dt})')
+    # shutil.rmtree(base_dir)

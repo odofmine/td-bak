@@ -17,17 +17,16 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Set up Python 3.8.5
+    - name: Set up Python 3.9.9
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8.5
+        python-version: 3.9.9
 
     - name: Update list
       run: |
         git config --global user.email "anonymouse@x.com"
         git config --global user.name "anonymouse"
 
-        python scripts/tr-bt.py
         python scripts/tr-3d.py
         python scripts/tr-fof.py
 

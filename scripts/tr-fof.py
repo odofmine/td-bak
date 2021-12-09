@@ -9,7 +9,7 @@ dirs = glob.glob('./fof/*/')
 base = {
     "type": "fof",
     "source": "",
-    "frequency": "1d"
+    "frequency": ""
 }
 
 data = []

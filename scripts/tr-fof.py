@@ -8,9 +8,8 @@ dirs = glob.glob('./fof/*/')
 
 base = {
     "type": "fof",
-    "source": "bitmex-bitstamp",
-    "frequency": "1d",
-    "currency": "btc"
+    "source": "",
+    "frequency": "1d"
 }
 
 data = []
@@ -18,7 +17,7 @@ data = []
 dirs = [x[2:-1] for x in dirs]
 dirs = sorted(list(map(lambda x : int(x.split('/')[1]), dirs)), reverse=True)
 
-not_comps = ['fof', 'base', 'btc', 'eth', 'etc', 'sh000300']
+not_comps = ['fof', 'base', 'btc', 'eth']
 
 for ts in dirs:
     dt = datetime.utcfromtimestamp(ts)

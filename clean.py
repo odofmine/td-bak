@@ -18,7 +18,10 @@ for ts in dirs:
     base_dir = f'/Users/lizhe/Workspace/td/fof/{ts}'
 
     with open(f'{base_dir}/remark.md', 'w') as f:
-        f.write('#### 备注')
+        f.write('# 备注\n')
+        f.write('## 备注\n')
+        f.write('### 备注\n')
+        f.write('#### 备注\n')
 
     # print(f'remove {base_dir}({dt})')
     # shutil.rmtree(base_dir)

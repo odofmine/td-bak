@@ -3,6 +3,7 @@ import glob
 import os
 
 from datetime import datetime, timezone, timedelta
+import shutil
 
 dirs = glob.glob('./fof/*/')
 
@@ -30,6 +31,9 @@ for ts in dirs:
 
     base_dir = f'fof/{ts}'
     fof_name = 'fof'
+
+    if not os.path.exists(f'{base_dir}/remark.md'):
+        shutil.copyfile('remark-example.md', f'{base_dir}/remark.md')
 
     if os.path.exists(f'{base_dir}/config.json'):
         with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:

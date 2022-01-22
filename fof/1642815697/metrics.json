@@ -1,0 +1,50 @@
+{
+  "009920": {
+    "alpha": 2.4281,
+    "beta": 0.0069,
+    "sharpe_ratio": 3.4036,
+    "sortino_ratio": 6.1121,
+    "annual_volatility": 0.5305,
+    "annual_return_ratio": 4.4717,
+    "skew": 0.6557,
+    "kurtosis": 7.0249,
+    "daily_winning_ratio": 0.6333,
+    "max_drawdown": -0.1715
+  },
+  "btc": {
+    "alpha": 2.8654,
+    "beta": 0.0051,
+    "sharpe_ratio": 1.3269,
+    "sortino_ratio": 1.962,
+    "annual_volatility": 0.7576,
+    "annual_return_ratio": 1.1112,
+    "skew": -0.5322,
+    "kurtosis": 10.7872,
+    "daily_winning_ratio": 0.5313,
+    "max_drawdown": -0.6255
+  },
+  "eth": {
+    "alpha": 3.3649,
+    "beta": 0.0243,
+    "sharpe_ratio": 1.4637,
+    "sortino_ratio": 2.1613,
+    "annual_volatility": 0.9709,
+    "annual_return_ratio": 1.6432,
+    "skew": -0.4417,
+    "kurtosis": 8.287,
+    "daily_winning_ratio": 0.5268,
+    "max_drawdown": -0.6762
+  },
+  "market_cap": {
+    "alpha": 0.0,
+    "beta": 1.0,
+    "sharpe_ratio": 1.8722,
+    "sortino_ratio": 2.6367,
+    "annual_volatility": 0.7852,
+    "annual_return_ratio": 2.2599,
+    "skew": -1.311,
+    "kurtosis": 13.1273,
+    "daily_winning_ratio": 0.5749,
+    "max_drawdown": -0.5577
+  }
+}

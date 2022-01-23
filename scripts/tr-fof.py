@@ -35,10 +35,9 @@ for ts in dirs:
     if not os.path.exists(f'{base_dir}/remark.md'):
         shutil.copyfile('remark-example.md', f'{base_dir}/remark.md')
 
-    if os.path.exists(f'{base_dir}/config.json'):
-        with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
-            configs = json.load(f)
-            fof_name = configs['name']
+    with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
+        configs = json.load(f)
+        fof_name = configs['name']
 
     with open(f'{base_dir}/{fof_name}.json', 'r', encoding='utf-8') as f:
         prices = json.load(f)
@@ -48,6 +47,12 @@ for ts in dirs:
 
         item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
         item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')
+
+        configs['start'] = item['start_point']
+        configs['end'] = item['end_point']
+
+    with open(f'{base_dir}/config.json', 'w', encoding='utf-8') as f:
+        json.dump(configs, f, indent=2, ensure_ascii=False)
 
     with open(f"{base_dir}/funds.json", 'r', encoding='utf-8') as f:
         funds = json.load(f)

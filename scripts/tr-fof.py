@@ -66,11 +66,13 @@ for ts in dirs:
         stats = json.load(f)
         item['ever_holded_count'] = len(stats['counts'])
 
-        if item['ever_holded_count'] == 0:
-            item['avg_ever_holded_count'] = 0
-        else:
-            total_days = sum(list(stats['counts'].values()))
-            item['avg_ever_holded_count'] = round(total_days / item['ever_holded_count'], 4)
+    if os.path.exists(f'{base_dir}/candidates.json'):
+        with open(f"{base_dir}/candidates.json", 'r', encoding='utf-8') as f:
+            candidates = json.load(f)
+            total_candidates_count = sum([x[1] for x in candidates])
+            item['avg_ever_holded_count'] = round(total_candidates_count / len(fund), 4)
+    else:
+        item['avg_ever_holded_count'] = 0
 
     with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
         metrics = json.load(f)[fund_name]

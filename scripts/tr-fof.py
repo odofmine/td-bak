@@ -30,20 +30,20 @@ for ts in dirs:
     item['date'] = str(dt)
 
     base_dir = f'fof/{ts}'
-    fof_name = 'fof'
+    fund_name = 'fof'
 
     if not os.path.exists(f'{base_dir}/remark.md'):
         shutil.copyfile('remark-example.md', f'{base_dir}/remark.md')
 
     with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
         configs = json.load(f)
-        fof_name = configs['name']
+        fund_name = configs['name']
 
-    with open(f'{base_dir}/{fof_name}.json', 'r', encoding='utf-8') as f:
-        prices = json.load(f)
+    with open(f'{base_dir}/{fund_name}.json', 'r', encoding='utf-8') as f:
+        fund = json.load(f)
 
-        start_ts = prices[0][0]
-        end_ts = prices[-1][0]
+        start_ts = fund[0][0]
+        end_ts = fund[-1][0]
 
         item['start_point'] = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%d')
         item['end_point'] = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%d')
@@ -62,12 +62,19 @@ for ts in dirs:
 
         item['funds'] = funds
 
-    with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
-        metrics = json.load(f)[fof_name]
+    with open(f"{base_dir}/stats.json", 'r', encoding='utf-8') as f:
+        stats = json.load(f)
+        item['ever_holded_count'] = len(stats['counts'])
 
-        item ['max_retracement'] = metrics['max_drawdown']
-        item ['annual_return'] = metrics['annual_return_ratio']
-        item ['sharpe_ratio'] = metrics['sharpe_ratio']
+        fund_length = len(fund)
+        item['avg_ever_holded_count'] = round(item['ever_holded_count'] / fund_length, 4)
+
+    with open(f"{base_dir}/metrics.json", 'r', encoding='utf-8') as f:
+        metrics = json.load(f)[fund_name]
+
+        item['max_retracement'] = metrics['max_drawdown']
+        item['annual_return'] = metrics['annual_return_ratio']
+        item['sharpe_ratio'] = metrics['sharpe_ratio']
 
     item = {**item, **base}
     data.append(item)

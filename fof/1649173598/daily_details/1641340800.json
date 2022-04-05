@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "id": 1,
+      "name": "FTM",
+      "pnl_rate": 0.0192,
+      "weight": 0.1,
+      "rank": 29,
+      "atr": 0.092
+    },
+    {
+      "id": 6,
+      "name": "LUNA",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 9,
+      "atr": 0.0968
+    },
+    {
+      "id": 7,
+      "name": "MATIC",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 14,
+      "atr": 0.1026
+    },
+    {
+      "id": 8,
+      "name": "AVAX",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 11,
+      "atr": 0.1104
+    },
+    {
+      "id": 9,
+      "name": "SAND",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 35,
+      "atr": 0.1173
+    },
+    {
+      "id": 4,
+      "name": "NEAR",
+      "pnl_rate": -0.0452,
+      "weight": 0.0808,
+      "rank": 24,
+      "atr": 0.1046
+    },
+    {
+      "id": 2,
+      "name": "UNI",
+      "pnl_rate": -0.0599,
+      "weight": 0.0814,
+      "rank": 18,
+      "atr": 0.1027
+    },
+    {
+      "id": 5,
+      "name": "ALGO",
+      "pnl_rate": -0.0698,
+      "weight": 0.0804,
+      "rank": 19,
+      "atr": 0.11
+    },
+    {
+      "id": 0,
+      "name": "ATOM",
+      "pnl_rate": -0.0822,
+      "weight": 0.1,
+      "rank": 26,
+      "atr": 0.0919
+    },
+    {
+      "id": 3,
+      "name": "HBAR",
+      "pnl_rate": -0.1166,
+      "weight": 0.1,
+      "rank": 32,
+      "atr": 0.1103
+    }
+  ],
+  "summary": {
+    "rate": -0.0003,
+    "value": -0.0072
+  },
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0799,
+      "id": 0
+    },
+    {
+      "name": "FTM",
+      "rank": 29,
+      "atr": 0.0899,
+      "id": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0928,
+      "id": 2
+    },
+    {
+      "name": "HBAR",
+      "rank": 32,
+      "atr": 0.0931,
+      "id": 3
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.096,
+      "id": 4
+    },
+    {
+      "name": "ALGO",
+      "rank": 19,
+      "atr": 0.0982,
+      "id": 5
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.087,
+      "id": 6
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0914,
+      "id": 7
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.1022,
+      "id": 8
+    },
+    {
+      "name": "SAND",
+      "rank": 35,
+      "atr": 0.1051,
+      "id": 9
+    }
+  ]
+}

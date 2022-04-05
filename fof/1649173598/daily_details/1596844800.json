@@ -1,0 +1,392 @@
+{
+  "pnls": [
+    {
+      "id": 18,
+      "name": "BAND",
+      "pnl_rate": 0.264,
+      "weight": 0.05,
+      "rank": 111,
+      "atr": 0.0688
+    },
+    {
+      "id": 14,
+      "name": "LINK",
+      "pnl_rate": 0.2548,
+      "weight": 0.05,
+      "rank": 11,
+      "atr": 0.0605
+    },
+    {
+      "id": 17,
+      "name": "ZIL",
+      "pnl_rate": 0.1965,
+      "weight": 0.05,
+      "rank": 65,
+      "atr": 0.0665
+    },
+    {
+      "id": 10,
+      "name": "LSK",
+      "pnl_rate": 0.1168,
+      "weight": 0.05,
+      "rank": 75,
+      "atr": 0.0537
+    },
+    {
+      "id": 19,
+      "name": "XTZ",
+      "pnl_rate": 0.0982,
+      "weight": 0.05,
+      "rank": 13,
+      "atr": 0.0694
+    },
+    {
+      "id": 4,
+      "name": "ETH",
+      "pnl_rate": 0.0467,
+      "weight": 0.0451,
+      "rank": 2,
+      "atr": 0.0468
+    },
+    {
+      "id": 6,
+      "name": "IOTA",
+      "pnl_rate": 0.0373,
+      "weight": 0.05,
+      "rank": 26,
+      "atr": 0.0502
+    },
+    {
+      "id": 12,
+      "name": "HBAR",
+      "pnl_rate": 0.0316,
+      "weight": 0.0438,
+      "rank": 59,
+      "atr": 0.0599
+    },
+    {
+      "id": 9,
+      "name": "ZEC",
+      "pnl_rate": 0.0281,
+      "weight": 0.05,
+      "rank": 25,
+      "atr": 0.0556
+    },
+    {
+      "id": 3,
+      "name": "BNB",
+      "pnl_rate": 0.0265,
+      "weight": 0.0455,
+      "rank": 10,
+      "atr": 0.044
+    },
+    {
+      "id": 8,
+      "name": "LTC",
+      "pnl_rate": 0.0222,
+      "weight": 0.0445,
+      "rank": 7,
+      "atr": 0.0535
+    },
+    {
+      "id": 13,
+      "name": "WAVES",
+      "pnl_rate": 0.0219,
+      "weight": 0.05,
+      "rank": 70,
+      "atr": 0.0629
+    },
+    {
+      "id": 2,
+      "name": "FTT",
+      "pnl_rate": 0.0216,
+      "weight": 0.0457,
+      "rank": 44,
+      "atr": 0.0416
+    },
+    {
+      "id": 16,
+      "name": "ENJ",
+      "pnl_rate": 0.021,
+      "weight": 0.05,
+      "rank": 77,
+      "atr": 0.0638
+    },
+    {
+      "id": 15,
+      "name": "RVN",
+      "pnl_rate": 0.0205,
+      "weight": 0.05,
+      "rank": 79,
+      "atr": 0.0619
+    },
+    {
+      "id": 5,
+      "name": "DASH",
+      "pnl_rate": 0.0191,
+      "weight": 0.05,
+      "rank": 24,
+      "atr": 0.0497
+    },
+    {
+      "id": 0,
+      "name": "BTC",
+      "pnl_rate": 0.0144,
+      "weight": 0.0464,
+      "rank": 1,
+      "atr": 0.0349
+    },
+    {
+      "id": 1,
+      "name": "XMR",
+      "pnl_rate": 0.0088,
+      "weight": 0.05,
+      "rank": 15,
+      "atr": 0.042
+    },
+    {
+      "id": 7,
+      "name": "XRP",
+      "pnl_rate": 0.003,
+      "weight": 0.0446,
+      "rank": 3,
+      "atr": 0.0528
+    },
+    {
+      "id": 11,
+      "name": "HOT",
+      "pnl_rate": -0.0076,
+      "weight": 0.05,
+      "rank": 84,
+      "atr": 0.0609
+    }
+  ],
+  "summary": {
+    "rate": 0.0224,
+    "value": 0.0301
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0358,
+      "id": 0
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0425,
+      "id": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0429,
+      "id": 2
+    },
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0451,
+      "id": 3
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0487,
+      "id": 4
+    },
+    {
+      "name": "DASH",
+      "rank": 24,
+      "atr": 0.0496,
+      "id": 5
+    },
+    {
+      "name": "IOTA",
+      "rank": 26,
+      "atr": 0.0515,
+      "id": 6
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0539,
+      "id": 7
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0553,
+      "id": 8
+    },
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0563,
+      "id": 9
+    },
+    {
+      "name": "LSK",
+      "rank": 75,
+      "atr": 0.0566,
+      "id": 10
+    },
+    {
+      "name": "HOT",
+      "rank": 84,
+      "atr": 0.0595,
+      "id": 11
+    },
+    {
+      "name": "HBAR",
+      "rank": 59,
+      "atr": 0.0621,
+      "id": 12
+    },
+    {
+      "name": "WAVES",
+      "rank": 70,
+      "atr": 0.0621,
+      "id": 13
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0642,
+      "id": 14
+    },
+    {
+      "name": "RVN",
+      "rank": 79,
+      "atr": 0.0642,
+      "id": 15
+    },
+    {
+      "name": "ENJ",
+      "rank": 77,
+      "atr": 0.0649,
+      "id": 16
+    },
+    {
+      "name": "ZIL",
+      "rank": 65,
+      "atr": 0.0731,
+      "id": 17
+    },
+    {
+      "name": "BAND",
+      "rank": 111,
+      "atr": 0.0731,
+      "id": 18
+    },
+    {
+      "name": "XTZ",
+      "rank": 13,
+      "atr": 0.0734,
+      "id": 19
+    },
+    {
+      "name": "DOGE",
+      "rank": 34,
+      "atr": 0.0755,
+      "id": 20
+    },
+    {
+      "name": "STX",
+      "rank": 106,
+      "atr": 0.0763,
+      "id": 21
+    },
+    {
+      "name": "BNT",
+      "rank": 86,
+      "atr": 0.0781,
+      "id": 22
+    },
+    {
+      "name": "ALGO",
+      "rank": 55,
+      "atr": 0.0799,
+      "id": 23
+    },
+    {
+      "name": "REN",
+      "rank": 72,
+      "atr": 0.0806,
+      "id": 24
+    },
+    {
+      "name": "THETA",
+      "rank": 53,
+      "atr": 0.0822,
+      "id": 25
+    },
+    {
+      "name": "LRC",
+      "rank": 78,
+      "atr": 0.1036,
+      "id": 26
+    },
+    {
+      "name": "OMG",
+      "rank": 56,
+      "atr": 0.06,
+      "id": 27
+    },
+    {
+      "name": "ICX",
+      "rank": 61,
+      "atr": 0.0619,
+      "id": 28
+    },
+    {
+      "name": "ADA",
+      "rank": 8,
+      "atr": 0.0665,
+      "id": 29
+    },
+    {
+      "name": "ONT",
+      "rank": 31,
+      "atr": 0.0689,
+      "id": 30
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0709,
+      "id": 31
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0724,
+      "id": 32
+    },
+    {
+      "name": "ZRX",
+      "rank": 48,
+      "atr": 0.0782,
+      "id": 33
+    },
+    {
+      "name": "VET",
+      "rank": 21,
+      "atr": 0.0841,
+      "id": 34
+    },
+    {
+      "name": "REP",
+      "rank": 60,
+      "atr": 0.1026,
+      "id": 35
+    },
+    {
+      "name": "RLC",
+      "rank": 110,
+      "atr": 0.1255,
+      "id": 36
+    }
+  ]
+}

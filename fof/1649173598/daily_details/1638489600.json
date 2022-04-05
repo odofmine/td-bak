@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "id": 2,
+      "name": "MATIC",
+      "pnl_rate": 0.0693,
+      "weight": 0.1,
+      "rank": 19,
+      "atr": 0.0797
+    },
+    {
+      "id": 5,
+      "name": "BNB",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 3,
+      "atr": 0.0637
+    },
+    {
+      "id": 6,
+      "name": "SOL",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 5,
+      "atr": 0.091
+    },
+    {
+      "id": 7,
+      "name": "EGLD",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 24,
+      "atr": 0.1043
+    },
+    {
+      "id": 8,
+      "name": "AVAX",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 11,
+      "atr": 0.1015
+    },
+    {
+      "id": 9,
+      "name": "MANA",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 23,
+      "atr": 0.1296
+    },
+    {
+      "id": 1,
+      "name": "LUNA",
+      "pnl_rate": -0.0424,
+      "weight": 0.1,
+      "rank": 13,
+      "atr": 0.0799
+    },
+    {
+      "id": 0,
+      "name": "ETH",
+      "pnl_rate": -0.0657,
+      "weight": 0.1,
+      "rank": 2,
+      "atr": 0.065
+    },
+    {
+      "id": 3,
+      "name": "SAND",
+      "pnl_rate": -0.1015,
+      "weight": 0.0801,
+      "rank": 33,
+      "atr": 0.1159
+    },
+    {
+      "id": 4,
+      "name": "GALA",
+      "pnl_rate": -0.1466,
+      "weight": 0.0789,
+      "rank": 41,
+      "atr": 0.1275
+    }
+  ],
+  "summary": {
+    "rate": -0.0008,
+    "value": -0.0176
+  },
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0579,
+      "id": 0
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.075,
+      "id": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0825,
+      "id": 2
+    },
+    {
+      "name": "SAND",
+      "rank": 33,
+      "atr": 0.0996,
+      "id": 3
+    },
+    {
+      "name": "GALA",
+      "rank": 41,
+      "atr": 0.1053,
+      "id": 4
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0602,
+      "id": 5
+    },
+    {
+      "name": "SOL",
+      "rank": 5,
+      "atr": 0.08,
+      "id": 6
+    },
+    {
+      "name": "EGLD",
+      "rank": 24,
+      "atr": 0.1008,
+      "id": 7
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.1012,
+      "id": 8
+    },
+    {
+      "name": "MANA",
+      "rank": 23,
+      "atr": 0.1128,
+      "id": 9
+    }
+  ]
+}

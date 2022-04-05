@@ -1,0 +1,234 @@
+{
+  "pnls": [
+    {
+      "id": 5,
+      "name": "XLM",
+      "pnl_rate": 0.0129,
+      "weight": 0.0525,
+      "rank": 15,
+      "atr": 0.0798
+    },
+    {
+      "id": 1,
+      "name": "DOGE",
+      "pnl_rate": -0.0307,
+      "weight": 0.0541,
+      "rank": 35,
+      "atr": 0.0687
+    },
+    {
+      "id": 3,
+      "name": "XRP",
+      "pnl_rate": -0.0394,
+      "weight": 0.053,
+      "rank": 3,
+      "atr": 0.0795
+    },
+    {
+      "id": 0,
+      "name": "BTC",
+      "pnl_rate": -0.0411,
+      "weight": 0.0625,
+      "rank": 1,
+      "atr": 0.0696
+    },
+    {
+      "id": 4,
+      "name": "XMR",
+      "pnl_rate": -0.0417,
+      "weight": 0.0527,
+      "rank": 14,
+      "atr": 0.082
+    },
+    {
+      "id": 12,
+      "name": "LINK",
+      "pnl_rate": -0.0437,
+      "weight": 0.05,
+      "rank": 12,
+      "atr": 0.1052
+    },
+    {
+      "id": 9,
+      "name": "ADA",
+      "pnl_rate": -0.0448,
+      "weight": 0.0625,
+      "rank": 16,
+      "atr": 0.0883
+    },
+    {
+      "id": 15,
+      "name": "ATOM",
+      "pnl_rate": -0.0462,
+      "weight": 0.0488,
+      "rank": 26,
+      "atr": 0.1139
+    },
+    {
+      "id": 11,
+      "name": "BAT",
+      "pnl_rate": -0.0498,
+      "weight": 0.05,
+      "rank": 37,
+      "atr": 0.1046
+    },
+    {
+      "id": 14,
+      "name": "XTZ",
+      "pnl_rate": -0.0524,
+      "weight": 0.0625,
+      "rank": 10,
+      "atr": 0.1117
+    },
+    {
+      "id": 8,
+      "name": "ETH",
+      "pnl_rate": -0.0545,
+      "weight": 0.0625,
+      "rank": 2,
+      "atr": 0.0881
+    },
+    {
+      "id": 2,
+      "name": "FTT",
+      "pnl_rate": -0.056,
+      "weight": 0.0625,
+      "rank": 34,
+      "atr": 0.0724
+    },
+    {
+      "id": 7,
+      "name": "BNB",
+      "pnl_rate": -0.0674,
+      "weight": 0.0522,
+      "rank": 8,
+      "atr": 0.0889
+    },
+    {
+      "id": 13,
+      "name": "VET",
+      "pnl_rate": -0.0678,
+      "weight": 0.0499,
+      "rank": 38,
+      "atr": 0.1084
+    },
+    {
+      "id": 10,
+      "name": "DASH",
+      "pnl_rate": -0.0745,
+      "weight": 0.0625,
+      "rank": 19,
+      "atr": 0.0988
+    },
+    {
+      "id": 6,
+      "name": "ZEC",
+      "pnl_rate": -0.0975,
+      "weight": 0.0625,
+      "rank": 28,
+      "atr": 0.0942
+    }
+  ],
+  "summary": {
+    "rate": -0.0071,
+    "value": -0.008
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0667,
+      "id": 0
+    },
+    {
+      "name": "DOGE",
+      "rank": 35,
+      "atr": 0.0673,
+      "id": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 34,
+      "atr": 0.0674,
+      "id": 2
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.076,
+      "id": 3
+    },
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0787,
+      "id": 4
+    },
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0802,
+      "id": 5
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0818,
+      "id": 6
+    },
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0822,
+      "id": 7
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0823,
+      "id": 8
+    },
+    {
+      "name": "ADA",
+      "rank": 16,
+      "atr": 0.0846,
+      "id": 9
+    },
+    {
+      "name": "DASH",
+      "rank": 19,
+      "atr": 0.0902,
+      "id": 10
+    },
+    {
+      "name": "BAT",
+      "rank": 37,
+      "atr": 0.0997,
+      "id": 11
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.1,
+      "id": 12
+    },
+    {
+      "name": "VET",
+      "rank": 38,
+      "atr": 0.1007,
+      "id": 13
+    },
+    {
+      "name": "XTZ",
+      "rank": 10,
+      "atr": 0.105,
+      "id": 14
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.1098,
+      "id": 15
+    }
+  ]
+}

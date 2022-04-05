@@ -1,0 +1,216 @@
+{
+  "pnls": {
+    "BTC": {
+      "start_price": 13266.4,
+      "start_balance": 0.0,
+      "start_value": 0.013,
+      "current_price": 13455.69,
+      "current_balance": 0.0,
+      "current_value": 0.0132,
+      "pnl_rate": 0.0143,
+      "pnl_value": 0.0002,
+      "rank": 1,
+      "atr": 0.0318
+    },
+    "BNB": {
+      "start_price": 30.3295,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 29.8696,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 7,
+      "atr": 0.0552
+    },
+    "XMR": {
+      "start_price": 126.32,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 124.38,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 14,
+      "atr": 0.0631
+    },
+    "ADA": {
+      "start_price": 0.0987,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 0.0953,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 11,
+      "atr": 0.0733
+    },
+    "MKR": {
+      "start_price": 544.53,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 533.13,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 35,
+      "atr": 0.0754
+    },
+    "ETH": {
+      "start_price": 388.22,
+      "start_balance": 0.0,
+      "start_value": 0.0124,
+      "current_price": 387.12,
+      "current_balance": 0.0,
+      "current_value": 0.0123,
+      "pnl_rate": -0.0028,
+      "pnl_value": -0.0,
+      "rank": 2,
+      "atr": 0.0524
+    },
+    "XLM": {
+      "start_price": 0.0783,
+      "start_balance": 0.1559,
+      "start_value": 0.0122,
+      "current_price": 0.0775,
+      "current_balance": 0.1559,
+      "current_value": 0.0121,
+      "pnl_rate": -0.0098,
+      "pnl_value": -0.0001,
+      "rank": 17,
+      "atr": 0.0593
+    },
+    "DASH": {
+      "start_price": 67.91,
+      "start_balance": 0.0002,
+      "start_value": 0.0121,
+      "current_price": 67.08,
+      "current_balance": 0.0002,
+      "current_value": 0.012,
+      "pnl_rate": -0.0122,
+      "pnl_value": -0.0001,
+      "rank": 30,
+      "atr": 0.0624
+    },
+    "XRP": {
+      "start_price": 0.2454,
+      "start_balance": 0.0513,
+      "start_value": 0.0126,
+      "current_price": 0.2423,
+      "current_balance": 0.0513,
+      "current_value": 0.0124,
+      "pnl_rate": -0.0126,
+      "pnl_value": -0.0002,
+      "rank": 4,
+      "atr": 0.045
+    },
+    "LINK": {
+      "start_price": 11.4448,
+      "start_balance": 0.001,
+      "start_value": 0.0112,
+      "current_price": 11.2743,
+      "current_balance": 0.001,
+      "current_value": 0.011,
+      "pnl_rate": -0.0149,
+      "pnl_value": -0.0002,
+      "rank": 6,
+      "atr": 0.0957
+    },
+    "LTC": {
+      "start_price": 55.76,
+      "start_balance": 0.0002,
+      "start_value": 0.0123,
+      "current_price": 54.88,
+      "current_balance": 0.0002,
+      "current_value": 0.0121,
+      "pnl_rate": -0.0158,
+      "pnl_value": -0.0002,
+      "rank": 8,
+      "atr": 0.0567
+    },
+    "IOTA": {
+      "start_price": 0.2692,
+      "start_balance": 0.0438,
+      "start_value": 0.0118,
+      "current_price": 0.2597,
+      "current_balance": 0.0438,
+      "current_value": 0.0114,
+      "pnl_rate": -0.0353,
+      "pnl_value": -0.0004,
+      "rank": 27,
+      "atr": 0.0765
+    },
+    "DOT": {
+      "start_price": 4.3569,
+      "start_balance": 0.0032,
+      "start_value": 0.0138,
+      "current_price": 4.0605,
+      "current_balance": 0.0032,
+      "current_value": 0.0129,
+      "pnl_rate": -0.068,
+      "pnl_value": -0.0009,
+      "rank": 9,
+      "atr": 0.1084
+    }
+  },
+  "total_pnl": {
+    "rate": -0.0014,
+    "value": -0.002
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0318
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0524
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0567
+    },
+    {
+      "name": "XLM",
+      "rank": 17,
+      "atr": 0.0593
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0957
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.1084
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.045
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0552
+    },
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0631
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0733
+    }
+  ]
+}

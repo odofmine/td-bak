@@ -1,0 +1,221 @@
+{
+  "pnls": {
+    "SAND": {
+      "start_price": 4.9623,
+      "start_balance": 0.0151,
+      "start_value": 0.0752,
+      "current_price": 5.3495,
+      "current_balance": 0.0151,
+      "current_value": 0.081,
+      "pnl_rate": 0.078,
+      "pnl_value": 0.0059,
+      "rank": 51,
+      "atr": 0.0799
+    },
+    "IOTA": {
+      "start_price": 1.4244,
+      "start_balance": 0.0528,
+      "start_value": 0.0752,
+      "current_price": 1.4566,
+      "current_balance": 0.0528,
+      "current_value": 0.0769,
+      "pnl_rate": 0.0226,
+      "pnl_value": 0.0017,
+      "rank": 48,
+      "atr": 0.088
+    },
+    "ETH": {
+      "start_price": 4086.28,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 4339.45,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 2,
+      "atr": 0.0572
+    },
+    "BNB": {
+      "start_price": 559.4,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 591.1,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 3,
+      "atr": 0.0611
+    },
+    "SOL": {
+      "start_price": 215.58,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 221.76,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 5,
+      "atr": 0.083
+    },
+    "LTC": {
+      "start_price": 209.1,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 216.2,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 15,
+      "atr": 0.0845
+    },
+    "VET": {
+      "start_price": 0.1266,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 0.1309,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 23,
+      "atr": 0.0991
+    },
+    "HNT": {
+      "start_price": 41.88,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 45.76,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 44,
+      "atr": 0.0954
+    },
+    "ONE": {
+      "start_price": 0.2871,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 0.3298,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 52,
+      "atr": 0.1022
+    },
+    "SHIB": {
+      "start_price": 0.0,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 0.0,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 12,
+      "atr": 0.1658
+    },
+    "MANA": {
+      "start_price": 4.0911,
+      "start_balance": 0.0147,
+      "start_value": 0.0602,
+      "current_price": 4.0217,
+      "current_balance": 0.0147,
+      "current_value": 0.0592,
+      "pnl_rate": -0.017,
+      "pnl_value": -0.001,
+      "rank": 35,
+      "atr": 0.101
+    },
+    "EGLD": {
+      "start_price": 490.82,
+      "start_balance": 0.0002,
+      "start_value": 0.0752,
+      "current_price": 469.37,
+      "current_balance": 0.0002,
+      "current_value": 0.0719,
+      "pnl_rate": -0.0437,
+      "pnl_value": -0.0033,
+      "rank": 25,
+      "atr": 0.0662
+    },
+    "AVAX": {
+      "start_price": 134.84,
+      "start_balance": 0.0006,
+      "start_value": 0.0752,
+      "current_price": 123.83,
+      "current_balance": 0.0006,
+      "current_value": 0.069,
+      "pnl_rate": -0.0817,
+      "pnl_value": -0.0061,
+      "rank": 11,
+      "atr": 0.081
+    }
+  },
+  "total_pnl": {
+    "rate": -0.0001,
+    "value": -0.0029
+  },
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 25,
+      "atr": 0.0662
+    },
+    {
+      "name": "SAND",
+      "rank": 51,
+      "atr": 0.0799
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.081
+    },
+    {
+      "name": "IOTA",
+      "rank": 48,
+      "atr": 0.088
+    },
+    {
+      "name": "MANA",
+      "rank": 35,
+      "atr": 0.101
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0572
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0611
+    },
+    {
+      "name": "SOL",
+      "rank": 5,
+      "atr": 0.083
+    },
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0845
+    },
+    {
+      "name": "AXS",
+      "rank": 26,
+      "atr": 0.0891
+    },
+    {
+      "name": "HNT",
+      "rank": 44,
+      "atr": 0.0954
+    }
+  ]
+}

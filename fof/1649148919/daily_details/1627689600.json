@@ -1,0 +1,215 @@
+{
+  "pnls": {
+    "FTT": {
+      "start_price": 32.602,
+      "start_balance": 0.0032,
+      "start_value": 0.1031,
+      "current_price": 34.981,
+      "current_balance": 0.0032,
+      "current_value": 0.1107,
+      "pnl_rate": 0.073,
+      "pnl_value": 0.0075,
+      "rank": 31,
+      "atr": 0.0744
+    },
+    "BTC": {
+      "start_price": 40018.49,
+      "start_balance": 0.0,
+      "start_value": 0.1031,
+      "current_price": 42206.36,
+      "current_balance": 0.0,
+      "current_value": 0.1088,
+      "pnl_rate": 0.0547,
+      "pnl_value": 0.0056,
+      "rank": 1,
+      "atr": 0.0579
+    },
+    "ETH": {
+      "start_price": 2382.93,
+      "start_balance": 0.0,
+      "start_value": 0.1031,
+      "current_price": 2461.77,
+      "current_balance": 0.0,
+      "current_value": 0.1065,
+      "pnl_rate": 0.0331,
+      "pnl_value": 0.0034,
+      "rank": 2,
+      "atr": 0.0756
+    },
+    "AAVE": {
+      "start_price": 312.0,
+      "start_balance": 0.0003,
+      "start_value": 0.1031,
+      "current_price": 320.39,
+      "current_balance": 0.0003,
+      "current_value": 0.1059,
+      "pnl_rate": 0.0269,
+      "pnl_value": 0.0028,
+      "rank": 27,
+      "atr": 0.1098
+    },
+    "KLAY": {
+      "start_price": 1.0244,
+      "start_balance": 0.1007,
+      "start_value": 0.1031,
+      "current_price": 1.047,
+      "current_balance": 0.1007,
+      "current_value": 0.1054,
+      "pnl_rate": 0.0221,
+      "pnl_value": 0.0023,
+      "rank": 41,
+      "atr": 0.0851
+    },
+    "MKR": {
+      "start_price": 2896.42,
+      "start_balance": 0.0,
+      "start_value": 0.1031,
+      "current_price": 2912.66,
+      "current_balance": 0.0,
+      "current_value": 0.1037,
+      "pnl_rate": 0.0056,
+      "pnl_value": 0.0006,
+      "rank": 38,
+      "atr": 0.0958
+    },
+    "XMR": {
+      "start_price": 241.67,
+      "start_balance": 0.0004,
+      "start_value": 0.1031,
+      "current_price": 242.01,
+      "current_balance": 0.0004,
+      "current_value": 0.1033,
+      "pnl_rate": 0.0014,
+      "pnl_value": 0.0001,
+      "rank": 26,
+      "atr": 0.0829
+    },
+    "COMP": {
+      "start_price": 396.69,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 404.31,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 45,
+      "atr": 0.1185
+    },
+    "LUNA": {
+      "start_price": 11.046,
+      "start_balance": 0.0093,
+      "start_value": 0.1031,
+      "current_price": 10.846,
+      "current_balance": 0.0093,
+      "current_value": 0.1013,
+      "pnl_rate": -0.0181,
+      "pnl_value": -0.0019,
+      "rank": 29,
+      "atr": 0.0979
+    },
+    "AXS": {
+      "start_price": 44.2195,
+      "start_balance": 0.0018,
+      "start_value": 0.0817,
+      "current_price": 43.2224,
+      "current_balance": 0.0018,
+      "current_value": 0.0798,
+      "pnl_rate": -0.0225,
+      "pnl_value": -0.0018,
+      "rank": 34,
+      "atr": 0.106
+    }
+  },
+  "total_pnl": {
+    "rate": 0.0014,
+    "value": 0.0187
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0579
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.0744
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0756
+    },
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0829
+    },
+    {
+      "name": "KLAY",
+      "rank": 41,
+      "atr": 0.0851
+    },
+    {
+      "name": "DCR",
+      "rank": 50,
+      "atr": 0.087
+    },
+    {
+      "name": "MKR",
+      "rank": 38,
+      "atr": 0.0958
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0972
+    },
+    {
+      "name": "LUNA",
+      "rank": 29,
+      "atr": 0.0979
+    },
+    {
+      "name": "HBAR",
+      "rank": 53,
+      "atr": 0.102
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.103
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.106
+    },
+    {
+      "name": "CAKE",
+      "rank": 32,
+      "atr": 0.108
+    },
+    {
+      "name": "AAVE",
+      "rank": 27,
+      "atr": 0.1098
+    },
+    {
+      "name": "EGLD",
+      "rank": 51,
+      "atr": 0.1099
+    },
+    {
+      "name": "WAVES",
+      "rank": 52,
+      "atr": 0.11
+    },
+    {
+      "name": "COMP",
+      "rank": 45,
+      "atr": 0.1185
+    }
+  ]
+}

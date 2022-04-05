@@ -1,0 +1,520 @@
+{
+  "pnls": {
+    "DOGE": {
+      "start_price": 0.581,
+      "start_balance": 0.3514,
+      "start_value": 0.2042,
+      "current_price": 0.6898,
+      "current_balance": 0.3514,
+      "current_value": 0.2424,
+      "pnl_rate": 0.1873,
+      "pnl_value": 0.0382,
+      "rank": 6,
+      "atr": 0.0905
+    },
+    "LINK": {
+      "start_price": 47.148,
+      "start_balance": 0.0043,
+      "start_value": 0.2042,
+      "current_price": 49.134,
+      "current_balance": 0.0043,
+      "current_value": 0.2128,
+      "pnl_rate": 0.0421,
+      "pnl_value": 0.0086,
+      "rank": 12,
+      "atr": 0.0831
+    },
+    "ZEC": {
+      "start_price": 308.68,
+      "start_balance": 0.0007,
+      "start_value": 0.2042,
+      "current_price": 319.74,
+      "current_balance": 0.0007,
+      "current_value": 0.2115,
+      "pnl_rate": 0.0358,
+      "pnl_value": 0.0073,
+      "rank": 51,
+      "atr": 0.0828
+    },
+    "RUNE": {
+      "start_price": 17.468,
+      "start_balance": 0.0117,
+      "start_value": 0.2042,
+      "current_price": 17.962,
+      "current_balance": 0.0117,
+      "current_value": 0.2099,
+      "pnl_rate": 0.0283,
+      "pnl_value": 0.0058,
+      "rank": 45,
+      "atr": 0.0949
+    },
+    "YFI": {
+      "start_price": 52376.93,
+      "start_balance": 0.0,
+      "start_value": 0.2042,
+      "current_price": 53319.39,
+      "current_balance": 0.0,
+      "current_value": 0.2078,
+      "pnl_rate": 0.018,
+      "pnl_value": 0.0037,
+      "rank": 72,
+      "atr": 0.0879
+    },
+    "BNT": {
+      "start_price": 7.5544,
+      "start_balance": 0.027,
+      "start_value": 0.2042,
+      "current_price": 7.6483,
+      "current_balance": 0.027,
+      "current_value": 0.2067,
+      "pnl_rate": 0.0124,
+      "pnl_value": 0.0025,
+      "rank": 89,
+      "atr": 0.0759
+    },
+    "FTT": {
+      "start_price": 58.0,
+      "start_balance": 0.0035,
+      "start_value": 0.2042,
+      "current_price": 58.478,
+      "current_balance": 0.0035,
+      "current_value": 0.2058,
+      "pnl_rate": 0.0082,
+      "pnl_value": 0.0017,
+      "rank": 32,
+      "atr": 0.063
+    },
+    "MKR": {
+      "start_price": 5054.79,
+      "start_balance": 0.0,
+      "start_value": 0.165,
+      "current_price": 5080.18,
+      "current_balance": 0.0,
+      "current_value": 0.1658,
+      "pnl_rate": 0.005,
+      "pnl_value": 0.0008,
+      "rank": 34,
+      "atr": 0.0956
+    },
+    "ADA": {
+      "start_price": 1.6491,
+      "start_balance": 0.1238,
+      "start_value": 0.2042,
+      "current_price": 1.6529,
+      "current_balance": 0.1238,
+      "current_value": 0.2046,
+      "pnl_rate": 0.0023,
+      "pnl_value": 0.0005,
+      "rank": 7,
+      "atr": 0.0785
+    },
+    "ETH": {
+      "start_price": 3489.74,
+      "start_balance": 0.0001,
+      "start_value": 0.2042,
+      "current_price": 3479.79,
+      "current_balance": 0.0001,
+      "current_value": 0.2036,
+      "pnl_rate": -0.0029,
+      "pnl_value": -0.0006,
+      "rank": 2,
+      "atr": 0.0566
+    },
+    "UNI": {
+      "start_price": 40.224,
+      "start_balance": 0.0042,
+      "start_value": 0.1674,
+      "current_price": 39.733,
+      "current_balance": 0.0042,
+      "current_value": 0.1654,
+      "pnl_rate": -0.0122,
+      "pnl_value": -0.002,
+      "rank": 9,
+      "atr": 0.0905
+    },
+    "BNB": {
+      "start_price": 634.03,
+      "start_balance": 0.0003,
+      "start_value": 0.1731,
+      "current_price": 624.3,
+      "current_balance": 0.0003,
+      "current_value": 0.1705,
+      "pnl_rate": -0.0153,
+      "pnl_value": -0.0027,
+      "rank": 3,
+      "atr": 0.0766
+    },
+    "LTC": {
+      "start_price": 354.52,
+      "start_balance": 0.0006,
+      "start_value": 0.2042,
+      "current_price": 344.89,
+      "current_balance": 0.0006,
+      "current_value": 0.1986,
+      "pnl_rate": -0.0272,
+      "pnl_value": -0.0055,
+      "rank": 11,
+      "atr": 0.0798
+    },
+    "XLM": {
+      "start_price": 0.6509,
+      "start_balance": 0.3137,
+      "start_value": 0.2042,
+      "current_price": 0.6309,
+      "current_balance": 0.3137,
+      "current_value": 0.1979,
+      "pnl_rate": -0.0307,
+      "pnl_value": -0.0063,
+      "rank": 15,
+      "atr": 0.095
+    },
+    "COMP": {
+      "start_price": 740.41,
+      "start_balance": 0.0002,
+      "start_value": 0.1654,
+      "current_price": 714.63,
+      "current_balance": 0.0002,
+      "current_value": 0.1596,
+      "pnl_rate": -0.0348,
+      "pnl_value": -0.0058,
+      "rank": 41,
+      "atr": 0.0975
+    },
+    "DOT": {
+      "start_price": 41.564,
+      "start_balance": 0.0049,
+      "start_value": 0.2042,
+      "current_price": 39.869,
+      "current_balance": 0.0049,
+      "current_value": 0.1958,
+      "pnl_rate": -0.0408,
+      "pnl_value": -0.0083,
+      "rank": 8,
+      "atr": 0.0927
+    },
+    "WAVES": {
+      "start_price": 34.201,
+      "start_balance": 0.006,
+      "start_value": 0.2042,
+      "current_price": 32.439,
+      "current_balance": 0.006,
+      "current_value": 0.1936,
+      "pnl_rate": -0.0515,
+      "pnl_value": -0.0105,
+      "rank": 56,
+      "atr": 0.1025
+    },
+    "XTZ": {
+      "start_price": 7.5797,
+      "start_balance": 0.0269,
+      "start_value": 0.2042,
+      "current_price": 7.084,
+      "current_balance": 0.0269,
+      "current_value": 0.1908,
+      "pnl_rate": -0.0654,
+      "pnl_value": -0.0134,
+      "rank": 38,
+      "atr": 0.1009
+    },
+    "DASH": {
+      "start_price": 442.87,
+      "start_balance": 0.0005,
+      "start_value": 0.2042,
+      "current_price": 404.48,
+      "current_balance": 0.0005,
+      "current_value": 0.1865,
+      "pnl_rate": -0.0867,
+      "pnl_value": -0.0177,
+      "rank": 46,
+      "atr": 0.0916
+    },
+    "OMG": {
+      "start_price": 13.1257,
+      "start_balance": 0.0156,
+      "start_value": 0.2042,
+      "current_price": 11.8785,
+      "current_balance": 0.0156,
+      "current_value": 0.1848,
+      "pnl_rate": -0.095,
+      "pnl_value": -0.0194,
+      "rank": 94,
+      "atr": 0.1039
+    }
+  },
+  "total_pnl": {
+    "rate": -0.0016,
+    "value": -0.0231
+  },
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0566
+    },
+    {
+      "name": "FTT",
+      "rank": 32,
+      "atr": 0.063
+    },
+    {
+      "name": "BNT",
+      "rank": 89,
+      "atr": 0.0759
+    },
+    {
+      "name": "ADA",
+      "rank": 7,
+      "atr": 0.0785
+    },
+    {
+      "name": "LTC",
+      "rank": 11,
+      "atr": 0.0798
+    },
+    {
+      "name": "ZEC",
+      "rank": 51,
+      "atr": 0.0828
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.0831
+    },
+    {
+      "name": "YFI",
+      "rank": 72,
+      "atr": 0.0879
+    },
+    {
+      "name": "DOGE",
+      "rank": 6,
+      "atr": 0.0905
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0905
+    },
+    {
+      "name": "DASH",
+      "rank": 46,
+      "atr": 0.0916
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0927
+    },
+    {
+      "name": "RUNE",
+      "rank": 45,
+      "atr": 0.0949
+    },
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.095
+    },
+    {
+      "name": "MKR",
+      "rank": 34,
+      "atr": 0.0956
+    },
+    {
+      "name": "LUNA",
+      "rank": 24,
+      "atr": 0.0968
+    },
+    {
+      "name": "ATOM",
+      "rank": 35,
+      "atr": 0.0975
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0975
+    },
+    {
+      "name": "XTZ",
+      "rank": 38,
+      "atr": 0.1009
+    },
+    {
+      "name": "ALGO",
+      "rank": 40,
+      "atr": 0.1019
+    },
+    {
+      "name": "WAVES",
+      "rank": 56,
+      "atr": 0.1025
+    },
+    {
+      "name": "KSM",
+      "rank": 44,
+      "atr": 0.1036
+    },
+    {
+      "name": "OMG",
+      "rank": 94,
+      "atr": 0.1039
+    },
+    {
+      "name": "EGLD",
+      "rank": 47,
+      "atr": 0.1047
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.106
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1068
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.1107
+    },
+    {
+      "name": "ZIL",
+      "rank": 59,
+      "atr": 0.1143
+    },
+    {
+      "name": "ZRX",
+      "rank": 83,
+      "atr": 0.1148
+    },
+    {
+      "name": "ONT",
+      "rank": 78,
+      "atr": 0.1151
+    },
+    {
+      "name": "ICX",
+      "rank": 76,
+      "atr": 0.1176
+    },
+    {
+      "name": "HNT",
+      "rank": 81,
+      "atr": 0.1186
+    },
+    {
+      "name": "TFUEL",
+      "rank": 70,
+      "atr": 0.1197
+    },
+    {
+      "name": "AVAX",
+      "rank": 42,
+      "atr": 0.1199
+    },
+    {
+      "name": "FTM",
+      "rank": 69,
+      "atr": 0.1236
+    },
+    {
+      "name": "XVS",
+      "rank": 90,
+      "atr": 0.1322
+    },
+    {
+      "name": "DCR",
+      "rank": 53,
+      "atr": 0.0748
+    },
+    {
+      "name": "XMR",
+      "rank": 22,
+      "atr": 0.0761
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0766
+    },
+    {
+      "name": "ZEN",
+      "rank": 87,
+      "atr": 0.0926
+    },
+    {
+      "name": "SOL",
+      "rank": 16,
+      "atr": 0.0927
+    },
+    {
+      "name": "FIL",
+      "rank": 17,
+      "atr": 0.0956
+    },
+    {
+      "name": "CAKE",
+      "rank": 25,
+      "atr": 0.1049
+    },
+    {
+      "name": "IOTA",
+      "rank": 29,
+      "atr": 0.1101
+    },
+    {
+      "name": "VET",
+      "rank": 14,
+      "atr": 0.1104
+    },
+    {
+      "name": "MANA",
+      "rank": 61,
+      "atr": 0.1108
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.115
+    },
+    {
+      "name": "CELO",
+      "rank": 88,
+      "atr": 0.115
+    },
+    {
+      "name": "ANKR",
+      "rank": 91,
+      "atr": 0.1191
+    },
+    {
+      "name": "STX",
+      "rank": 58,
+      "atr": 0.1232
+    },
+    {
+      "name": "DGB",
+      "rank": 60,
+      "atr": 0.1243
+    },
+    {
+      "name": "SC",
+      "rank": 67,
+      "atr": 0.1318
+    },
+    {
+      "name": "IOST",
+      "rank": 96,
+      "atr": 0.1325
+    },
+    {
+      "name": "CHZ",
+      "rank": 50,
+      "atr": 0.1546
+    }
+  ]
+}

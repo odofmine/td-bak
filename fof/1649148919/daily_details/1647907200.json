@@ -1,0 +1,207 @@
+{
+  "pnls": {
+    "EGLD": {
+      "start_price": 160.7,
+      "start_balance": 0.0011,
+      "start_value": 0.1805,
+      "current_price": 172.99,
+      "current_balance": 0.0011,
+      "current_value": 0.1943,
+      "pnl_rate": 0.0765,
+      "pnl_value": 0.0138,
+      "rank": 38,
+      "atr": 0.0895
+    },
+    "XRP": {
+      "start_price": 0.8057,
+      "start_balance": 0.224,
+      "start_value": 0.1805,
+      "current_price": 0.8372,
+      "current_balance": 0.224,
+      "current_value": 0.1876,
+      "pnl_rate": 0.0391,
+      "pnl_value": 0.0071,
+      "rank": 6,
+      "atr": 0.0649
+    },
+    "NEAR": {
+      "start_price": 10.652,
+      "start_balance": 0.0169,
+      "start_value": 0.1805,
+      "current_price": 10.862,
+      "current_balance": 0.0169,
+      "current_value": 0.1841,
+      "pnl_rate": 0.0197,
+      "pnl_value": 0.0036,
+      "rank": 22,
+      "atr": 0.1019
+    },
+    "AVAX": {
+      "start_price": 84.87,
+      "start_balance": 0.0021,
+      "start_value": 0.1805,
+      "current_price": 86.24,
+      "current_balance": 0.0021,
+      "current_value": 0.1834,
+      "pnl_rate": 0.0161,
+      "pnl_value": 0.0029,
+      "rank": 10,
+      "atr": 0.0916
+    },
+    "FTT": {
+      "start_price": 44.02,
+      "start_balance": 0.0041,
+      "start_value": 0.1805,
+      "current_price": 44.65,
+      "current_balance": 0.0041,
+      "current_value": 0.1831,
+      "pnl_rate": 0.0143,
+      "pnl_value": 0.0026,
+      "rank": 27,
+      "atr": 0.0563
+    },
+    "ETH": {
+      "start_price": 2861.39,
+      "start_balance": 0.0001,
+      "start_value": 0.1805,
+      "current_price": 2890.03,
+      "current_balance": 0.0001,
+      "current_value": 0.1823,
+      "pnl_rate": 0.01,
+      "pnl_value": 0.0018,
+      "rank": 2,
+      "atr": 0.0635
+    },
+    "DOT": {
+      "start_price": 18.66,
+      "start_balance": 0.0097,
+      "start_value": 0.1805,
+      "current_price": 18.75,
+      "current_balance": 0.0097,
+      "current_value": 0.1814,
+      "pnl_rate": 0.0048,
+      "pnl_value": 0.0009,
+      "rank": 11,
+      "atr": 0.0788
+    },
+    "LUNA": {
+      "start_price": 90.63,
+      "start_balance": 0.0,
+      "start_value": 0.0,
+      "current_price": 95.76,
+      "current_balance": 0.0,
+      "current_value": 0.0,
+      "pnl_rate": 0.0,
+      "pnl_value": 0.0,
+      "rank": 7,
+      "atr": 0.0832
+    },
+    "BTC": {
+      "start_price": 41262.11,
+      "start_balance": 0.0,
+      "start_value": 0.1805,
+      "current_price": 41002.26,
+      "current_balance": 0.0,
+      "current_value": 0.1794,
+      "pnl_rate": -0.0063,
+      "pnl_value": -0.0011,
+      "rank": 1,
+      "atr": 0.053
+    },
+    "WAVES": {
+      "start_price": 32.58,
+      "start_balance": 0.0047,
+      "start_value": 0.1537,
+      "current_price": 32.36,
+      "current_balance": 0.0047,
+      "current_value": 0.1527,
+      "pnl_rate": -0.0068,
+      "pnl_value": -0.001,
+      "rank": 39,
+      "atr": 0.0751
+    },
+    "XMR": {
+      "start_price": 194.7,
+      "start_balance": 0.0009,
+      "start_value": 0.1805,
+      "current_price": 191.4,
+      "current_balance": 0.0009,
+      "current_value": 0.1774,
+      "pnl_rate": -0.0169,
+      "pnl_value": -0.0031,
+      "rank": 37,
+      "atr": 0.082
+    }
+  },
+  "total_pnl": {
+    "rate": 0.0012,
+    "value": 0.0273
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.053
+    },
+    {
+      "name": "FTT",
+      "rank": 27,
+      "atr": 0.0563
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0635
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0649
+    },
+    {
+      "name": "LTC",
+      "rank": 20,
+      "atr": 0.0682
+    },
+    {
+      "name": "WAVES",
+      "rank": 39,
+      "atr": 0.0751
+    },
+    {
+      "name": "DOT",
+      "rank": 11,
+      "atr": 0.0788
+    },
+    {
+      "name": "XMR",
+      "rank": 37,
+      "atr": 0.082
+    },
+    {
+      "name": "RUNE",
+      "rank": 47,
+      "atr": 0.0892
+    },
+    {
+      "name": "EGLD",
+      "rank": 38,
+      "atr": 0.0895
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0916
+    },
+    {
+      "name": "NEAR",
+      "rank": 22,
+      "atr": 0.1019
+    },
+    {
+      "name": "LUNA",
+      "rank": 7,
+      "atr": 0.0832
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "id": 0,
+      "name": "BTC",
+      "pnl_rate": -0.0162,
+      "weight": 0.1,
+      "rank": 1,
+      "atr": 0.0311
+    },
+    {
+      "id": 1,
+      "name": "XRP",
+      "pnl_rate": -0.0232,
+      "weight": 0.0901,
+      "rank": 4,
+      "atr": 0.0503
+    },
+    {
+      "id": 2,
+      "name": "LTC",
+      "pnl_rate": -0.0386,
+      "weight": 0.089,
+      "rank": 9,
+      "atr": 0.0586
+    },
+    {
+      "id": 3,
+      "name": "ETH",
+      "pnl_rate": -0.0321,
+      "weight": 0.1,
+      "rank": 2,
+      "atr": 0.0574
+    },
+    {
+      "id": 4,
+      "name": "XMR",
+      "pnl_rate": -0.0737,
+      "weight": 0.1,
+      "rank": 15,
+      "atr": 0.0656
+    },
+    {
+      "id": 5,
+      "name": "BNB",
+      "pnl_rate": -0.0407,
+      "weight": 0.1,
+      "rank": 7,
+      "atr": 0.0623
+    },
+    {
+      "id": 6,
+      "name": "ADA",
+      "pnl_rate": -0.0233,
+      "weight": 0.0854,
+      "rank": 10,
+      "atr": 0.0739
+    },
+    {
+      "id": 7,
+      "name": "ZEC",
+      "pnl_rate": -0.0831,
+      "weight": 0.0846,
+      "rank": 27,
+      "atr": 0.0859
+    },
+    {
+      "id": 8,
+      "name": "ATOM",
+      "pnl_rate": -0.0629,
+      "weight": 0.081,
+      "rank": 21,
+      "atr": 0.1013
+    },
+    {
+      "id": 9,
+      "name": "THETA",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 28,
+      "atr": 0.0895
+    }
+  ],
+  "summary": {
+    "rate": -0.0033,
+    "value": -0.0048
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0306,
+      "id": 0
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0493,
+      "id": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 9,
+      "atr": 0.0552,
+      "id": 2
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0558,
+      "id": 3
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0584,
+      "id": 4
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0591,
+      "id": 5
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0731,
+      "id": 6
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0768,
+      "id": 7
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.095,
+      "id": 8
+    },
+    {
+      "name": "THETA",
+      "rank": 28,
+      "atr": 0.0865,
+      "id": 9
+    }
+  ]
+}

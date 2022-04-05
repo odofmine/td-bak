@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "id": 0,
+      "name": "BTC",
+      "pnl_rate": 0.0547,
+      "weight": 0.1,
+      "rank": 1,
+      "atr": 0.0579
+    },
+    {
+      "id": 1,
+      "name": "ETH",
+      "pnl_rate": 0.0331,
+      "weight": 0.1,
+      "rank": 2,
+      "atr": 0.0756
+    },
+    {
+      "id": 2,
+      "name": "FTT",
+      "pnl_rate": 0.073,
+      "weight": 0.1,
+      "rank": 31,
+      "atr": 0.0744
+    },
+    {
+      "id": 3,
+      "name": "XMR",
+      "pnl_rate": 0.0014,
+      "weight": 0.1,
+      "rank": 26,
+      "atr": 0.0829
+    },
+    {
+      "id": 4,
+      "name": "KLAY",
+      "pnl_rate": 0.0221,
+      "weight": 0.1,
+      "rank": 41,
+      "atr": 0.0851
+    },
+    {
+      "id": 5,
+      "name": "LUNA",
+      "pnl_rate": -0.0181,
+      "weight": 0.1,
+      "rank": 29,
+      "atr": 0.0979
+    },
+    {
+      "id": 6,
+      "name": "MKR",
+      "pnl_rate": 0.0056,
+      "weight": 0.1,
+      "rank": 38,
+      "atr": 0.0958
+    },
+    {
+      "id": 7,
+      "name": "AXS",
+      "pnl_rate": -0.0225,
+      "weight": 0.0792,
+      "rank": 34,
+      "atr": 0.106
+    },
+    {
+      "id": 8,
+      "name": "AAVE",
+      "pnl_rate": 0.0269,
+      "weight": 0.1,
+      "rank": 27,
+      "atr": 0.1098
+    },
+    {
+      "id": 9,
+      "name": "COMP",
+      "pnl_rate": 0.0,
+      "weight": 0.0,
+      "rank": 45,
+      "atr": 0.1185
+    }
+  ],
+  "summary": {
+    "rate": 0.0014,
+    "value": 0.0187
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0596,
+      "id": 0
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0786,
+      "id": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.0798,
+      "id": 2
+    },
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0838,
+      "id": 3
+    },
+    {
+      "name": "KLAY",
+      "rank": 41,
+      "atr": 0.0875,
+      "id": 4
+    },
+    {
+      "name": "LUNA",
+      "rank": 29,
+      "atr": 0.0961,
+      "id": 5
+    },
+    {
+      "name": "MKR",
+      "rank": 38,
+      "atr": 0.0975,
+      "id": 6
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.104,
+      "id": 7
+    },
+    {
+      "name": "AAVE",
+      "rank": 27,
+      "atr": 0.1141,
+      "id": 8
+    },
+    {
+      "name": "COMP",
+      "rank": 45,
+      "atr": 0.1224,
+      "id": 9
+    }
+  ]
+}

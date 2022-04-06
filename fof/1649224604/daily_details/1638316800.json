@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl_rate": 0.1244,
+      "weight": 0.0909,
+      "rank": 19,
+      "atr": 0.0859
+    },
+    {
+      "name": "EGLD",
+      "pnl_rate": 0.0839,
+      "weight": 0.0942,
+      "rank": 24,
+      "atr": 0.0851
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": 0.0733,
+      "weight": 0.1053,
+      "rank": 13,
+      "atr": 0.0775
+    },
+    {
+      "name": "GALA",
+      "pnl_rate": 0.0385,
+      "weight": 0.0858,
+      "rank": 41,
+      "atr": 0.0945
+    },
+    {
+      "name": "BNB",
+      "pnl_rate": 0.008,
+      "weight": 0.1392,
+      "rank": 3,
+      "atr": 0.0601
+    },
+    {
+      "name": "AVAX",
+      "pnl_rate": -0.0065,
+      "weight": 0.0941,
+      "rank": 11,
+      "atr": 0.0906
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0102,
+      "weight": 0.149,
+      "rank": 2,
+      "atr": 0.0575
+    },
+    {
+      "name": "MANA",
+      "pnl_rate": -0.0217,
+      "weight": 0.0778,
+      "rank": 23,
+      "atr": 0.1105
+    },
+    {
+      "name": "HNT",
+      "pnl_rate": -0.0253,
+      "weight": 0.0753,
+      "rank": 45,
+      "atr": 0.113
+    },
+    {
+      "name": "SAND",
+      "pnl_rate": -0.0326,
+      "weight": 0.0879,
+      "rank": 33,
+      "atr": 0.1003
+    }
+  ],
+  "summary": {
+    "rate": 0.0007,
+    "value": 0.0184
+  },
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0806
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0934
+    },
+    {
+      "name": "SAND",
+      "rank": 33,
+      "atr": 0.0966
+    },
+    {
+      "name": "GALA",
+      "rank": 41,
+      "atr": 0.0989
+    },
+    {
+      "name": "MANA",
+      "rank": 23,
+      "atr": 0.1091
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.057
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.061
+    },
+    {
+      "name": "EGLD",
+      "rank": 24,
+      "atr": 0.0901
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.0902
+    },
+    {
+      "name": "HNT",
+      "rank": 45,
+      "atr": 0.1127
+    }
+  ]
+}

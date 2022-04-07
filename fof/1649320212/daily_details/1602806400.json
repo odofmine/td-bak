@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0162,
+      "weight": 0.1901,
+      "rank": 1,
+      "atr": 0.0311
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0232,
+      "weight": 0.1179,
+      "rank": 4,
+      "atr": 0.0503
+    },
+    {
+      "name": "ADA",
+      "pnl_rate": -0.0233,
+      "weight": 0.0795,
+      "rank": 10,
+      "atr": 0.0739
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0321,
+      "weight": 0.1042,
+      "rank": 2,
+      "atr": 0.0574
+    },
+    {
+      "name": "LTC",
+      "pnl_rate": -0.0386,
+      "weight": 0.1053,
+      "rank": 9,
+      "atr": 0.0586
+    },
+    {
+      "name": "THETA",
+      "pnl_rate": -0.0406,
+      "weight": 0.0672,
+      "rank": 28,
+      "atr": 0.0895
+    },
+    {
+      "name": "BNB",
+      "pnl_rate": -0.0407,
+      "weight": 0.0984,
+      "rank": 7,
+      "atr": 0.0623
+    },
+    {
+      "name": "ATOM",
+      "pnl_rate": -0.0629,
+      "weight": 0.0612,
+      "rank": 21,
+      "atr": 0.1013
+    },
+    {
+      "name": "XMR",
+      "pnl_rate": -0.0737,
+      "weight": 0.0996,
+      "rank": 15,
+      "atr": 0.0656
+    },
+    {
+      "name": "ZEC",
+      "pnl_rate": -0.0831,
+      "weight": 0.0757,
+      "rank": 27,
+      "atr": 0.0859
+    }
+  ],
+  "summary": {
+    "rate": -0.0026,
+    "value": -0.0032
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0306
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0493
+    },
+    {
+      "name": "LTC",
+      "rank": 9,
+      "atr": 0.0552
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0558
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0584
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0591
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0731
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0768
+    },
+    {
+      "name": "THETA",
+      "rank": 28,
+      "atr": 0.0865
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.095
+    }
+  ]
+}

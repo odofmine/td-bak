@@ -1,0 +1,440 @@
+{
+  "pnls": [
+    {
+      "name": "QC",
+      "pnl_rate": 0.0021,
+      "weight": 0.1021,
+      "rank": 93,
+      "atr": 0.0704
+    },
+    {
+      "name": "NANO",
+      "pnl_rate": 0.0004,
+      "weight": 0.0832,
+      "rank": 81,
+      "atr": 0.084
+    },
+    {
+      "name": "CRO",
+      "pnl_rate": -0.0015,
+      "weight": 0.1451,
+      "rank": 15,
+      "atr": 0.0502
+    },
+    {
+      "name": "HOT",
+      "pnl_rate": -0.0059,
+      "weight": 0.0738,
+      "rank": 82,
+      "atr": 0.0813
+    },
+    {
+      "name": "MATIC",
+      "pnl_rate": -0.0069,
+      "weight": 0.1003,
+      "rank": 105,
+      "atr": 0.0742
+    },
+    {
+      "name": "MONA",
+      "pnl_rate": -0.0126,
+      "weight": 0.0792,
+      "rank": 77,
+      "atr": 0.0795
+    },
+    {
+      "name": "REP",
+      "pnl_rate": -0.0183,
+      "weight": 0.0731,
+      "rank": 57,
+      "atr": 0.0826
+    },
+    {
+      "name": "REN",
+      "pnl_rate": -0.0185,
+      "weight": 0.0757,
+      "rank": 96,
+      "atr": 0.0814
+    },
+    {
+      "name": "THETA",
+      "pnl_rate": -0.0243,
+      "weight": 0.1048,
+      "rank": 58,
+      "atr": 0.0707
+    },
+    {
+      "name": "SNT",
+      "pnl_rate": -0.0459,
+      "weight": 0.0757,
+      "rank": 64,
+      "atr": 0.0839
+    }
+  ],
+  "summary": {
+    "rate": -0.0078,
+    "value": -0.2975
+  },
+  "raw_selected": [
+    {
+      "name": "CRO",
+      "rank": 15,
+      "atr": 0.0497
+    },
+    {
+      "name": "THETA",
+      "rank": 58,
+      "atr": 0.0688
+    },
+    {
+      "name": "QC",
+      "rank": 93,
+      "atr": 0.0706
+    },
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.0719
+    },
+    {
+      "name": "NANO",
+      "rank": 81,
+      "atr": 0.0739
+    },
+    {
+      "name": "MONA",
+      "rank": 77,
+      "atr": 0.077
+    },
+    {
+      "name": "SNT",
+      "rank": 64,
+      "atr": 0.08
+    },
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.08
+    },
+    {
+      "name": "HOT",
+      "rank": 82,
+      "atr": 0.0817
+    },
+    {
+      "name": "REP",
+      "rank": 57,
+      "atr": 0.0824
+    },
+    {
+      "name": "BCN",
+      "rank": 113,
+      "atr": 0.0844
+    },
+    {
+      "name": "NMR",
+      "rank": 83,
+      "atr": 0.086
+    },
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.0997
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.102
+    },
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.1063
+    },
+    {
+      "name": "HYN",
+      "rank": 48,
+      "atr": 0.1076
+    },
+    {
+      "name": "ABBC",
+      "rank": 63,
+      "atr": 0.113
+    },
+    {
+      "name": "DGB",
+      "rank": 39,
+      "atr": 0.1142
+    },
+    {
+      "name": "BAT",
+      "rank": 36,
+      "atr": 0.1166
+    },
+    {
+      "name": "PLF",
+      "rank": 42,
+      "atr": 0.125
+    },
+    {
+      "name": "CRPT",
+      "rank": 104,
+      "atr": 0.186
+    },
+    {
+      "name": "DNA",
+      "rank": 71,
+      "atr": 0.0299
+    },
+    {
+      "name": "BOTX",
+      "rank": 85,
+      "atr": 0.0334
+    },
+    {
+      "name": "FTT",
+      "rank": 37,
+      "atr": 0.0442
+    },
+    {
+      "name": "DGD",
+      "rank": 86,
+      "atr": 0.0479
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.052
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0537
+    },
+    {
+      "name": "MCO",
+      "rank": 73,
+      "atr": 0.0543
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0548
+    },
+    {
+      "name": "HT",
+      "rank": 18,
+      "atr": 0.0562
+    },
+    {
+      "name": "OKB",
+      "rank": 35,
+      "atr": 0.0617
+    },
+    {
+      "name": "DCR",
+      "rank": 47,
+      "atr": 0.0617
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.062
+    },
+    {
+      "name": "HEDG",
+      "rank": 24,
+      "atr": 0.0634
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0659
+    },
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0663
+    },
+    {
+      "name": "ONT",
+      "rank": 34,
+      "atr": 0.0666
+    },
+    {
+      "name": "NRG",
+      "rank": 75,
+      "atr": 0.0666
+    },
+    {
+      "name": "ADA",
+      "rank": 13,
+      "atr": 0.0669
+    },
+    {
+      "name": "DX",
+      "rank": 76,
+      "atr": 0.069
+    },
+    {
+      "name": "OMG",
+      "rank": 69,
+      "atr": 0.0746
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0778
+    },
+    {
+      "name": "DOGE",
+      "rank": 33,
+      "atr": 0.0787
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0791
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0811
+    },
+    {
+      "name": "SEELE",
+      "rank": 106,
+      "atr": 0.085
+    },
+    {
+      "name": "MKR",
+      "rank": 31,
+      "atr": 0.0864
+    },
+    {
+      "name": "BTT",
+      "rank": 101,
+      "atr": 0.0867
+    },
+    {
+      "name": "XTZ",
+      "rank": 10,
+      "atr": 0.087
+    },
+    {
+      "name": "LSK",
+      "rank": 55,
+      "atr": 0.0885
+    },
+    {
+      "name": "BTS",
+      "rank": 110,
+      "atr": 0.0921
+    },
+    {
+      "name": "KNC",
+      "rank": 62,
+      "atr": 0.0948
+    },
+    {
+      "name": "BTM",
+      "rank": 98,
+      "atr": 0.0954
+    },
+    {
+      "name": "XTP",
+      "rank": 100,
+      "atr": 0.0965
+    },
+    {
+      "name": "ICX",
+      "rank": 50,
+      "atr": 0.0982
+    },
+    {
+      "name": "BHD",
+      "rank": 99,
+      "atr": 0.1029
+    },
+    {
+      "name": "KMD",
+      "rank": 94,
+      "atr": 0.1045
+    },
+    {
+      "name": "ALGO",
+      "rank": 54,
+      "atr": 0.1074
+    },
+    {
+      "name": "QQQ",
+      "rank": 112,
+      "atr": 0.1139
+    },
+    {
+      "name": "FXC",
+      "rank": 74,
+      "atr": 0.114
+    },
+    {
+      "name": "WAVES",
+      "rank": 67,
+      "atr": 0.1153
+    },
+    {
+      "name": "SNX",
+      "rank": 49,
+      "atr": 0.1163
+    },
+    {
+      "name": "VET",
+      "rank": 41,
+      "atr": 0.1164
+    },
+    {
+      "name": "XVG",
+      "rank": 108,
+      "atr": 0.1176
+    },
+    {
+      "name": "SC",
+      "rank": 80,
+      "atr": 0.1183
+    },
+    {
+      "name": "RVN",
+      "rank": 60,
+      "atr": 0.1209
+    },
+    {
+      "name": "HBAR",
+      "rank": 52,
+      "atr": 0.1235
+    },
+    {
+      "name": "STEEM",
+      "rank": 97,
+      "atr": 0.1439
+    },
+    {
+      "name": "BCD",
+      "rank": 66,
+      "atr": 0.1468
+    },
+    {
+      "name": "HIVE",
+      "rank": 72,
+      "atr": 0.2488
+    },
+    {
+      "name": "MIN",
+      "rank": 25,
+      "atr": 0.4801
+    },
+    {
+      "name": "SOLO",
+      "rank": 102,
+      "atr": 351.6425
+    }
+  ]
+}

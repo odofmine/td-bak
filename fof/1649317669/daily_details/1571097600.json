@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl_rate": 0.0246,
+      "weight": 0.0917,
+      "rank": 32,
+      "atr": 0.0843
+    },
+    {
+      "name": "HEDG",
+      "pnl_rate": -0.008,
+      "weight": 0.1249,
+      "rank": 34,
+      "atr": 0.0618
+    },
+    {
+      "name": "ABBC",
+      "pnl_rate": -0.0086,
+      "weight": 0.0432,
+      "rank": 48,
+      "atr": 0.1787
+    },
+    {
+      "name": "HOT",
+      "pnl_rate": -0.0131,
+      "weight": 0.098,
+      "rank": 47,
+      "atr": 0.0797
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0312,
+      "weight": 0.1492,
+      "rank": 3,
+      "atr": 0.0542
+    },
+    {
+      "name": "MKR",
+      "pnl_rate": -0.0314,
+      "weight": 0.0928,
+      "rank": 24,
+      "atr": 0.0862
+    },
+    {
+      "name": "ZRX",
+      "pnl_rate": -0.0485,
+      "weight": 0.1177,
+      "rank": 38,
+      "atr": 0.0721
+    },
+    {
+      "name": "ATOM",
+      "pnl_rate": -0.052,
+      "weight": 0.0899,
+      "rank": 21,
+      "atr": 0.0907
+    },
+    {
+      "name": "LINK",
+      "pnl_rate": -0.0557,
+      "weight": 0.092,
+      "rank": 15,
+      "atr": 0.0911
+    },
+    {
+      "name": "RVN",
+      "pnl_rate": -0.0634,
+      "weight": 0.1002,
+      "rank": 41,
+      "atr": 0.0829
+    }
+  ],
+  "summary": {
+    "rate": -0.003,
+    "value": -0.1227
+  },
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0525
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0665
+    },
+    {
+      "name": "RVN",
+      "rank": 41,
+      "atr": 0.0781
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.0799
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0844
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0851
+    },
+    {
+      "name": "BAT",
+      "rank": 32,
+      "atr": 0.0854
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0871
+    },
+    {
+      "name": "HEDG",
+      "rank": 34,
+      "atr": 0.0627
+    },
+    {
+      "name": "ABBC",
+      "rank": 48,
+      "atr": 0.1812
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl_rate": 0.0452,
+      "weight": 0.1351,
+      "rank": 6,
+      "atr": 0.1029
+    },
+    {
+      "name": "KMD",
+      "pnl_rate": 0.0344,
+      "weight": 0.0643,
+      "rank": 30,
+      "atr": 0.2126
+    },
+    {
+      "name": "PIVX",
+      "pnl_rate": 0.0318,
+      "weight": 0.1026,
+      "rank": 34,
+      "atr": 0.134
+    },
+    {
+      "name": "MAID",
+      "pnl_rate": -0.0067,
+      "weight": 0.1135,
+      "rank": 22,
+      "atr": 0.1255
+    },
+    {
+      "name": "OMG",
+      "pnl_rate": -0.0071,
+      "weight": 0.0821,
+      "rank": 11,
+      "atr": 0.1749
+    },
+    {
+      "name": "LSK",
+      "pnl_rate": -0.0077,
+      "weight": 0.0981,
+      "rank": 14,
+      "atr": 0.1439
+    },
+    {
+      "name": "LTC",
+      "pnl_rate": -0.0211,
+      "weight": 0.1017,
+      "rank": 5,
+      "atr": 0.1429
+    },
+    {
+      "name": "MTL",
+      "pnl_rate": -0.0223,
+      "weight": 0.0832,
+      "rank": 33,
+      "atr": 0.1727
+    },
+    {
+      "name": "XMR",
+      "pnl_rate": -0.0278,
+      "weight": 0.0995,
+      "rank": 8,
+      "atr": 0.1463
+    },
+    {
+      "name": "ARK",
+      "pnl_rate": -0.0772,
+      "weight": 0.1193,
+      "rank": 20,
+      "atr": 0.1306
+    }
+  ],
+  "summary": {
+    "rate": -0.0001,
+    "value": -0.0018
+  },
+  "raw_selected": [
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.1203
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.1063
+    },
+    {
+      "name": "MAID",
+      "rank": 24,
+      "atr": 0.1265
+    },
+    {
+      "name": "PIVX",
+      "rank": 36,
+      "atr": 0.1399
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.1412
+    },
+    {
+      "name": "XMR",
+      "rank": 8,
+      "atr": 0.1443
+    },
+    {
+      "name": "LSK",
+      "rank": 15,
+      "atr": 0.1463
+    },
+    {
+      "name": "MTL",
+      "rank": 32,
+      "atr": 0.1725
+    },
+    {
+      "name": "OMG",
+      "rank": 12,
+      "atr": 0.1748
+    },
+    {
+      "name": "KMD",
+      "rank": 31,
+      "atr": 0.2233
+    }
+  ]
+}

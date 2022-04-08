@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0422,
+      "weight": 0.369,
+      "rank": 1,
+      "atr": 0.0555
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0543,
+      "weight": 0.2662,
+      "rank": 6,
+      "atr": 0.0778
+    },
+    {
+      "name": "SHIB",
+      "pnl_rate": -0.0731,
+      "weight": 0.1708,
+      "rank": 14,
+      "atr": 0.1232
+    },
+    {
+      "name": "AVAX",
+      "pnl_rate": -0.0902,
+      "weight": 0.1938,
+      "rank": 10,
+      "atr": 0.1114
+    }
+  ],
+  "summary": {
+    "rate": -0.0042,
+    "value": -0.2747
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0531
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0736
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.1011
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.1147
+    }
+  ]
+}

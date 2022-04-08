@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0258,
+      "weight": 0.445,
+      "rank": 1,
+      "atr": 0.0536
+    },
+    {
+      "name": "SHIB",
+      "pnl_rate": -0.0691,
+      "weight": 0.2202,
+      "rank": 14,
+      "atr": 0.1155
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0803,
+      "weight": 0.3347,
+      "rank": 8,
+      "atr": 0.0771
+    }
+  ],
+  "summary": {
+    "rate": -0.0044,
+    "value": -0.2898
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0525
+    },
+    {
+      "name": "XRP",
+      "rank": 8,
+      "atr": 0.0698
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.1061
+    }
+  ]
+}

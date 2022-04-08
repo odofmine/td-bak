@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl_rate": 0.0139,
+      "weight": 0.269,
+      "rank": 9,
+      "atr": 0.077
+    },
+    {
+      "name": "XTZ",
+      "pnl_rate": -0.0186,
+      "weight": 0.1918,
+      "rank": 10,
+      "atr": 0.1107
+    },
+    {
+      "name": "LINK",
+      "pnl_rate": -0.0244,
+      "weight": 0.2534,
+      "rank": 13,
+      "atr": 0.0843
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0418,
+      "weight": 0.2852,
+      "rank": 2,
+      "atr": 0.0765
+    }
+  ],
+  "summary": {
+    "rate": -0.0001,
+    "value": -0.0001
+  },
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0734
+    },
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.0778
+    },
+    {
+      "name": "LINK",
+      "rank": 13,
+      "atr": 0.0826
+    },
+    {
+      "name": "XTZ",
+      "rank": 10,
+      "atr": 0.1091
+    }
+  ]
+}

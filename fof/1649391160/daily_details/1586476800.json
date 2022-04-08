@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0538,
+      "weight": 0.342,
+      "rank": 3,
+      "atr": 0.0867
+    },
+    {
+      "name": "XMR",
+      "pnl_rate": -0.08,
+      "weight": 0.3187,
+      "rank": 13,
+      "atr": 0.0961
+    },
+    {
+      "name": "XLM",
+      "pnl_rate": -0.0823,
+      "weight": 0.3391,
+      "rank": 14,
+      "atr": 0.0918
+    }
+  ],
+  "summary": {
+    "rate": -0.0008,
+    "value": -0.0011
+  },
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0818
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0825
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0878
+    }
+  ]
+}

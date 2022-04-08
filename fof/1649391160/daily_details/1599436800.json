@@ -1,0 +1,70 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl_rate": 0.0021,
+      "weight": 0.2544,
+      "rank": 2,
+      "atr": 0.0841
+    },
+    {
+      "name": "ATOM",
+      "pnl_rate": -0.0238,
+      "weight": 0.1524,
+      "rank": 22,
+      "atr": 0.1429
+    },
+    {
+      "name": "LINK",
+      "pnl_rate": -0.0259,
+      "weight": 0.1549,
+      "rank": 5,
+      "atr": 0.1418
+    },
+    {
+      "name": "BNB",
+      "pnl_rate": -0.031,
+      "weight": 0.302,
+      "rank": 8,
+      "atr": 0.0757
+    },
+    {
+      "name": "OMG",
+      "pnl_rate": -0.0807,
+      "weight": 0.1357,
+      "rank": 33,
+      "atr": 0.1715
+    }
+  ],
+  "summary": {
+    "rate": -0.0001,
+    "value": -0.0003
+  },
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0705
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0837
+    },
+    {
+      "name": "LINK",
+      "rank": 5,
+      "atr": 0.1374
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.1397
+    },
+    {
+      "name": "OMG",
+      "rank": 33,
+      "atr": 0.1569
+    }
+  ]
+}

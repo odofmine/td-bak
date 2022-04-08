@@ -1,0 +1,106 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl_rate": 0.0232,
+      "weight": 0.1421,
+      "rank": 21,
+      "atr": 0.0877
+    },
+    {
+      "name": "ATOM",
+      "pnl_rate": -0.0377,
+      "weight": 0.1347,
+      "rank": 26,
+      "atr": 0.0975
+    },
+    {
+      "name": "NEAR",
+      "pnl_rate": -0.055,
+      "weight": 0.122,
+      "rank": 24,
+      "atr": 0.1066
+    },
+    {
+      "name": "SAND",
+      "pnl_rate": -0.0729,
+      "weight": 0.1085,
+      "rank": 35,
+      "atr": 0.1215
+    },
+    {
+      "name": "ALGO",
+      "pnl_rate": -0.0748,
+      "weight": 0.113,
+      "rank": 19,
+      "atr": 0.1173
+    },
+    {
+      "name": "MATIC",
+      "pnl_rate": -0.0875,
+      "weight": 0.1229,
+      "rank": 14,
+      "atr": 0.1092
+    },
+    {
+      "name": "FTM",
+      "pnl_rate": -0.0996,
+      "weight": 0.1292,
+      "rank": 29,
+      "atr": 0.1061
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": -0.1227,
+      "weight": 0.1272,
+      "rank": 9,
+      "atr": 0.1114
+    }
+  ],
+  "summary": {
+    "rate": -0.0017,
+    "value": -0.1143
+  },
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 21,
+      "atr": 0.0862
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0909
+    },
+    {
+      "name": "FTM",
+      "rank": 29,
+      "atr": 0.0948
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.1004
+    },
+    {
+      "name": "ALGO",
+      "rank": 19,
+      "atr": 0.1084
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0963
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0996
+    },
+    {
+      "name": "SAND",
+      "rank": 35,
+      "atr": 0.1129
+    }
+  ]
+}

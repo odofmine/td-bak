@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0083,
+      "weight": 0.3809,
+      "rank": 1,
+      "atr": 0.0683
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0505,
+      "weight": 0.3627,
+      "rank": 2,
+      "atr": 0.0753
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": -0.0843,
+      "weight": 0.2563,
+      "rank": 10,
+      "atr": 0.1128
+    }
+  ],
+  "summary": {
+    "rate": -0.0002,
+    "value": -0.008
+  },
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 10,
+      "atr": 0.1006
+    },
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.1119
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0715
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl_rate": -0.0538,
+      "weight": 0.3344,
+      "rank": 3,
+      "atr": 0.0867
+    },
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0583,
+      "weight": 0.3717,
+      "rank": 1,
+      "atr": 0.0783
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0693,
+      "weight": 0.2938,
+      "rank": 2,
+      "atr": 0.1005
+    }
+  ],
+  "summary": {
+    "rate": -0.0002,
+    "value": -0.0003
+  },
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0818
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0825
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0878
+    }
+  ]
+}

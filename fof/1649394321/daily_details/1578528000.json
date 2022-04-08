@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl_rate": -0.0131,
+      "weight": 0.2424,
+      "rank": 10,
+      "atr": 0.0518
+    },
+    {
+      "name": "LTC",
+      "pnl_rate": -0.0132,
+      "weight": 0.2162,
+      "rank": 6,
+      "atr": 0.0577
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": -0.0215,
+      "weight": 0.2387,
+      "rank": 2,
+      "atr": 0.053
+    },
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0294,
+      "weight": 0.3025,
+      "rank": 1,
+      "atr": 0.0422
+    }
+  ],
+  "summary": {
+    "rate": -0.0026,
+    "value": -0.0026
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0411
+    },
+    {
+      "name": "XMR",
+      "rank": 10,
+      "atr": 0.0513
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0575
+    },
+    {
+      "name": "ATOM",
+      "rank": 16,
+      "atr": 0.0765
+    }
+  ]
+}

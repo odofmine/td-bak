@@ -1,0 +1,70 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl_rate": 0.0468,
+      "weight": 0.139,
+      "rank": 27,
+      "atr": 0.1141
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": 0.0357,
+      "weight": 0.2046,
+      "rank": 2,
+      "atr": 0.0786
+    },
+    {
+      "name": "FTT",
+      "pnl_rate": 0.0216,
+      "weight": 0.2033,
+      "rank": 31,
+      "atr": 0.0798
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": 0.0055,
+      "weight": 0.1744,
+      "rank": 29,
+      "atr": 0.0961
+    },
+    {
+      "name": "BTC",
+      "pnl_rate": -0.0,
+      "weight": 0.2784,
+      "rank": 1,
+      "atr": 0.0596
+    }
+  ],
+  "summary": {
+    "rate": 0.0039,
+    "value": 0.1337
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0604
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0822
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.0827
+    },
+    {
+      "name": "LUNA",
+      "rank": 29,
+      "atr": 0.0964
+    },
+    {
+      "name": "AAVE",
+      "rank": 27,
+      "atr": 0.121
+    }
+  ]
+}

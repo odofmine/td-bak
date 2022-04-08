@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl_rate": 0.073,
+      "weight": 0.1112,
+      "rank": 31,
+      "atr": 0.0744
+    },
+    {
+      "name": "BTC",
+      "pnl_rate": 0.0547,
+      "weight": 0.149,
+      "rank": 1,
+      "atr": 0.0579
+    },
+    {
+      "name": "ETH",
+      "pnl_rate": 0.0331,
+      "weight": 0.1129,
+      "rank": 2,
+      "atr": 0.0756
+    },
+    {
+      "name": "AAVE",
+      "pnl_rate": 0.0269,
+      "weight": 0.0778,
+      "rank": 27,
+      "atr": 0.1098
+    },
+    {
+      "name": "KLAY",
+      "pnl_rate": 0.0221,
+      "weight": 0.1014,
+      "rank": 41,
+      "atr": 0.0851
+    },
+    {
+      "name": "COMP",
+      "pnl_rate": 0.0192,
+      "weight": 0.0725,
+      "rank": 45,
+      "atr": 0.1185
+    },
+    {
+      "name": "MKR",
+      "pnl_rate": 0.0056,
+      "weight": 0.091,
+      "rank": 38,
+      "atr": 0.0958
+    },
+    {
+      "name": "XMR",
+      "pnl_rate": 0.0014,
+      "weight": 0.1059,
+      "rank": 26,
+      "atr": 0.0829
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": -0.0181,
+      "weight": 0.0924,
+      "rank": 29,
+      "atr": 0.0979
+    },
+    {
+      "name": "AXS",
+      "pnl_rate": -0.0225,
+      "weight": 0.0853,
+      "rank": 34,
+      "atr": 0.106
+    }
+  ],
+  "summary": {
+    "rate": 0.002,
+    "value": 0.0395
+  },
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0596
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0786
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.0798
+    },
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0838
+    },
+    {
+      "name": "KLAY",
+      "rank": 41,
+      "atr": 0.0875
+    },
+    {
+      "name": "LUNA",
+      "rank": 29,
+      "atr": 0.0961
+    },
+    {
+      "name": "MKR",
+      "rank": 38,
+      "atr": 0.0975
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.104
+    },
+    {
+      "name": "AAVE",
+      "rank": 27,
+      "atr": 0.1141
+    },
+    {
+      "name": "COMP",
+      "rank": 45,
+      "atr": 0.1224
+    }
+  ]
+}

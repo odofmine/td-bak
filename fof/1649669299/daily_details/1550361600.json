@@ -1,0 +1,181 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl_rate": 0.0927,
+      "weight": 0.1195,
+      "rank": 2,
+      "atr": 0.049,
+      "score": 21.8
+    },
+    {
+      "name": "MKR",
+      "pnl_rate": 0.0524,
+      "weight": 0.0684,
+      "rank": 17,
+      "atr": 0.0856,
+      "score": 22
+    },
+    {
+      "name": "LINK",
+      "pnl_rate": 0.0452,
+      "weight": 0.0429,
+      "rank": 32,
+      "atr": 0.1363,
+      "score": 11.4
+    },
+    {
+      "name": "ONT",
+      "pnl_rate": 0.0292,
+      "weight": 0.0708,
+      "rank": 27,
+      "atr": 0.0827,
+      "score": 22
+    },
+    {
+      "name": "XMR",
+      "pnl_rate": 0.0291,
+      "weight": 0.1103,
+      "rank": 13,
+      "atr": 0.0531,
+      "score": 21.8
+    },
+    {
+      "name": "REP",
+      "pnl_rate": 0.02,
+      "weight": 0.0685,
+      "rank": 35,
+      "atr": 0.0855,
+      "score": 11.2
+    },
+    {
+      "name": "BTS",
+      "pnl_rate": 0.0162,
+      "weight": 0.0782,
+      "rank": 44,
+      "atr": 0.0749,
+      "score": 22
+    },
+    {
+      "name": "BNB",
+      "pnl_rate": 0.0139,
+      "weight": 0.1093,
+      "rank": 10,
+      "atr": 0.0536,
+      "score": 21.8
+    },
+    {
+      "name": "LTC",
+      "pnl_rate": 0.0122,
+      "weight": 0.1059,
+      "rank": 4,
+      "atr": 0.0553,
+      "score": 21.8
+    },
+    {
+      "name": "DASH",
+      "pnl_rate": 0.006,
+      "weight": 0.1118,
+      "rank": 15,
+      "atr": 0.0524,
+      "score": 21.8
+    },
+    {
+      "name": "NPXS",
+      "pnl_rate": -0.0293,
+      "weight": 0.0557,
+      "rank": 43,
+      "atr": 0.1051,
+      "score": 22
+    },
+    {
+      "name": "HOT",
+      "pnl_rate": -0.0761,
+      "weight": 0.0581,
+      "rank": 33,
+      "atr": 0.1007,
+      "score": 11.2
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTS",
+      "rank": 44,
+      "atr": 0.0749,
+      "score": 22
+    },
+    {
+      "name": "ONT",
+      "rank": 27,
+      "atr": 0.0827,
+      "score": 22
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0856,
+      "score": 22
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.1051,
+      "score": 22
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.049,
+      "score": 21.8
+    },
+    {
+      "name": "DASH",
+      "rank": 15,
+      "atr": 0.0524,
+      "score": 21.8
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0531,
+      "score": 21.8
+    },
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0536,
+      "score": 21.8
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0553,
+      "score": 21.8
+    },
+    {
+      "name": "LINK",
+      "rank": 32,
+      "atr": 0.1363,
+      "score": 11.4
+    },
+    {
+      "name": "REP",
+      "rank": 35,
+      "atr": 0.0855,
+      "score": 11.2
+    },
+    {
+      "name": "HOT",
+      "rank": 33,
+      "atr": 0.1007,
+      "score": 11.2
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 20.9071,
+    "leverage": 0.0525,
+    "atr": 0.0703,
+    "marketcap_pnt": 0.1664
+  }
+}

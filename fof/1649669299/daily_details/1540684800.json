@@ -1,0 +1,227 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl_rate": 0.0554,
+      "weight": 0.1056,
+      "rank": 50,
+      "atr": 0.0708,
+      "score": 22
+    },
+    {
+      "name": "WTC",
+      "pnl_rate": 0.046,
+      "weight": 0.0834,
+      "rank": 56,
+      "atr": 0.0896,
+      "score": 22
+    },
+    {
+      "name": "BAT",
+      "pnl_rate": 0.0314,
+      "weight": 0.0818,
+      "rank": 37,
+      "atr": 0.0914,
+      "score": 21.8
+    },
+    {
+      "name": "BTM",
+      "pnl_rate": 0.0308,
+      "weight": 0.0897,
+      "rank": 42,
+      "atr": 0.0833,
+      "score": 21.4
+    },
+    {
+      "name": "DCR",
+      "pnl_rate": 0.0306,
+      "weight": 0.1107,
+      "rank": 28,
+      "atr": 0.0675,
+      "score": 22
+    },
+    {
+      "name": "PPT",
+      "pnl_rate": 0.0144,
+      "weight": 0.0487,
+      "rank": 54,
+      "atr": 0.1535,
+      "score": 21.8
+    },
+    {
+      "name": "KMD",
+      "pnl_rate": 0.0136,
+      "weight": 0.1017,
+      "rank": 52,
+      "atr": 0.0735,
+      "score": 21.8
+    },
+    {
+      "name": "BCD",
+      "pnl_rate": 0.0101,
+      "weight": 0.014,
+      "rank": 35,
+      "atr": 0.5317,
+      "score": 22
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": 0.0074,
+      "weight": 0.089,
+      "rank": 3,
+      "atr": 0.084,
+      "score": 11.2
+    },
+    {
+      "name": "MKR",
+      "pnl_rate": 0.0036,
+      "weight": 0.073,
+      "rank": 22,
+      "atr": 0.1024,
+      "score": 11.1
+    },
+    {
+      "name": "LINK",
+      "pnl_rate": -0.0151,
+      "weight": 0.0032,
+      "rank": 53,
+      "atr": 2.3259,
+      "score": 22
+    },
+    {
+      "name": "HOT",
+      "pnl_rate": -0.0188,
+      "weight": 0.0588,
+      "rank": 49,
+      "atr": 0.1271,
+      "score": 11.1
+    },
+    {
+      "name": "SC",
+      "pnl_rate": -0.02,
+      "weight": 0.1038,
+      "rank": 36,
+      "atr": 0.072,
+      "score": 22
+    },
+    {
+      "name": "NPXS",
+      "pnl_rate": -0.0869,
+      "weight": 0.0359,
+      "rank": 44,
+      "atr": 0.2081,
+      "score": 22
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 28,
+      "atr": 0.0675,
+      "score": 22
+    },
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0708,
+      "score": 22
+    },
+    {
+      "name": "SC",
+      "rank": 36,
+      "atr": 0.072,
+      "score": 22
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0896,
+      "score": 22
+    },
+    {
+      "name": "NPXS",
+      "rank": 44,
+      "atr": 0.2081,
+      "score": 22
+    },
+    {
+      "name": "BCD",
+      "rank": 35,
+      "atr": 0.5317,
+      "score": 22
+    },
+    {
+      "name": "LINK",
+      "rank": 53,
+      "atr": 2.3259,
+      "score": 22
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0735,
+      "score": 21.8
+    },
+    {
+      "name": "BAT",
+      "rank": 37,
+      "atr": 0.0914,
+      "score": 21.8
+    },
+    {
+      "name": "PPT",
+      "rank": 54,
+      "atr": 0.1535,
+      "score": 21.8
+    },
+    {
+      "name": "BTM",
+      "rank": 42,
+      "atr": 0.0833,
+      "score": 21.4
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.084,
+      "score": 11.2
+    },
+    {
+      "name": "ETN",
+      "rank": 47,
+      "atr": 0.132,
+      "score": 11.2
+    },
+    {
+      "name": "MKR",
+      "rank": 22,
+      "atr": 0.1024,
+      "score": 11.1
+    },
+    {
+      "name": "HOT",
+      "rank": 49,
+      "atr": 0.1271,
+      "score": 11.1
+    },
+    {
+      "name": "ZRX",
+      "rank": 23,
+      "atr": 0.2529,
+      "score": 11.1
+    },
+    {
+      "name": "AE",
+      "rank": 29,
+      "atr": 2.4375,
+      "score": 11.1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 21.5803,
+    "leverage": 0.0502,
+    "atr": 0.1046,
+    "marketcap_pnt": 0.103
+  }
+}

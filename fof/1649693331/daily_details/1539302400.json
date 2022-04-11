@@ -1,0 +1,230 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl_rate": 0.2542,
+      "weight": 0.0301,
+      "rank": 42,
+      "atr": 0.2692,
+      "score": 22
+    },
+    {
+      "name": "XRP",
+      "pnl_rate": 0.1008,
+      "weight": 0.0643,
+      "rank": 3,
+      "atr": 0.1262,
+      "score": 11.1
+    },
+    {
+      "name": "DGB",
+      "pnl_rate": 0.0624,
+      "weight": 0.0588,
+      "rank": 36,
+      "atr": 0.1379,
+      "score": 21.8
+    },
+    {
+      "name": "DOGE",
+      "pnl_rate": 0.0554,
+      "weight": 0.0901,
+      "rank": 20,
+      "atr": 0.09,
+      "score": 11.1
+    },
+    {
+      "name": "AE",
+      "pnl_rate": 0.0458,
+      "weight": 0.0016,
+      "rank": 39,
+      "atr": 5.0218,
+      "score": 22
+    },
+    {
+      "name": "ETP",
+      "pnl_rate": 0.0409,
+      "weight": 0.133,
+      "rank": 46,
+      "atr": 0.061,
+      "score": 11.2
+    },
+    {
+      "name": "BTM",
+      "pnl_rate": 0.0377,
+      "weight": 0.0788,
+      "rank": 43,
+      "atr": 0.1029,
+      "score": 21.4
+    },
+    {
+      "name": "SC",
+      "pnl_rate": 0.0283,
+      "weight": 0.0742,
+      "rank": 35,
+      "atr": 0.1093,
+      "score": 21.4
+    },
+    {
+      "name": "MKR",
+      "pnl_rate": 0.0255,
+      "weight": 0.0677,
+      "rank": 24,
+      "atr": 0.1198,
+      "score": 21.8
+    },
+    {
+      "name": "HOT",
+      "pnl_rate": 0.02,
+      "weight": 0.039,
+      "rank": 47,
+      "atr": 0.208,
+      "score": 21.8
+    },
+    {
+      "name": "XVG",
+      "pnl_rate": 0.0148,
+      "weight": 0.0739,
+      "rank": 40,
+      "atr": 0.1098,
+      "score": 21.4
+    },
+    {
+      "name": "XEM",
+      "pnl_rate": 0.003,
+      "weight": 0.0806,
+      "rank": 17,
+      "atr": 0.1006,
+      "score": 21.4
+    },
+    {
+      "name": "DCR",
+      "pnl_rate": 0.0,
+      "weight": 0.1105,
+      "rank": 29,
+      "atr": 0.0734,
+      "score": 21.4
+    },
+    {
+      "name": "ETN",
+      "pnl_rate": -0.007,
+      "weight": 0.0746,
+      "rank": 44,
+      "atr": 0.1087,
+      "score": 21.8
+    },
+    {
+      "name": "ZRX",
+      "pnl_rate": -0.0351,
+      "weight": 0.0222,
+      "rank": 27,
+      "atr": 0.3645,
+      "score": 22
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NPXS",
+      "rank": 42,
+      "atr": 0.2692,
+      "score": 22
+    },
+    {
+      "name": "ZRX",
+      "rank": 27,
+      "atr": 0.3645,
+      "score": 22
+    },
+    {
+      "name": "AE",
+      "rank": 39,
+      "atr": 5.0218,
+      "score": 22
+    },
+    {
+      "name": "ETN",
+      "rank": 44,
+      "atr": 0.1087,
+      "score": 21.8
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.1198,
+      "score": 21.8
+    },
+    {
+      "name": "DGB",
+      "rank": 36,
+      "atr": 0.1379,
+      "score": 21.8
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.208,
+      "score": 21.8
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.0734,
+      "score": 21.4
+    },
+    {
+      "name": "XEM",
+      "rank": 17,
+      "atr": 0.1006,
+      "score": 21.4
+    },
+    {
+      "name": "BTM",
+      "rank": 43,
+      "atr": 0.1029,
+      "score": 21.4
+    },
+    {
+      "name": "SC",
+      "rank": 35,
+      "atr": 0.1093,
+      "score": 21.4
+    },
+    {
+      "name": "XVG",
+      "rank": 40,
+      "atr": 0.1098,
+      "score": 21.4
+    },
+    {
+      "name": "ETP",
+      "rank": 46,
+      "atr": 0.061,
+      "score": 11.2
+    },
+    {
+      "name": "DOGE",
+      "rank": 20,
+      "atr": 0.09,
+      "score": 11.1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.1262,
+      "score": 11.1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1425,
+      "score": 11.1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 19.3916,
+    "leverage": 0.0324,
+    "atr": 0.1216,
+    "marketcap_pnt": 0.112,
+    "green_marketcap_pnt": 0.0182
+  }
+}

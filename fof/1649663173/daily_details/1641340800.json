@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl_rate": 0.0192,
+      "weight": 0.1034,
+      "rank": 29,
+      "atr": 0.0899,
+      "score": 22
+    },
+    {
+      "name": "NEAR",
+      "pnl_rate": -0.0452,
+      "weight": 0.0968,
+      "rank": 24,
+      "atr": 0.096,
+      "score": 21.8
+    },
+    {
+      "name": "AVAX",
+      "pnl_rate": -0.0572,
+      "weight": 0.0909,
+      "rank": 11,
+      "atr": 0.1022,
+      "score": 11.1
+    },
+    {
+      "name": "UNI",
+      "pnl_rate": -0.0599,
+      "weight": 0.1002,
+      "rank": 18,
+      "atr": 0.0928,
+      "score": 21.8
+    },
+    {
+      "name": "ALGO",
+      "pnl_rate": -0.0698,
+      "weight": 0.0947,
+      "rank": 19,
+      "atr": 0.0982,
+      "score": 21.8
+    },
+    {
+      "name": "LUNA",
+      "pnl_rate": -0.0719,
+      "weight": 0.1068,
+      "rank": 9,
+      "atr": 0.087,
+      "score": 11.1
+    },
+    {
+      "name": "MATIC",
+      "pnl_rate": -0.0778,
+      "weight": 0.1017,
+      "rank": 14,
+      "atr": 0.0914,
+      "score": 11.1
+    },
+    {
+      "name": "ATOM",
+      "pnl_rate": -0.0822,
+      "weight": 0.1163,
+      "rank": 26,
+      "atr": 0.0799,
+      "score": 22
+    },
+    {
+      "name": "SAND",
+      "pnl_rate": -0.0838,
+      "weight": 0.0884,
+      "rank": 35,
+      "atr": 0.1051,
+      "score": 11.1
+    },
+    {
+      "name": "HBAR",
+      "pnl_rate": -0.1166,
+      "weight": 0.0998,
+      "rank": 32,
+      "atr": 0.0931,
+      "score": 22
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0799,
+      "score": 22
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.087,
+      "score": 11.1
+    },
+    {
+      "name": "FTM",
+      "rank": 29,
+      "atr": 0.0899,
+      "score": 22
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0914,
+      "score": 11.1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0928,
+      "score": 21.8
+    },
+    {
+      "name": "HBAR",
+      "rank": 32,
+      "atr": 0.0931,
+      "score": 22
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.096,
+      "score": 21.8
+    },
+    {
+      "name": "ALGO",
+      "rank": 19,
+      "atr": 0.0982,
+      "score": 21.8
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.1022,
+      "score": 11.1
+    },
+    {
+      "name": "SAND",
+      "rank": 35,
+      "atr": 0.1051,
+      "score": 11.1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 22.6077,
+    "leverage": 0.0232,
+    "atr": 0.0929,
+    "marketcap_pnt": 0.0601
+  }
+}

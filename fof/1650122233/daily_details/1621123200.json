@@ -1,0 +1,419 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.081,
+      "weight": 0.0758,
+      "rank": 39,
+      "atr": 0.0851,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0574,
+      "weight": 0.0829,
+      "rank": 5,
+      "atr": 0.0778,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0437,
+      "weight": 0.055,
+      "rank": 14,
+      "atr": 0.1055,
+      "score": 21.9,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0226,
+      "weight": 0.0494,
+      "rank": 73,
+      "atr": 0.1306,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0211,
+      "weight": 0.0188,
+      "rank": 23,
+      "atr": 0.1027,
+      "score": 11.3,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0206,
+      "weight": 0.0562,
+      "rank": 33,
+      "atr": 0.1147,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0118,
+      "weight": 0.0252,
+      "rank": 32,
+      "atr": 0.0769,
+      "score": 11.3,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0022,
+      "weight": 0.0205,
+      "rank": 3,
+      "atr": 0.0946,
+      "score": 11.3,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0083,
+      "weight": 0.0217,
+      "rank": 54,
+      "atr": 0.0893,
+      "score": 11.3,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0092,
+      "weight": 0.0645,
+      "rank": 47,
+      "atr": 0.1,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0146,
+      "weight": 0.0189,
+      "rank": 87,
+      "atr": 0.1022,
+      "score": 11.3,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0177,
+      "weight": 0.0606,
+      "rank": 2,
+      "atr": 0.0745,
+      "score": 21.7,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0177,
+      "weight": 0.0571,
+      "rank": 75,
+      "atr": 0.1129,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.019,
+      "weight": 0.051,
+      "rank": 70,
+      "atr": 0.1265,
+      "score": 22,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0278,
+      "weight": 0.0641,
+      "rank": 8,
+      "atr": 0.1007,
+      "score": 22,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0778,
+      "score": 22
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.0851,
+      "score": 22
+    },
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.1,
+      "score": 22
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.1007,
+      "score": 22
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.1129,
+      "score": 22
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1147,
+      "score": 22
+    },
+    {
+      "name": "SNX",
+      "rank": 70,
+      "atr": 0.1265,
+      "score": 22
+    },
+    {
+      "name": "SUSHI",
+      "rank": 73,
+      "atr": 0.1306,
+      "score": 22
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.1055,
+      "score": 21.9
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0745,
+      "score": 21.7
+    },
+    {
+      "name": "WAVES",
+      "rank": 50,
+      "atr": 0.1309,
+      "score": 21.7
+    },
+    {
+      "name": "AVAX",
+      "rank": 38,
+      "atr": 0.1451,
+      "score": 21.7
+    },
+    {
+      "name": "FTT",
+      "rank": 32,
+      "atr": 0.0769,
+      "score": 11.3
+    },
+    {
+      "name": "DCR",
+      "rank": 54,
+      "atr": 0.0893,
+      "score": 11.3
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0946,
+      "score": 11.3
+    },
+    {
+      "name": "BNT",
+      "rank": 87,
+      "atr": 0.1022,
+      "score": 11.3
+    },
+    {
+      "name": "XMR",
+      "rank": 23,
+      "atr": 0.1027,
+      "score": 11.3
+    },
+    {
+      "name": "SOL",
+      "rank": 17,
+      "atr": 0.1036,
+      "score": 11.3
+    },
+    {
+      "name": "RUNE",
+      "rank": 44,
+      "atr": 0.1043,
+      "score": 11.3
+    },
+    {
+      "name": "UNI",
+      "rank": 12,
+      "atr": 0.1089,
+      "score": 11.3
+    },
+    {
+      "name": "LTC",
+      "rank": 10,
+      "atr": 0.1098,
+      "score": 11.3
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.1142,
+      "score": 11.3
+    },
+    {
+      "name": "COMP",
+      "rank": 46,
+      "atr": 0.115,
+      "score": 11.3
+    },
+    {
+      "name": "ALGO",
+      "rank": 42,
+      "atr": 0.1205,
+      "score": 11.3
+    },
+    {
+      "name": "MKR",
+      "rank": 36,
+      "atr": 0.1224,
+      "score": 11.3
+    },
+    {
+      "name": "DASH",
+      "rank": 45,
+      "atr": 0.123,
+      "score": 11.3
+    },
+    {
+      "name": "ZEC",
+      "rank": 48,
+      "atr": 0.124,
+      "score": 11.3
+    },
+    {
+      "name": "XRP",
+      "rank": 7,
+      "atr": 0.1273,
+      "score": 11.3
+    },
+    {
+      "name": "ATOM",
+      "rank": 31,
+      "atr": 0.1285,
+      "score": 11.3
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.1297,
+      "score": 11.3
+    },
+    {
+      "name": "IOTA",
+      "rank": 29,
+      "atr": 0.1325,
+      "score": 11.3
+    },
+    {
+      "name": "XTZ",
+      "rank": 34,
+      "atr": 0.133,
+      "score": 11.3
+    },
+    {
+      "name": "MANA",
+      "rank": 62,
+      "atr": 0.135,
+      "score": 11.3
+    },
+    {
+      "name": "CAKE",
+      "rank": 28,
+      "atr": 0.1406,
+      "score": 11.3
+    },
+    {
+      "name": "ZIL",
+      "rank": 58,
+      "atr": 0.1445,
+      "score": 11.3
+    },
+    {
+      "name": "UMA",
+      "rank": 83,
+      "atr": 0.1457,
+      "score": 11.3
+    },
+    {
+      "name": "OMG",
+      "rank": 81,
+      "atr": 0.1511,
+      "score": 11.3
+    },
+    {
+      "name": "VET",
+      "rank": 13,
+      "atr": 0.1537,
+      "score": 11.3
+    },
+    {
+      "name": "ONT",
+      "rank": 64,
+      "atr": 0.157,
+      "score": 11.3
+    },
+    {
+      "name": "TFUEL",
+      "rank": 71,
+      "atr": 0.1616,
+      "score": 11.3
+    },
+    {
+      "name": "DOGE",
+      "rank": 4,
+      "atr": 0.1644,
+      "score": 11.3
+    },
+    {
+      "name": "DGB",
+      "rank": 68,
+      "atr": 0.1776,
+      "score": 11.3
+    },
+    {
+      "name": "FTM",
+      "rank": 61,
+      "atr": 0.1856,
+      "score": 11.3
+    },
+    {
+      "name": "NEAR",
+      "rank": 78,
+      "atr": 0.1217,
+      "score": 1.2
+    },
+    {
+      "name": "HBAR",
+      "rank": 60,
+      "atr": 0.1499,
+      "score": 1.2
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 14.7218,
+    "leverage": 0.0841,
+    "atr": 0.0716,
+    "marketcap_pnt": 0.2895,
+    "green_marketcap_pnt": 0.2401
+  }
+}

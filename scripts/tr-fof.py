@@ -31,6 +31,7 @@ for ts in dirs:
 
     base_dir = f'fof/{ts}'
     fund_name = 'fof'
+    domain = ''
 
     if not os.path.exists(f'{base_dir}/remark.md'):
         shutil.copyfile('remark-example.md', f'{base_dir}/remark.md')
@@ -38,6 +39,10 @@ for ts in dirs:
     with open(f'{base_dir}/config.json', 'r', encoding='utf-8') as f:
         configs = json.load(f)
         fund_name = configs['name']
+        if 'domain' in configs:
+            domain = configs['domain']
+
+        item['domain'] = domain
 
     with open(f'{base_dir}/{fund_name}.json', 'r', encoding='utf-8') as f:
         fund = json.load(f)

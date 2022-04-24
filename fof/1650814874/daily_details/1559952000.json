@@ -1,0 +1,110 @@
+{
+  "pnls": [
+    {
+      "name": "HC",
+      "pnl": 0.2311,
+      "weight": 0.116,
+      "rank": 84,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0177,
+      "weight": 0.0958,
+      "rank": 61,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0425,
+      "weight": 0.1003,
+      "rank": 108,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": -0.0605,
+      "weight": 0.0704,
+      "rank": 74,
+      "atr": 0.1262,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": -0.0822,
+      "weight": 0.096,
+      "rank": 142,
+      "atr": 0.0926,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0951,
+      "weight": 0.1212,
+      "rank": 78,
+      "atr": 0.0733,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARDR",
+      "rank": 78,
+      "atr": 0.0733,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 84,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 108,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 142,
+      "atr": 0.0926,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 61,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOLVE",
+      "rank": 74,
+      "atr": 0.1262,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 0.561,
+    "leverage": 0.5997,
+    "atr": 0.0533,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

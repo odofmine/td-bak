@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": -0.0171,
+      "weight": 0.1128,
+      "rank": 30,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETN",
+      "pnl": -0.1042,
+      "weight": 0.0862,
+      "rank": 102,
+      "atr": 0.1241,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UUU",
+      "pnl": -0.1635,
+      "weight": 0.1009,
+      "rank": 106,
+      "atr": 0.106,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UUU",
+      "rank": 106,
+      "atr": 0.106,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETN",
+      "rank": 102,
+      "atr": 0.1241,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0274,
+    "cum_pnl": 0.4092,
+    "leverage": 0.2999,
+    "atr": 0.0321,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

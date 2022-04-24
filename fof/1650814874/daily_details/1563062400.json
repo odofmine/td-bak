@@ -1,0 +1,103 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": -0.0562,
+      "weight": 0.1269,
+      "rank": 34,
+      "atr": 0.0838,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CRO",
+      "pnl": -0.0668,
+      "weight": 0.0692,
+      "rank": 26,
+      "atr": 0.1536,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETN",
+      "pnl": -0.0694,
+      "weight": 0.0871,
+      "rank": 118,
+      "atr": 0.1221,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0806,
+      "weight": 0.1399,
+      "rank": 38,
+      "atr": 0.076,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMX",
+      "pnl": -0.3373,
+      "weight": 0.0767,
+      "rank": 108,
+      "atr": 0.1385,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RIF",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.076,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 34,
+      "atr": 0.0838,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETN",
+      "rank": 118,
+      "atr": 0.1221,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMX",
+      "rank": 108,
+      "atr": 0.1385,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 26,
+      "atr": 0.1536,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.055,
+    "cum_pnl": 0.4308,
+    "leverage": 0.4998,
+    "atr": 0.0532,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

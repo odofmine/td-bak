@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0747,
+      "weight": 0.1221,
+      "rank": 97,
+      "atr": 0.0566,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0192,
+      "weight": 0.0735,
+      "rank": 105,
+      "atr": 0.094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RDD",
+      "pnl": -0.4442,
+      "weight": 0.1042,
+      "rank": 98,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEN",
+      "rank": 97,
+      "atr": 0.0566,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 98,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 105,
+      "atr": 0.094,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0386,
+    "cum_pnl": 0.3015,
+    "leverage": 0.2998,
+    "atr": 0.0207,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

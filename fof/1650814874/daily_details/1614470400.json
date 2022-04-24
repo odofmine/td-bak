@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.1702,
+      "weight": 0.089,
+      "rank": 80,
+      "atr": 0.1311,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.003,
+      "weight": 0.1281,
+      "rank": 6,
+      "atr": 0.0911,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0623,
+      "weight": 0.0832,
+      "rank": 128,
+      "atr": 0.1402,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1,
+      "weight": 0.0908,
+      "rank": 78,
+      "atr": 0.1285,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.1388,
+      "weight": 0.1086,
+      "rank": 132,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SRM",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0911,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 132,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 78,
+      "atr": 0.1285,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1311,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 128,
+      "atr": 0.1402,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0146,
+    "cum_pnl": 31.46,
+    "leverage": 0.4997,
+    "atr": 0.0583,
+    "marketcap_pnt": 0.021,
+    "green_marketcap_pnt": 0
+  }
+}

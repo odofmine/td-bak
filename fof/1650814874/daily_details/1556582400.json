@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "CSC",
+      "pnl": 0.0216,
+      "weight": 0.0509,
+      "rank": 115,
+      "atr": 0.1704,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": 0.0139,
+      "weight": 0.173,
+      "rank": 65,
+      "atr": 0.0502,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": -0.1779,
+      "weight": 0.0759,
+      "rank": 86,
+      "atr": 0.1144,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 65,
+      "atr": 0.0502,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 86,
+      "atr": 0.1144,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CSC",
+      "rank": 115,
+      "atr": 0.1704,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.01,
+    "cum_pnl": 0.3401,
+    "leverage": 0.2998,
+    "atr": 0.026,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

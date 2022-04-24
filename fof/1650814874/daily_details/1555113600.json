@@ -1,0 +1,80 @@
+{
+  "pnls": [
+    {
+      "name": "TRUE",
+      "pnl": -0.017,
+      "weight": 0.0953,
+      "rank": 127,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0271,
+      "weight": 0.1676,
+      "rank": 96,
+      "atr": 0.0602,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0463,
+      "weight": 0.0369,
+      "rank": 44,
+      "atr": 0.2729,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DGTX",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WICC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 96,
+      "atr": 0.0602,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRUE",
+      "rank": 127,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 44,
+      "atr": 0.2729,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0078,
+    "cum_pnl": 0.3958,
+    "leverage": 0.2998,
+    "atr": 0.0302,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0748,
+      "weight": 0.1269,
+      "rank": 1,
+      "atr": 0.0271,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0614,
+      "weight": 0.073,
+      "rank": 2,
+      "atr": 0.0471,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0271,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.014,
+    "cum_pnl": 1238.9144,
+    "leverage": 0.1999,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.7137,
+    "green_marketcap_pnt": 0
+  }
+}

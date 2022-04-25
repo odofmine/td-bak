@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.094,
+      "weight": 0.0795,
+      "rank": 2,
+      "atr": 0.0494,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0006,
+      "weight": 0.1204,
+      "rank": 1,
+      "atr": 0.0326,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0326,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0494,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 185,
+      "atr": 0.0755,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0074,
+    "cum_pnl": 3.3243,
+    "leverage": 0.1999,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.7504,
+    "green_marketcap_pnt": 0
+  }
+}

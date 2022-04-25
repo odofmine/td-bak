@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.012,
+      "weight": 0.0697,
+      "rank": 2,
+      "atr": 0.0443,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0029,
+      "weight": 0.1302,
+      "rank": 1,
+      "atr": 0.0237,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 19,
+      "atr": 0.0673,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 118,
+      "atr": 0.1101,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 175.645,
+    "leverage": 0.1999,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.6424,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0271,
+      "weight": 0.1267,
+      "rank": 1,
+      "atr": 0.029,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0377,
+      "weight": 0.0732,
+      "rank": 2,
+      "atr": 0.0502,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.029,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0385,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0519,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 69,
+      "atr": 0.1227,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 70,
+      "atr": 0.1845,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 3.1824,
+    "leverage": 0.1999,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.7332,
+    "green_marketcap_pnt": 0
+  }
+}

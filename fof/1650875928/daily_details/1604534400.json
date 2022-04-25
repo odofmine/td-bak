@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.1022,
+      "weight": 0.1214,
+      "rank": 1,
+      "atr": 0.0329,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0354,
+      "weight": 0.0785,
+      "rank": 2,
+      "atr": 0.0509,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WIN",
+      "rank": 185,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0152,
+    "cum_pnl": 3.2926,
+    "leverage": 0.1999,
+    "atr": 0.008,
+    "marketcap_pnt": 0.7504,
+    "green_marketcap_pnt": 0
+  }
+}

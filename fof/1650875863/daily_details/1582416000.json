@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0514,
+      "weight": 0.0899,
+      "rank": 2,
+      "atr": 0.046,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0316,
+      "weight": 0.11,
+      "rank": 1,
+      "atr": 0.0376,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0748,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0768,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 117,
+      "atr": 0.1295,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0081,
+    "cum_pnl": 445.3581,
+    "leverage": 0.1999,
+    "atr": 0.0083,
+    "marketcap_pnt": 0.7243,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0173,
+      "weight": 0.0882,
+      "rank": 2,
+      "atr": 0.0432,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0138,
+      "weight": 0.1117,
+      "rank": 1,
+      "atr": 0.0341,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DGD",
+      "rank": 98,
+      "atr": 0.1077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 80,
+      "atr": 0.1982,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 233.1278,
+    "leverage": 0.1999,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.6427,
+    "green_marketcap_pnt": 0
+  }
+}

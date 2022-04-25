@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.021,
+      "weight": 0.1128,
+      "rank": 1,
+      "atr": 0.08,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0272,
+      "weight": 0.0871,
+      "rank": 2,
+      "atr": 0.1036,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0865,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1181,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 78,
+      "atr": 0.1428,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 44.088,
+    "leverage": 0.1999,
+    "atr": 0.018,
+    "marketcap_pnt": 0.7461,
+    "green_marketcap_pnt": 0
+  }
+}

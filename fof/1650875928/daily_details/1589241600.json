@@ -1,0 +1,53 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0291,
+      "weight": 0.1113,
+      "rank": 1,
+      "atr": 0.0616,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0214,
+      "weight": 0.0886,
+      "rank": 2,
+      "atr": 0.0773,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0992,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 185,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 172,
+      "atr": 0.1378,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0051,
+    "cum_pnl": 0.9192,
+    "leverage": 0.1999,
+    "atr": 0.0137,
+    "marketcap_pnt": 0.7509,
+    "green_marketcap_pnt": 0
+  }
+}

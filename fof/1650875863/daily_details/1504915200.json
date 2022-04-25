@@ -1,0 +1,74 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.002,
+      "weight": 0.1176,
+      "rank": 1,
+      "atr": 0.0617,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0096,
+      "weight": 0.0823,
+      "rank": 2,
+      "atr": 0.0881,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.1074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.1257,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 52,
+      "atr": 0.1336,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.137,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRIG",
+      "rank": 117,
+      "atr": 0.1448,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 70,
+      "atr": 0.2015,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 62.6014,
+    "leverage": 0.1999,
+    "atr": 0.0145,
+    "marketcap_pnt": 0.6622,
+    "green_marketcap_pnt": 0
+  }
+}

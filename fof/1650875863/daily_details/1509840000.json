@@ -1,0 +1,88 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0035,
+      "weight": 0.1136,
+      "rank": 1,
+      "atr": 0.0456,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0102,
+      "weight": 0.0863,
+      "rank": 2,
+      "atr": 0.06,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0456,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 53,
+      "atr": 0.1251,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 97,
+      "atr": 0.1312,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1337,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 86,
+      "atr": 0.1523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1943,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 72,
+      "atr": 0.2106,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 112,
+      "atr": 0.212,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 53.067,
+    "leverage": 0.1999,
+    "atr": 0.0104,
+    "marketcap_pnt": 0.7429,
+    "green_marketcap_pnt": 0
+  }
+}

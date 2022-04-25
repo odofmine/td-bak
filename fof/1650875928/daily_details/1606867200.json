@@ -1,0 +1,67 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0234,
+      "weight": 0.1109,
+      "rank": 1,
+      "atr": 0.0469,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0199,
+      "weight": 0.089,
+      "rank": 2,
+      "atr": 0.0584,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 48,
+      "atr": 0.0504,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 57,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JST",
+      "rank": 155,
+      "atr": 0.1036,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 66,
+      "atr": 0.1616,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 5.5926,
+    "leverage": 0.1999,
+    "atr": 0.0104,
+    "marketcap_pnt": 0.7443,
+    "green_marketcap_pnt": 0
+  }
+}

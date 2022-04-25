@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0621,
+      "weight": 0.0832,
+      "rank": 2,
+      "atr": 0.09,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0694,
+      "weight": 0.1167,
+      "rank": 1,
+      "atr": 0.0642,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OK",
+      "rank": 111,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRIG",
+      "rank": 110,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.0956,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 56,
+      "atr": 0.1785,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0133,
+    "cum_pnl": 61.2888,
+    "leverage": 0.1999,
+    "atr": 0.015,
+    "marketcap_pnt": 0.6688,
+    "green_marketcap_pnt": 0
+  }
+}

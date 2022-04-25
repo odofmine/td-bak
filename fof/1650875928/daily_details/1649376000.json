@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0108,
+      "weight": 0.0926,
+      "rank": 2,
+      "atr": 0.0528,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0274,
+      "weight": 0.1073,
+      "rank": 1,
+      "atr": 0.0456,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MINA",
+      "rank": 83,
+      "atr": 0.0838,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 469.7077,
+    "leverage": 0.1999,
+    "atr": 0.0098,
+    "marketcap_pnt": 0.6101,
+    "green_marketcap_pnt": 0
+  }
+}

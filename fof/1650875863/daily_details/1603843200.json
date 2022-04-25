@@ -1,0 +1,81 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0264,
+      "weight": 0.1235,
+      "rank": 1,
+      "atr": 0.0277,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0371,
+      "weight": 0.0764,
+      "rank": 2,
+      "atr": 0.0448,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0277,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0362,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0435,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 110,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RIF",
+      "rank": 131,
+      "atr": 0.155,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RSR",
+      "rank": 70,
+      "atr": 0.1781,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0061,
+    "cum_pnl": 1209.4842,
+    "leverage": 0.1999,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.7332,
+    "green_marketcap_pnt": 0
+  }
+}

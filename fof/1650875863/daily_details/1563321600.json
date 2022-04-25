@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0641,
+      "weight": 0.0964,
+      "rank": 2,
+      "atr": 0.0983,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0289,
+      "weight": 0.1035,
+      "rank": 1,
+      "atr": 0.0916,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0993,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UUU",
+      "rank": 106,
+      "atr": 0.1321,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0092,
+    "cum_pnl": 322.32,
+    "leverage": 0.1999,
+    "atr": 0.019,
+    "marketcap_pnt": 0.7534,
+    "green_marketcap_pnt": 0
+  }
+}

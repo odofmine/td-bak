@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0533,
+      "weight": 0.0833,
+      "rank": 2,
+      "atr": 0.0599,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0538,
+      "weight": 0.1166,
+      "rank": 1,
+      "atr": 0.0428,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ODE",
+      "rank": 113,
+      "atr": 0.0627,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 117,
+      "atr": 0.1065,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0107,
+    "cum_pnl": 206.0751,
+    "leverage": 0.1999,
+    "atr": 0.01,
+    "marketcap_pnt": 0.6469,
+    "green_marketcap_pnt": 0
+  }
+}

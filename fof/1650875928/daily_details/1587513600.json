@@ -1,0 +1,53 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0701,
+      "weight": 0.0881,
+      "rank": 2,
+      "atr": 0.0861,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0415,
+      "weight": 0.1118,
+      "rank": 1,
+      "atr": 0.0679,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 77,
+      "atr": 0.1016,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 69,
+      "atr": 0.1022,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0108,
+    "cum_pnl": 0.5743,
+    "leverage": 0.1999,
+    "atr": 0.0152,
+    "marketcap_pnt": 0.7227,
+    "green_marketcap_pnt": 0
+  }
+}

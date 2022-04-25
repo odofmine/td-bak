@@ -1,0 +1,81 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0037,
+      "weight": 0.1173,
+      "rank": 1,
+      "atr": 0.0559,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0105,
+      "weight": 0.0826,
+      "rank": 2,
+      "atr": 0.0793,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 64,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 124,
+      "atr": 0.1234,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRIG",
+      "rank": 117,
+      "atr": 0.1439,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 70,
+      "atr": 0.1819,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 31,
+      "atr": 0.2537,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 63.5972,
+    "leverage": 0.1999,
+    "atr": 0.0131,
+    "marketcap_pnt": 0.6622,
+    "green_marketcap_pnt": 0
+  }
+}

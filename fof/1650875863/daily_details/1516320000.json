@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.031,
+      "weight": 0.092,
+      "rank": 1,
+      "atr": 0.1429,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0241,
+      "weight": 0.1079,
+      "rank": 2,
+      "atr": 0.1218,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HC",
+      "rank": 50,
+      "atr": 0.147,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0054,
+    "cum_pnl": 203.8929,
+    "leverage": 0.1999,
+    "atr": 0.0263,
+    "marketcap_pnt": 0.5251,
+    "green_marketcap_pnt": 0
+  }
+}

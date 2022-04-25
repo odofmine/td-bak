@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.1121,
+      "weight": 0.0828,
+      "rank": 2,
+      "atr": 0.0873,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.069,
+      "weight": 0.1171,
+      "rank": 1,
+      "atr": 0.0617,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CELO",
+      "rank": 65,
+      "atr": 0.1315,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CFX",
+      "rank": 121,
+      "atr": 0.197,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0174,
+    "cum_pnl": 317.1557,
+    "leverage": 0.1999,
+    "atr": 0.0145,
+    "marketcap_pnt": 0.6147,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0495,
+      "weight": 0.0803,
+      "rank": 2,
+      "atr": 0.0572,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0296,
+      "weight": 0.1196,
+      "rank": 1,
+      "atr": 0.0384,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0794,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0075,
+    "cum_pnl": 0.6469,
+    "leverage": 0.1999,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.7243,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.009,
+      "weight": 0.1171,
+      "rank": 1,
+      "atr": 0.0465,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0214,
+      "weight": 0.0828,
+      "rank": 2,
+      "atr": 0.0658,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MOAC",
+      "rank": 72,
+      "atr": 0.035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 113,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 117,
+      "atr": 0.115,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CMT",
+      "rank": 96,
+      "atr": 0.2316,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 204.6332,
+    "leverage": 0.1999,
+    "atr": 0.0109,
+    "marketcap_pnt": 0.6469,
+    "green_marketcap_pnt": 0
+  }
+}

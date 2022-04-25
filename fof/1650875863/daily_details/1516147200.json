@@ -1,0 +1,53 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0106,
+      "weight": 0.0876,
+      "rank": 1,
+      "atr": 0.1392,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0241,
+      "weight": 0.1123,
+      "rank": 2,
+      "atr": 0.1087,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAS",
+      "rank": 52,
+      "atr": 0.1594,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 92,
+      "atr": 0.1705,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 50,
+      "atr": 0.2346,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 203.0203,
+    "leverage": 0.1999,
+    "atr": 0.0244,
+    "marketcap_pnt": 0.5251,
+    "green_marketcap_pnt": 0
+  }
+}

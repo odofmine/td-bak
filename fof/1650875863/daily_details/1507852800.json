@@ -1,0 +1,74 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.1121,
+      "weight": 0.0834,
+      "rank": 2,
+      "atr": 0.0684,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0377,
+      "weight": 0.1165,
+      "rank": 1,
+      "atr": 0.049,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.049,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 102,
+      "atr": 0.0535,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CLAM",
+      "rank": 115,
+      "atr": 0.0686,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TAAS",
+      "rank": 97,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 93,
+      "atr": 0.097,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 34,
+      "atr": 0.1261,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0137,
+    "cum_pnl": 58.892,
+    "leverage": 0.1999,
+    "atr": 0.0114,
+    "marketcap_pnt": 0.7011,
+    "green_marketcap_pnt": 0
+  }
+}

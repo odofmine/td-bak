@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0078,
+      "weight": 0.1244,
+      "rank": 1,
+      "atr": 0.0318,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0117,
+      "weight": 0.0755,
+      "rank": 2,
+      "atr": 0.0524,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OCEAN",
+      "rank": 69,
+      "atr": 0.1433,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 3.1893,
+    "leverage": 0.1999,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.7332,
+    "green_marketcap_pnt": 0
+  }
+}

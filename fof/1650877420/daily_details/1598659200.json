@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.009,
+      "weight": 0.0785,
+      "rank": 2,
+      "atr": 0.0544,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0053,
+      "weight": 0.1214,
+      "rank": 1,
+      "atr": 0.0352,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0432,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 3.6398,
+    "leverage": 0.1999,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.7124,
+    "green_marketcap_pnt": 0
+  }
+}

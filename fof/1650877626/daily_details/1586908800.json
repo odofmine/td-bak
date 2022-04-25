@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0359,
+      "weight": 0.1039,
+      "rank": 2,
+      "atr": 0.0661,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0363,
+      "weight": 0.096,
+      "rank": 1,
+      "atr": 0.0715,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HYN",
+      "rank": 141,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MIN",
+      "rank": 19,
+      "atr": 0.2535,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0072,
+    "cum_pnl": 393.161,
+    "leverage": 0.1999,
+    "atr": 0.0137,
+    "marketcap_pnt": 0.7198,
+    "green_marketcap_pnt": 0
+  }
+}

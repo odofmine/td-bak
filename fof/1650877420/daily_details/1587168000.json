@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0984,
+      "weight": 0.0895,
+      "rank": 2,
+      "atr": 0.0864,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0316,
+      "weight": 0.1104,
+      "rank": 1,
+      "atr": 0.0701,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.108,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 191,
+      "atr": 0.1268,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0123,
+    "cum_pnl": 0.5797,
+    "leverage": 0.1999,
+    "atr": 0.0155,
+    "marketcap_pnt": 0.7198,
+    "green_marketcap_pnt": 0
+  }
+}

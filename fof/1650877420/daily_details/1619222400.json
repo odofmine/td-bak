@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0208,
+      "weight": 0.1029,
+      "rank": 1,
+      "atr": 0.0672,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0648,
+      "weight": 0.097,
+      "rank": 2,
+      "atr": 0.0713,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.0872,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 52,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 103,
+      "atr": 0.1256,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0084,
+    "cum_pnl": 182.3956,
+    "leverage": 0.1999,
+    "atr": 0.0138,
+    "marketcap_pnt": 0.6453,
+    "green_marketcap_pnt": 0
+  }
+}

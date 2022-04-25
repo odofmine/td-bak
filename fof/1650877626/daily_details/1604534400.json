@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.1019,
+      "weight": 0.1184,
+      "rank": 1,
+      "atr": 0.0314,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0353,
+      "weight": 0.0815,
+      "rank": 2,
+      "atr": 0.0456,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0635,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 42,
+      "atr": 0.0686,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 128,
+      "atr": 0.1014,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 84,
+      "atr": 0.1528,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0149,
+    "cum_pnl": 1240.8227,
+    "leverage": 0.1999,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.7504,
+    "green_marketcap_pnt": 0
+  }
+}

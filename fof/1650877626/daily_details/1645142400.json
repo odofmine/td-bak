@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0136,
+      "weight": 0.1152,
+      "rank": 1,
+      "atr": 0.0536,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0393,
+      "weight": 0.0847,
+      "rank": 2,
+      "atr": 0.0729,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RLY",
+      "rank": 113,
+      "atr": 0.0937,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0049,
+    "cum_pnl": 96573.0989,
+    "leverage": 0.1999,
+    "atr": 0.0123,
+    "marketcap_pnt": 0.6153,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.01,
+      "weight": 0.0719,
+      "rank": 2,
+      "atr": 0.052,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0162,
+      "weight": 0.128,
+      "rank": 1,
+      "atr": 0.0292,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 87,
+      "atr": 0.0368,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 17,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 106,
+      "atr": 0.111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QASH",
+      "rank": 76,
+      "atr": 0.1243,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 171.0509,
+    "leverage": 0.1999,
+    "atr": 0.0075,
+    "marketcap_pnt": 0.641,
+    "green_marketcap_pnt": 0
+  }
+}

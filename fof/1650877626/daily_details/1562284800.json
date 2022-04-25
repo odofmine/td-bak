@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.018,
+      "weight": 0.1037,
+      "rank": 2,
+      "atr": 0.0628,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0146,
+      "weight": 0.0962,
+      "rank": 1,
+      "atr": 0.0677,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 80,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.1017,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AOA",
+      "rank": 38,
+      "atr": 0.1039,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LA",
+      "rank": 114,
+      "atr": 0.2601,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 380.168,
+    "leverage": 0.1999,
+    "atr": 0.013,
+    "marketcap_pnt": 0.7247,
+    "green_marketcap_pnt": 0
+  }
+}

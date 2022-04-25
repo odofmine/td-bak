@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0139,
+      "weight": 0.1061,
+      "rank": 1,
+      "atr": 0.0452,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.017,
+      "weight": 0.0938,
+      "rank": 2,
+      "atr": 0.0511,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0592,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 555.768,
+    "leverage": 0.1999,
+    "atr": 0.0096,
+    "marketcap_pnt": 0.6101,
+    "green_marketcap_pnt": 0
+  }
+}

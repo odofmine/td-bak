@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.1067,
+      "weight": 0.0864,
+      "rank": 2,
+      "atr": 0.1071,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0989,
+      "weight": 0.1135,
+      "rank": 1,
+      "atr": 0.0816,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0891,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.106,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0204,
+    "cum_pnl": 53.675,
+    "leverage": 0.1999,
+    "atr": 0.0185,
+    "marketcap_pnt": 0.7317,
+    "green_marketcap_pnt": 0
+  }
+}

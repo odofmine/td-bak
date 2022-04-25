@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0153,
+      "weight": 0.1157,
+      "rank": 1,
+      "atr": 0.0479,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0193,
+      "weight": 0.0842,
+      "rank": 2,
+      "atr": 0.0658,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SCRT",
+      "rank": 89,
+      "atr": 0.0993,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKL",
+      "rank": 130,
+      "atr": 0.0999,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 98528.7005,
+    "leverage": 0.1999,
+    "atr": 0.0111,
+    "marketcap_pnt": 0.6153,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0517,
+      "weight": 0.1171,
+      "rank": 1,
+      "atr": 0.0492,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0141,
+      "weight": 0.0828,
+      "rank": 2,
+      "atr": 0.0696,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SMART",
+      "rank": 120,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 81,
+      "atr": 0.191,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLC2",
+      "rank": 103,
+      "atr": 0.1914,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 58,
+      "atr": 0.2016,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 57.7269,
+    "leverage": 0.1999,
+    "atr": 0.0115,
+    "marketcap_pnt": 0.7337,
+    "green_marketcap_pnt": 0
+  }
+}

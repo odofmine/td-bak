@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0521,
+      "weight": 0.0708,
+      "rank": 2,
+      "atr": 0.0791,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0091,
+      "weight": 0.1291,
+      "rank": 1,
+      "atr": 0.0434,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZB",
+      "rank": 119,
+      "atr": 0.0468,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 141,
+      "atr": 0.0986,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 1244.568,
+    "leverage": 0.1999,
+    "atr": 0.0112,
+    "marketcap_pnt": 0.7078,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0216,
+      "weight": 0.1289,
+      "rank": 1,
+      "atr": 0.0294,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0031,
+      "weight": 0.071,
+      "rank": 2,
+      "atr": 0.0534,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0587,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 180,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 145,
+      "atr": 0.1234,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.003,
+    "cum_pnl": 3.4825,
+    "leverage": 0.1999,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.7137,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0208,
+      "weight": 0.1391,
+      "rank": 1,
+      "atr": 0.0615,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0324,
+      "weight": 0.0608,
+      "rank": 2,
+      "atr": 0.1408,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0907,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DBIX",
+      "rank": 106,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 133,
+      "atr": 0.1385,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 69,
+      "atr": 0.2687,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0049,
+    "cum_pnl": 25.1993,
+    "leverage": 0.1999,
+    "atr": 0.0171,
+    "marketcap_pnt": 0.6874,
+    "green_marketcap_pnt": 0
+  }
+}

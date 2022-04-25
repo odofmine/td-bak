@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0063,
+      "weight": 0.0938,
+      "rank": 2,
+      "atr": 0.0534,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0065,
+      "weight": 0.1061,
+      "rank": 1,
+      "atr": 0.0472,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0832,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 1.3415,
+    "leverage": 0.1999,
+    "atr": 0.01,
+    "marketcap_pnt": 0.7394,
+    "green_marketcap_pnt": 0
+  }
+}

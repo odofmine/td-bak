@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.1351,
+      "weight": 0.0897,
+      "rank": 2,
+      "atr": 0.133,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.104,
+      "weight": 0.1102,
+      "rank": 1,
+      "atr": 0.1083,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1405,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 82,
+      "atr": 0.2502,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0236,
+    "cum_pnl": 32403.2928,
+    "leverage": 0.1999,
+    "atr": 0.0239,
+    "marketcap_pnt": 0.5978,
+    "green_marketcap_pnt": 0
+  }
+}

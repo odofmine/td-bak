@@ -1,0 +1,67 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0079,
+      "weight": 0.1126,
+      "rank": 1,
+      "atr": 0.0368,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0108,
+      "weight": 0.0873,
+      "rank": 2,
+      "atr": 0.0475,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0368,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0506,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0569,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 84,
+      "atr": 0.0747,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BEAM",
+      "rank": 138,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 0.159,
+    "leverage": 0.1999,
+    "atr": 0.0083,
+    "marketcap_pnt": 0.7319,
+    "green_marketcap_pnt": 0
+  }
+}

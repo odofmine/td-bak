@@ -1,0 +1,39 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0738,
+      "weight": 0.0837,
+      "rank": 2,
+      "atr": 0.0674,
+      "score": 0.1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0765,
+      "weight": 0.1162,
+      "rank": 1,
+      "atr": 0.0486,
+      "score": 0.1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 104,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0151,
+    "cum_pnl": 556.1087,
+    "leverage": 0.1999,
+    "atr": 0.0113,
+    "marketcap_pnt": 0.6153,
+    "green_marketcap_pnt": 0
+  }
+}

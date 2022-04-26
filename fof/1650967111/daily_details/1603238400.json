@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0849,
+      "weight": 0.0176,
+      "rank": 49,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0731,
+      "weight": 0.0584,
+      "rank": 1,
+      "atr": 0.0287,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0363,
+      "weight": 0.028,
+      "rank": 18,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DATA",
+      "pnl": -0.0276,
+      "weight": 0.0159,
+      "rank": 180,
+      "atr": 0.1051,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0287,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 180,
+      "atr": 0.1051,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0063,
+    "cum_pnl": 1.7622,
+    "leverage": 0.1199,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.5997,
+    "green_marketcap_pnt": 0
+  }
+}

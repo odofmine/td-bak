@@ -1,0 +1,71 @@
+{
+  "pnls": [
+    {
+      "name": "ABBC",
+      "pnl": 0.019,
+      "weight": 0.0068,
+      "rank": 131,
+      "atr": 0.1044,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.0159,
+      "weight": 0.0155,
+      "rank": 96,
+      "atr": 0.0457,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.1284,
+      "weight": 0.0076,
+      "rank": 88,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTP",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZB",
+      "rank": 96,
+      "atr": 0.0457,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 88,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 131,
+      "atr": 0.1044,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 711.2907,
+    "leverage": 0.03,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

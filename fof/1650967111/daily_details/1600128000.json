@@ -1,0 +1,110 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0103,
+      "weight": 0.009,
+      "rank": 40,
+      "atr": 0.0967,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0166,
+      "weight": 0.0075,
+      "rank": 59,
+      "atr": 0.116,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0654,
+      "weight": 0.0147,
+      "rank": 46,
+      "atr": 0.0594,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0664,
+      "weight": 0.0077,
+      "rank": 110,
+      "atr": 0.1131,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.1104,
+      "weight": 0.0073,
+      "rank": 194,
+      "atr": 0.1193,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.1325,
+      "weight": 0.0136,
+      "rank": 6,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 46,
+      "atr": 0.0594,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 6,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0967,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 110,
+      "atr": 0.1131,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 59,
+      "atr": 0.116,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 194,
+      "atr": 0.1193,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 1.8308,
+    "leverage": 0.0599,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0171,
+    "green_marketcap_pnt": 0
+  }
+}

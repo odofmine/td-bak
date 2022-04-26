@@ -1,0 +1,231 @@
+{
+  "pnls": [
+    {
+      "name": "ZIL",
+      "pnl": 0.1696,
+      "weight": 0.0466,
+      "rank": 34,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1546,
+      "weight": 0.0506,
+      "rank": 21,
+      "atr": 0.0806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.1505,
+      "weight": 0.0515,
+      "rank": 95,
+      "atr": 0.0792,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.1013,
+      "weight": 0.0388,
+      "rank": 93,
+      "atr": 0.1053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0383,
+      "weight": 0.0452,
+      "rank": 47,
+      "atr": 0.0904,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0304,
+      "weight": 0.0926,
+      "rank": 1,
+      "atr": 0.0441,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.026,
+      "weight": 0.0612,
+      "rank": 44,
+      "atr": 0.0667,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.019,
+      "weight": 0.0362,
+      "rank": 67,
+      "atr": 0.1126,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0157,
+      "weight": 0.0518,
+      "rank": 5,
+      "atr": 0.0788,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0073,
+      "weight": 0.0416,
+      "rank": 33,
+      "atr": 0.0981,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0118,
+      "weight": 0.038,
+      "rank": 125,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0425,
+      "weight": 0.0425,
+      "rank": 54,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0571,
+      "weight": 0.0527,
+      "rank": 61,
+      "atr": 0.0775,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0441,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0667,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 61,
+      "atr": 0.0775,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0788,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 95,
+      "atr": 0.0792,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 21,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 34,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 47,
+      "atr": 0.0904,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 54,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 33,
+      "atr": 0.0981,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 93,
+      "atr": 0.1053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 125,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 67,
+      "atr": 0.1126,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0295,
+    "cum_pnl": 2.8669,
+    "leverage": 0.6493,
+    "atr": 0.0531,
+    "marketcap_pnt": 0.7178,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "NVC",
+      "pnl": 0.091,
+      "weight": 0.0544,
+      "rank": 112,
+      "atr": 0.1205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENRG",
+      "pnl": 0.0083,
+      "weight": 0.0297,
+      "rank": 119,
+      "atr": 0.2205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CLOAK",
+      "pnl": 0.0025,
+      "weight": 0.0634,
+      "rank": 73,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XBC",
+      "pnl": -0.0187,
+      "weight": 0.0529,
+      "rank": 115,
+      "atr": 0.1239,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XPM",
+      "pnl": -0.0439,
+      "weight": 0.0494,
+      "rank": 128,
+      "atr": 0.1325,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAY",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SLS",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CLOAK",
+      "rank": 73,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NVC",
+      "rank": 112,
+      "atr": 0.1205,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XBC",
+      "rank": 115,
+      "atr": 0.1239,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XPM",
+      "rank": 128,
+      "atr": 0.1325,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENRG",
+      "rank": 119,
+      "atr": 0.2205,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": 20.0642,
+    "leverage": 0.2498,
+    "atr": 0.0328,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

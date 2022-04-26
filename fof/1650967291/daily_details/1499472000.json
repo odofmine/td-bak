@@ -1,0 +1,130 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.1111,
+      "weight": 0.0514,
+      "rank": 4,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0402,
+      "weight": 0.042,
+      "rank": 40,
+      "atr": 0.1202,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DBIX",
+      "pnl": -0.0577,
+      "weight": 0.0759,
+      "rank": 106,
+      "atr": 0.0666,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.1513,
+      "weight": 0.046,
+      "rank": 133,
+      "atr": 0.1099,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": -0.1653,
+      "weight": 0.0345,
+      "rank": 61,
+      "atr": 0.1462,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENRG",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GNO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XVG",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DBIX",
+      "rank": 106,
+      "atr": 0.0666,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 133,
+      "atr": 0.1099,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1202,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 61,
+      "atr": 0.1462,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.013,
+    "cum_pnl": 19.2346,
+    "leverage": 0.2498,
+    "atr": 0.0253,
+    "marketcap_pnt": 0.0239,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pnls": [
+    {
+      "name": "DBIX",
+      "pnl": 0.0348,
+      "weight": 0.08,
+      "rank": 106,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0321,
+      "weight": 0.0352,
+      "rank": 131,
+      "atr": 0.1751,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0288,
+      "weight": 0.0523,
+      "rank": 40,
+      "atr": 0.1179,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SIB",
+      "pnl": 0.0214,
+      "weight": 0.041,
+      "rank": 133,
+      "atr": 0.1505,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0204,
+      "weight": 0.0587,
+      "rank": 19,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AGRS",
+      "pnl": -0.1451,
+      "weight": 0.0325,
+      "rank": 81,
+      "atr": 0.1898,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DBIX",
+      "rank": 106,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 19,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1179,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 133,
+      "atr": 0.1505,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 131,
+      "atr": 0.1751,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AGRS",
+      "rank": 81,
+      "atr": 0.1898,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 19.4838,
+    "leverage": 0.2997,
+    "atr": 0.037,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

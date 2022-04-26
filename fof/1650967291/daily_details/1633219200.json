@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.2763,
+      "weight": 0.0109,
+      "rank": 38,
+      "atr": 0.0811,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": 0.0876,
+      "weight": 0.0093,
+      "rank": 47,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": 0.0637,
+      "weight": 0.0109,
+      "rank": 77,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0106,
+      "weight": 0.0088,
+      "rank": 81,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OMG",
+      "rank": 77,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 38,
+      "atr": 0.0811,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 47,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 81,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 21500.1481,
+    "leverage": 0.04,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

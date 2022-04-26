@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "SIB",
+      "pnl": 0.1979,
+      "weight": 0.0092,
+      "rank": 73,
+      "atr": 0.1792,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.1356,
+      "weight": 0.0124,
+      "rank": 100,
+      "atr": 0.1339,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GOLOS",
+      "pnl": 0.0211,
+      "weight": 0.0094,
+      "rank": 123,
+      "atr": 0.1761,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SKY",
+      "pnl": -0.0485,
+      "weight": 0.009,
+      "rank": 86,
+      "atr": 0.1844,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EDC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FAIR",
+      "rank": 100,
+      "atr": 0.1339,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GOLOS",
+      "rank": 123,
+      "atr": 0.1761,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 73,
+      "atr": 0.1792,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKY",
+      "rank": 86,
+      "atr": 0.1844,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 18.6702,
+    "leverage": 0.04,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

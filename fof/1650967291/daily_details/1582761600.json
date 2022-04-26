@@ -1,0 +1,73 @@
+{
+  "pnls": [
+    {
+      "name": "AION",
+      "pnl": -0.023,
+      "weight": 0.0463,
+      "rank": 104,
+      "atr": 0.1307,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WICC",
+      "pnl": -0.0638,
+      "weight": 0.0536,
+      "rank": 137,
+      "atr": 0.1129,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DX",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WICC",
+      "rank": 137,
+      "atr": 0.1129,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 104,
+      "atr": 0.1307,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0045,
+    "cum_pnl": 250.0342,
+    "leverage": 0.0999,
+    "atr": 0.0121,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

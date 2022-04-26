@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "SAN",
+      "pnl": 0.0442,
+      "weight": 0.0072,
+      "rank": 123,
+      "atr": 0.1006,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0129,
+      "weight": 0.0127,
+      "rank": 7,
+      "atr": 0.0572,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0572,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 123,
+      "atr": 0.1006,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 107.5383,
+    "leverage": 0.02,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0183,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.2823,
+      "weight": 0.0613,
+      "rank": 34,
+      "atr": 0.1142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": 0.1018,
+      "weight": 0.037,
+      "rank": 117,
+      "atr": 0.1891,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0881,
+      "weight": 0.0505,
+      "rank": 27,
+      "atr": 0.1387,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0876,
+      "weight": 0.0564,
+      "rank": 97,
+      "atr": 0.1241,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": 0.0771,
+      "weight": 0.0469,
+      "rank": 85,
+      "atr": 0.1492,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0479,
+      "weight": 0.0643,
+      "rank": 87,
+      "atr": 0.1089,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.0475,
+      "weight": 0.0333,
+      "rank": 36,
+      "atr": 0.2102,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RLC",
+      "rank": 87,
+      "atr": 0.1089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.1142,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 97,
+      "atr": 0.1241,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1387,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 85,
+      "atr": 0.1492,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1891,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 36,
+      "atr": 0.2102,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0356,
+    "cum_pnl": 37.3638,
+    "leverage": 0.3497,
+    "atr": 0.049,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

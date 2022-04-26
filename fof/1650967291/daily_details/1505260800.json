@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "SNGLS",
+      "pnl": -0.0113,
+      "weight": 0.0282,
+      "rank": 56,
+      "atr": 0.1785,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.0391,
+      "weight": 0.0527,
+      "rank": 22,
+      "atr": 0.0956,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRIG",
+      "pnl": -0.13,
+      "weight": 0.0551,
+      "rank": 110,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "OK",
+      "pnl": -0.1635,
+      "weight": 0.0639,
+      "rank": 111,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OK",
+      "rank": 111,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRIG",
+      "rank": 110,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.0956,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 56,
+      "atr": 0.1785,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.02,
+    "cum_pnl": 33.5062,
+    "leverage": 0.1999,
+    "atr": 0.0202,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

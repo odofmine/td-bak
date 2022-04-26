@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "ANT",
+      "pnl": 0.0153,
+      "weight": 0.0064,
+      "rank": 136,
+      "atr": 0.1048,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EURS",
+      "pnl": -0.0045,
+      "weight": 0.0172,
+      "rank": 139,
+      "atr": 0.0389,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0629,
+      "weight": 0.0065,
+      "rank": 53,
+      "atr": 0.1032,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EURS",
+      "rank": 139,
+      "atr": 0.0389,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 53,
+      "atr": 0.1032,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 136,
+      "atr": 0.1048,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 248.3155,
+    "leverage": 0.03,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

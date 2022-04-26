@@ -1,0 +1,80 @@
+{
+  "pnls": [
+    {
+      "name": "LA",
+      "pnl": 0.0151,
+      "weight": 0.0076,
+      "rank": 125,
+      "atr": 0.1908,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.009,
+      "weight": 0.0165,
+      "rank": 20,
+      "atr": 0.088,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.6181,
+      "weight": 0.0059,
+      "rank": 65,
+      "atr": 0.2438,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 20,
+      "atr": 0.088,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LA",
+      "rank": 125,
+      "atr": 0.1908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 65,
+      "atr": 0.2438,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0037,
+    "cum_pnl": 187.6837,
+    "leverage": 0.03,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

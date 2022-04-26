@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ZCL",
+      "pnl": 0.0967,
+      "weight": 0.0197,
+      "rank": 117,
+      "atr": 0.1244,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": -0.0037,
+      "weight": 0.0402,
+      "rank": 113,
+      "atr": 0.061,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ODE",
+      "rank": 113,
+      "atr": 0.061,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 117,
+      "atr": 0.1244,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 125.6377,
+    "leverage": 0.0599,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

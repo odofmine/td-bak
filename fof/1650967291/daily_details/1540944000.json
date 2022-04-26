@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": 0.0491,
+      "weight": 0.0129,
+      "rank": 60,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": 0.0463,
+      "weight": 0.0072,
+      "rank": 131,
+      "atr": 0.1489,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": 0.0006,
+      "weight": 0.0127,
+      "rank": 56,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0625,
+      "weight": 0.0115,
+      "rank": 133,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0758,
+      "weight": 0.0103,
+      "rank": 68,
+      "atr": 0.1043,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.1915,
+      "weight": 0.0053,
+      "rank": 43,
+      "atr": 0.2014,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 133,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 68,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 131,
+      "atr": 0.1489,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.2014,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 117.7505,
+    "leverage": 0.0599,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

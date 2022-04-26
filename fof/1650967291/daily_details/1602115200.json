@@ -1,0 +1,73 @@
+{
+  "pnls": [
+    {
+      "name": "CCA",
+      "pnl": 0.0241,
+      "weight": 0.0143,
+      "rank": 129,
+      "atr": 0.0281,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MOBI",
+      "pnl": -0.1345,
+      "weight": 0.0056,
+      "rank": 33,
+      "atr": 0.0715,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CCA",
+      "rank": 129,
+      "atr": 0.0281,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOBI",
+      "rank": 33,
+      "atr": 0.0715,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 739.1378,
+    "leverage": 0.02,
+    "atr": 0.0008,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

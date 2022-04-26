@@ -1,0 +1,71 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0342,
+      "weight": 0.0288,
+      "rank": 18,
+      "atr": 0.1079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SEELE",
+      "pnl": 0.0154,
+      "weight": 0.0252,
+      "rank": 120,
+      "atr": 0.1233,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0119,
+      "weight": 0.0359,
+      "rank": 21,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 21,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 18,
+      "atr": 0.1079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SEELE",
+      "rank": 120,
+      "atr": 0.1233,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 238.6523,
+    "leverage": 0.0899,
+    "atr": 0.0093,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

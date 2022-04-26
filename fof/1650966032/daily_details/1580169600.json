@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.0519,
+      "weight": 0.1116,
+      "rank": 69,
+      "atr": 0.0585,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0224,
+      "weight": 0.0883,
+      "rank": 84,
+      "atr": 0.0739,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0585,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 84,
+      "atr": 0.0739,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 0.1667,
+    "leverage": 0.1999,
+    "atr": 0.0131,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

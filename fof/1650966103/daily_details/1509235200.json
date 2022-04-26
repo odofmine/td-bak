@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.1069,
+      "weight": 0.055,
+      "rank": 104,
+      "atr": 0.1167,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0656,
+      "weight": 0.0481,
+      "rank": 111,
+      "atr": 0.1336,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": 0.002,
+      "weight": 0.0306,
+      "rank": 46,
+      "atr": 0.2095,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.007,
+      "weight": 0.0434,
+      "rank": 96,
+      "atr": 0.148,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1739,
+      "weight": 0.0726,
+      "rank": 43,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SMART",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 104,
+      "atr": 0.1167,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 111,
+      "atr": 0.1336,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 96,
+      "atr": 0.148,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 46,
+      "atr": 0.2095,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0038,
+    "cum_pnl": 36.0458,
+    "leverage": 0.2497,
+    "atr": 0.0321,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

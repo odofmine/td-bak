@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "ODE",
+      "pnl": 0.1022,
+      "weight": 0.0343,
+      "rank": 113,
+      "atr": 0.0601,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MOAC",
+      "pnl": 0.0363,
+      "weight": 0.0589,
+      "rank": 72,
+      "atr": 0.035,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.0568,
+      "weight": 0.0179,
+      "rank": 117,
+      "atr": 0.115,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CMT",
+      "pnl": -0.6675,
+      "weight": 0.0089,
+      "rank": 96,
+      "atr": 0.2316,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MOAC",
+      "rank": 72,
+      "atr": 0.035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 113,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 117,
+      "atr": 0.115,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CMT",
+      "rank": 96,
+      "atr": 0.2316,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 125.4728,
+    "leverage": 0.1199,
+    "atr": 0.0082,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

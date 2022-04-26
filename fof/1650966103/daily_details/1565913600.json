@@ -1,0 +1,96 @@
+{
+  "pnls": [
+    {
+      "name": "BCD",
+      "pnl": 0.1319,
+      "weight": 0.0043,
+      "rank": 49,
+      "atr": 0.2804,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.002,
+      "weight": 0.0177,
+      "rank": 83,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DGTX",
+      "pnl": -0.0449,
+      "weight": 0.0133,
+      "rank": 129,
+      "atr": 0.0909,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LA",
+      "pnl": -0.457,
+      "weight": 0.0047,
+      "rank": 133,
+      "atr": 0.2581,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 83,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGTX",
+      "rank": 129,
+      "atr": 0.0909,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LA",
+      "rank": 133,
+      "atr": 0.2581,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCD",
+      "rank": 49,
+      "atr": 0.2804,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 180.409,
+    "leverage": 0.04,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.1252,
+      "weight": 0.0485,
+      "rank": 81,
+      "atr": 0.1236,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": 0.0853,
+      "weight": 0.0536,
+      "rank": 43,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0071,
+      "weight": 0.0478,
+      "rank": 82,
+      "atr": 0.1254,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SMART",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NLC2",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 81,
+      "atr": 0.1236,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.1254,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0103,
+    "cum_pnl": 36.1775,
+    "leverage": 0.1499,
+    "atr": 0.018,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

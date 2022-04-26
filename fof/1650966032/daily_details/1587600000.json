@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.1295,
+      "weight": 0.0725,
+      "rank": 15,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0982,
+      "weight": 0.0543,
+      "rank": 77,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0708,
+      "weight": 0.053,
+      "rank": 69,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0228,
+      "weight": 0.0601,
+      "rank": 28,
+      "atr": 0.0858,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 77,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 69,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0171,
+    "cum_pnl": 0.4755,
+    "leverage": 0.2399,
+    "atr": 0.0206,
+    "marketcap_pnt": 0.0075,
+    "green_marketcap_pnt": 0
+  }
+}

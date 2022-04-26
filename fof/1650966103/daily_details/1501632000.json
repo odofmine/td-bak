@@ -1,0 +1,80 @@
+{
+  "pnls": [
+    {
+      "name": "TAAS",
+      "pnl": 0.0737,
+      "weight": 0.0099,
+      "rank": 107,
+      "atr": 0.1743,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XDN",
+      "pnl": -0.0277,
+      "weight": 0.0092,
+      "rank": 91,
+      "atr": 0.1874,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICN",
+      "pnl": -0.0926,
+      "weight": 0.0109,
+      "rank": 21,
+      "atr": 0.1569,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "UNITY",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ICN",
+      "rank": 21,
+      "atr": 0.1569,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TAAS",
+      "rank": 107,
+      "atr": 0.1743,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDN",
+      "rank": 91,
+      "atr": 0.1874,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 18.3843,
+    "leverage": 0.03,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

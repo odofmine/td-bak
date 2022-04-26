@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0418,
+      "weight": 0.0344,
+      "rank": 49,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0218,
+      "weight": 0.0516,
+      "rank": 18,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0147,
+      "weight": 0.1022,
+      "rank": 1,
+      "atr": 0.0295,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0028,
+      "weight": 0.0516,
+      "rank": 33,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DATA",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0295,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 33,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0042,
+    "cum_pnl": 2.1587,
+    "leverage": 0.2399,
+    "atr": 0.0121,
+    "marketcap_pnt": 0.6015,
+    "green_marketcap_pnt": 0
+  }
+}

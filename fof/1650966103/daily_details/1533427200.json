@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "ODE",
+      "pnl": 0.0582,
+      "weight": 0.0276,
+      "rank": 113,
+      "atr": 0.0575,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0311,
+      "weight": 0.0227,
+      "rank": 100,
+      "atr": 0.07,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MOAC",
+      "pnl": -0.1083,
+      "weight": 0.0396,
+      "rank": 72,
+      "atr": 0.0401,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MOAC",
+      "rank": 72,
+      "atr": 0.0401,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 113,
+      "atr": 0.0575,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 100,
+      "atr": 0.07,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 127.2345,
+    "leverage": 0.0899,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

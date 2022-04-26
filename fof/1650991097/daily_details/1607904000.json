@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.1378,
+      "weight": 0.0531,
+      "rank": 64,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0032,
+      "weight": 0.0721,
+      "rank": 14,
+      "atr": 0.0509,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0057,
+      "weight": 0.0552,
+      "rank": 52,
+      "atr": 0.0665,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CVT",
+      "pnl": -0.0393,
+      "weight": 0.0194,
+      "rank": 94,
+      "atr": 0.1893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0509,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 52,
+      "atr": 0.0665,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CVT",
+      "rank": 94,
+      "atr": 0.1893,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0065,
+    "cum_pnl": 1433.4948,
+    "leverage": 0.1998,
+    "atr": 0.0147,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}

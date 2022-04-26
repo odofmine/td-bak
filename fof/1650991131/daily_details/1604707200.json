@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0417,
+      "weight": 0.0396,
+      "rank": 70,
+      "atr": 0.0737,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0359,
+      "weight": 0.0418,
+      "rank": 43,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0454,
+      "weight": 0.0621,
+      "rank": 2,
+      "atr": 0.047,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0683,
+      "weight": 0.0564,
+      "rank": 8,
+      "atr": 0.0517,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.047,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0517,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0737,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0065,
+    "cum_pnl": 1.7399,
+    "leverage": 0.1999,
+    "atr": 0.0117,
+    "marketcap_pnt": 0.1229,
+    "green_marketcap_pnt": 0
+  }
+}

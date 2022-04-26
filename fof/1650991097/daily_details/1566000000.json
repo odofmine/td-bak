@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "SAI",
+      "pnl": 0.002,
+      "weight": 0.0117,
+      "rank": 83,
+      "atr": 0.0679,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AOA",
+      "pnl": -0.0135,
+      "weight": 0.0082,
+      "rank": 56,
+      "atr": 0.0967,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 83,
+      "atr": 0.0679,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AOA",
+      "rank": 56,
+      "atr": 0.0967,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 330.6956,
+    "leverage": 0.02,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

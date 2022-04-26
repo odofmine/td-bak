@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0418,
+      "weight": 0.0225,
+      "rank": 49,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0218,
+      "weight": 0.0337,
+      "rank": 18,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0028,
+      "weight": 0.0337,
+      "rank": 33,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 33,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 1.8412,
+    "leverage": 0.0899,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

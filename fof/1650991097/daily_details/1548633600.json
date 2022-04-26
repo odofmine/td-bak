@@ -1,0 +1,142 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.0022,
+      "weight": 0.0094,
+      "rank": 40,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RDD",
+      "pnl": -0.0706,
+      "weight": 0.0083,
+      "rank": 80,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.0786,
+      "weight": 0.0075,
+      "rank": 41,
+      "atr": 0.117,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0803,
+      "weight": 0.0079,
+      "rank": 81,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.0845,
+      "weight": 0.0095,
+      "rank": 73,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DGD",
+      "pnl": -0.0858,
+      "weight": 0.008,
+      "rank": 86,
+      "atr": 0.1098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.1143,
+      "weight": 0.0125,
+      "rank": 27,
+      "atr": 0.0708,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.1215,
+      "weight": 0.0168,
+      "rank": 12,
+      "atr": 0.0525,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 12,
+      "atr": 0.0525,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 27,
+      "atr": 0.0708,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 73,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 40,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 80,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 86,
+      "atr": 0.1098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 81,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 41,
+      "atr": 0.117,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0068,
+    "cum_pnl": 188.4199,
+    "leverage": 0.0799,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.0131,
+    "green_marketcap_pnt": 0
+  }
+}

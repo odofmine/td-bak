@@ -1,0 +1,231 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.2005,
+      "weight": 0.0372,
+      "rank": 73,
+      "atr": 0.1057,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.1792,
+      "weight": 0.051,
+      "rank": 26,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.1449,
+      "weight": 0.0442,
+      "rank": 53,
+      "atr": 0.089,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0126,
+      "weight": 0.1106,
+      "rank": 51,
+      "atr": 0.0356,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0031,
+      "weight": 0.0324,
+      "rank": 88,
+      "atr": 0.1214,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0027,
+      "weight": 0.0627,
+      "rank": 2,
+      "atr": 0.0628,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0047,
+      "weight": 0.0407,
+      "rank": 41,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0143,
+      "weight": 0.0595,
+      "rank": 23,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0165,
+      "weight": 0.0332,
+      "rank": 96,
+      "atr": 0.1185,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0339,
+      "weight": 0.0414,
+      "rank": 22,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0415,
+      "weight": 0.0483,
+      "rank": 9,
+      "atr": 0.0815,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0486,
+      "weight": 0.0407,
+      "rank": 31,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0513,
+      "weight": 0.0474,
+      "rank": 13,
+      "atr": 0.083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0356,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0628,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 23,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0815,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 22,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 73,
+      "atr": 0.1057,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 96,
+      "atr": 0.1185,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 88,
+      "atr": 0.1214,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0153,
+    "cum_pnl": 25291.2284,
+    "leverage": 0.6493,
+    "atr": 0.0511,
+    "marketcap_pnt": 0.1831,
+    "green_marketcap_pnt": 0
+  }
+}

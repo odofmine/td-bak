@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1262,
+      "weight": 0.0108,
+      "rank": 4,
+      "atr": 0.0553,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.1074,
+      "weight": 0.0091,
+      "rank": 3,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0772,
+      "weight": 0.011,
+      "rank": 6,
+      "atr": 0.0544,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0605,
+      "weight": 0.0127,
+      "rank": 21,
+      "atr": 0.0471,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0289,
+      "weight": 0.0076,
+      "rank": 30,
+      "atr": 0.0784,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0131,
+      "weight": 0.0087,
+      "rank": 97,
+      "atr": 0.0689,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNT",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 21,
+      "atr": 0.0471,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0544,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0553,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 97,
+      "atr": 0.0689,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 30,
+      "atr": 0.0784,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0041,
+    "cum_pnl": 207.0296,
+    "leverage": 0.0599,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.1645,
+    "green_marketcap_pnt": 0
+  }
+}

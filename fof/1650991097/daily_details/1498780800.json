@@ -1,0 +1,55 @@
+{
+  "pnls": [
+    {
+      "name": "CLOAK",
+      "pnl": -0.0409,
+      "weight": 0.0536,
+      "rank": 73,
+      "atr": 0.1309,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SLS",
+      "pnl": -0.2167,
+      "weight": 0.0463,
+      "rank": 123,
+      "atr": 0.1513,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENRG",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CLOAK",
+      "rank": 73,
+      "atr": 0.1309,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SLS",
+      "rank": 123,
+      "atr": 0.1513,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0122,
+    "cum_pnl": 26.6676,
+    "leverage": 0.0999,
+    "atr": 0.014,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "pnls": [
+    {
+      "name": "IOST",
+      "pnl": 0.0285,
+      "weight": 0.0181,
+      "rank": 57,
+      "atr": 0.1511,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DROP",
+      "pnl": 0.0234,
+      "weight": 0.0143,
+      "rank": 85,
+      "atr": 0.1915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0118,
+      "weight": 0.0374,
+      "rank": 21,
+      "atr": 0.0732,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MITH",
+      "pnl": 0.0108,
+      "weight": 0.0279,
+      "rank": 48,
+      "atr": 0.098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": 0.0,
+      "weight": 0.0414,
+      "rank": 80,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0017,
+      "weight": 0.0407,
+      "rank": 13,
+      "atr": 0.0672,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EMC",
+      "rank": 80,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0672,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 21,
+      "atr": 0.0732,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MITH",
+      "rank": 48,
+      "atr": 0.098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 57,
+      "atr": 0.1511,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DROP",
+      "rank": 85,
+      "atr": 0.1915,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 232.4785,
+    "leverage": 0.1798,
+    "atr": 0.0164,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

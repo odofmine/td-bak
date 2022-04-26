@@ -1,0 +1,142 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": 0.385,
+      "weight": 0.0555,
+      "rank": 113,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.1138,
+      "weight": 0.0509,
+      "rank": 89,
+      "atr": 0.0997,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.1013,
+      "weight": 0.0564,
+      "rank": 91,
+      "atr": 0.09,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RUNE",
+      "pnl": -0.0794,
+      "weight": 0.0435,
+      "rank": 64,
+      "atr": 0.1167,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0919,
+      "weight": 0.0507,
+      "rank": 71,
+      "atr": 0.1001,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.1057,
+      "weight": 0.0537,
+      "rank": 16,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1075,
+      "weight": 0.0444,
+      "rank": 54,
+      "atr": 0.1142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.1088,
+      "weight": 0.0446,
+      "rank": 133,
+      "atr": 0.1137,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 113,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 16,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 89,
+      "atr": 0.0997,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1001,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 133,
+      "atr": 0.1137,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.1142,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RUNE",
+      "rank": 64,
+      "atr": 0.1167,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0095,
+    "cum_pnl": 19.3405,
+    "leverage": 0.3997,
+    "atr": 0.0406,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

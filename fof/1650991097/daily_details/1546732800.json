@@ -1,0 +1,144 @@
+{
+  "pnls": [
+    {
+      "name": "DCN",
+      "pnl": 0.1291,
+      "weight": 0.0256,
+      "rank": 76,
+      "atr": 0.1276,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.0847,
+      "weight": 0.0303,
+      "rank": 78,
+      "atr": 0.1077,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EURS",
+      "pnl": 0.043,
+      "weight": 0.0439,
+      "rank": 97,
+      "atr": 0.0744,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": 0.032,
+      "weight": 0.0248,
+      "rank": 79,
+      "atr": 0.1314,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.027,
+      "weight": 0.0353,
+      "rank": 50,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0015,
+      "weight": 0.016,
+      "rank": 46,
+      "atr": 0.2031,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0074,
+      "weight": 0.034,
+      "rank": 88,
+      "atr": 0.0961,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MGO",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EURS",
+      "rank": 97,
+      "atr": 0.0744,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 88,
+      "atr": 0.0961,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 78,
+      "atr": 0.1077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 76,
+      "atr": 0.1276,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 79,
+      "atr": 0.1314,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 46,
+      "atr": 0.2031,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0093,
+    "cum_pnl": 196.5179,
+    "leverage": 0.2099,
+    "atr": 0.0228,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

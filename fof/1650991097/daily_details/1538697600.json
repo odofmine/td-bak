@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": 0.0697,
+      "weight": 0.0284,
+      "rank": 81,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0139,
+      "weight": 0.0328,
+      "rank": 40,
+      "atr": 0.0895,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0035,
+      "weight": 0.0279,
+      "rank": 93,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.016,
+      "weight": 0.0308,
+      "rank": 91,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0895,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 91,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 93,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 221.3983,
+    "leverage": 0.1199,
+    "atr": 0.0118,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

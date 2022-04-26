@@ -1,0 +1,46 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.094,
+      "weight": 0.0605,
+      "rank": 2,
+      "atr": 0.0494,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0347,
+      "weight": 0.0394,
+      "rank": 70,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0494,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.007,
+    "cum_pnl": 1.7579,
+    "leverage": 0.0999,
+    "atr": 0.006,
+    "marketcap_pnt": 0.1129,
+    "green_marketcap_pnt": 0
+  }
+}

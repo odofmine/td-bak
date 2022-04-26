@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "MITH",
+      "pnl": 0.0104,
+      "weight": 0.02,
+      "rank": 48,
+      "atr": 0.1046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.0215,
+      "weight": 0.0319,
+      "rank": 80,
+      "atr": 0.0659,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0286,
+      "weight": 0.032,
+      "rank": 13,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.042,
+      "weight": 0.0359,
+      "rank": 60,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 60,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 80,
+      "atr": 0.0659,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MITH",
+      "rank": 48,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 232.7877,
+    "leverage": 0.1199,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0097,
+    "green_marketcap_pnt": 0
+  }
+}

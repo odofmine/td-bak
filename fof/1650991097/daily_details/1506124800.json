@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "RISE",
+      "pnl": 0.164,
+      "weight": 0.0079,
+      "rank": 80,
+      "atr": 0.1898,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": 0.0567,
+      "weight": 0.0102,
+      "rank": 77,
+      "atr": 0.1474,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0128,
+      "weight": 0.0119,
+      "rank": 91,
+      "atr": 0.1263,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0202,
+      "weight": 0.0099,
+      "rank": 104,
+      "atr": 0.1521,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FAIR",
+      "rank": 91,
+      "atr": 0.1263,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1474,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 104,
+      "atr": 0.1521,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RISE",
+      "rank": 80,
+      "atr": 0.1898,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 44.6623,
+    "leverage": 0.04,
+    "atr": 0.006,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

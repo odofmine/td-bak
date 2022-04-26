@@ -1,0 +1,215 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0752,
+      "weight": 0.0608,
+      "rank": 2,
+      "atr": 0.0483,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XAUR",
+      "pnl": 0.0649,
+      "weight": 0.023,
+      "rank": 33,
+      "atr": 0.1277,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0517,
+      "weight": 0.0554,
+      "rank": 6,
+      "atr": 0.053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": 0.0355,
+      "weight": 0.0253,
+      "rank": 43,
+      "atr": 0.1159,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NMC",
+      "pnl": 0.0201,
+      "weight": 0.0376,
+      "rank": 55,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CSC",
+      "pnl": 0.0196,
+      "weight": 0.178,
+      "rank": 111,
+      "atr": 0.0165,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.0022,
+      "weight": 0.0307,
+      "rank": 42,
+      "atr": 0.0956,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.0093,
+      "weight": 0.0319,
+      "rank": 39,
+      "atr": 0.0919,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.027,
+      "weight": 0.0395,
+      "rank": 85,
+      "atr": 0.0743,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RBY",
+      "pnl": -0.0495,
+      "weight": 0.05,
+      "rank": 49,
+      "atr": 0.0587,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLO",
+      "pnl": -0.051,
+      "weight": 0.0276,
+      "rank": 120,
+      "atr": 0.1063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": -0.1888,
+      "weight": 0.0398,
+      "rank": 93,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VRS",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CSC",
+      "rank": 111,
+      "atr": 0.0165,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0483,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RBY",
+      "rank": 49,
+      "atr": 0.0587,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 93,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 85,
+      "atr": 0.0743,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NMC",
+      "rank": 55,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 39,
+      "atr": 0.0919,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 42,
+      "atr": 0.0956,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLO",
+      "rank": 120,
+      "atr": 0.1063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 43,
+      "atr": 0.1159,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XAUR",
+      "rank": 33,
+      "atr": 0.1277,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 0.0599,
+    "leverage": 0.5996,
+    "atr": 0.0352,
+    "marketcap_pnt": 0.0677,
+    "green_marketcap_pnt": 0
+  }
+}

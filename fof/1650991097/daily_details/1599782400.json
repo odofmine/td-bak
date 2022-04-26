@@ -1,0 +1,71 @@
+{
+  "pnls": [
+    {
+      "name": "ZB",
+      "pnl": 0.0829,
+      "weight": 0.0122,
+      "rank": 96,
+      "atr": 0.046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0371,
+      "weight": 0.0096,
+      "rank": 8,
+      "atr": 0.058,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0133,
+      "weight": 0.0082,
+      "rank": 86,
+      "atr": 0.0686,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZB",
+      "rank": 96,
+      "atr": 0.046,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0686,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 1084.7048,
+    "leverage": 0.03,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.011,
+    "green_marketcap_pnt": 0
+  }
+}

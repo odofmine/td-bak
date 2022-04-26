@@ -1,0 +1,96 @@
+{
+  "pnls": [
+    {
+      "name": "NEBL",
+      "pnl": 0.1726,
+      "weight": 0.0573,
+      "rank": 82,
+      "atr": 0.1188,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SMART",
+      "pnl": -0.0503,
+      "weight": 0.0411,
+      "rank": 86,
+      "atr": 0.1656,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NLC2",
+      "pnl": -0.0835,
+      "weight": 0.029,
+      "rank": 90,
+      "atr": 0.2341,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0948,
+      "weight": 0.0725,
+      "rank": 43,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATB",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.1188,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SMART",
+      "rank": 86,
+      "atr": 0.1656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLC2",
+      "rank": 90,
+      "atr": 0.2341,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 50.3784,
+    "leverage": 0.1999,
+    "atr": 0.0272,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

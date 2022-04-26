@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "UIP",
+      "pnl": 0.9837,
+      "weight": 0.0042,
+      "rank": 98,
+      "atr": 0.2722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0458,
+      "weight": 0.0101,
+      "rank": 94,
+      "atr": 0.1123,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AOA",
+      "pnl": -0.0025,
+      "weight": 0.012,
+      "rank": 55,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.021,
+      "weight": 0.0146,
+      "rank": 26,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0739,
+      "weight": 0.0091,
+      "rank": 74,
+      "atr": 0.125,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 26,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AOA",
+      "rank": 55,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 94,
+      "atr": 0.1123,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 74,
+      "atr": 0.125,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UIP",
+      "rank": 98,
+      "atr": 0.2722,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0035,
+    "cum_pnl": 342.8928,
+    "leverage": 0.05,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

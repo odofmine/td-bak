@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0001,
+      "weight": 0.0368,
+      "rank": 43,
+      "atr": 0.0795,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SEELE",
+      "pnl": -0.0178,
+      "weight": 0.0254,
+      "rank": 101,
+      "atr": 0.1154,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0393,
+      "weight": 0.0277,
+      "rank": 12,
+      "atr": 0.1056,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 43,
+      "atr": 0.0795,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.1056,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SEELE",
+      "rank": 101,
+      "atr": 0.1154,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 445.968,
+    "leverage": 0.0899,
+    "atr": 0.0088,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

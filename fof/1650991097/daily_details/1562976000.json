@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "EGT",
+      "pnl": 0.0352,
+      "weight": 0.0618,
+      "rank": 38,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMX",
+      "pnl": -0.0367,
+      "weight": 0.035,
+      "rank": 108,
+      "atr": 0.1349,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0696,
+      "weight": 0.0674,
+      "rank": 28,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CRO",
+      "pnl": -0.114,
+      "weight": 0.0356,
+      "rank": 26,
+      "atr": 0.1328,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 26,
+      "atr": 0.1328,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMX",
+      "rank": 108,
+      "atr": 0.1349,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0079,
+    "cum_pnl": 348.7903,
+    "leverage": 0.1998,
+    "atr": 0.0189,
+    "marketcap_pnt": 0.0041,
+    "green_marketcap_pnt": 0
+  }
+}

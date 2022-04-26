@@ -1,0 +1,87 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.045,
+      "weight": 0.0104,
+      "rank": 38,
+      "atr": 0.0754,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.012,
+      "weight": 0.0098,
+      "rank": 78,
+      "atr": 0.0798,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0204,
+      "weight": 0.0096,
+      "rank": 74,
+      "atr": 0.0819,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0719,
+      "weight": 0.0102,
+      "rank": 83,
+      "atr": 0.0769,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HEX",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0754,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 83,
+      "atr": 0.0769,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZB",
+      "rank": 78,
+      "atr": 0.0798,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0819,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 980.1972,
+    "leverage": 0.04,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

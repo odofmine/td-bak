@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.4771,
+      "weight": 0.0102,
+      "rank": 38,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": 0.0247,
+      "weight": 0.0109,
+      "rank": 77,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0687,
+      "weight": 0.0089,
+      "rank": 126,
+      "atr": 0.1151,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OMG",
+      "rank": 77,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 38,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 126,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 98.1484,
+    "leverage": 0.03,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

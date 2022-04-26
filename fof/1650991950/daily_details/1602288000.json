@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "STORJ",
+      "pnl": 0.2466,
+      "weight": 0.0044,
+      "rank": 103,
+      "atr": 0.1205,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.022,
+      "weight": 0.0166,
+      "rank": 1,
+      "atr": 0.0319,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0009,
+      "weight": 0.009,
+      "rank": 16,
+      "atr": 0.0585,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0319,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0585,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 103,
+      "atr": 0.1205,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 1.9058,
+    "leverage": 0.03,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.5886,
+    "green_marketcap_pnt": 0
+  }
+}

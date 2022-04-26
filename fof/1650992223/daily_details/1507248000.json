@@ -1,0 +1,80 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1778,
+      "weight": 0.0423,
+      "rank": 93,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0697,
+      "weight": 0.0431,
+      "rank": 40,
+      "atr": 0.1214,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0193,
+      "weight": 0.0644,
+      "rank": 3,
+      "atr": 0.0814,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VIA",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0814,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1214,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 93,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0093,
+    "cum_pnl": 43.1456,
+    "leverage": 0.1498,
+    "atr": 0.0157,
+    "marketcap_pnt": 0.055,
+    "green_marketcap_pnt": 0
+  }
+}

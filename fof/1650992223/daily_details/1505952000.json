@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "SNGLS",
+      "pnl": -0.0978,
+      "weight": 0.0089,
+      "rank": 51,
+      "atr": 0.1477,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1168,
+      "weight": 0.0119,
+      "rank": 77,
+      "atr": 0.1112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RISE",
+      "pnl": -0.2339,
+      "weight": 0.0091,
+      "rank": 80,
+      "atr": 0.1447,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RISE",
+      "rank": 80,
+      "atr": 0.1447,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1477,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 45.3224,
+    "leverage": 0.03,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

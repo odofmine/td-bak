@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.255,
+      "weight": 0.0617,
+      "rank": 43,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.1172,
+      "weight": 0.0478,
+      "rank": 61,
+      "atr": 0.1306,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0131,
+      "weight": 0.0524,
+      "rank": 104,
+      "atr": 0.1191,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0318,
+      "weight": 0.0386,
+      "rank": 47,
+      "atr": 0.1617,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.0529,
+      "weight": 0.0442,
+      "rank": 96,
+      "atr": 0.1413,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SMART",
+      "pnl": -0.5376,
+      "weight": 0.0549,
+      "rank": 86,
+      "atr": 0.1137,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SMART",
+      "rank": 86,
+      "atr": 0.1137,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 104,
+      "atr": 0.1191,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 61,
+      "atr": 0.1306,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 96,
+      "atr": 0.1413,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 47,
+      "atr": 0.1617,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0111,
+    "cum_pnl": 52.184,
+    "leverage": 0.2996,
+    "atr": 0.0375,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

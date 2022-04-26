@@ -1,0 +1,55 @@
+{
+  "pnls": [
+    {
+      "name": "CNX",
+      "pnl": 0.0409,
+      "weight": 0.0097,
+      "rank": 95,
+      "atr": 0.1471,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0007,
+      "weight": 0.0102,
+      "rank": 9,
+      "atr": 0.1402,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VEN",
+      "pnl": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1402,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CNX",
+      "rank": 95,
+      "atr": 0.1471,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 212.3121,
+    "leverage": 0.02,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0157,
+    "green_marketcap_pnt": 0
+  }
+}

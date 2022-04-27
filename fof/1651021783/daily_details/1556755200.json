@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0241,
+      "weight": 0.0616,
+      "rank": 97,
+      "atr": 0.0604,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0094,
+      "weight": 0.038,
+      "rank": 105,
+      "atr": 0.098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.0157,
+      "weight": 0.0742,
+      "rank": 65,
+      "atr": 0.0502,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": -0.038,
+      "weight": 0.026,
+      "rank": 86,
+      "atr": 0.1431,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 65,
+      "atr": 0.0502,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 97,
+      "atr": 0.0604,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 105,
+      "atr": 0.098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 86,
+      "atr": 0.1431,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 255.9465,
+    "leverage": 0.1998,
+    "atr": 0.0149,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

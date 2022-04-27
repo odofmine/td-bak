@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "CNX",
+      "pnl": 0.1663,
+      "weight": 0.0105,
+      "rank": 95,
+      "atr": 0.1407,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0098,
+      "weight": 0.0106,
+      "rank": 9,
+      "atr": 0.1403,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": -0.0725,
+      "weight": 0.0088,
+      "rank": 72,
+      "atr": 0.1677,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1403,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CNX",
+      "rank": 95,
+      "atr": 0.1407,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 72,
+      "atr": 0.1677,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 212.5715,
+    "leverage": 0.03,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0163,
+    "green_marketcap_pnt": 0
+  }
+}

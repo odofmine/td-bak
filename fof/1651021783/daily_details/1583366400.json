@@ -1,0 +1,62 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0488,
+      "weight": 0.0131,
+      "rank": 111,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0165,
+      "weight": 0.0095,
+      "rank": 53,
+      "atr": 0.1092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0424,
+      "weight": 0.0073,
+      "rank": 80,
+      "atr": 0.1424,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 53,
+      "atr": 0.1092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 80,
+      "atr": 0.1424,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 436.3098,
+    "leverage": 0.03,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

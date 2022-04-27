@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.1455,
+      "pnl_value": 0.0078,
+      "weight": 0.056,
+      "rank": 12,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EXP",
+      "pnl": 0.0979,
+      "pnl_value": 0.0036,
+      "weight": 0.0385,
+      "rank": 78,
+      "atr": 0.128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.018,
+      "pnl_value": 0.001,
+      "weight": 0.0553,
+      "rank": 13,
+      "atr": 0.089,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SJCX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 12,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 78,
+      "atr": 0.128,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0129,
+    "cum_pnl": -0.0318,
+    "leverage": 0.1498,
+    "atr": 0.0148,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

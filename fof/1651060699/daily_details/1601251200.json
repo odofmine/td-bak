@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": -0.0156,
+      "pnl_value": -0.0002,
+      "weight": 0.0052,
+      "rank": 112,
+      "atr": 0.1651,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0209,
+      "pnl_value": -0.0008,
+      "weight": 0.0146,
+      "rank": 16,
+      "atr": 0.0589,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0358,
+      "pnl_value": -0.0008,
+      "weight": 0.0088,
+      "rank": 148,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0444,
+      "pnl_value": -0.0013,
+      "weight": 0.0113,
+      "rank": 29,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0589,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 148,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 112,
+      "atr": 0.1651,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 1.6156,
+    "leverage": 0.04,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

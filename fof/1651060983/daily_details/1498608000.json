@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "NVC",
+      "pnl": 0.091,
+      "pnl_value": 0.1118,
+      "weight": 0.0646,
+      "rank": 112,
+      "atr": 0.1205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENRG",
+      "pnl": 0.0083,
+      "pnl_value": 0.0056,
+      "weight": 0.0353,
+      "rank": 119,
+      "atr": 0.2205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NVC",
+      "rank": 112,
+      "atr": 0.1205,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENRG",
+      "rank": 119,
+      "atr": 0.2205,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0062,
+    "cum_pnl": 18.1428,
+    "leverage": 0.0999,
+    "atr": 0.0156,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

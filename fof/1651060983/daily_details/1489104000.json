@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "SDC",
+      "pnl": 0.0185,
+      "pnl_value": 0.0009,
+      "weight": 0.0434,
+      "rank": 26,
+      "atr": 0.1102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0032,
+      "pnl_value": 0.0001,
+      "weight": 0.0409,
+      "rank": 34,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0369,
+      "pnl_value": -0.0016,
+      "weight": 0.0412,
+      "rank": 20,
+      "atr": 0.1162,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0478,
+      "pnl_value": -0.0038,
+      "weight": 0.0743,
+      "rank": 4,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NMC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 26,
+      "atr": 0.1102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 20,
+      "atr": 0.1162,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 34,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 0.0671,
+    "leverage": 0.1998,
+    "atr": 0.0191,
+    "marketcap_pnt": 0.0109,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CELO",
+      "pnl": 0.2795,
+      "pnl_value": 0.5607,
+      "weight": 0.04,
+      "rank": 103,
+      "atr": 0.1256,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0952,
+      "pnl_value": 0.2749,
+      "weight": 0.0576,
+      "rank": 19,
+      "atr": 0.0872,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0863,
+      "pnl_value": -0.226,
+      "weight": 0.0522,
+      "rank": 52,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.0872,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 52,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 103,
+      "atr": 0.1256,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0122,
+    "cum_pnl": 49.7527,
+    "leverage": 0.1498,
+    "atr": 0.0151,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": 0.0535,
+      "pnl_value": 0.112,
+      "weight": 0.0113,
+      "rank": 30,
+      "atr": 0.0944,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UUU",
+      "pnl": -0.1362,
+      "pnl_value": -0.2192,
+      "weight": 0.0087,
+      "rank": 106,
+      "atr": 0.1228,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0944,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UUU",
+      "rank": 106,
+      "atr": 0.1228,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 184.2279,
+    "leverage": 0.02,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

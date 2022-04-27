@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": 0.0695,
+      "pnl_value": 0.0045,
+      "weight": 0.0635,
+      "rank": 8,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCY",
+      "pnl": 0.0439,
+      "pnl_value": 0.0016,
+      "weight": 0.0364,
+      "rank": 24,
+      "atr": 0.1074,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CLAM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 24,
+      "atr": 0.1074,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 0.0224,
+    "leverage": 0.0999,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

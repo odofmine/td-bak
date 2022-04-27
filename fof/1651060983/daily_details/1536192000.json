@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.1088,
+      "pnl_value": 0.1529,
+      "weight": 0.0133,
+      "rank": 52,
+      "atr": 0.2605,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.024,
+      "pnl_value": 0.1187,
+      "weight": 0.0467,
+      "rank": 11,
+      "atr": 0.074,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 52,
+      "atr": 0.2605,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0026,
+    "cum_pnl": 105.2984,
+    "leverage": 0.0599,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0091,
+    "green_marketcap_pnt": 0
+  }
+}

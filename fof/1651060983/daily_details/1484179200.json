@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.182,
+      "pnl_value": 0.01,
+      "weight": 0.0575,
+      "rank": 51,
+      "atr": 0.1369,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": 0.0269,
+      "pnl_value": 0.0012,
+      "weight": 0.0461,
+      "rank": 17,
+      "atr": 0.1707,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.0351,
+      "pnl_value": -0.0015,
+      "weight": 0.0462,
+      "rank": 29,
+      "atr": 0.1702,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 51,
+      "atr": 0.1369,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 29,
+      "atr": 0.1702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 17,
+      "atr": 0.1707,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0101,
+    "cum_pnl": -0.0394,
+    "leverage": 0.1498,
+    "atr": 0.0236,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

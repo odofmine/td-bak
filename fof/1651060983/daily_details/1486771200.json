@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.008,
+      "pnl_value": 0.0003,
+      "weight": 0.0378,
+      "rank": 18,
+      "atr": 0.177,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": 0.0022,
+      "pnl_value": 0.0001,
+      "weight": 0.0562,
+      "rank": 31,
+      "atr": 0.1192,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.0231,
+      "pnl_value": -0.0013,
+      "weight": 0.0559,
+      "rank": 26,
+      "atr": 0.1198,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CLAM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCY",
+      "rank": 31,
+      "atr": 0.1192,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 26,
+      "atr": 0.1198,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 18,
+      "atr": 0.177,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 0.0124,
+    "leverage": 0.1499,
+    "atr": 0.0201,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

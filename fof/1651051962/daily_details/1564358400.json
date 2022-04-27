@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "UIP",
+      "pnl": 0.9837,
+      "pnl_value": 0.7121,
+      "weight": 0.0042,
+      "rank": 98,
+      "atr": 0.2722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AOA",
+      "pnl": -0.0025,
+      "pnl_value": -0.0052,
+      "weight": 0.0121,
+      "rank": 55,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.021,
+      "pnl_value": -0.0532,
+      "weight": 0.0146,
+      "rank": 26,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0739,
+      "pnl_value": -0.1167,
+      "weight": 0.0091,
+      "rank": 74,
+      "atr": 0.125,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 26,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AOA",
+      "rank": 55,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 74,
+      "atr": 0.125,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UIP",
+      "rank": 98,
+      "atr": 0.2722,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 172.7255,
+    "leverage": 0.04,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

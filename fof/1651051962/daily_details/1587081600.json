@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0033,
+      "pnl_value": 0.0246,
+      "weight": 0.0307,
+      "rank": 79,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0303,
+      "pnl_value": -0.2153,
+      "weight": 0.0293,
+      "rank": 96,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0869,
+      "pnl_value": -0.6303,
+      "weight": 0.0299,
+      "rank": 105,
+      "atr": 0.0873,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DX",
+      "rank": 79,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 105,
+      "atr": 0.0873,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 96,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 240.5052,
+    "leverage": 0.0899,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

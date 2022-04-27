@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "DGD",
+      "pnl": -0.0421,
+      "pnl_value": -0.0348,
+      "weight": 0.0085,
+      "rank": 62,
+      "atr": 0.1761,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.082,
+      "pnl_value": -0.0914,
+      "weight": 0.0115,
+      "rank": 9,
+      "atr": 0.1302,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1302,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 62,
+      "atr": 0.1761,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 95.9694,
+    "leverage": 0.02,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0171,
+    "green_marketcap_pnt": 0
+  }
+}

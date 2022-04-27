@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "NXS",
+      "pnl": 0.1255,
+      "pnl_value": 0.0059,
+      "weight": 0.0473,
+      "rank": 59,
+      "atr": 0.127,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0493,
+      "pnl_value": -0.0026,
+      "weight": 0.0527,
+      "rank": 30,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": -0.0931,
+      "pnl_value": -0.0039,
+      "weight": 0.0423,
+      "rank": 17,
+      "atr": 0.142,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.1271,
+      "pnl_value": -0.0069,
+      "weight": 0.0543,
+      "rank": 51,
+      "atr": 0.1106,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.1425,
+      "pnl_value": -0.0076,
+      "weight": 0.0531,
+      "rank": 52,
+      "atr": 0.1132,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 51,
+      "atr": 0.1106,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 52,
+      "atr": 0.1132,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 30,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 59,
+      "atr": 0.127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 17,
+      "atr": 0.142,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0151,
+    "cum_pnl": -0.0166,
+    "leverage": 0.2497,
+    "atr": 0.03,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

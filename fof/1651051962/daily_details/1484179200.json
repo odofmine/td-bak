@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.182,
+      "pnl_value": 0.0085,
+      "weight": 0.0489,
+      "rank": 51,
+      "atr": 0.1369,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": 0.0382,
+      "pnl_value": 0.0024,
+      "weight": 0.0662,
+      "rank": 45,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": 0.0269,
+      "pnl_value": 0.001,
+      "weight": 0.0392,
+      "rank": 17,
+      "atr": 0.1707,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.0117,
+      "pnl_value": 0.0006,
+      "weight": 0.0562,
+      "rank": 59,
+      "atr": 0.1192,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.0351,
+      "pnl_value": -0.0013,
+      "weight": 0.0393,
+      "rank": 29,
+      "atr": 0.1702,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 45,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 59,
+      "atr": 0.1192,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 51,
+      "atr": 0.1369,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 29,
+      "atr": 0.1702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 17,
+      "atr": 0.1707,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0118,
+    "cum_pnl": -0.0282,
+    "leverage": 0.2498,
+    "atr": 0.0335,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

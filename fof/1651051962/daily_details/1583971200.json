@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": -0.012,
+      "pnl_value": -0.0207,
+      "weight": 0.0069,
+      "rank": 14,
+      "atr": 0.1731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.5272,
+      "pnl_value": -1.7215,
+      "weight": 0.0131,
+      "rank": 96,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 14,
+      "atr": 0.1731,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.007,
+    "cum_pnl": 246.9171,
+    "leverage": 0.02,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

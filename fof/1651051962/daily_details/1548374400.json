@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": -0.0375,
+      "pnl_value": -0.0288,
+      "weight": 0.0084,
+      "rank": 67,
+      "atr": 0.1066,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0587,
+      "pnl_value": -0.0621,
+      "weight": 0.0116,
+      "rank": 50,
+      "atr": 0.0773,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STEEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.0773,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 67,
+      "atr": 0.1066,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 90.2868,
+    "leverage": 0.02,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

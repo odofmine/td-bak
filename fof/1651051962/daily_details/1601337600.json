@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "TMTG",
+      "pnl": 0.1499,
+      "pnl_value": 0.269,
+      "weight": 0.0039,
+      "rank": 74,
+      "atr": 0.142,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0884,
+      "pnl_value": 0.3068,
+      "weight": 0.0075,
+      "rank": 29,
+      "atr": 0.0734,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0568,
+      "pnl_value": 0.3001,
+      "weight": 0.0115,
+      "rank": 16,
+      "atr": 0.0483,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REV",
+      "pnl": 0.0132,
+      "pnl_value": 0.0448,
+      "weight": 0.0074,
+      "rank": 88,
+      "atr": 0.0752,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0047,
+      "pnl_value": 0.0429,
+      "weight": 0.0197,
+      "rank": 20,
+      "atr": 0.0282,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0282,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0483,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0734,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REV",
+      "rank": 88,
+      "atr": 0.0752,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TMTG",
+      "rank": 74,
+      "atr": 0.142,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0021,
+    "cum_pnl": 460.0035,
+    "leverage": 0.0499,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0116,
+    "green_marketcap_pnt": 0
+  }
+}

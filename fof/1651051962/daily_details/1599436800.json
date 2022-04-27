@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BTS",
+      "pnl": 0.1493,
+      "pnl_value": 0.7123,
+      "weight": 0.0103,
+      "rank": 88,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTP",
+      "pnl": -0.0107,
+      "pnl_value": -0.0475,
+      "weight": 0.0096,
+      "rank": 120,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTS",
+      "rank": 88,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTP",
+      "rank": 120,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 460.95,
+    "leverage": 0.02,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.022,
+      "pnl_value": 1.0567,
+      "weight": 0.0246,
+      "rank": 1,
+      "atr": 0.0303,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0004,
+      "pnl_value": -0.0131,
+      "weight": 0.0154,
+      "rank": 16,
+      "atr": 0.0482,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0303,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0482,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 1959.8664,
+    "leverage": 0.04,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.5883,
+    "green_marketcap_pnt": 0
+  }
+}

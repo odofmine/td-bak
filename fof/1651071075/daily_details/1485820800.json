@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0486,
+      "pnl_value": 0.0078,
+      "weight": 0.1637,
+      "rank": 1,
+      "atr": 0.0433,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.0462,
+      "pnl_value": 0.0032,
+      "weight": 0.0692,
+      "rank": 23,
+      "atr": 0.1024,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0389,
+      "pnl_value": 0.0038,
+      "weight": 0.0979,
+      "rank": 8,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0158,
+      "pnl_value": -0.0012,
+      "weight": 0.0785,
+      "rank": 10,
+      "atr": 0.0903,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0229,
+      "pnl_value": -0.002,
+      "weight": 0.0906,
+      "rank": 13,
+      "atr": 0.0782,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0433,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0782,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0903,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 23,
+      "atr": 0.1024,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0117,
+    "cum_pnl": -0.0023,
+    "leverage": 0.4999,
+    "atr": 0.0354,
+    "marketcap_pnt": 0.8633,
+    "green_marketcap_pnt": 0
+  }
+}

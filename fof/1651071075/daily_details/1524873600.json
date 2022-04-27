@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": 0.2614,
+      "pnl_value": 4.887,
+      "weight": 0.047,
+      "rank": 83,
+      "atr": 0.101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.1306,
+      "pnl_value": 3.3124,
+      "weight": 0.0637,
+      "rank": 5,
+      "atr": 0.0745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0927,
+      "pnl_value": 2.7824,
+      "weight": 0.0754,
+      "rank": 35,
+      "atr": 0.0629,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0515,
+      "pnl_value": 1.1204,
+      "weight": 0.0547,
+      "rank": 48,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0256,
+      "pnl_value": -0.6011,
+      "weight": 0.059,
+      "rank": 74,
+      "atr": 0.0804,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0629,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0745,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0804,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.101,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0289,
+    "cum_pnl": 408.4042,
+    "leverage": 0.2999,
+    "atr": 0.0237,
+    "marketcap_pnt": 0.0285,
+    "green_marketcap_pnt": 0
+  }
+}

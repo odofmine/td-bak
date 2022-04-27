@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": -0.0033,
+      "pnl_value": -0.0,
+      "weight": 0.0134,
+      "rank": 7,
+      "atr": 0.064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0331,
+      "pnl_value": -0.0003,
+      "weight": 0.0104,
+      "rank": 8,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0502,
+      "pnl_value": -0.0003,
+      "weight": 0.0062,
+      "rank": 50,
+      "atr": 0.1388,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 50,
+      "atr": 0.1388,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 0.001,
+    "leverage": 0.0299,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.009,
+    "green_marketcap_pnt": 0
+  }
+}

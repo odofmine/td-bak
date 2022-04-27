@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NRG",
+      "pnl": 0.0437,
+      "pnl_value": 0.0289,
+      "weight": 0.0093,
+      "rank": 55,
+      "atr": 0.0898,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.0309,
+      "pnl_value": 0.0207,
+      "weight": 0.0094,
+      "rank": 16,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0028,
+      "pnl_value": 0.0022,
+      "weight": 0.0113,
+      "rank": 47,
+      "atr": 0.0735,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 47,
+      "atr": 0.0735,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NRG",
+      "rank": 55,
+      "atr": 0.0898,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 70.3697,
+    "leverage": 0.03,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0043,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0036,
+      "pnl_value": 0.0001,
+      "weight": 0.01,
+      "rank": 40,
+      "atr": 0.0892,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0319,
+      "pnl_value": -0.001,
+      "weight": 0.0117,
+      "rank": 19,
+      "atr": 0.0767,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0452,
+      "pnl_value": -0.001,
+      "weight": 0.0082,
+      "rank": 34,
+      "atr": 0.1087,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0767,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0892,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 34,
+      "atr": 0.1087,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 1.5976,
+    "leverage": 0.0299,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0072,
+    "green_marketcap_pnt": 0
+  }
+}

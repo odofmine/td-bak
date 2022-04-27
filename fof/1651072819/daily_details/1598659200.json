@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0835,
+      "pnl_value": 0.0079,
+      "weight": 0.0341,
+      "rank": 82,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0399,
+      "pnl_value": 0.0073,
+      "weight": 0.0658,
+      "rank": 57,
+      "atr": 0.0432,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0432,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0055,
+    "cum_pnl": 1.799,
+    "leverage": 0.0999,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

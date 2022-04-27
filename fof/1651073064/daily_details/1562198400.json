@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "ELF",
+      "pnl": 0.0023,
+      "pnl_value": 0.0082,
+      "weight": 0.0484,
+      "rank": 80,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0109,
+      "pnl_value": -0.0393,
+      "weight": 0.0496,
+      "rank": 16,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0285,
+      "pnl_value": -0.1079,
+      "weight": 0.0519,
+      "rank": 35,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 80,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 71.8403,
+    "leverage": 0.1499,
+    "atr": 0.0143,
+    "marketcap_pnt": 0.0052,
+    "green_marketcap_pnt": 0
+  }
+}

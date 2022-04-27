@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0542,
+      "pnl_value": 0.0025,
+      "weight": 0.0344,
+      "rank": 18,
+      "atr": 0.1329,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0064,
+      "pnl_value": 0.0005,
+      "weight": 0.0568,
+      "rank": 4,
+      "atr": 0.0806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.0924,
+      "pnl_value": -0.0062,
+      "weight": 0.0495,
+      "rank": 53,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.106,
+      "pnl_value": -0.0078,
+      "weight": 0.0543,
+      "rank": 25,
+      "atr": 0.0842,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.2901,
+      "pnl_value": -0.0216,
+      "weight": 0.0548,
+      "rank": 11,
+      "atr": 0.0835,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 11,
+      "atr": 0.0835,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 25,
+      "atr": 0.0842,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 53,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 18,
+      "atr": 0.1329,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.024,
+    "cum_pnl": 0.3267,
+    "leverage": 0.2498,
+    "atr": 0.0229,
+    "marketcap_pnt": 0.0205,
+    "green_marketcap_pnt": 0
+  }
+}

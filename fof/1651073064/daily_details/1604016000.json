@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0031,
+      "pnl_value": 0.0141,
+      "weight": 0.0239,
+      "rank": 110,
+      "atr": 0.0713,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0039,
+      "pnl_value": -0.0576,
+      "weight": 0.076,
+      "rank": 21,
+      "atr": 0.0225,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 21,
+      "atr": 0.0225,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 110,
+      "atr": 0.0713,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 192.3103,
+    "leverage": 0.0999,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

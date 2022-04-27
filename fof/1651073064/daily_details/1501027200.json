@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0839,
+      "pnl_value": 0.0053,
+      "weight": 0.0072,
+      "rank": 42,
+      "atr": 0.1745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.009,
+      "pnl_value": -0.0013,
+      "weight": 0.0169,
+      "rank": 1,
+      "atr": 0.0745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0115,
+      "pnl_value": -0.0008,
+      "weight": 0.0075,
+      "rank": 13,
+      "atr": 0.1679,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0337,
+      "pnl_value": -0.0025,
+      "weight": 0.0084,
+      "rank": 92,
+      "atr": 0.1495,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0745,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 92,
+      "atr": 0.1495,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 13,
+      "atr": 0.1679,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 42,
+      "atr": 0.1745,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 7.8201,
+    "leverage": 0.04,
+    "atr": 0.005,
+    "marketcap_pnt": 0.4814,
+    "green_marketcap_pnt": 0
+  }
+}

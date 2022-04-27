@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.141,
+      "pnl_value": 0.0062,
+      "weight": 0.0312,
+      "rank": 69,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.044,
+      "pnl_value": 0.0018,
+      "weight": 0.029,
+      "rank": 26,
+      "atr": 0.0912,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0268,
+      "pnl_value": 0.001,
+      "weight": 0.0254,
+      "rank": 51,
+      "atr": 0.1045,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0245,
+      "pnl_value": 0.0008,
+      "weight": 0.0241,
+      "rank": 127,
+      "atr": 0.1101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0137,
+      "pnl_value": 0.0007,
+      "weight": 0.0361,
+      "rank": 16,
+      "atr": 0.0734,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0095,
+      "pnl_value": 0.0005,
+      "weight": 0.0382,
+      "rank": 15,
+      "atr": 0.0695,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0022,
+      "pnl_value": 0.0001,
+      "weight": 0.0343,
+      "rank": 17,
+      "atr": 0.0773,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0112,
+      "pnl_value": -0.0003,
+      "weight": 0.0216,
+      "rank": 124,
+      "atr": 0.1226,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0695,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 16,
+      "atr": 0.0734,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 17,
+      "atr": 0.0773,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 69,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0912,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 51,
+      "atr": 0.1045,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 127,
+      "atr": 0.1101,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 124,
+      "atr": 0.1226,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0076,
+    "cum_pnl": 0.426,
+    "leverage": 0.2398,
+    "atr": 0.0212,
+    "marketcap_pnt": 0.0168,
+    "green_marketcap_pnt": 0
+  }
+}

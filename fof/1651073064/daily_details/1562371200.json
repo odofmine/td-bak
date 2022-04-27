@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.0929,
+      "pnl_value": 0.333,
+      "weight": 0.0492,
+      "rank": 91,
+      "atr": 0.0982,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0226,
+      "pnl_value": -0.0835,
+      "weight": 0.0507,
+      "rank": 80,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 80,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 72.1152,
+    "leverage": 0.0999,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

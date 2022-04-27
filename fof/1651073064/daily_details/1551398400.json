@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2159,
+      "pnl_value": 0.4206,
+      "weight": 0.0484,
+      "rank": 104,
+      "atr": 0.082,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0121,
+      "pnl_value": 0.0267,
+      "weight": 0.0548,
+      "rank": 45,
+      "atr": 0.0725,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": 0.0045,
+      "pnl_value": 0.008,
+      "weight": 0.0442,
+      "rank": 108,
+      "atr": 0.0898,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0262,
+      "pnl_value": -0.0552,
+      "weight": 0.0523,
+      "rank": 57,
+      "atr": 0.0759,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ICX",
+      "rank": 45,
+      "atr": 0.0725,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0759,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 104,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 108,
+      "atr": 0.0898,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0099,
+    "cum_pnl": 39.6522,
+    "leverage": 0.1997,
+    "atr": 0.0159,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

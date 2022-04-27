@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": -0.1163,
+      "pnl_value": -0.029,
+      "weight": 0.0142,
+      "rank": 6,
+      "atr": 0.0797,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GOLOS",
+      "pnl": -0.1554,
+      "pnl_value": -0.0181,
+      "weight": 0.0067,
+      "rank": 109,
+      "atr": 0.1703,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.1888,
+      "pnl_value": -0.03,
+      "weight": 0.0091,
+      "rank": 97,
+      "atr": 0.1248,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0797,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 97,
+      "atr": 0.1248,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GOLOS",
+      "rank": 109,
+      "atr": 0.1703,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 16.4039,
+    "leverage": 0.03,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.016,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.1637,
+      "pnl_value": 0.7484,
+      "weight": 0.0524,
+      "rank": 57,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0017,
+      "pnl_value": -0.0074,
+      "weight": 0.0496,
+      "rank": 93,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.031,
+      "pnl_value": -0.1293,
+      "weight": 0.0479,
+      "rank": 108,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RDD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 93,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 108,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.007,
+    "cum_pnl": 86.8481,
+    "leverage": 0.1499,
+    "atr": 0.0127,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

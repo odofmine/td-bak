@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "VEN",
+      "pnl": 0.034,
+      "pnl_value": 0.0359,
+      "weight": 0.0116,
+      "rank": 21,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0067,
+      "pnl_value": -0.0051,
+      "weight": 0.0084,
+      "rank": 9,
+      "atr": 0.1483,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VEN",
+      "rank": 21,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1483,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 89.8084,
+    "leverage": 0.02,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0192,
+    "green_marketcap_pnt": 0
+  }
+}

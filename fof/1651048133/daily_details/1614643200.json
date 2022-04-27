@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.0474,
+      "pnl_value": 7.5945,
+      "weight": 0.0596,
+      "rank": 88,
+      "atr": 0.077,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0555,
+      "pnl_value": -7.2351,
+      "weight": 0.0485,
+      "rank": 3,
+      "atr": 0.0947,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0647,
+      "pnl_value": -7.2455,
+      "weight": 0.0417,
+      "rank": 54,
+      "atr": 0.11,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0947,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0026,
+    "cum_pnl": 2679.3628,
+    "leverage": 0.1498,
+    "atr": 0.0138,
+    "marketcap_pnt": 0.0308,
+    "green_marketcap_pnt": 0
+  }
+}

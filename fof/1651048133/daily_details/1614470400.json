@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.1702,
+      "pnl_value": 11.9648,
+      "weight": 0.026,
+      "rank": 80,
+      "atr": 0.1311,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.003,
+      "pnl_value": -0.3066,
+      "weight": 0.0374,
+      "rank": 6,
+      "atr": 0.0911,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0586,
+      "pnl_value": -4.8485,
+      "weight": 0.0306,
+      "rank": 92,
+      "atr": 0.1113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0665,
+      "pnl_value": -23.2186,
+      "weight": 0.1292,
+      "rank": 56,
+      "atr": 0.0264,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1,
+      "pnl_value": -7.166,
+      "weight": 0.0265,
+      "rank": 78,
+      "atr": 0.1285,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0264,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0911,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1113,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 78,
+      "atr": 0.1285,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1311,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0087,
+    "cum_pnl": 2679.0127,
+    "leverage": 0.2497,
+    "atr": 0.017,
+    "marketcap_pnt": 0.0219,
+    "green_marketcap_pnt": 0
+  }
+}

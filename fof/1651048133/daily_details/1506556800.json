@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0853,
+      "pnl_value": 0.0249,
+      "weight": 0.0123,
+      "rank": 16,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0171,
+      "pnl_value": 0.0043,
+      "weight": 0.0108,
+      "rank": 92,
+      "atr": 0.1136,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0268,
+      "pnl_value": -0.0083,
+      "weight": 0.0131,
+      "rank": 6,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.0287,
+      "pnl_value": -0.0031,
+      "weight": 0.0046,
+      "rank": 44,
+      "atr": 0.2645,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0485,
+      "pnl_value": -0.0141,
+      "weight": 0.0123,
+      "rank": 47,
+      "atr": 0.0998,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0507,
+      "pnl_value": -0.0124,
+      "weight": 0.0103,
+      "rank": 29,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RDD",
+      "pnl": -0.064,
+      "pnl_value": -0.0111,
+      "weight": 0.0073,
+      "rank": 99,
+      "atr": 0.1675,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRST",
+      "pnl": -0.0656,
+      "pnl_value": -0.0168,
+      "weight": 0.0108,
+      "rank": 105,
+      "atr": 0.1128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.1142,
+      "pnl_value": -0.0229,
+      "weight": 0.0085,
+      "rank": 106,
+      "atr": 0.1446,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 16,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 47,
+      "atr": 0.0998,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 105,
+      "atr": 0.1128,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 92,
+      "atr": 0.1136,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1446,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 99,
+      "atr": 0.1675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.2645,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 22.6257,
+    "leverage": 0.0899,
+    "atr": 0.011,
+    "marketcap_pnt": 0.0277,
+    "green_marketcap_pnt": 0
+  }
+}

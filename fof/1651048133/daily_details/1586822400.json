@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0001,
+      "pnl_value": 0.0008,
+      "weight": 0.0342,
+      "rank": 43,
+      "atr": 0.0795,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0393,
+      "pnl_value": -0.2253,
+      "weight": 0.0257,
+      "rank": 12,
+      "atr": 0.1056,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 43,
+      "atr": 0.0795,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 12,
+      "atr": 0.1056,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 221.4383,
+    "leverage": 0.0599,
+    "atr": 0.0054,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

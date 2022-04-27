@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "NVC",
+      "pnl": 0.091,
+      "pnl_value": 0.0885,
+      "weight": 0.0553,
+      "rank": 112,
+      "atr": 0.1205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENRG",
+      "pnl": 0.0083,
+      "pnl_value": 0.0044,
+      "weight": 0.0302,
+      "rank": 119,
+      "atr": 0.2205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CLOAK",
+      "pnl": 0.0025,
+      "pnl_value": 0.0028,
+      "weight": 0.0644,
+      "rank": 73,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CLOAK",
+      "rank": 73,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NVC",
+      "rank": 112,
+      "atr": 0.1205,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENRG",
+      "rank": 119,
+      "atr": 0.2205,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0054,
+    "cum_pnl": 16.6975,
+    "leverage": 0.1499,
+    "atr": 0.02,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

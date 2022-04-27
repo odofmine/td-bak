@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.274,
+      "pnl_value": 0.2659,
+      "weight": 0.0117,
+      "rank": 38,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": 0.0864,
+      "pnl_value": 0.0697,
+      "weight": 0.0098,
+      "rank": 47,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0306,
+      "pnl_value": 0.0229,
+      "weight": 0.0091,
+      "rank": 13,
+      "atr": 0.1078,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.01,
+      "pnl_value": -0.0077,
+      "weight": 0.0094,
+      "rank": 81,
+      "atr": 0.1038,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 38,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 47,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 81,
+      "atr": 0.1038,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.1078,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0042,
+    "cum_pnl": 82.0111,
+    "leverage": 0.04,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.0114,
+    "green_marketcap_pnt": 0
+  }
+}

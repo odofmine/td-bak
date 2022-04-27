@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DCN",
+      "pnl": -0.0242,
+      "pnl_value": -0.0761,
+      "weight": 0.0322,
+      "rank": 76,
+      "atr": 0.1244,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MGO",
+      "pnl": -0.097,
+      "pnl_value": -0.3368,
+      "weight": 0.0356,
+      "rank": 73,
+      "atr": 0.1126,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.1083,
+      "pnl_value": -0.233,
+      "weight": 0.0221,
+      "rank": 46,
+      "atr": 0.1817,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MGO",
+      "rank": 73,
+      "atr": 0.1126,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 76,
+      "atr": 0.1244,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 46,
+      "atr": 0.1817,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0066,
+    "cum_pnl": 95.7631,
+    "leverage": 0.0899,
+    "atr": 0.012,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

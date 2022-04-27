@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "TRST",
+      "pnl": 0.1989,
+      "pnl_value": 0.0494,
+      "weight": 0.0097,
+      "rank": 105,
+      "atr": 0.1318,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0909,
+      "pnl_value": 0.0231,
+      "weight": 0.0099,
+      "rank": 29,
+      "atr": 0.1284,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.1094,
+      "pnl_value": -0.0292,
+      "weight": 0.0104,
+      "rank": 106,
+      "atr": 0.1229,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FAIR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1229,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.1284,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 105,
+      "atr": 0.1318,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 24.7134,
+    "leverage": 0.03,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

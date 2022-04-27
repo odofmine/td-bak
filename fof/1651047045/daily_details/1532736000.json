@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "IOST",
+      "pnl": 0.0285,
+      "pnl_value": 0.0408,
+      "weight": 0.0134,
+      "rank": 57,
+      "atr": 0.1511,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0059,
+      "pnl_value": 0.0288,
+      "weight": 0.0458,
+      "rank": 1,
+      "atr": 0.0441,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0306,
+      "rank": 80,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0017,
+      "pnl_value": -0.0055,
+      "weight": 0.0301,
+      "rank": 13,
+      "atr": 0.0672,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0441,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 80,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0672,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 57,
+      "atr": 0.1511,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 106.3361,
+    "leverage": 0.1199,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.4733,
+    "green_marketcap_pnt": 0
+  }
+}

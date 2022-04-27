@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.386,
+      "pnl_value": 0.7631,
+      "weight": 0.0729,
+      "rank": 82,
+      "atr": 0.112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.378,
+      "pnl_value": 0.4992,
+      "weight": 0.0487,
+      "rank": 21,
+      "atr": 0.1675,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0139,
+      "pnl_value": -0.0182,
+      "weight": 0.0483,
+      "rank": 69,
+      "atr": 0.169,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0158,
+      "pnl_value": -0.0192,
+      "weight": 0.0446,
+      "rank": 58,
+      "atr": 0.1829,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0198,
+      "pnl_value": -0.0237,
+      "weight": 0.0442,
+      "rank": 15,
+      "atr": 0.1847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATB",
+      "pnl": -0.0364,
+      "pnl_value": -0.0531,
+      "weight": 0.0538,
+      "rank": 95,
+      "atr": 0.1516,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NLC2",
+      "pnl": -0.1127,
+      "pnl_value": -0.1137,
+      "weight": 0.0372,
+      "rank": 103,
+      "atr": 0.2192,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATB",
+      "rank": 95,
+      "atr": 0.1516,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 69,
+      "atr": 0.169,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 58,
+      "atr": 0.1829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 15,
+      "atr": 0.1847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLC2",
+      "rank": 103,
+      "atr": 0.2192,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0381,
+    "cum_pnl": 27.1516,
+    "leverage": 0.3497,
+    "atr": 0.0571,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

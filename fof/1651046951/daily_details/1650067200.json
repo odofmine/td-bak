@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SHIB",
+      "pnl": -0.012,
+      "pnl_value": -0.0141,
+      "weight": 0.0099,
+      "rank": 15,
+      "atr": 0.087,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0403,
+      "pnl_value": -0.0488,
+      "weight": 0.0101,
+      "rank": 101,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 15,
+      "atr": 0.087,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 118.5338,
+    "leverage": 0.02,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

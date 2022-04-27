@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.2706,
+      "pnl_value": 0.213,
+      "weight": 0.0458,
+      "rank": 92,
+      "atr": 0.1835,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XDN",
+      "pnl": 0.0038,
+      "pnl_value": 0.0028,
+      "weight": 0.0436,
+      "rank": 91,
+      "atr": 0.1929,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TAAS",
+      "pnl": -0.0168,
+      "pnl_value": -0.0151,
+      "weight": 0.0524,
+      "rank": 107,
+      "atr": 0.1603,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXT",
+      "pnl": -0.0802,
+      "pnl_value": -0.0799,
+      "weight": 0.058,
+      "rank": 44,
+      "atr": 0.145,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXT",
+      "rank": 44,
+      "atr": 0.145,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TAAS",
+      "rank": 107,
+      "atr": 0.1603,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 92,
+      "atr": 0.1835,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDN",
+      "rank": 91,
+      "atr": 0.1929,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.007,
+    "cum_pnl": 16.3118,
+    "leverage": 0.1998,
+    "atr": 0.0336,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

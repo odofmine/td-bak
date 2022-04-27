@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0385,
+      "pnl_value": 0.0436,
+      "weight": 0.0095,
+      "rank": 19,
+      "atr": 0.1022,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0709,
+      "pnl_value": -0.0686,
+      "weight": 0.0081,
+      "rank": 69,
+      "atr": 0.1196,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0931,
+      "pnl_value": -0.1371,
+      "weight": 0.0124,
+      "rank": 13,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1022,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.1196,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 118.0137,
+    "leverage": 0.03,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

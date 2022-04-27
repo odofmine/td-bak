@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SNGLS",
+      "pnl": -0.0978,
+      "pnl_value": -0.0103,
+      "weight": 0.0086,
+      "rank": 51,
+      "atr": 0.1477,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1168,
+      "pnl_value": -0.0164,
+      "weight": 0.0114,
+      "rank": 77,
+      "atr": 0.1112,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1477,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 11.2848,
+    "leverage": 0.02,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

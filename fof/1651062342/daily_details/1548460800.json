@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2327,
+      "pnl_value": 0.1104,
+      "weight": 0.0112,
+      "rank": 50,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGD",
+      "pnl": 0.0138,
+      "pnl_value": 0.0051,
+      "weight": 0.0087,
+      "rank": 88,
+      "atr": 0.1062,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 88,
+      "atr": 0.1062,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 41.3282,
+    "leverage": 0.02,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

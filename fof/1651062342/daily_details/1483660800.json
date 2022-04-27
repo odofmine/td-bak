@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.002,
+      "pnl_value": -0.0001,
+      "weight": 0.057,
+      "rank": 2,
+      "atr": 0.074,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.022,
+      "pnl_value": -0.0006,
+      "weight": 0.0256,
+      "rank": 49,
+      "atr": 0.1649,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0546,
+      "pnl_value": -0.0031,
+      "weight": 0.0551,
+      "rank": 6,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.1097,
+      "pnl_value": -0.0047,
+      "weight": 0.0422,
+      "rank": 13,
+      "atr": 0.1001,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.1244,
+      "pnl_value": -0.0073,
+      "weight": 0.0576,
+      "rank": 5,
+      "atr": 0.0733,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.1637,
+      "pnl_value": -0.0104,
+      "weight": 0.0623,
+      "rank": 7,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.0733,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.1001,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 49,
+      "atr": 0.1649,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0256,
+    "cum_pnl": -0.0023,
+    "leverage": 0.2998,
+    "atr": 0.0253,
+    "marketcap_pnt": 0.0622,
+    "green_marketcap_pnt": 0
+  }
+}

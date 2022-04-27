@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "IOC",
+      "pnl": 0.059,
+      "pnl_value": 0.008,
+      "weight": 0.011,
+      "rank": 77,
+      "atr": 0.1288,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": 0.0126,
+      "pnl_value": 0.0014,
+      "weight": 0.0089,
+      "rank": 51,
+      "atr": 0.1586,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PTOY",
+      "pnl": -0.1682,
+      "pnl_value": -0.0207,
+      "weight": 0.01,
+      "rank": 97,
+      "atr": 0.1415,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1288,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PTOY",
+      "rank": 97,
+      "atr": 0.1415,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1586,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 11.2842,
+    "leverage": 0.03,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

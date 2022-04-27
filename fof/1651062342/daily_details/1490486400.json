@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.499,
+      "pnl_value": 0.0337,
+      "weight": 0.0525,
+      "rank": 18,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.3998,
+      "pnl_value": 0.0225,
+      "weight": 0.0439,
+      "rank": 64,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.1764,
+      "pnl_value": 0.0114,
+      "weight": 0.0502,
+      "rank": 25,
+      "atr": 0.0938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0552,
+      "pnl_value": 0.004,
+      "weight": 0.0559,
+      "rank": 5,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0322,
+      "pnl_value": 0.0025,
+      "weight": 0.0597,
+      "rank": 7,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0235,
+      "pnl_value": -0.0011,
+      "weight": 0.0376,
+      "rank": 24,
+      "atr": 0.1253,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 5,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 18,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 25,
+      "atr": 0.0938,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 64,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 24,
+      "atr": 0.1253,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0567,
+    "cum_pnl": 0.3575,
+    "leverage": 0.2998,
+    "atr": 0.0283,
+    "marketcap_pnt": 0.0206,
+    "green_marketcap_pnt": 0
+  }
+}

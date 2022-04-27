@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0613,
+      "pnl_value": 0.096,
+      "weight": 0.0075,
+      "rank": 103,
+      "atr": 0.0938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0515,
+      "pnl_value": 0.0984,
+      "weight": 0.0092,
+      "rank": 114,
+      "atr": 0.077,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0208,
+      "pnl_value": 0.0631,
+      "weight": 0.0146,
+      "rank": 18,
+      "atr": 0.0485,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0071,
+      "pnl_value": 0.0132,
+      "weight": 0.0089,
+      "rank": 40,
+      "atr": 0.0793,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0006,
+      "pnl_value": -0.0015,
+      "weight": 0.0115,
+      "rank": 24,
+      "atr": 0.0615,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0052,
+      "pnl_value": -0.0115,
+      "weight": 0.0107,
+      "rank": 43,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0289,
+      "pnl_value": -0.0646,
+      "weight": 0.0107,
+      "rank": 19,
+      "atr": 0.0658,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0444,
+      "pnl_value": -0.0634,
+      "weight": 0.0069,
+      "rank": 34,
+      "atr": 0.1028,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 18,
+      "atr": 0.0485,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 24,
+      "atr": 0.0615,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0658,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 43,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 114,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0793,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 103,
+      "atr": 0.0938,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 34,
+      "atr": 0.1028,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 207.3138,
+    "leverage": 0.0799,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.0168,
+    "green_marketcap_pnt": 0
+  }
+}

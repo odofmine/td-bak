@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0963,
+      "pnl_value": 0.0031,
+      "weight": 0.032,
+      "rank": 6,
+      "atr": 0.0577,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0889,
+      "pnl_value": 0.0029,
+      "weight": 0.0331,
+      "rank": 7,
+      "atr": 0.0559,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.054,
+      "pnl_value": 0.0017,
+      "weight": 0.0319,
+      "rank": 18,
+      "atr": 0.058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0336,
+      "pnl_value": 0.0011,
+      "weight": 0.0342,
+      "rank": 21,
+      "atr": 0.0541,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0239,
+      "pnl_value": 0.0004,
+      "weight": 0.0187,
+      "rank": 64,
+      "atr": 0.099,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.0541,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0559,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0577,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 18,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 64,
+      "atr": 0.099,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0094,
+    "cum_pnl": 0.0086,
+    "leverage": 0.1498,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.0333,
+    "green_marketcap_pnt": 0
+  }
+}

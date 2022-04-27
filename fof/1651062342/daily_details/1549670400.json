@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0931,
+      "pnl_value": 0.0285,
+      "weight": 0.0073,
+      "rank": 75,
+      "atr": 0.0919,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0324,
+      "pnl_value": 0.0173,
+      "weight": 0.0127,
+      "rank": 12,
+      "atr": 0.0527,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 12,
+      "atr": 0.0527,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 75,
+      "atr": 0.0919,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 41.1544,
+    "leverage": 0.02,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0082,
+    "green_marketcap_pnt": 0
+  }
+}

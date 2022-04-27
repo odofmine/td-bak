@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0273,
+      "pnl_value": 0.329,
+      "weight": 0.058,
+      "rank": 15,
+      "atr": 0.0452,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0272,
+      "pnl_value": 0.2115,
+      "weight": 0.0374,
+      "rank": 10,
+      "atr": 0.07,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0144,
+      "pnl_value": 0.2696,
+      "weight": 0.0898,
+      "rank": 1,
+      "atr": 0.0292,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0077,
+      "pnl_value": 0.0703,
+      "weight": 0.0438,
+      "rank": 27,
+      "atr": 0.0598,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0031,
+      "pnl_value": 0.0361,
+      "weight": 0.0555,
+      "rank": 4,
+      "atr": 0.0472,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0032,
+      "pnl_value": -0.024,
+      "weight": 0.036,
+      "rank": 35,
+      "atr": 0.0728,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0192,
+      "pnl_value": -0.1159,
+      "weight": 0.029,
+      "rank": 21,
+      "atr": 0.0903,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0292,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0452,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0472,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0598,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.07,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 35,
+      "atr": 0.0728,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0903,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0037,
+    "cum_pnl": 207.6975,
+    "leverage": 0.3495,
+    "atr": 0.0183,
+    "marketcap_pnt": 0.6435,
+    "green_marketcap_pnt": 0
+  }
+}

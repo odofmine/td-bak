@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.122,
+      "pnl_value": 40.0544,
+      "weight": 0.0517,
+      "rank": 13,
+      "atr": 0.0785,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CRO",
+      "pnl": 0.0137,
+      "pnl_value": 4.221,
+      "weight": 0.0484,
+      "rank": 22,
+      "atr": 0.0838,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.0144,
+      "pnl_value": -4.7279,
+      "weight": 0.0516,
+      "rank": 89,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0462,
+      "pnl_value": -14.131,
+      "weight": 0.0482,
+      "rank": 65,
+      "atr": 0.0842,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AVAX",
+      "rank": 13,
+      "atr": 0.0785,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 89,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 22,
+      "atr": 0.0838,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 65,
+      "atr": 0.0842,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.004,
+    "cum_pnl": 6375.0791,
+    "leverage": 0.1999,
+    "atr": 0.0162,
+    "marketcap_pnt": 0.0128,
+    "green_marketcap_pnt": 0
+  }
+}

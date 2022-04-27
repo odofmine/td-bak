@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0546,
+      "pnl_value": 0.0301,
+      "weight": 0.0073,
+      "rank": 87,
+      "atr": 0.1312,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.0014,
+      "pnl_value": -0.0013,
+      "weight": 0.0121,
+      "rank": 83,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0174,
+      "pnl_value": -0.0141,
+      "weight": 0.0106,
+      "rank": 70,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 83,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 70,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 87,
+      "atr": 0.1312,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 74.9371,
+    "leverage": 0.03,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "ENRG",
+      "pnl": -0.0254,
+      "pnl_value": -0.0243,
+      "weight": 0.05,
+      "rank": 119,
+      "atr": 0.2204,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NVC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENRG",
+      "rank": 119,
+      "atr": 0.2204,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 18.1185,
+    "leverage": 0.05,
+    "atr": 0.011,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

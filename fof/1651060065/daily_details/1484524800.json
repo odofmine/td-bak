@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": -0.0213,
+      "pnl_value": -0.0002,
+      "weight": 0.011,
+      "rank": 10,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0371,
+      "pnl_value": -0.0004,
+      "weight": 0.0106,
+      "rank": 51,
+      "atr": 0.1151,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.048,
+      "pnl_value": -0.0004,
+      "weight": 0.0084,
+      "rank": 22,
+      "atr": 0.1448,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 51,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 22,
+      "atr": 0.1448,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": -0.0273,
+    "leverage": 0.0299,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ODE",
+      "pnl": 0.0399,
+      "pnl_value": 0.1582,
+      "weight": 0.0407,
+      "rank": 106,
+      "atr": 0.1061,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.1586,
+      "pnl_value": -0.9136,
+      "weight": 0.0592,
+      "rank": 61,
+      "atr": 0.0731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 61,
+      "atr": 0.0731,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 106,
+      "atr": 0.1061,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0078,
+    "cum_pnl": 95.5567,
+    "leverage": 0.0999,
+    "atr": 0.0086,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

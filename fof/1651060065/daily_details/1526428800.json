@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0364,
+      "pnl_value": 0.1455,
+      "weight": 0.037,
+      "rank": 25,
+      "atr": 0.0722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0394,
+      "pnl_value": -0.1388,
+      "weight": 0.0326,
+      "rank": 39,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0598,
+      "pnl_value": -0.1445,
+      "weight": 0.0224,
+      "rank": 44,
+      "atr": 0.1194,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0768,
+      "pnl_value": -0.232,
+      "weight": 0.028,
+      "rank": 90,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0722,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 90,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 44,
+      "atr": 0.1194,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 106.6177,
+    "leverage": 0.1199,
+    "atr": 0.0107,
+    "marketcap_pnt": 0.0062,
+    "green_marketcap_pnt": 0
+  }
+}

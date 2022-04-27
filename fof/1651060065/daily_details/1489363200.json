@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.2205,
+      "pnl_value": 0.0187,
+      "weight": 0.0759,
+      "rank": 2,
+      "atr": 0.0551,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.1229,
+      "pnl_value": 0.0052,
+      "weight": 0.038,
+      "rank": 62,
+      "atr": 0.11,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0854,
+      "pnl_value": 0.0043,
+      "weight": 0.0449,
+      "rank": 20,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0795,
+      "pnl_value": 0.0054,
+      "weight": 0.0606,
+      "rank": 4,
+      "atr": 0.069,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0609,
+      "pnl_value": 0.0035,
+      "weight": 0.0514,
+      "rank": 9,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SDC",
+      "pnl": 0.0205,
+      "pnl_value": 0.0012,
+      "weight": 0.0533,
+      "rank": 18,
+      "atr": 0.0784,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0184,
+      "pnl_value": -0.0008,
+      "weight": 0.037,
+      "rank": 41,
+      "atr": 0.113,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.028,
+      "pnl_value": -0.0019,
+      "weight": 0.0613,
+      "rank": 3,
+      "atr": 0.0682,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": -0.101,
+      "pnl_value": -0.0031,
+      "weight": 0.0273,
+      "rank": 27,
+      "atr": 0.153,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0551,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0682,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 18,
+      "atr": 0.0784,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 62,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 41,
+      "atr": 0.113,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 27,
+      "atr": 0.153,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0291,
+    "cum_pnl": 0.1514,
+    "leverage": 0.4497,
+    "atr": 0.0376,
+    "marketcap_pnt": 0.1254,
+    "green_marketcap_pnt": 0
+  }
+}

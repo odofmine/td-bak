@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0328,
+      "pnl_value": 0.0488,
+      "weight": 0.0156,
+      "rank": 10,
+      "atr": 0.0498,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0089,
+      "pnl_value": 0.0076,
+      "weight": 0.009,
+      "rank": 61,
+      "atr": 0.0866,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0381,
+      "pnl_value": -0.0409,
+      "weight": 0.0113,
+      "rank": 5,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAN",
+      "pnl": -0.0517,
+      "pnl_value": -0.0493,
+      "weight": 0.01,
+      "rank": 105,
+      "atr": 0.0775,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HC",
+      "pnl": -0.0781,
+      "pnl_value": -0.061,
+      "weight": 0.0082,
+      "rank": 68,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.0962,
+      "pnl_value": -0.0815,
+      "weight": 0.0089,
+      "rank": 63,
+      "atr": 0.0873,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0979,
+      "pnl_value": -0.0632,
+      "weight": 0.0068,
+      "rank": 98,
+      "atr": 0.1143,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 105,
+      "atr": 0.0775,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 61,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 63,
+      "atr": 0.0873,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 68,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 98,
+      "atr": 0.1143,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 93.7587,
+    "leverage": 0.0699,
+    "atr": 0.0054,
+    "marketcap_pnt": 0.0342,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ETP",
+      "pnl": 0.0669,
+      "pnl_value": 0.214,
+      "weight": 0.0302,
+      "rank": 100,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0042,
+      "pnl_value": -0.0133,
+      "weight": 0.0298,
+      "rank": 18,
+      "atr": 0.07,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETP",
+      "rank": 100,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 18,
+      "atr": 0.07,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0019,
+    "cum_pnl": 105.1009,
+    "leverage": 0.0599,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

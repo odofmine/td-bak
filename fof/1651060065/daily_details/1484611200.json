@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0368,
+      "pnl_value": 0.0003,
+      "weight": 0.0096,
+      "rank": 28,
+      "atr": 0.1175,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PPC",
+      "pnl": 0.0297,
+      "pnl_value": 0.0002,
+      "weight": 0.0077,
+      "rank": 36,
+      "atr": 0.1464,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CLAM",
+      "pnl": 0.0276,
+      "pnl_value": 0.0003,
+      "weight": 0.0121,
+      "rank": 64,
+      "atr": 0.0932,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0221,
+      "pnl_value": 0.0003,
+      "weight": 0.0125,
+      "rank": 8,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.025,
+      "pnl_value": -0.0002,
+      "weight": 0.01,
+      "rank": 10,
+      "atr": 0.1122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLDC",
+      "pnl": -0.0589,
+      "pnl_value": -0.0005,
+      "weight": 0.0087,
+      "rank": 106,
+      "atr": 0.1295,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0708,
+      "pnl_value": -0.0006,
+      "weight": 0.0094,
+      "rank": 51,
+      "atr": 0.1199,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CLAM",
+      "rank": 64,
+      "atr": 0.0932,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.1122,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 28,
+      "atr": 0.1175,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 51,
+      "atr": 0.1199,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLDC",
+      "rank": 106,
+      "atr": 0.1295,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 36,
+      "atr": 0.1464,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": -0.0275,
+    "leverage": 0.0699,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.0065,
+    "green_marketcap_pnt": 0
+  }
+}

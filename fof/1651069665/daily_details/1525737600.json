@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "FUN",
+      "pnl": -0.0209,
+      "pnl_value": -0.0233,
+      "weight": 0.0238,
+      "rank": 80,
+      "atr": 0.1097,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0297,
+      "pnl_value": -0.0468,
+      "weight": 0.0337,
+      "rank": 6,
+      "atr": 0.0775,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WICC",
+      "pnl": -0.0376,
+      "pnl_value": -0.057,
+      "weight": 0.0323,
+      "rank": 62,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0775,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WICC",
+      "rank": 62,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FUN",
+      "rank": 80,
+      "atr": 0.1097,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 45.7166,
+    "leverage": 0.0899,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.0233,
+    "green_marketcap_pnt": 0
+  }
+}

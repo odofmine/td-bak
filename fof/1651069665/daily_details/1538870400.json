@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0279,
+      "pnl_value": 0.029,
+      "weight": 0.0231,
+      "rank": 40,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0144,
+      "pnl_value": 0.0274,
+      "weight": 0.0422,
+      "rank": 16,
+      "atr": 0.0501,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0029,
+      "pnl_value": -0.0028,
+      "weight": 0.0214,
+      "rank": 81,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0166,
+      "pnl_value": -0.0269,
+      "weight": 0.0358,
+      "rank": 30,
+      "atr": 0.0591,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0607,
+      "pnl_value": -0.0746,
+      "weight": 0.0273,
+      "rank": 27,
+      "atr": 0.0776,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 16,
+      "atr": 0.0501,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0591,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 44.0043,
+    "leverage": 0.1499,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.01,
+    "green_marketcap_pnt": 0
+  }
+}

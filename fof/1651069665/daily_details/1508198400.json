@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.28,
+      "pnl_value": 0.1489,
+      "weight": 0.0407,
+      "rank": 21,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0255,
+      "pnl_value": -0.0139,
+      "weight": 0.0419,
+      "rank": 25,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0279,
+      "pnl_value": -0.0306,
+      "weight": 0.0839,
+      "rank": 1,
+      "atr": 0.0479,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0334,
+      "pnl_value": -0.0149,
+      "weight": 0.0341,
+      "rank": 82,
+      "atr": 0.1178,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0521,
+      "pnl_value": -0.0246,
+      "weight": 0.0362,
+      "rank": 30,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0541,
+      "pnl_value": -0.0443,
+      "weight": 0.0627,
+      "rank": 2,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.086,
+      "pnl_value": -0.0564,
+      "weight": 0.0502,
+      "rank": 5,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0479,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 25,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 30,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.1178,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 12.0311,
+    "leverage": 0.3497,
+    "atr": 0.0281,
+    "marketcap_pnt": 0.759,
+    "green_marketcap_pnt": 0
+  }
+}

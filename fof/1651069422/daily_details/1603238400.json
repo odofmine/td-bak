@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0849,
+      "pnl_value": 0.0048,
+      "weight": 0.0232,
+      "rank": 49,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0363,
+      "pnl_value": 0.0033,
+      "weight": 0.0367,
+      "rank": 18,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 1.4612,
+    "leverage": 0.0599,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0055,
+    "green_marketcap_pnt": 0
+  }
+}

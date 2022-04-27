@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.1677,
+      "pnl_value": 0.1197,
+      "weight": 0.0621,
+      "rank": 3,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0057,
+      "pnl_value": -0.0044,
+      "weight": 0.067,
+      "rank": 2,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0843,
+      "pnl_value": -0.0411,
+      "weight": 0.0424,
+      "rank": 40,
+      "atr": 0.1145,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.1035,
+      "pnl_value": -0.0467,
+      "weight": 0.0392,
+      "rank": 32,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1261,
+      "pnl_value": -0.0567,
+      "weight": 0.0391,
+      "rank": 93,
+      "atr": 0.1241,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1145,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 32,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 93,
+      "atr": 0.1241,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 10.4678,
+    "leverage": 0.2498,
+    "atr": 0.0243,
+    "marketcap_pnt": 0.2508,
+    "green_marketcap_pnt": 0
+  }
+}

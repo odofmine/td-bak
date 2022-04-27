@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0343,
+      "pnl_value": 0.0009,
+      "weight": 0.01,
+      "rank": 8,
+      "atr": 0.0703,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0703,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 1.5403,
+    "leverage": 0.01,
+    "atr": 0.0007,
+    "marketcap_pnt": 0.0101,
+    "green_marketcap_pnt": 0
+  }
+}

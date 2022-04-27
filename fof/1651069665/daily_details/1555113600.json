@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": -0.0271,
+      "pnl_value": -0.0802,
+      "weight": 0.0505,
+      "rank": 96,
+      "atr": 0.0602,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0431,
+      "pnl_value": -0.1248,
+      "weight": 0.0494,
+      "rank": 101,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 96,
+      "atr": 0.0602,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 101,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 57.3956,
+    "leverage": 0.0999,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

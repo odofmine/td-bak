@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": 0.0054,
+      "pnl_value": 0.0341,
+      "weight": 0.0572,
+      "rank": 57,
+      "atr": 0.0835,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0205,
+      "pnl_value": -0.1084,
+      "weight": 0.0476,
+      "rank": 38,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0602,
+      "pnl_value": -0.3011,
+      "weight": 0.045,
+      "rank": 63,
+      "atr": 0.1063,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 57,
+      "atr": 0.0835,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 63,
+      "atr": 0.1063,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 109.8216,
+    "leverage": 0.1498,
+    "atr": 0.0143,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

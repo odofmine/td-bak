@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0153,
+      "pnl_value": 0.018,
+      "weight": 0.026,
+      "rank": 28,
+      "atr": 0.094,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0044,
+      "pnl_value": -0.0081,
+      "weight": 0.0409,
+      "rank": 7,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0104,
+      "pnl_value": -0.0103,
+      "weight": 0.022,
+      "rank": 38,
+      "atr": 0.1114,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0224,
+      "pnl_value": -0.0248,
+      "weight": 0.0246,
+      "rank": 26,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0324,
+      "pnl_value": -0.0531,
+      "weight": 0.0362,
+      "rank": 23,
+      "atr": 0.0676,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0676,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 28,
+      "atr": 0.094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1114,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 44.0385,
+    "leverage": 0.1498,
+    "atr": 0.0122,
+    "marketcap_pnt": 0.0223,
+    "green_marketcap_pnt": 0
+  }
+}

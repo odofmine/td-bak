@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.0506,
+      "pnl_value": -0.0826,
+      "weight": 0.0582,
+      "rank": 4,
+      "atr": 0.0907,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0717,
+      "pnl_value": -0.1418,
+      "weight": 0.0704,
+      "rank": 7,
+      "atr": 0.075,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XVG",
+      "pnl": -0.1197,
+      "pnl_value": -0.0659,
+      "weight": 0.0196,
+      "rank": 69,
+      "atr": 0.2687,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DBIX",
+      "pnl": -0.1968,
+      "pnl_value": -0.2844,
+      "weight": 0.0515,
+      "rank": 106,
+      "atr": 0.1025,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0907,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DBIX",
+      "rank": 106,
+      "atr": 0.1025,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 69,
+      "atr": 0.2687,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0205,
+    "cum_pnl": 26.4937,
+    "leverage": 0.1997,
+    "atr": 0.0211,
+    "marketcap_pnt": 0.0354,
+    "green_marketcap_pnt": 0
+  }
+}

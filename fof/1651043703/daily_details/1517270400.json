@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "DGD",
+      "pnl": 0.0081,
+      "pnl_value": 0.0148,
+      "weight": 0.0085,
+      "rank": 62,
+      "atr": 0.1806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CNX",
+      "pnl": -0.1871,
+      "pnl_value": -0.4561,
+      "weight": 0.0114,
+      "rank": 67,
+      "atr": 0.1351,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STEEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CNX",
+      "rank": 67,
+      "atr": 0.1351,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGD",
+      "rank": 62,
+      "atr": 0.1806,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 211.6185,
+    "leverage": 0.02,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

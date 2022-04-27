@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "RIF",
+      "pnl": 0.3557,
+      "pnl_value": 1.1704,
+      "weight": 0.0102,
+      "rank": 103,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0013,
+      "pnl_value": -0.005,
+      "weight": 0.0117,
+      "rank": 30,
+      "atr": 0.0935,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "JCT",
+      "pnl": -0.0146,
+      "pnl_value": -0.0423,
+      "weight": 0.009,
+      "rank": 99,
+      "atr": 0.1222,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UUU",
+      "pnl": -0.0894,
+      "pnl_value": -0.2597,
+      "weight": 0.009,
+      "rank": 106,
+      "atr": 0.1217,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0935,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RIF",
+      "rank": 103,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UUU",
+      "rank": 106,
+      "atr": 0.1217,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "JCT",
+      "rank": 99,
+      "atr": 0.1222,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 321.8742,
+    "leverage": 0.04,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

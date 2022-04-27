@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SXP",
+      "pnl": 0.0554,
+      "pnl_value": 0.6685,
+      "weight": 0.0349,
+      "rank": 61,
+      "atr": 0.0637,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0118,
+      "pnl_value": -0.102,
+      "weight": 0.025,
+      "rank": 94,
+      "atr": 0.089,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SXP",
+      "rank": 61,
+      "atr": 0.0637,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 94,
+      "atr": 0.089,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 344.9445,
+    "leverage": 0.0599,
+    "atr": 0.0045,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

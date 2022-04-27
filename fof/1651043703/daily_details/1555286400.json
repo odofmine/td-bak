@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": -0.078,
+      "pnl_value": -1.2514,
+      "weight": 0.0608,
+      "rank": 85,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRO",
+      "pnl": -0.1126,
+      "pnl_value": -1.1626,
+      "weight": 0.0391,
+      "rank": 23,
+      "atr": 0.1031,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NAS",
+      "rank": 85,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 23,
+      "atr": 0.1031,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0091,
+    "cum_pnl": 260.5577,
+    "leverage": 0.0999,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

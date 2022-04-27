@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.0794,
+      "pnl_value": 1.5908,
+      "weight": 0.0577,
+      "rank": 69,
+      "atr": 0.0778,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0722,
+      "pnl_value": 1.8682,
+      "weight": 0.0745,
+      "rank": 53,
+      "atr": 0.0603,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0048,
+      "pnl_value": 0.0786,
+      "weight": 0.0473,
+      "rank": 114,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0135,
+      "pnl_value": -0.2462,
+      "weight": 0.0524,
+      "rank": 84,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THX",
+      "pnl": -0.0203,
+      "pnl_value": -0.1252,
+      "weight": 0.0178,
+      "rank": 51,
+      "atr": 0.2515,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SXP",
+      "rank": 53,
+      "atr": 0.0603,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0778,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 84,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 114,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THX",
+      "rank": 51,
+      "atr": 0.2515,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0091,
+    "cum_pnl": 349.5537,
+    "leverage": 0.2497,
+    "atr": 0.0224,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

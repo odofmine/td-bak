@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": -0.0116,
+      "pnl_value": -0.0013,
+      "weight": 0.0615,
+      "rank": 31,
+      "atr": 0.0613,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0143,
+      "pnl_value": -0.0011,
+      "weight": 0.0431,
+      "rank": 134,
+      "atr": 0.0876,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0238,
+      "pnl_value": -0.0019,
+      "weight": 0.0431,
+      "rank": 183,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1241,
+      "pnl_value": -0.012,
+      "weight": 0.0521,
+      "rank": 43,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VET",
+      "rank": 31,
+      "atr": 0.0613,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 43,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 183,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 134,
+      "atr": 0.0876,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0088,
+    "cum_pnl": 0.8359,
+    "leverage": 0.1998,
+    "atr": 0.0151,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0847,
+      "pnl_value": 1.4258,
+      "weight": 0.0175,
+      "rank": 49,
+      "atr": 0.0874,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0748,
+      "pnl_value": 4.0669,
+      "weight": 0.0564,
+      "rank": 1,
+      "atr": 0.0271,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0368,
+      "pnl_value": 0.9485,
+      "weight": 0.0267,
+      "rank": 18,
+      "atr": 0.0572,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.028,
+      "pnl_value": 0.5209,
+      "weight": 0.0193,
+      "rank": 109,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AMPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0271,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0572,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0072,
+    "cum_pnl": 970.4395,
+    "leverage": 0.1199,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.5999,
+    "green_marketcap_pnt": 0
+  }
+}

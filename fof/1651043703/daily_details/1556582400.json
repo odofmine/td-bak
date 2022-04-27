@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SAI",
+      "pnl": 0.0139,
+      "pnl_value": 0.2496,
+      "weight": 0.0695,
+      "rank": 65,
+      "atr": 0.0502,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ODE",
+      "pnl": -0.1779,
+      "pnl_value": -1.3968,
+      "weight": 0.0304,
+      "rank": 86,
+      "atr": 0.1144,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 65,
+      "atr": 0.0502,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ODE",
+      "rank": 86,
+      "atr": 0.1144,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 256.1843,
+    "leverage": 0.0999,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

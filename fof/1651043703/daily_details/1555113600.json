@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "CRO",
+      "pnl": 0.0691,
+      "pnl_value": 0.7438,
+      "weight": 0.0407,
+      "rank": 33,
+      "atr": 0.107,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0271,
+      "pnl_value": -0.5193,
+      "weight": 0.0724,
+      "rank": 96,
+      "atr": 0.0602,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0431,
+      "pnl_value": -0.8077,
+      "weight": 0.0708,
+      "rank": 101,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0463,
+      "pnl_value": -0.1946,
+      "weight": 0.0159,
+      "rank": 44,
+      "atr": 0.2729,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DGTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WICC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 96,
+      "atr": 0.0602,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 101,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 33,
+      "atr": 0.107,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 44,
+      "atr": 0.2729,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 262.7605,
+    "leverage": 0.1998,
+    "atr": 0.0174,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "GAS",
+      "pnl": 0.6755,
+      "pnl_value": 0.388,
+      "weight": 0.0125,
+      "rank": 42,
+      "atr": 0.1121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": 0.0521,
+      "pnl_value": 0.0284,
+      "weight": 0.0118,
+      "rank": 106,
+      "atr": 0.1184,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRST",
+      "pnl": 0.0517,
+      "pnl_value": 0.0216,
+      "weight": 0.0091,
+      "rank": 105,
+      "atr": 0.1542,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0363,
+      "pnl_value": 0.0177,
+      "weight": 0.0106,
+      "rank": 29,
+      "atr": 0.132,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FAIR",
+      "pnl": 0.0073,
+      "pnl_value": 0.0037,
+      "weight": 0.0112,
+      "rank": 92,
+      "atr": 0.1249,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0369,
+      "pnl_value": -0.0145,
+      "weight": 0.0085,
+      "rank": 87,
+      "atr": 0.164,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.29,
+      "pnl_value": -0.085,
+      "weight": 0.0064,
+      "rank": 44,
+      "atr": 0.2192,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RISE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAS",
+      "rank": 42,
+      "atr": 0.1121,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1184,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FAIR",
+      "rank": 92,
+      "atr": 0.1249,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.132,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 105,
+      "atr": 0.1542,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 87,
+      "atr": 0.164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.2192,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0078,
+    "cum_pnl": 45.4541,
+    "leverage": 0.07,
+    "atr": 0.0098,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

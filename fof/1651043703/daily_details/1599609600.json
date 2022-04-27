@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTS",
+      "pnl": 0.001,
+      "pnl_value": 0.0059,
+      "weight": 0.0059,
+      "rank": 88,
+      "atr": 0.109,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.0145,
+      "pnl_value": -0.2005,
+      "weight": 0.014,
+      "rank": 96,
+      "atr": 0.0461,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZB",
+      "rank": 96,
+      "atr": 0.0461,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 88,
+      "atr": 0.109,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 982.7855,
+    "leverage": 0.02,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

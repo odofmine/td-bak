@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0027,
+      "pnl_value": 0.0003,
+      "weight": 0.128,
+      "rank": 1,
+      "atr": 0.0485,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0012,
+      "pnl_value": -0.0001,
+      "weight": 0.0719,
+      "rank": 13,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0485,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": -0.0202,
+    "leverage": 0.1999,
+    "atr": 0.0124,
+    "marketcap_pnt": 0.86,
+    "green_marketcap_pnt": 0
+  }
+}

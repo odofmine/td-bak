@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0721,
+      "pnl_value": 3.7077,
+      "weight": 0.0524,
+      "rank": 28,
+      "atr": 0.0887,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HEDG",
+      "pnl": 0.0476,
+      "pnl_value": 2.9421,
+      "weight": 0.063,
+      "rank": 24,
+      "atr": 0.0739,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NMR",
+      "pnl": 0.0432,
+      "pnl_value": 2.7296,
+      "weight": 0.0644,
+      "rank": 95,
+      "atr": 0.0722,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NMR",
+      "rank": 95,
+      "atr": 0.0722,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HEDG",
+      "rank": 24,
+      "atr": 0.0739,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0887,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0096,
+    "cum_pnl": 989.6186,
+    "leverage": 0.1799,
+    "atr": 0.014,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

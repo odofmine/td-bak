@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0889,
+      "pnl_value": 4.1574,
+      "weight": 0.0469,
+      "rank": 10,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0206,
+      "pnl_value": 1.1347,
+      "weight": 0.0553,
+      "rank": 16,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0027,
+      "pnl_value": 0.1918,
+      "weight": 0.0713,
+      "rank": 1,
+      "atr": 0.0612,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0151,
+      "pnl_value": -0.9635,
+      "weight": 0.0638,
+      "rank": 15,
+      "atr": 0.0684,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NMR",
+      "pnl": -0.0483,
+      "pnl_value": -3.0101,
+      "weight": 0.0625,
+      "rank": 95,
+      "atr": 0.0699,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HEDG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0612,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0684,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NMR",
+      "rank": 95,
+      "atr": 0.0699,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 16,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 10,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 998.0156,
+    "leverage": 0.2998,
+    "atr": 0.0218,
+    "marketcap_pnt": 0.6442,
+    "green_marketcap_pnt": 0
+  }
+}

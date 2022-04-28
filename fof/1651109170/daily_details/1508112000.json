@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.2427,
+      "pnl_value": 0.9962,
+      "weight": 0.0565,
+      "rank": 82,
+      "atr": 0.14,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0144,
+      "pnl_value": 0.1698,
+      "weight": 0.162,
+      "rank": 1,
+      "atr": 0.0489,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.008,
+      "pnl_value": 0.0418,
+      "weight": 0.0722,
+      "rank": 30,
+      "atr": 0.1097,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.007,
+      "pnl_value": -0.0629,
+      "weight": 0.1239,
+      "rank": 2,
+      "atr": 0.0639,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0125,
+      "pnl_value": -0.0902,
+      "weight": 0.0993,
+      "rank": 5,
+      "atr": 0.0797,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0331,
+      "pnl_value": -0.2062,
+      "weight": 0.0858,
+      "rank": 25,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0489,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0639,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0797,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 25,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 30,
+      "atr": 0.1097,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.14,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0117,
+    "cum_pnl": 72.5062,
+    "leverage": 0.5997,
+    "atr": 0.0475,
+    "marketcap_pnt": 0.7572,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": 0.0291,
+      "pnl_value": 0.4576,
+      "weight": 0.021,
+      "rank": 30,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SAI",
+      "pnl": 0.0005,
+      "pnl_value": 0.0085,
+      "weight": 0.0228,
+      "rank": 83,
+      "atr": 0.081,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0382,
+      "pnl_value": -0.4608,
+      "weight": 0.0161,
+      "rank": 87,
+      "atr": 0.1147,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 83,
+      "atr": 0.081,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 87,
+      "atr": 0.1147,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 746.5185,
+    "leverage": 0.06,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

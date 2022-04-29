@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0853,
+      "pnl_value": 0.148,
+      "weight": 0.0252,
+      "rank": 16,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0268,
+      "pnl_value": -0.0494,
+      "weight": 0.0268,
+      "rank": 6,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.0287,
+      "pnl_value": -0.0187,
+      "weight": 0.0095,
+      "rank": 44,
+      "atr": 0.2645,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0485,
+      "pnl_value": -0.0838,
+      "weight": 0.0251,
+      "rank": 47,
+      "atr": 0.0998,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0507,
+      "pnl_value": -0.0736,
+      "weight": 0.0211,
+      "rank": 29,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RDD",
+      "pnl": -0.064,
+      "pnl_value": -0.0659,
+      "weight": 0.015,
+      "rank": 99,
+      "atr": 0.1675,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.1142,
+      "pnl_value": -0.1362,
+      "weight": 0.0173,
+      "rank": 106,
+      "atr": 0.1446,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 16,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 47,
+      "atr": 0.0998,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1446,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 99,
+      "atr": 0.1675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.2645,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 67.5287,
+    "leverage": 0.1399,
+    "atr": 0.0175,
+    "marketcap_pnt": 0.0272,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": 0.0697,
+      "pnl_value": 2.5753,
+      "weight": 0.0956,
+      "rank": 81,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0139,
+      "pnl_value": 0.5933,
+      "weight": 0.1105,
+      "rank": 40,
+      "atr": 0.0895,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0035,
+      "pnl_value": 0.1284,
+      "weight": 0.0938,
+      "rank": 93,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0895,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 93,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0085,
+    "cum_pnl": 388.9546,
+    "leverage": 0.2999,
+    "atr": 0.0297,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0517,
+      "pnl_value": 7.4862,
+      "weight": 0.101,
+      "rank": 106,
+      "atr": 0.0623,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": 0.0514,
+      "pnl_value": 4.8789,
+      "weight": 0.0661,
+      "rank": 63,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.0066,
+      "pnl_value": 0.4028,
+      "weight": 0.0427,
+      "rank": 110,
+      "atr": 0.1471,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.011,
+      "pnl_value": -2.9933,
+      "weight": 0.1901,
+      "rank": 39,
+      "atr": 0.0331,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 39,
+      "atr": 0.0331,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.0623,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 63,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 110,
+      "atr": 0.1471,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0068,
+    "cum_pnl": 1443.5419,
+    "leverage": 0.3999,
+    "atr": 0.0252,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

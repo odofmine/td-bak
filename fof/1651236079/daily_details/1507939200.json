@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": 0.1167,
+      "pnl_value": 0.807,
+      "weight": 0.0892,
+      "rank": 37,
+      "atr": 0.0999,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0959,
+      "pnl_value": 0.5383,
+      "weight": 0.0724,
+      "rank": 34,
+      "atr": 0.123,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0059,
+      "pnl_value": 0.063,
+      "weight": 0.1382,
+      "rank": 2,
+      "atr": 0.0645,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0645,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 37,
+      "atr": 0.0999,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 34,
+      "atr": 0.123,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0182,
+    "cum_pnl": 77.9111,
+    "leverage": 0.2998,
+    "atr": 0.0267,
+    "marketcap_pnt": 0.1964,
+    "green_marketcap_pnt": 0
+  }
+}

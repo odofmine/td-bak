@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "NEBL",
+      "pnl": 0.1726,
+      "pnl_value": 1.4233,
+      "weight": 0.1081,
+      "rank": 82,
+      "atr": 0.1188,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NLC2",
+      "pnl": -0.0835,
+      "pnl_value": -0.3498,
+      "weight": 0.0549,
+      "rank": 90,
+      "atr": 0.2341,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0948,
+      "pnl_value": -0.9897,
+      "weight": 0.1368,
+      "rank": 43,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.1188,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLC2",
+      "rank": 90,
+      "atr": 0.2341,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 75.3764,
+    "leverage": 0.2998,
+    "atr": 0.0385,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

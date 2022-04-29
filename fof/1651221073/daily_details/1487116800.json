@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "BELA",
+      "pnl": 0.1252,
+      "pnl_value": 0.0073,
+      "weight": 0.0569,
+      "rank": 112,
+      "atr": 0.1339,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0177,
+      "pnl_value": 0.001,
+      "weight": 0.0553,
+      "rank": 10,
+      "atr": 0.1379,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0023,
+      "pnl_value": -0.0004,
+      "weight": 0.1595,
+      "rank": 2,
+      "atr": 0.0478,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0577,
+      "pnl_value": -0.0076,
+      "weight": 0.1281,
+      "rank": 8,
+      "atr": 0.0595,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0478,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0595,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 112,
+      "atr": 0.1339,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 10,
+      "atr": 0.1379,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 0.0289,
+    "leverage": 0.3998,
+    "atr": 0.0305,
+    "marketcap_pnt": 0.0608,
+    "green_marketcap_pnt": 0
+  }
+}

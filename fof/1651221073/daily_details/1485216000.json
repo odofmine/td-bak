@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0186,
+      "pnl_value": -0.0025,
+      "weight": 0.1324,
+      "rank": 2,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0252,
+      "pnl_value": -0.0029,
+      "weight": 0.114,
+      "rank": 8,
+      "atr": 0.0769,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.052,
+      "pnl_value": -0.0053,
+      "weight": 0.1018,
+      "rank": 13,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0581,
+      "pnl_value": -0.0023,
+      "weight": 0.0387,
+      "rank": 9,
+      "atr": 0.2264,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0623,
+      "pnl_value": -0.0043,
+      "weight": 0.0692,
+      "rank": 47,
+      "atr": 0.1266,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0744,
+      "pnl_value": -0.0107,
+      "weight": 0.1435,
+      "rank": 7,
+      "atr": 0.0611,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0611,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0769,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 47,
+      "atr": 0.1266,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.2264,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0279,
+    "cum_pnl": -0.0215,
+    "leverage": 0.5996,
+    "atr": 0.0526,
+    "marketcap_pnt": 0.0684,
+    "green_marketcap_pnt": 0
+  }
+}

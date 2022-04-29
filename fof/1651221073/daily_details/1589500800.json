@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.03,
+      "pnl_value": 3.2427,
+      "weight": 0.1051,
+      "rank": 81,
+      "atr": 0.084,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0012,
+      "pnl_value": 0.1147,
+      "weight": 0.0905,
+      "rank": 59,
+      "atr": 0.0975,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.028,
+      "pnl_value": -2.4604,
+      "weight": 0.0853,
+      "rank": 88,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0441,
+      "pnl_value": -5.4019,
+      "weight": 0.119,
+      "rank": 105,
+      "atr": 0.0742,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.0742,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 81,
+      "atr": 0.084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.0975,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 1023.2507,
+    "leverage": 0.3999,
+    "atr": 0.0353,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

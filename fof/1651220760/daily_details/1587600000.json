@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.1295,
+      "pnl_value": 0.0136,
+      "weight": 0.0703,
+      "rank": 15,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0708,
+      "pnl_value": 0.0054,
+      "weight": 0.0514,
+      "rank": 69,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0228,
+      "pnl_value": -0.002,
+      "weight": 0.0583,
+      "rank": 28,
+      "atr": 0.0858,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 69,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0114,
+    "cum_pnl": 0.5126,
+    "leverage": 0.1798,
+    "atr": 0.015,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

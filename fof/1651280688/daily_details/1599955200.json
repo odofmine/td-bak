@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0934,
+      "pnl_value": 0.0084,
+      "weight": 0.0262,
+      "rank": 8,
+      "atr": 0.0634,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0133,
+      "pnl_value": -0.0007,
+      "weight": 0.0144,
+      "rank": 70,
+      "atr": 0.1155,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.1195,
+      "pnl_value": -0.0079,
+      "weight": 0.0194,
+      "rank": 141,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0634,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 141,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 70,
+      "atr": 0.1155,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 2.4318,
+    "leverage": 0.06,
+    "atr": 0.005,
+    "marketcap_pnt": 0.011,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0398,
+      "pnl_value": 6.9411,
+      "weight": 0.0764,
+      "rank": 49,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0226,
+      "pnl_value": 5.7237,
+      "weight": 0.1108,
+      "rank": 18,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0021,
+      "pnl_value": 0.6453,
+      "weight": 0.1324,
+      "rank": 33,
+      "atr": 0.0467,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0007,
+      "pnl_value": -0.1244,
+      "weight": 0.0802,
+      "rank": 109,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 33,
+      "atr": 0.0467,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0058,
+    "cum_pnl": 2293.0077,
+    "leverage": 0.3998,
+    "atr": 0.0247,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

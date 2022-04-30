@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0366,
+      "pnl_value": 0.0054,
+      "weight": 0.0892,
+      "rank": 18,
+      "atr": 0.113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0119,
+      "pnl_value": -0.0019,
+      "weight": 0.0944,
+      "rank": 21,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0161,
+      "pnl_value": -0.0031,
+      "weight": 0.1162,
+      "rank": 14,
+      "atr": 0.0868,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0868,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 21,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 18,
+      "atr": 0.113,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 0.6524,
+    "leverage": 0.2998,
+    "atr": 0.0302,
+    "marketcap_pnt": 0.012,
+    "green_marketcap_pnt": 0
+  }
+}

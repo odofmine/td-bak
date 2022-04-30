@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.1963,
+      "pnl_value": 6.1052,
+      "weight": 0.1237,
+      "rank": 9,
+      "atr": 0.056,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.1778,
+      "pnl_value": 4.6665,
+      "weight": 0.1044,
+      "rank": 62,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": 0.0418,
+      "pnl_value": 0.8404,
+      "weight": 0.0799,
+      "rank": 86,
+      "atr": 0.0866,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.007,
+      "pnl_value": 0.155,
+      "weight": 0.0882,
+      "rank": 80,
+      "atr": 0.0785,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0481,
+      "pnl_value": -1.2523,
+      "weight": 0.1035,
+      "rank": 58,
+      "atr": 0.0669,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.056,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 62,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 58,
+      "atr": 0.0669,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 80,
+      "atr": 0.0785,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 86,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0418,
+    "cum_pnl": 260.8938,
+    "leverage": 0.4997,
+    "atr": 0.0346,
+    "marketcap_pnt": 0.0146,
+    "green_marketcap_pnt": 0
+  }
+}

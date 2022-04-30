@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0566,
+      "pnl_value": 2.8777,
+      "weight": 0.0953,
+      "rank": 71,
+      "atr": 0.0657,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0216,
+      "pnl_value": 1.151,
+      "weight": 0.1,
+      "rank": 11,
+      "atr": 0.0626,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0145,
+      "pnl_value": 0.8098,
+      "weight": 0.1045,
+      "rank": 38,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NRG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 38,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.0626,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0657,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0091,
+    "cum_pnl": 537.6733,
+    "leverage": 0.2998,
+    "atr": 0.0188,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

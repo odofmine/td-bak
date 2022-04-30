@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": -0.138,
+      "pnl_value": -0.5308,
+      "weight": 0.0936,
+      "rank": 13,
+      "atr": 0.1434,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.1413,
+      "pnl_value": -0.5225,
+      "weight": 0.09,
+      "rank": 42,
+      "atr": 0.1491,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.1904,
+      "pnl_value": -0.91,
+      "weight": 0.1163,
+      "rank": 92,
+      "atr": 0.1154,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POT",
+      "rank": 92,
+      "atr": 0.1154,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 13,
+      "atr": 0.1434,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 42,
+      "atr": 0.1491,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0478,
+    "cum_pnl": 38.1239,
+    "leverage": 0.2999,
+    "atr": 0.0403,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}

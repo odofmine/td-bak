@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0045,
+      "pnl_value": 0.0912,
+      "weight": 0.0743,
+      "rank": 97,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0141,
+      "pnl_value": -0.5286,
+      "weight": 0.1393,
+      "rank": 9,
+      "atr": 0.0374,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0228,
+      "pnl_value": -0.6187,
+      "weight": 0.1007,
+      "rank": 4,
+      "atr": 0.0517,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0268,
+      "pnl_value": -0.6079,
+      "weight": 0.0841,
+      "rank": 3,
+      "atr": 0.0619,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0387,
+      "pnl_value": -1.0576,
+      "weight": 0.1013,
+      "rank": 6,
+      "atr": 0.0514,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0374,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0514,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0517,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0619,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 97,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0101,
+    "cum_pnl": 266.3135,
+    "leverage": 0.4997,
+    "atr": 0.026,
+    "marketcap_pnt": 0.1696,
+    "green_marketcap_pnt": 0
+  }
+}

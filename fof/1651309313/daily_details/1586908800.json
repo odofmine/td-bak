@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.0069,
+      "pnl_value": 0.5325,
+      "weight": 0.0887,
+      "rank": 96,
+      "atr": 0.0987,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.057,
+      "pnl_value": -5.5117,
+      "weight": 0.1112,
+      "rank": 43,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 43,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 96,
+      "atr": 0.0987,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0057,
+    "cum_pnl": 863.6576,
+    "leverage": 0.1999,
+    "atr": 0.0175,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

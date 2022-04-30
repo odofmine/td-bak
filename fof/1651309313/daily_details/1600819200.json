@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0207,
+      "pnl_value": 3.6215,
+      "weight": 0.0921,
+      "rank": 101,
+      "atr": 0.0797,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0587,
+      "pnl_value": -16.5724,
+      "weight": 0.1483,
+      "rank": 18,
+      "atr": 0.0495,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0679,
+      "pnl_value": -10.6102,
+      "weight": 0.0821,
+      "rank": 74,
+      "atr": 0.0894,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.1335,
+      "pnl_value": -19.6378,
+      "weight": 0.0773,
+      "rank": 45,
+      "atr": 0.095,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 18,
+      "atr": 0.0495,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 101,
+      "atr": 0.0797,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0894,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 45,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0227,
+    "cum_pnl": 1859.452,
+    "leverage": 0.3998,
+    "atr": 0.0294,
+    "marketcap_pnt": 0.0068,
+    "green_marketcap_pnt": 0
+  }
+}

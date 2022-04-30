@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.2024,
+      "pnl_value": 446.4056,
+      "weight": 0.126,
+      "rank": 88,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0984,
+      "pnl_value": 163.0934,
+      "weight": 0.0947,
+      "rank": 91,
+      "atr": 0.1019,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0936,
+      "pnl_value": -164.421,
+      "weight": 0.1004,
+      "rank": 71,
+      "atr": 0.0961,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1096,
+      "pnl_value": -150.8181,
+      "weight": 0.0786,
+      "rank": 54,
+      "atr": 0.1228,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.0961,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1019,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.1228,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0168,
+    "cum_pnl": 17797.46,
+    "leverage": 0.3997,
+    "atr": 0.0386,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

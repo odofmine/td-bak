@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ALGO",
+      "pnl": 0.077,
+      "pnl_value": 0.0138,
+      "weight": 0.1005,
+      "rank": 39,
+      "atr": 0.0783,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0864,
+      "pnl_value": -0.0153,
+      "weight": 0.0994,
+      "rank": 21,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ALGO",
+      "rank": 39,
+      "atr": 0.0783,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 0.7834,
+    "leverage": 0.1999,
+    "atr": 0.0157,
+    "marketcap_pnt": 0.0041,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0236,
+      "pnl_value": 0.0085,
+      "weight": 0.0947,
+      "rank": 38,
+      "atr": 0.0926,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.1478,
+      "pnl_value": -0.059,
+      "weight": 0.1052,
+      "rank": 16,
+      "atr": 0.0834,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 16,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0926,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0133,
+    "cum_pnl": 2.7465,
+    "leverage": 0.1999,
+    "atr": 0.0175,
+    "marketcap_pnt": 0.0062,
+    "green_marketcap_pnt": 0
+  }
+}

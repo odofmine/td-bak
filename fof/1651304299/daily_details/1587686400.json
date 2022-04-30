@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0889,
+      "pnl_value": 6.0081,
+      "weight": 0.082,
+      "rank": 10,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0206,
+      "pnl_value": 1.6398,
+      "weight": 0.0968,
+      "rank": 16,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0151,
+      "pnl_value": -1.3922,
+      "weight": 0.1117,
+      "rank": 15,
+      "atr": 0.0684,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NMR",
+      "pnl": -0.0483,
+      "pnl_value": -4.3502,
+      "weight": 0.1093,
+      "rank": 95,
+      "atr": 0.0699,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HEDG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 15,
+      "atr": 0.0684,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NMR",
+      "rank": 95,
+      "atr": 0.0699,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 16,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 10,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 824.6953,
+    "leverage": 0.3998,
+    "atr": 0.0306,
+    "marketcap_pnt": 0.0171,
+    "green_marketcap_pnt": 0
+  }
+}

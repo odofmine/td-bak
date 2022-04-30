@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.1322,
+      "pnl_value": 1.6135,
+      "weight": 0.0475,
+      "rank": 38,
+      "atr": 0.2052,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.04,
+      "pnl_value": 1.5281,
+      "weight": 0.1488,
+      "rank": 6,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0054,
+      "pnl_value": -0.1378,
+      "weight": 0.0994,
+      "rank": 39,
+      "atr": 0.0982,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0203,
+      "pnl_value": -0.5424,
+      "weight": 0.1041,
+      "rank": 83,
+      "atr": 0.0937,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 83,
+      "atr": 0.0937,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 38,
+      "atr": 0.2052,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0096,
+    "cum_pnl": 258.4647,
+    "leverage": 0.3998,
+    "atr": 0.039,
+    "marketcap_pnt": 0.0197,
+    "green_marketcap_pnt": 0
+  }
+}

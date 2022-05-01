@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0752,
+      "pnl_value": 0.01,
+      "weight": 0.1169,
+      "rank": 2,
+      "atr": 0.0483,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0517,
+      "pnl_value": 0.0063,
+      "weight": 0.1065,
+      "rank": 6,
+      "atr": 0.053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": -0.1888,
+      "pnl_value": -0.0164,
+      "weight": 0.0765,
+      "rank": 93,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0483,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 93,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.1355,
+    "leverage": 0.2999,
+    "atr": 0.0169,
+    "marketcap_pnt": 0.0657,
+    "green_marketcap_pnt": 0
+  }
+}

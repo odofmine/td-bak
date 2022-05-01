@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0414,
+      "pnl_value": -0.0066,
+      "weight": 0.1491,
+      "rank": 2,
+      "atr": 0.0487,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0837,
+      "pnl_value": -0.0084,
+      "weight": 0.0947,
+      "rank": 13,
+      "atr": 0.0767,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.1052,
+      "pnl_value": -0.012,
+      "weight": 0.1071,
+      "rank": 6,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAUT",
+      "pnl": -0.1397,
+      "pnl_value": -0.0073,
+      "weight": 0.0489,
+      "rank": 76,
+      "atr": 0.1484,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0487,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0767,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 76,
+      "atr": 0.1484,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0322,
+    "cum_pnl": 0.0295,
+    "leverage": 0.3998,
+    "atr": 0.029,
+    "marketcap_pnt": 0.0602,
+    "green_marketcap_pnt": 0
+  }
+}

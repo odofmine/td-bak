@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0963,
+      "pnl_value": 0.6591,
+      "weight": 0.0316,
+      "rank": 75,
+      "atr": 0.1019,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0141,
+      "pnl_value": 0.1756,
+      "weight": 0.0577,
+      "rank": 7,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0283,
+      "pnl_value": -0.3703,
+      "weight": 0.0605,
+      "rank": 12,
+      "atr": 0.0532,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 12,
+      "atr": 0.0532,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 75,
+      "atr": 0.1019,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0021,
+    "cum_pnl": 215.9703,
+    "leverage": 0.1498,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0263,
+    "green_marketcap_pnt": 0
+  }
+}

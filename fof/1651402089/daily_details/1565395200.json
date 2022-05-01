@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0113,
+      "pnl_value": 0.5235,
+      "weight": 0.1024,
+      "rank": 71,
+      "atr": 0.0638,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0095,
+      "pnl_value": -0.4667,
+      "weight": 0.1091,
+      "rank": 38,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0313,
+      "pnl_value": -1.5127,
+      "weight": 0.1069,
+      "rank": 11,
+      "atr": 0.0611,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NRG",
+      "pnl": -0.0571,
+      "pnl_value": -2.1032,
+      "weight": 0.0814,
+      "rank": 55,
+      "atr": 0.0802,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 38,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.0611,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0638,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NRG",
+      "rank": 55,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0079,
+    "cum_pnl": 447.8777,
+    "leverage": 0.3998,
+    "atr": 0.0261,
+    "marketcap_pnt": 0.0068,
+    "green_marketcap_pnt": 0
+  }
+}

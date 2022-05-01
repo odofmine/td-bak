@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": -0.0674,
+      "pnl_value": -0.0098,
+      "weight": 0.1035,
+      "rank": 11,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.1216,
+      "pnl_value": -0.0194,
+      "weight": 0.1133,
+      "rank": 115,
+      "atr": 0.075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.1831,
+      "pnl_value": -0.0213,
+      "weight": 0.0825,
+      "rank": 66,
+      "atr": 0.103,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1982,
+      "pnl_value": -0.0281,
+      "weight": 0.1006,
+      "rank": 111,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 115,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 66,
+      "atr": 0.103,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0558,
+    "cum_pnl": 0.3287,
+    "leverage": 0.3999,
+    "atr": 0.034,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

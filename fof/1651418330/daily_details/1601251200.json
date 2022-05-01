@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TFUEL",
+      "pnl": -0.0358,
+      "pnl_value": -0.0089,
+      "weight": 0.0875,
+      "rank": 148,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0444,
+      "pnl_value": -0.0142,
+      "weight": 0.1124,
+      "rank": 29,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 148,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0081,
+    "cum_pnl": 1.8139,
+    "leverage": 0.1999,
+    "atr": 0.017,
+    "marketcap_pnt": 0.0023,
+    "green_marketcap_pnt": 0
+  }
+}

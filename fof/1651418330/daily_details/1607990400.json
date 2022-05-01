@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.262,
+      "pnl_value": 0.1032,
+      "weight": 0.1083,
+      "rank": 64,
+      "atr": 0.0707,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0588,
+      "pnl_value": 0.0132,
+      "weight": 0.0615,
+      "rank": 49,
+      "atr": 0.1245,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0168,
+      "pnl_value": 0.0067,
+      "weight": 0.1091,
+      "rank": 141,
+      "atr": 0.0702,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0133,
+      "pnl_value": -0.0064,
+      "weight": 0.1323,
+      "rank": 14,
+      "atr": 0.0579,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0498,
+      "pnl_value": -0.0161,
+      "weight": 0.0886,
+      "rank": 68,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0579,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 141,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0707,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 49,
+      "atr": 0.1245,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0276,
+    "cum_pnl": 2.7354,
+    "leverage": 0.4998,
+    "atr": 0.0383,
+    "marketcap_pnt": 0.0065,
+    "green_marketcap_pnt": 0
+  }
+}

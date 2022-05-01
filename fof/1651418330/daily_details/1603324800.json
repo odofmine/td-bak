@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0259,
+      "pnl_value": 0.007,
+      "weight": 0.1045,
+      "rank": 10,
+      "atr": 0.0533,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0218,
+      "pnl_value": 0.0054,
+      "weight": 0.0954,
+      "rank": 18,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 10,
+      "atr": 0.0533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0047,
+    "cum_pnl": 1.6051,
+    "leverage": 0.1999,
+    "atr": 0.0111,
+    "marketcap_pnt": 0.0134,
+    "green_marketcap_pnt": 0
+  }
+}

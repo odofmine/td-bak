@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": -0.0329,
+      "pnl_value": -0.0103,
+      "weight": 0.113,
+      "rank": 5,
+      "atr": 0.072,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0562,
+      "pnl_value": -0.0221,
+      "weight": 0.1413,
+      "rank": 16,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0996,
+      "pnl_value": -0.0179,
+      "weight": 0.0647,
+      "rank": 103,
+      "atr": 0.1258,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1203,
+      "pnl_value": -0.027,
+      "weight": 0.0809,
+      "rank": 62,
+      "atr": 0.1006,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 62,
+      "atr": 0.1006,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 103,
+      "atr": 0.1258,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0278,
+    "cum_pnl": 1.7006,
+    "leverage": 0.3999,
+    "atr": 0.0326,
+    "marketcap_pnt": 0.0188,
+    "green_marketcap_pnt": 0
+  }
+}

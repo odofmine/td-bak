@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.071,
+      "pnl_value": 0.0145,
+      "weight": 0.0711,
+      "rank": 139,
+      "atr": 0.1203,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0134,
+      "pnl_value": 0.0045,
+      "weight": 0.1171,
+      "rank": 7,
+      "atr": 0.073,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0382,
+      "pnl_value": -0.0128,
+      "weight": 0.1166,
+      "rank": 29,
+      "atr": 0.0733,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0636,
+      "pnl_value": -0.0173,
+      "weight": 0.095,
+      "rank": 148,
+      "atr": 0.09,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0733,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 148,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 139,
+      "atr": 0.1203,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 1.8594,
+    "leverage": 0.3998,
+    "atr": 0.0342,
+    "marketcap_pnt": 0.0135,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0819,
+      "pnl_value": 4.8928,
+      "weight": 0.0786,
+      "rank": 102,
+      "atr": 0.0878,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0465,
+      "pnl_value": 3.219,
+      "weight": 0.0912,
+      "rank": 97,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0135,
+      "pnl_value": -1.3355,
+      "weight": 0.13,
+      "rank": 37,
+      "atr": 0.0531,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 37,
+      "atr": 0.0531,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0878,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0089,
+    "cum_pnl": 765.4168,
+    "leverage": 0.2998,
+    "atr": 0.0207,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

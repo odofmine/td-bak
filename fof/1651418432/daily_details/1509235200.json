@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": 0.002,
+      "pnl_value": 0.0089,
+      "weight": 0.0614,
+      "rank": 46,
+      "atr": 0.2076,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.007,
+      "pnl_value": -0.0446,
+      "weight": 0.0862,
+      "rank": 96,
+      "atr": 0.148,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0821,
+      "pnl_value": -0.6571,
+      "weight": 0.108,
+      "rank": 61,
+      "atr": 0.1181,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1739,
+      "pnl_value": -1.859,
+      "weight": 0.1442,
+      "rank": 43,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 61,
+      "atr": 0.1181,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 96,
+      "atr": 0.148,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 46,
+      "atr": 0.2076,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0344,
+    "cum_pnl": 70.5781,
+    "leverage": 0.3998,
+    "atr": 0.051,
+    "marketcap_pnt": 0.0024,
+    "green_marketcap_pnt": 0
+  }
+}

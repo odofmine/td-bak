@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.3987,
+      "pnl_value": 5.9652,
+      "weight": 0.1038,
+      "rank": 39,
+      "atr": 0.1064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.1689,
+      "pnl_value": 2.4802,
+      "weight": 0.1019,
+      "rank": 33,
+      "atr": 0.1084,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.1306,
+      "pnl_value": 2.1145,
+      "weight": 0.1123,
+      "rank": 47,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.0023,
+      "pnl_value": 0.027,
+      "weight": 0.0818,
+      "rank": 117,
+      "atr": 0.135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UMA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.1064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 117,
+      "atr": 0.135,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0735,
+    "cum_pnl": 153.7205,
+    "leverage": 0.3998,
+    "atr": 0.0442,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

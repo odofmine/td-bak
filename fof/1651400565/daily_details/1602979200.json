@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "ANKR",
+      "pnl": 0.085,
+      "pnl_value": 0.0149,
+      "weight": 0.0791,
+      "rank": 168,
+      "atr": 0.1354,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0393,
+      "pnl_value": -0.0105,
+      "weight": 0.1208,
+      "rank": 57,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 57,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 168,
+      "atr": 0.1354,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 1.215,
+    "leverage": 0.1999,
+    "atr": 0.0214,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

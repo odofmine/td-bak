@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": -0.0141,
+      "pnl_value": -0.451,
+      "weight": 0.1,
+      "rank": 16,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.0367,
+      "pnl_value": -1.0338,
+      "weight": 0.0879,
+      "rank": 66,
+      "atr": 0.1407,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0666,
+      "pnl_value": -2.2163,
+      "weight": 0.104,
+      "rank": 6,
+      "atr": 0.1189,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.0677,
+      "pnl_value": -2.0996,
+      "weight": 0.0968,
+      "rank": 61,
+      "atr": 0.1277,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.1181,
+      "pnl_value": -4.2009,
+      "weight": 0.1111,
+      "rank": 14,
+      "atr": 0.1113,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 14,
+      "atr": 0.1113,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.1189,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 61,
+      "atr": 0.1277,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 66,
+      "atr": 0.1407,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0312,
+    "cum_pnl": 309.1942,
+    "leverage": 0.4998,
+    "atr": 0.0618,
+    "marketcap_pnt": 0.0364,
+    "green_marketcap_pnt": 0
+  }
+}

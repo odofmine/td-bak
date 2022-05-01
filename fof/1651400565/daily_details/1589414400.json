@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ONE",
+      "pnl": 0.1673,
+      "pnl_value": 0.0151,
+      "weight": 0.0829,
+      "rank": 185,
+      "atr": 0.1009,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.1081,
+      "pnl_value": 0.0137,
+      "weight": 0.1161,
+      "rank": 88,
+      "atr": 0.072,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0051,
+      "pnl_value": 0.0006,
+      "weight": 0.1023,
+      "rank": 59,
+      "atr": 0.0817,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0084,
+      "pnl_value": -0.0009,
+      "weight": 0.1,
+      "rank": 105,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0239,
+      "pnl_value": -0.0026,
+      "weight": 0.0984,
+      "rank": 96,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.0817,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 185,
+      "atr": 0.1009,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0238,
+    "cum_pnl": 0.1146,
+    "leverage": 0.4997,
+    "atr": 0.0418,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

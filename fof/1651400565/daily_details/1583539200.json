@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.2229,
+      "pnl_value": 0.0253,
+      "weight": 0.0956,
+      "rank": 115,
+      "atr": 0.0869,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0725,
+      "pnl_value": 0.0082,
+      "weight": 0.0949,
+      "rank": 111,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0715,
+      "pnl_value": -0.0093,
+      "weight": 0.1093,
+      "rank": 11,
+      "atr": 0.076,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.076,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 115,
+      "atr": 0.0869,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0204,
+    "cum_pnl": 0.2106,
+    "leverage": 0.2998,
+    "atr": 0.0249,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

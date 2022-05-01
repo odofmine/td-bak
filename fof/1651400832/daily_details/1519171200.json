@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "VEN",
+      "pnl": -0.0501,
+      "pnl_value": -1.424,
+      "weight": 0.0915,
+      "rank": 17,
+      "atr": 0.1379,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0579,
+      "pnl_value": -1.8726,
+      "weight": 0.1041,
+      "rank": 15,
+      "atr": 0.1213,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0836,
+      "pnl_value": -2.8172,
+      "weight": 0.1086,
+      "rank": 5,
+      "atr": 0.1162,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0951,
+      "pnl_value": -3.266,
+      "weight": 0.1106,
+      "rank": 63,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.1789,
+      "pnl_value": -4.716,
+      "weight": 0.0849,
+      "rank": 42,
+      "atr": 0.1487,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SYS",
+      "rank": 63,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.1162,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 15,
+      "atr": 0.1213,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 17,
+      "atr": 0.1379,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 42,
+      "atr": 0.1487,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0454,
+    "cum_pnl": 295.3769,
+    "leverage": 0.4997,
+    "atr": 0.0631,
+    "marketcap_pnt": 0.04,
+    "green_marketcap_pnt": 0
+  }
+}

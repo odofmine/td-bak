@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": -0.0906,
+      "pnl_value": -0.0134,
+      "weight": 0.0862,
+      "rank": 140,
+      "atr": 0.0991,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.2043,
+      "pnl_value": -0.0399,
+      "weight": 0.1137,
+      "rank": 39,
+      "atr": 0.0752,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ALGO",
+      "rank": 39,
+      "atr": 0.0752,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 140,
+      "atr": 0.0991,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.031,
+    "cum_pnl": 0.6654,
+    "leverage": 0.1999,
+    "atr": 0.0171,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

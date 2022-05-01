@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1109,
+      "pnl_value": 0.9054,
+      "weight": 0.1141,
+      "rank": 43,
+      "atr": 0.1086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0471,
+      "pnl_value": 0.3037,
+      "weight": 0.0901,
+      "rank": 61,
+      "atr": 0.1374,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.0255,
+      "pnl_value": -0.1629,
+      "weight": 0.0892,
+      "rank": 96,
+      "atr": 0.1388,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0633,
+      "pnl_value": -0.3603,
+      "weight": 0.0795,
+      "rank": 47,
+      "atr": 0.1557,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0829,
+      "pnl_value": -0.7523,
+      "weight": 0.1268,
+      "rank": 82,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.1086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 61,
+      "atr": 0.1374,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 96,
+      "atr": 0.1388,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 47,
+      "atr": 0.1557,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 70.4886,
+    "leverage": 0.4997,
+    "atr": 0.0619,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

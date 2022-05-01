@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": -0.0173,
+      "pnl_value": -0.0025,
+      "weight": 0.0894,
+      "rank": 69,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0409,
+      "pnl_value": -0.0048,
+      "weight": 0.0718,
+      "rank": 183,
+      "atr": 0.133,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0545,
+      "pnl_value": -0.0102,
+      "weight": 0.116,
+      "rank": 2,
+      "atr": 0.0823,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0745,
+      "pnl_value": -0.0127,
+      "weight": 0.1058,
+      "rank": 19,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0975,
+      "pnl_value": -0.0184,
+      "weight": 0.1167,
+      "rank": 28,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0823,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 19,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 69,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 183,
+      "atr": 0.133,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0301,
+    "cum_pnl": 0.5679,
+    "leverage": 0.4997,
+    "atr": 0.0477,
+    "marketcap_pnt": 0.1017,
+    "green_marketcap_pnt": 0
+  }
+}

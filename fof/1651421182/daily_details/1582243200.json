@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.1479,
+      "pnl_value": 4.7992,
+      "weight": 0.0605,
+      "rank": 97,
+      "atr": 0.0762,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0924,
+      "pnl_value": 2.7586,
+      "weight": 0.0557,
+      "rank": 102,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": 0.0176,
+      "pnl_value": 0.3164,
+      "weight": 0.0336,
+      "rank": 117,
+      "atr": 0.1372,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0762,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 117,
+      "atr": 0.1372,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0147,
+    "cum_pnl": 543.0837,
+    "leverage": 0.1498,
+    "atr": 0.0138,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.007,
+      "pnl_value": 0.0983,
+      "weight": 0.0269,
+      "rank": 14,
+      "atr": 0.1801,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.022,
+      "pnl_value": -0.8326,
+      "weight": 0.073,
+      "rank": 62,
+      "atr": 0.0664,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 62,
+      "atr": 0.0664,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 14,
+      "atr": 0.1801,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 516.4745,
+    "leverage": 0.0999,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

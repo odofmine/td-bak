@@ -1,0 +1,208 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": 0.0194,
+      "pnl_value": 0.8372,
+      "weight": 0.0873,
+      "rank": 26,
+      "atr": 0.088,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0112,
+      "pnl_value": 0.6572,
+      "weight": 0.1193,
+      "rank": 5,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0089,
+      "pnl_value": 0.4015,
+      "weight": 0.0918,
+      "rank": 8,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0044,
+      "pnl_value": 0.2904,
+      "weight": 0.1323,
+      "rank": 2,
+      "atr": 0.0581,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0028,
+      "pnl_value": -0.1224,
+      "weight": 0.0902,
+      "rank": 61,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0118,
+      "pnl_value": -0.6198,
+      "weight": 0.1062,
+      "rank": 15,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.025,
+      "pnl_value": -1.065,
+      "weight": 0.0864,
+      "rank": 16,
+      "atr": 0.0889,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0332,
+      "pnl_value": -1.4358,
+      "weight": 0.0877,
+      "rank": 21,
+      "atr": 0.0876,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0338,
+      "pnl_value": -1.7767,
+      "weight": 0.1066,
+      "rank": 22,
+      "atr": 0.0721,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0421,
+      "pnl_value": -1.9041,
+      "weight": 0.0916,
+      "rank": 12,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PERP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0581,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 22,
+      "atr": 0.0721,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 15,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 12,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 61,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 21,
+      "atr": 0.0876,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 26,
+      "atr": 0.088,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0889,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 126,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1294,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0096,
+    "cum_pnl": 487.6906,
+    "leverage": 0.9994,
+    "atr": 0.0768,
+    "marketcap_pnt": 0.2534,
+    "green_marketcap_pnt": 0
+  }
+}

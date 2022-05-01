@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0693,
+      "pnl_value": 4.6448,
+      "weight": 0.0939,
+      "rank": 19,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0012,
+      "pnl_value": -0.0685,
+      "weight": 0.0814,
+      "rank": 69,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0424,
+      "pnl_value": -3.1272,
+      "weight": 0.1033,
+      "rank": 13,
+      "atr": 0.075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0657,
+      "pnl_value": -6.2757,
+      "weight": 0.1338,
+      "rank": 2,
+      "atr": 0.0579,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.0678,
+      "pnl_value": -4.2293,
+      "weight": 0.0874,
+      "rank": 50,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HIVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0579,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 50,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0127,
+    "cum_pnl": 703.9892,
+    "leverage": 0.4998,
+    "atr": 0.0387,
+    "marketcap_pnt": 0.2151,
+    "green_marketcap_pnt": 0
+  }
+}

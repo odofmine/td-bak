@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EMC",
+      "pnl": -0.022,
+      "pnl_value": -0.9012,
+      "weight": 0.1292,
+      "rank": 73,
+      "atr": 0.0639,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.065,
+      "pnl_value": -1.7361,
+      "weight": 0.0843,
+      "rank": 93,
+      "atr": 0.0979,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.081,
+      "pnl_value": -2.2129,
+      "weight": 0.0863,
+      "rank": 92,
+      "atr": 0.0957,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EMC",
+      "rank": 73,
+      "atr": 0.0639,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 92,
+      "atr": 0.0957,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 93,
+      "atr": 0.0979,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0153,
+    "cum_pnl": 310.7774,
+    "leverage": 0.2998,
+    "atr": 0.0248,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

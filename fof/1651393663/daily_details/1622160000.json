@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "PAX",
+      "pnl": -0.001,
+      "pnl_value": -11.7027,
+      "weight": 0.1281,
+      "rank": 58,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1078,
+      "pnl_value": -707.7453,
+      "weight": 0.0718,
+      "rank": 17,
+      "atr": 0.1599,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAX",
+      "rank": 58,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 17,
+      "atr": 0.1599,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0079,
+    "cum_pnl": 90727.2687,
+    "leverage": 0.1999,
+    "atr": 0.023,
+    "marketcap_pnt": 0.0058,
+    "green_marketcap_pnt": 0
+  }
+}

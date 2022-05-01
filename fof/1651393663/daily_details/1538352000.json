@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BCN",
+      "pnl": 0.0111,
+      "pnl_value": 0.2756,
+      "weight": 0.0813,
+      "rank": 24,
+      "atr": 0.1008,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0027,
+      "pnl_value": 0.0773,
+      "weight": 0.0932,
+      "rank": 27,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0009,
+      "pnl_value": -0.0192,
+      "weight": 0.0667,
+      "rank": 94,
+      "atr": 0.1227,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0153,
+      "pnl_value": -0.6564,
+      "weight": 0.1398,
+      "rank": 7,
+      "atr": 0.0586,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0166,
+      "pnl_value": -0.6026,
+      "weight": 0.1187,
+      "rank": 23,
+      "atr": 0.069,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0586,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 24,
+      "atr": 0.1008,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1227,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.003,
+    "cum_pnl": 303.9887,
+    "leverage": 0.4997,
+    "atr": 0.041,
+    "marketcap_pnt": 0.0222,
+    "green_marketcap_pnt": 0
+  }
+}

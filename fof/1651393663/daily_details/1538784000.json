@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0427,
+      "pnl_value": 1.1728,
+      "weight": 0.0885,
+      "rank": 27,
+      "atr": 0.0783,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0244,
+      "pnl_value": -1.0625,
+      "weight": 0.1406,
+      "rank": 16,
+      "atr": 0.0493,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0283,
+      "pnl_value": -1.0505,
+      "weight": 0.1197,
+      "rank": 30,
+      "atr": 0.0579,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.041,
+      "pnl_value": -0.914,
+      "weight": 0.0719,
+      "rank": 81,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0511,
+      "pnl_value": -1.2542,
+      "weight": 0.0791,
+      "rank": 40,
+      "atr": 0.0876,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 16,
+      "atr": 0.0493,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0579,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0783,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0876,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.01,
+    "cum_pnl": 306.0187,
+    "leverage": 0.4998,
+    "atr": 0.0346,
+    "marketcap_pnt": 0.01,
+    "green_marketcap_pnt": 0
+  }
+}

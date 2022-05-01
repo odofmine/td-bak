@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0468,
+      "pnl_value": 1.6001,
+      "weight": 0.1281,
+      "rank": 6,
+      "atr": 0.0518,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0217,
+      "pnl_value": 0.4891,
+      "weight": 0.0843,
+      "rank": 67,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0016,
+      "pnl_value": 0.0423,
+      "weight": 0.1002,
+      "rank": 3,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0419,
+      "pnl_value": -0.9752,
+      "weight": 0.0872,
+      "rank": 89,
+      "atr": 0.0761,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0518,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 89,
+      "atr": 0.0761,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 267.1323,
+    "leverage": 0.3998,
+    "atr": 0.0265,
+    "marketcap_pnt": 0.1136,
+    "green_marketcap_pnt": 0
+  }
+}

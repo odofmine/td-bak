@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.1371,
+      "pnl_value": 2044.6431,
+      "weight": 0.1087,
+      "rank": 104,
+      "atr": 0.1084,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0826,
+      "pnl_value": -1033.5458,
+      "weight": 0.0912,
+      "rank": 65,
+      "atr": 0.1291,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 104,
+      "atr": 0.1084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 65,
+      "atr": 0.1291,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0074,
+    "cum_pnl": 138188.481,
+    "leverage": 0.1999,
+    "atr": 0.0236,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

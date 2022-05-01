@@ -1,0 +1,132 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0115,
+      "pnl_value": 0.002,
+      "weight": 0.162,
+      "rank": 2,
+      "atr": 0.0502,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAUT",
+      "pnl": 0.0013,
+      "pnl_value": 0.0001,
+      "weight": 0.0648,
+      "rank": 76,
+      "atr": 0.1255,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0015,
+      "pnl_value": -0.0001,
+      "weight": 0.0857,
+      "rank": 29,
+      "atr": 0.0949,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0296,
+      "pnl_value": -0.0028,
+      "weight": 0.0873,
+      "rank": 21,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0502,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 21,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 29,
+      "atr": 0.0949,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 76,
+      "atr": 0.1255,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 0.0706,
+    "leverage": 0.3998,
+    "atr": 0.0325,
+    "marketcap_pnt": 0.0536,
+    "green_marketcap_pnt": 0
+  }
+}

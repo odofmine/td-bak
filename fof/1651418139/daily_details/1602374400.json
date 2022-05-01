@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0842,
+      "pnl_value": 4.3256,
+      "weight": 0.0504,
+      "rank": 16,
+      "atr": 0.0476,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0051,
+      "pnl_value": 0.2579,
+      "weight": 0.0495,
+      "rank": 4,
+      "atr": 0.0485,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0476,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0485,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 1022.3796,
+    "leverage": 0.0999,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0386,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0477,
+      "pnl_value": 0.0085,
+      "weight": 0.0532,
+      "rank": 80,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0003,
+      "pnl_value": 0.0001,
+      "weight": 0.0605,
+      "rank": 38,
+      "atr": 0.0865,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PNT",
+      "pnl": -0.1117,
+      "pnl_value": -0.0135,
+      "weight": 0.0362,
+      "rank": 141,
+      "atr": 0.1446,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAND",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0865,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 80,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PNT",
+      "rank": 141,
+      "atr": 0.1446,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 2.3348,
+    "leverage": 0.1499,
+    "atr": 0.0157,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

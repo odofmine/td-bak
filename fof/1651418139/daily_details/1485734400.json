@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.0339,
+      "pnl_value": 0.0033,
+      "weight": 0.097,
+      "rank": 10,
+      "atr": 0.0943,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.024,
+      "pnl_value": 0.0027,
+      "weight": 0.1131,
+      "rank": 13,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0124,
+      "pnl_value": -0.0011,
+      "weight": 0.0897,
+      "rank": 23,
+      "atr": 0.102,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0943,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 23,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 0.0023,
+    "leverage": 0.2998,
+    "atr": 0.0274,
+    "marketcap_pnt": 0.0052,
+    "green_marketcap_pnt": 0
+  }
+}

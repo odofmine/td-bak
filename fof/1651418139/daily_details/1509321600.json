@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.2823,
+      "pnl_value": 0.7917,
+      "weight": 0.0627,
+      "rank": 34,
+      "atr": 0.1142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0881,
+      "pnl_value": 0.2034,
+      "weight": 0.0516,
+      "rank": 27,
+      "atr": 0.1387,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": 0.0771,
+      "pnl_value": 0.1655,
+      "weight": 0.048,
+      "rank": 85,
+      "atr": 0.1492,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0236,
+      "pnl_value": 0.0562,
+      "weight": 0.0532,
+      "rank": 49,
+      "atr": 0.1344,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.0475,
+      "pnl_value": -0.0729,
+      "weight": 0.0343,
+      "rank": 36,
+      "atr": 0.2084,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.1142,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 49,
+      "atr": 0.1344,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1387,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 85,
+      "atr": 0.1492,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 36,
+      "atr": 0.2084,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0256,
+    "cum_pnl": 44.8785,
+    "leverage": 0.2498,
+    "atr": 0.0358,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

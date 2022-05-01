@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": -0.0394,
+      "pnl_value": -0.0482,
+      "weight": 0.051,
+      "rank": 40,
+      "atr": 0.1461,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.0888,
+      "pnl_value": -0.1042,
+      "weight": 0.0489,
+      "rank": 73,
+      "atr": 0.1526,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1461,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 73,
+      "atr": 0.1526,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0064,
+    "cum_pnl": 22.8369,
+    "leverage": 0.0999,
+    "atr": 0.0149,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

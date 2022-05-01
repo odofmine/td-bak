@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "SNGLS",
+      "pnl": 0.0104,
+      "pnl_value": 0.0165,
+      "weight": 0.0417,
+      "rank": 51,
+      "atr": 0.1655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1043,
+      "pnl_value": -0.207,
+      "weight": 0.0524,
+      "rank": 77,
+      "atr": 0.1318,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1512,
+      "pnl_value": -0.3196,
+      "weight": 0.0558,
+      "rank": 104,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 104,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1318,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1655,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0135,
+    "cum_pnl": 36.3711,
+    "leverage": 0.1499,
+    "atr": 0.0207,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

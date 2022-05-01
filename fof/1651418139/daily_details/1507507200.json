@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "MONA",
+      "pnl": 0.0542,
+      "pnl_value": 0.1458,
+      "weight": 0.0832,
+      "rank": 102,
+      "atr": 0.1235,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0344,
+      "pnl_value": 0.0898,
+      "weight": 0.0808,
+      "rank": 34,
+      "atr": 0.1272,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0246,
+      "pnl_value": -0.0561,
+      "weight": 0.0704,
+      "rank": 89,
+      "atr": 0.1459,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0405,
+      "pnl_value": -0.19,
+      "weight": 0.145,
+      "rank": 2,
+      "atr": 0.0709,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0526,
+      "pnl_value": -0.1244,
+      "weight": 0.0731,
+      "rank": 21,
+      "atr": 0.1405,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.1065,
+      "pnl_value": -0.5064,
+      "weight": 0.1471,
+      "rank": 3,
+      "atr": 0.0699,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0699,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0709,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 102,
+      "atr": 0.1235,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 34,
+      "atr": 0.1272,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1405,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 89,
+      "atr": 0.1459,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0198,
+    "cum_pnl": 30.6948,
+    "leverage": 0.5996,
+    "atr": 0.0617,
+    "marketcap_pnt": 0.2694,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0328,
+      "pnl_value": 0.492,
+      "weight": 0.0708,
+      "rank": 10,
+      "atr": 0.0498,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0089,
+      "pnl_value": 0.0766,
+      "weight": 0.0407,
+      "rank": 61,
+      "atr": 0.0866,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0381,
+      "pnl_value": -0.4127,
+      "weight": 0.0512,
+      "rank": 5,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HC",
+      "pnl": -0.0781,
+      "pnl_value": -0.6155,
+      "weight": 0.0372,
+      "rank": 68,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 61,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 68,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 210.3029,
+    "leverage": 0.1999,
+    "atr": 0.0141,
+    "marketcap_pnt": 0.0332,
+    "green_marketcap_pnt": 0
+  }
+}

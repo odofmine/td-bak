@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0339,
+      "pnl_value": 1.0821,
+      "weight": 0.1016,
+      "rank": 84,
+      "atr": 0.0572,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0169,
+      "pnl_value": 0.5912,
+      "weight": 0.1115,
+      "rank": 27,
+      "atr": 0.0521,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.069,
+      "pnl_value": -1.8818,
+      "weight": 0.0867,
+      "rank": 40,
+      "atr": 0.067,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 27,
+      "atr": 0.0521,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 84,
+      "atr": 0.0572,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 40,
+      "atr": 0.067,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 313.3176,
+    "leverage": 0.2998,
+    "atr": 0.0174,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

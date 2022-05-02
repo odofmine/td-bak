@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0056,
+      "pnl_value": 0.5266,
+      "weight": 0.084,
+      "rank": 20,
+      "atr": 0.0291,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0182,
+      "pnl_value": -0.6004,
+      "weight": 0.0293,
+      "rank": 63,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0225,
+      "pnl_value": -1.2977,
+      "weight": 0.0513,
+      "rank": 16,
+      "atr": 0.0476,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0446,
+      "pnl_value": -1.7641,
+      "weight": 0.0351,
+      "rank": 29,
+      "atr": 0.0695,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0291,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0476,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0695,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 63,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 1121.6507,
+    "leverage": 0.1997,
+    "atr": 0.0098,
+    "marketcap_pnt": 0.0115,
+    "green_marketcap_pnt": 0
+  }
+}

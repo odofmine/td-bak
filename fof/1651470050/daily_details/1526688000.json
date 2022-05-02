@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0213,
+      "pnl_value": 0.2435,
+      "weight": 0.0502,
+      "rank": 39,
+      "atr": 0.0793,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0423,
+      "pnl_value": -0.4784,
+      "weight": 0.0497,
+      "rank": 25,
+      "atr": 0.0802,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.0793,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 226.0965,
+    "leverage": 0.0999,
+    "atr": 0.008,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

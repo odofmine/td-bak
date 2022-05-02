@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.2706,
+      "pnl_value": 0.2858,
+      "weight": 0.0466,
+      "rank": 92,
+      "atr": 0.1835,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XDN",
+      "pnl": 0.0038,
+      "pnl_value": 0.0038,
+      "weight": 0.0443,
+      "rank": 91,
+      "atr": 0.1929,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXT",
+      "pnl": -0.0802,
+      "pnl_value": -0.1072,
+      "weight": 0.059,
+      "rank": 44,
+      "atr": 0.145,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXT",
+      "rank": 44,
+      "atr": 0.145,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 92,
+      "atr": 0.1835,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDN",
+      "rank": 91,
+      "atr": 0.1929,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.008,
+    "cum_pnl": 21.8507,
+    "leverage": 0.1499,
+    "atr": 0.0257,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": -0.0668,
+      "pnl_value": -0.2758,
+      "weight": 0.0448,
+      "rank": 17,
+      "atr": 0.1826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.1762,
+      "pnl_value": -0.8944,
+      "weight": 0.0551,
+      "rank": 74,
+      "atr": 0.1486,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HNT",
+      "rank": 74,
+      "atr": 0.1486,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 17,
+      "atr": 0.1826,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0127,
+    "cum_pnl": 89.9551,
+    "leverage": 0.0999,
+    "atr": 0.0164,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

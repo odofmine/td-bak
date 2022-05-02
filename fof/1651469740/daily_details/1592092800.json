@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": 0.0008,
+      "pnl_value": 0.0001,
+      "weight": 0.0505,
+      "rank": 199,
+      "atr": 0.074,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0751,
+      "pnl_value": -0.0052,
+      "weight": 0.0553,
+      "rank": 110,
+      "atr": 0.0676,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1215,
+      "pnl_value": -0.0068,
+      "weight": 0.0441,
+      "rank": 115,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOST",
+      "rank": 110,
+      "atr": 0.0676,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 199,
+      "atr": 0.074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 115,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0094,
+    "cum_pnl": 0.2511,
+    "leverage": 0.1499,
+    "atr": 0.0112,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

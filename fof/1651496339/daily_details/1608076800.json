@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.1198,
+      "pnl_value": 0.0406,
+      "weight": 0.1063,
+      "rank": 35,
+      "atr": 0.0751,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0552,
+      "pnl_value": 0.0243,
+      "weight": 0.1382,
+      "rank": 14,
+      "atr": 0.0578,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0471,
+      "pnl_value": 0.0102,
+      "weight": 0.0682,
+      "rank": 49,
+      "atr": 0.1171,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0095,
+      "pnl_value": -0.0018,
+      "weight": 0.0602,
+      "rank": 155,
+      "atr": 0.1327,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0112,
+      "pnl_value": -0.0031,
+      "weight": 0.0878,
+      "rank": 68,
+      "atr": 0.0909,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0359,
+      "pnl_value": -0.0128,
+      "weight": 0.1114,
+      "rank": 141,
+      "atr": 0.0717,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.1074,
+      "pnl_value": -0.0437,
+      "weight": 0.1276,
+      "rank": 64,
+      "atr": 0.0626,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0578,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0626,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 141,
+      "atr": 0.0717,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 35,
+      "atr": 0.0751,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0909,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 49,
+      "atr": 0.1171,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 155,
+      "atr": 0.1327,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 2.2027,
+    "leverage": 0.6997,
+    "atr": 0.0559,
+    "marketcap_pnt": 0.0079,
+    "green_marketcap_pnt": 0
+  }
+}

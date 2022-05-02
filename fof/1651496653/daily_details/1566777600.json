@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": 0.0623,
+      "pnl_value": 3.4591,
+      "weight": 0.0764,
+      "rank": 112,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0291,
+      "pnl_value": 2.6083,
+      "weight": 0.1234,
+      "rank": 16,
+      "atr": 0.0624,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0235,
+      "pnl_value": -1.7131,
+      "weight": 0.1001,
+      "rank": 57,
+      "atr": 0.0769,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.0624,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0769,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 112,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 730.3781,
+    "leverage": 0.2999,
+    "atr": 0.0231,
+    "marketcap_pnt": 0.0037,
+    "green_marketcap_pnt": 0
+  }
+}

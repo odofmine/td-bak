@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.386,
+      "pnl_value": 3.0921,
+      "weight": 0.1398,
+      "rank": 82,
+      "atr": 0.112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.378,
+      "pnl_value": 2.025,
+      "weight": 0.0935,
+      "rank": 21,
+      "atr": 0.1675,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0139,
+      "pnl_value": -0.0736,
+      "weight": 0.0927,
+      "rank": 69,
+      "atr": 0.169,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0158,
+      "pnl_value": -0.0777,
+      "weight": 0.0856,
+      "rank": 58,
+      "atr": 0.1829,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0198,
+      "pnl_value": -0.0962,
+      "weight": 0.0848,
+      "rank": 15,
+      "atr": 0.1847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATB",
+      "pnl": -0.0364,
+      "pnl_value": -0.2153,
+      "weight": 0.1033,
+      "rank": 95,
+      "atr": 0.1516,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATB",
+      "rank": 95,
+      "atr": 0.1516,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 69,
+      "atr": 0.169,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 58,
+      "atr": 0.1829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 15,
+      "atr": 0.1847,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0812,
+    "cum_pnl": 60.9493,
+    "leverage": 0.5997,
+    "atr": 0.094,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

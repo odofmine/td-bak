@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0349,
+      "pnl_value": 3.6142,
+      "weight": 0.0606,
+      "rank": 15,
+      "atr": 0.0529,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0108,
+      "pnl_value": 0.8436,
+      "weight": 0.0459,
+      "rank": 75,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0057,
+      "pnl_value": -0.4213,
+      "weight": 0.0434,
+      "rank": 70,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0529,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 75,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 70,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0024,
+    "cum_pnl": 1711.3441,
+    "leverage": 0.1499,
+    "atr": 0.0096,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

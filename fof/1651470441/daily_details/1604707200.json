@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": -0.0359,
+      "pnl_value": -0.0065,
+      "weight": 0.0782,
+      "rank": 43,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0454,
+      "pnl_value": -0.0122,
+      "weight": 0.1161,
+      "rank": 2,
+      "atr": 0.047,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0683,
+      "pnl_value": -0.0167,
+      "weight": 0.1056,
+      "rank": 8,
+      "atr": 0.0517,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.047,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0517,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0153,
+    "cum_pnl": 1.2802,
+    "leverage": 0.2999,
+    "atr": 0.0164,
+    "marketcap_pnt": 0.1225,
+    "green_marketcap_pnt": 0
+  }
+}

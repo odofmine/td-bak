@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.141,
+      "pnl_value": 5.2308,
+      "weight": 0.0355,
+      "rank": 74,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0392,
+      "pnl_value": 2.9094,
+      "weight": 0.0711,
+      "rank": 18,
+      "atr": 0.0498,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0054,
+      "pnl_value": 0.2445,
+      "weight": 0.0432,
+      "rank": 101,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 18,
+      "atr": 0.0498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 101,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.008,
+    "cum_pnl": 1052.1212,
+    "leverage": 0.1498,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}

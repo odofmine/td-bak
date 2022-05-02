@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0407,
+      "pnl_value": 0.9613,
+      "weight": 0.0497,
+      "rank": 109,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0023,
+      "pnl_value": 0.0536,
+      "weight": 0.0484,
+      "rank": 80,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0109,
+      "pnl_value": -0.2564,
+      "weight": 0.0497,
+      "rank": 16,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0285,
+      "pnl_value": -0.7041,
+      "weight": 0.052,
+      "rank": 35,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 80,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 474.2463,
+    "leverage": 0.1998,
+    "atr": 0.0191,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "pnls": [
+    {
+      "name": "PAY",
+      "pnl": 0.3733,
+      "pnl_value": 0.8256,
+      "weight": 0.1047,
+      "rank": 34,
+      "atr": 0.0956,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.0931,
+      "pnl_value": 0.1575,
+      "weight": 0.0801,
+      "rank": 55,
+      "atr": 0.1249,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.0583,
+      "pnl_value": 0.1014,
+      "weight": 0.0824,
+      "rank": 64,
+      "atr": 0.1215,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.023,
+      "pnl_value": 0.0861,
+      "weight": 0.1775,
+      "rank": 1,
+      "atr": 0.0564,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0103,
+      "pnl_value": 0.0224,
+      "weight": 0.1029,
+      "rank": 2,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": 0.0097,
+      "pnl_value": 0.0175,
+      "weight": 0.0856,
+      "rank": 100,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": -0.0055,
+      "pnl_value": -0.0089,
+      "weight": 0.0762,
+      "rank": 79,
+      "atr": 0.1314,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.017,
+      "pnl_value": -0.0469,
+      "weight": 0.131,
+      "rank": 5,
+      "atr": 0.0764,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0439,
+      "pnl_value": -0.0701,
+      "weight": 0.0756,
+      "rank": 28,
+      "atr": 0.1323,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.2877,
+      "pnl_value": -0.5069,
+      "weight": 0.0834,
+      "rank": 36,
+      "atr": 0.12,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0564,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0764,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 34,
+      "atr": 0.0956,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 100,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 36,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 64,
+      "atr": 0.1215,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 55,
+      "atr": 0.1249,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 79,
+      "atr": 0.1314,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 28,
+      "atr": 0.1323,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 35,
+      "atr": 0.1406,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 49,
+      "atr": 0.1434,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MYST",
+      "rank": 87,
+      "atr": 0.1516,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 14,
+      "atr": 0.2909,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 13,
+      "atr": 0.2918,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0273,
+    "cum_pnl": 20.7016,
+    "leverage": 0.9994,
+    "atr": 0.1001,
+    "marketcap_pnt": 0.7238,
+    "green_marketcap_pnt": 0
+  }
+}

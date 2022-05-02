@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "CELO",
+      "pnl": 0.0507,
+      "pnl_value": 0.4518,
+      "weight": 0.05,
+      "rank": 65,
+      "atr": 0.1315,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CELO",
+      "rank": 65,
+      "atr": 0.1315,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0025,
+    "cum_pnl": 177.6177,
+    "leverage": 0.05,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

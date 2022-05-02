@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": -0.0213,
+      "pnl_value": -0.6864,
+      "weight": 0.0616,
+      "rank": 62,
+      "atr": 0.065,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0397,
+      "pnl_value": -0.7956,
+      "weight": 0.0383,
+      "rank": 101,
+      "atr": 0.1047,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 62,
+      "atr": 0.065,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 101,
+      "atr": 0.1047,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 521.2264,
+    "leverage": 0.0999,
+    "atr": 0.008,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

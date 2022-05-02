@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0279,
+      "pnl_value": -0.0043,
+      "weight": 0.0601,
+      "rank": 29,
+      "atr": 0.0777,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0619,
+      "pnl_value": -0.0104,
+      "weight": 0.0652,
+      "rank": 7,
+      "atr": 0.0716,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0742,
+      "pnl_value": -0.0091,
+      "weight": 0.0477,
+      "rank": 148,
+      "atr": 0.0978,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.076,
+      "pnl_value": -0.0071,
+      "weight": 0.0361,
+      "rank": 119,
+      "atr": 0.1293,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.1656,
+      "pnl_value": -0.0173,
+      "weight": 0.0406,
+      "rank": 139,
+      "atr": 0.1149,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0716,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 148,
+      "atr": 0.0978,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 139,
+      "atr": 0.1149,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 119,
+      "atr": 0.1293,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0187,
+    "cum_pnl": 1.5315,
+    "leverage": 0.2497,
+    "atr": 0.0233,
+    "marketcap_pnt": 0.0137,
+    "green_marketcap_pnt": 0
+  }
+}

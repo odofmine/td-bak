@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.401,
+      "pnl_value": 0.0348,
+      "weight": 0.0745,
+      "rank": 34,
+      "atr": 0.1132,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0543,
+      "pnl_value": 0.0079,
+      "weight": 0.1254,
+      "rank": 3,
+      "atr": 0.0672,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0672,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 34,
+      "atr": 0.1132,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0367,
+    "cum_pnl": 0.2086,
+    "leverage": 0.1999,
+    "atr": 0.0169,
+    "marketcap_pnt": 0.0128,
+    "green_marketcap_pnt": 0
+  }
+}

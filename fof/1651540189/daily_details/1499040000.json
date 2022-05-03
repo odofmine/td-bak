@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0288,
+      "pnl_value": 0.1078,
+      "weight": 0.0871,
+      "rank": 40,
+      "atr": 0.1179,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0204,
+      "pnl_value": 0.0991,
+      "weight": 0.1128,
+      "rank": 19,
+      "atr": 0.091,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 19,
+      "atr": 0.091,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1179,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0048,
+    "cum_pnl": 42.2027,
+    "leverage": 0.1999,
+    "atr": 0.0205,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

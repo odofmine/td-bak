@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.136,
+      "pnl_value": 0.011,
+      "weight": 0.0703,
+      "rank": 160,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.1346,
+      "pnl_value": 0.0134,
+      "weight": 0.0863,
+      "rank": 105,
+      "atr": 0.0776,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0389,
+      "pnl_value": 0.0052,
+      "weight": 0.1151,
+      "rank": 11,
+      "atr": 0.0582,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0012,
+      "pnl_value": 0.0002,
+      "weight": 0.1281,
+      "rank": 18,
+      "atr": 0.0523,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 18,
+      "atr": 0.0523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0582,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0258,
+    "cum_pnl": 0.1819,
+    "leverage": 0.3998,
+    "atr": 0.0268,
+    "marketcap_pnt": 0.0124,
+    "green_marketcap_pnt": 0
+  }
+}

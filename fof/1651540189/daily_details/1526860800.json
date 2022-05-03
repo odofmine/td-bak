@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0486,
+      "pnl_value": 1.7742,
+      "weight": 0.1137,
+      "rank": 30,
+      "atr": 0.0759,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0377,
+      "pnl_value": -0.9938,
+      "weight": 0.082,
+      "rank": 100,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0677,
+      "pnl_value": -2.2662,
+      "weight": 0.1042,
+      "rank": 22,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0759,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 22,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 100,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0046,
+    "cum_pnl": 318.6179,
+    "leverage": 0.2999,
+    "atr": 0.0259,
+    "marketcap_pnt": 0.0062,
+    "green_marketcap_pnt": 0
+  }
+}

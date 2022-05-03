@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTX",
+      "pnl": -0.0564,
+      "pnl_value": -1.4785,
+      "weight": 0.0847,
+      "rank": 66,
+      "atr": 0.1798,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0815,
+      "pnl_value": -2.9065,
+      "weight": 0.1152,
+      "rank": 14,
+      "atr": 0.1321,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 14,
+      "atr": 0.1321,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 66,
+      "atr": 0.1798,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0142,
+    "cum_pnl": 304.181,
+    "leverage": 0.1999,
+    "atr": 0.0304,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

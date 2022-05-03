@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "GBYTE",
+      "pnl": 0.0555,
+      "pnl_value": 0.1126,
+      "weight": 0.1019,
+      "rank": 36,
+      "atr": 0.0951,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0427,
+      "pnl_value": 0.0784,
+      "weight": 0.0924,
+      "rank": 5,
+      "atr": 0.1048,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UBQ",
+      "pnl": -0.1296,
+      "pnl_value": -0.272,
+      "weight": 0.1055,
+      "rank": 50,
+      "atr": 0.0918,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UBQ",
+      "rank": 50,
+      "atr": 0.0918,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 36,
+      "atr": 0.0951,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 5,
+      "atr": 0.1048,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 18.8121,
+    "leverage": 0.2998,
+    "atr": 0.0291,
+    "marketcap_pnt": 0.0217,
+    "green_marketcap_pnt": 0
+  }
+}

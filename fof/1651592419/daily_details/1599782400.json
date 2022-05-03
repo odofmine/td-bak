@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0371,
+      "pnl_value": 0.964,
+      "weight": 0.0258,
+      "rank": 8,
+      "atr": 0.058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0133,
+      "pnl_value": 0.2915,
+      "weight": 0.0218,
+      "rank": 86,
+      "atr": 0.0686,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICH",
+      "pnl": -0.3491,
+      "pnl_value": -4.3209,
+      "weight": 0.0123,
+      "rank": 112,
+      "atr": 0.1218,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0686,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICH",
+      "rank": 112,
+      "atr": 0.1218,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.003,
+    "cum_pnl": 1002.3217,
+    "leverage": 0.0599,
+    "atr": 0.0045,
+    "marketcap_pnt": 0.0109,
+    "green_marketcap_pnt": 0
+  }
+}

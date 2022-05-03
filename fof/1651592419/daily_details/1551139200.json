@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.1125,
+      "pnl_value": 1.5419,
+      "weight": 0.1025,
+      "rank": 57,
+      "atr": 0.0841,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": 0.0311,
+      "pnl_value": 0.4048,
+      "weight": 0.0974,
+      "rank": 93,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0841,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 93,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0146,
+    "cum_pnl": 134.6635,
+    "leverage": 0.1999,
+    "atr": 0.0172,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

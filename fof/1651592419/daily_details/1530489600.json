@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "EMC",
+      "pnl": 0.0934,
+      "pnl_value": 0.1436,
+      "weight": 0.0097,
+      "rank": 73,
+      "atr": 0.0926,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0418,
+      "pnl_value": 0.0677,
+      "weight": 0.0102,
+      "rank": 16,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 73,
+      "atr": 0.0926,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 157.7856,
+    "leverage": 0.0199,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

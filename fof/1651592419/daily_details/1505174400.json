@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ARK",
+      "pnl": -0.0083,
+      "pnl_value": -0.0054,
+      "weight": 0.0262,
+      "rank": 22,
+      "atr": 0.0895,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": -0.06,
+      "pnl_value": -0.0202,
+      "weight": 0.0137,
+      "rank": 56,
+      "atr": 0.1707,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.0895,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 56,
+      "atr": 0.1707,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 23.5109,
+    "leverage": 0.0399,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0079,
+      "pnl_value": 2.642,
+      "weight": 0.022,
+      "rank": 44,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REV",
+      "pnl": -0.0104,
+      "pnl_value": -2.4336,
+      "weight": 0.0153,
+      "rank": 91,
+      "atr": 0.1257,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0427,
+      "pnl_value": -16.6409,
+      "weight": 0.0255,
+      "rank": 19,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0615,
+      "pnl_value": -15.9821,
+      "weight": 0.017,
+      "rank": 103,
+      "atr": 0.1136,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 103,
+      "atr": 0.1136,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REV",
+      "rank": 91,
+      "atr": 0.1257,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 15247.3029,
+    "leverage": 0.0798,
+    "atr": 0.0077,
+    "marketcap_pnt": 0.0068,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.1112,
+      "pnl_value": 30.1508,
+      "weight": 0.0073,
+      "rank": 15,
+      "atr": 0.0993,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0047,
+      "pnl_value": 2.2125,
+      "weight": 0.0126,
+      "rank": 43,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 43,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.0993,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 37185.4924,
+    "leverage": 0.0199,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0078,
+    "green_marketcap_pnt": 0
+  }
+}

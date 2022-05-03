@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0123,
+      "rank": 21,
+      "atr": 0.0562,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0076,
+      "rank": 120,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 21,
+      "atr": 0.0562,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 120,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0,
+    "cum_pnl": 0,
+    "leverage": 0.0199,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

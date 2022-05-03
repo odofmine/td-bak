@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl": 0.0024,
+      "pnl_value": 0.7132,
+      "weight": 0.0082,
+      "rank": 27,
+      "atr": 0.0763,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0103,
+      "pnl_value": -2.9713,
+      "weight": 0.0079,
+      "rank": 53,
+      "atr": 0.079,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0706,
+      "pnl_value": -35.4742,
+      "weight": 0.0138,
+      "rank": 36,
+      "atr": 0.0451,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 36,
+      "atr": 0.0451,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 27,
+      "atr": 0.0763,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 53,
+      "atr": 0.079,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 36387.4629,
+    "leverage": 0.0299,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0065,
+    "green_marketcap_pnt": 0
+  }
+}

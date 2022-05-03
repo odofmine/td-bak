@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.174,
+      "pnl_value": 0.305,
+      "weight": 0.0113,
+      "rank": 6,
+      "atr": 0.0812,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": 0.0195,
+      "pnl_value": 0.0291,
+      "weight": 0.0096,
+      "rank": 82,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0188,
+      "pnl_value": 0.0358,
+      "weight": 0.0123,
+      "rank": 24,
+      "atr": 0.0749,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0152,
+      "pnl_value": 0.0228,
+      "weight": 0.0097,
+      "rank": 5,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": 0.0063,
+      "pnl_value": 0.0061,
+      "weight": 0.0063,
+      "rank": 27,
+      "atr": 0.1446,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0004,
+      "pnl_value": -0.0009,
+      "weight": 0.0144,
+      "rank": 9,
+      "atr": 0.0639,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0035,
+      "pnl_value": -0.0062,
+      "weight": 0.0115,
+      "rank": 3,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.0126,
+      "pnl_value": -0.0086,
+      "weight": 0.0044,
+      "rank": 29,
+      "atr": 0.2082,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0639,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 24,
+      "atr": 0.0749,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0812,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 27,
+      "atr": 0.1446,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 29,
+      "atr": 0.2082,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0025,
+    "cum_pnl": 154.4483,
+    "leverage": 0.0795,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.1155,
+    "green_marketcap_pnt": 0
+  }
+}

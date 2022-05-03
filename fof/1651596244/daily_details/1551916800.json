@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.314,
+      "pnl_value": 0.871,
+      "weight": 0.0194,
+      "rank": 58,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.131,
+      "pnl_value": 0.4328,
+      "weight": 0.0231,
+      "rank": 62,
+      "atr": 0.0575,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0335,
+      "pnl_value": 0.124,
+      "weight": 0.0259,
+      "rank": 9,
+      "atr": 0.0514,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0116,
+      "pnl_value": 0.0271,
+      "weight": 0.0163,
+      "rank": 80,
+      "atr": 0.0814,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0055,
+      "pnl_value": -0.0118,
+      "weight": 0.015,
+      "rank": 86,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.0514,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 62,
+      "atr": 0.0575,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 58,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 80,
+      "atr": 0.0814,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 86,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0101,
+    "cum_pnl": 143.4117,
+    "leverage": 0.0997,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0146,
+    "green_marketcap_pnt": 0
+  }
+}

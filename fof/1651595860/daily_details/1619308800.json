@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": 0.1601,
+      "pnl_value": 0.2316,
+      "weight": 0.0239,
+      "rank": 19,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0666,
+      "pnl_value": 0.0689,
+      "weight": 0.0171,
+      "rank": 41,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0865,
+      "pnl_value": -0.0985,
+      "weight": 0.0188,
+      "rank": 103,
+      "atr": 0.1081,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 103,
+      "atr": 0.1081,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 41,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 59.7138,
+    "leverage": 0.0598,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

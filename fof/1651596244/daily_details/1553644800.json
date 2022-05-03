@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.1408,
+      "pnl_value": 0.4061,
+      "weight": 0.0187,
+      "rank": 33,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0846,
+      "pnl_value": 0.3117,
+      "weight": 0.0239,
+      "rank": 10,
+      "atr": 0.0645,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.053,
+      "pnl_value": 0.0646,
+      "weight": 0.0079,
+      "rank": 6,
+      "atr": 0.195,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0521,
+      "pnl_value": 0.1841,
+      "weight": 0.0229,
+      "rank": 37,
+      "atr": 0.0673,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": 0.0395,
+      "pnl_value": 0.1454,
+      "weight": 0.0239,
+      "rank": 44,
+      "atr": 0.0643,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0213,
+      "pnl_value": -0.0737,
+      "weight": 0.0224,
+      "rank": 56,
+      "atr": 0.0687,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTS",
+      "rank": 44,
+      "atr": 0.0643,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0645,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 37,
+      "atr": 0.0673,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 56,
+      "atr": 0.0687,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 33,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 6,
+      "atr": 0.195,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0067,
+    "cum_pnl": 154.2972,
+    "leverage": 0.1197,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.0376,
+    "green_marketcap_pnt": 0
+  }
+}

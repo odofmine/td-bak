@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": -0.0219,
+      "pnl_value": -0.0003,
+      "weight": 0.0127,
+      "rank": 15,
+      "atr": 0.0694,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0444,
+      "pnl_value": -0.0003,
+      "weight": 0.0076,
+      "rank": 161,
+      "atr": 0.1155,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0711,
+      "pnl_value": -0.0006,
+      "weight": 0.0079,
+      "rank": 142,
+      "atr": 0.1112,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0923,
+      "pnl_value": -0.0011,
+      "weight": 0.0117,
+      "rank": 60,
+      "atr": 0.0753,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 15,
+      "atr": 0.0694,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 60,
+      "atr": 0.0753,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 142,
+      "atr": 0.1112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 161,
+      "atr": 0.1155,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 0.0192,
+    "leverage": 0.0399,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

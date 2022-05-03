@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TFUEL",
+      "pnl": 0.03,
+      "pnl_value": 0.0218,
+      "weight": 0.01,
+      "rank": 56,
+      "atr": 0.1389,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0307,
+      "pnl_value": -0.0221,
+      "weight": 0.0099,
+      "rank": 4,
+      "atr": 0.1408,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TFUEL",
+      "rank": 56,
+      "atr": 0.1389,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 4,
+      "atr": 0.1408,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 71.5786,
+    "leverage": 0.0199,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.034,
+    "green_marketcap_pnt": 0
+  }
+}

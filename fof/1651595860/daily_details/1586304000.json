@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0336,
+      "pnl_value": 0.0004,
+      "weight": 0.0089,
+      "rank": 13,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0266,
+      "pnl_value": 0.0004,
+      "weight": 0.011,
+      "rank": 35,
+      "atr": 0.077,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 35,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 0.3581,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}

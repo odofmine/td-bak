@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": -0.0224,
+      "pnl_value": -3.4677,
+      "weight": 0.009,
+      "rank": 15,
+      "atr": 0.1531,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0735,
+      "pnl_value": -13.7962,
+      "weight": 0.0109,
+      "rank": 31,
+      "atr": 0.1268,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 31,
+      "atr": 0.1268,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 15,
+      "atr": 0.1531,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 17209.4895,
+    "leverage": 0.0199,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0093,
+    "green_marketcap_pnt": 0
+  }
+}

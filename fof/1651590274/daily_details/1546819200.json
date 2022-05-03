@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.0119,
+      "pnl_value": 0.3586,
+      "weight": 0.1033,
+      "rank": 83,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.035,
+      "pnl_value": -1.5701,
+      "weight": 0.1542,
+      "rank": 6,
+      "atr": 0.0639,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0407,
+      "pnl_value": -1.2163,
+      "weight": 0.1027,
+      "rank": 39,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0408,
+      "pnl_value": -1.0723,
+      "weight": 0.0904,
+      "rank": 11,
+      "atr": 0.109,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.044,
+      "pnl_value": -0.6303,
+      "weight": 0.0492,
+      "rank": 38,
+      "atr": 0.2,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0639,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 83,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.109,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 38,
+      "atr": 0.2,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0142,
+    "cum_pnl": 285.7353,
+    "leverage": 0.4998,
+    "atr": 0.0493,
+    "marketcap_pnt": 0.0292,
+    "green_marketcap_pnt": 0
+  }
+}

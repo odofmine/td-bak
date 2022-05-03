@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0142,
+      "pnl_value": 0.6361,
+      "weight": 0.1226,
+      "rank": 23,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0073,
+      "pnl_value": -0.2182,
+      "weight": 0.0823,
+      "rank": 26,
+      "atr": 0.0986,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0213,
+      "pnl_value": -1.0704,
+      "weight": 0.1374,
+      "rank": 7,
+      "atr": 0.0591,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0399,
+      "pnl_value": -1.1712,
+      "weight": 0.0804,
+      "rank": 41,
+      "atr": 0.101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0642,
+      "pnl_value": -1.8073,
+      "weight": 0.0771,
+      "rank": 38,
+      "atr": 0.1053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0591,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.0986,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 41,
+      "atr": 0.101,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1053,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0099,
+    "cum_pnl": 360.4853,
+    "leverage": 0.4998,
+    "atr": 0.0406,
+    "marketcap_pnt": 0.0218,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "NXS",
+      "pnl": 0.0152,
+      "pnl_value": 0.0516,
+      "weight": 0.0959,
+      "rank": 66,
+      "atr": 0.1662,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0213,
+      "pnl_value": -0.0784,
+      "weight": 0.104,
+      "rank": 92,
+      "atr": 0.1532,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POT",
+      "rank": 92,
+      "atr": 0.1532,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 66,
+      "atr": 0.1662,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 34.3093,
+    "leverage": 0.1999,
+    "atr": 0.0319,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

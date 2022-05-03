@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "UIP",
+      "pnl": 0.9837,
+      "pnl_value": 30.103,
+      "weight": 0.0421,
+      "rank": 98,
+      "atr": 0.2722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0096,
+      "pnl_value": -0.7747,
+      "weight": 0.111,
+      "rank": 44,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.021,
+      "pnl_value": -2.2448,
+      "weight": 0.1468,
+      "rank": 26,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 26,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 44,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UIP",
+      "rank": 98,
+      "atr": 0.2722,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0373,
+    "cum_pnl": 752.9849,
+    "leverage": 0.2999,
+    "atr": 0.0344,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.0481,
+      "pnl_value": 3.1171,
+      "weight": 0.1011,
+      "rank": 17,
+      "atr": 0.0666,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0326,
+      "pnl_value": 2.0663,
+      "weight": 0.0988,
+      "rank": 54,
+      "atr": 0.0681,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 17,
+      "atr": 0.0666,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 54,
+      "atr": 0.0681,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0081,
+    "cum_pnl": 645.6745,
+    "leverage": 0.1999,
+    "atr": 0.0135,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

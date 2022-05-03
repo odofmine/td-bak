@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "POWR",
+      "pnl": 0.1288,
+      "pnl_value": 2.7826,
+      "weight": 0.0803,
+      "rank": 107,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0099,
+      "pnl_value": 0.3181,
+      "weight": 0.1196,
+      "rank": 13,
+      "atr": 0.0621,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 13,
+      "atr": 0.0621,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 107,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0115,
+    "cum_pnl": 271.1083,
+    "leverage": 0.1999,
+    "atr": 0.0149,
+    "marketcap_pnt": 0.0066,
+    "green_marketcap_pnt": 0
+  }
+}

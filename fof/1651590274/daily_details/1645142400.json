@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": 0.1087,
+      "pnl_value": 1166.9742,
+      "weight": 0.1135,
+      "rank": 63,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0301,
+      "pnl_value": 245.7798,
+      "weight": 0.0864,
+      "rank": 101,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 63,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 101,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0149,
+    "cum_pnl": 96027.4953,
+    "leverage": 0.1999,
+    "atr": 0.0157,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

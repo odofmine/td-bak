@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2327,
+      "pnl_value": 6.154,
+      "weight": 0.0999,
+      "rank": 50,
+      "atr": 0.0825,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0322,
+      "pnl_value": -0.8532,
+      "weight": 0.1,
+      "rank": 40,
+      "atr": 0.0824,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NANO",
+      "rank": 40,
+      "atr": 0.0824,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.0825,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.02,
+    "cum_pnl": 269.0085,
+    "leverage": 0.1999,
+    "atr": 0.0165,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

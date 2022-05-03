@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.1956,
+      "pnl_value": 14.6984,
+      "weight": 0.1034,
+      "rank": 75,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0235,
+      "pnl_value": -1.7761,
+      "weight": 0.104,
+      "rank": 78,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0505,
+      "pnl_value": -3.5545,
+      "weight": 0.0968,
+      "rank": 100,
+      "atr": 0.1026,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0831,
+      "pnl_value": -6.7108,
+      "weight": 0.1111,
+      "rank": 36,
+      "atr": 0.0894,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.1085,
+      "pnl_value": -6.6566,
+      "weight": 0.0844,
+      "rank": 81,
+      "atr": 0.1176,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTT",
+      "rank": 36,
+      "atr": 0.0894,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 78,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 75,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 100,
+      "atr": 0.1026,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 81,
+      "atr": 0.1176,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0055,
+    "cum_pnl": 721.8364,
+    "leverage": 0.4997,
+    "atr": 0.0496,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

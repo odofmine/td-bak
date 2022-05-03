@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0377,
+      "pnl_value": 2.846,
+      "weight": 0.1032,
+      "rank": 28,
+      "atr": 0.0709,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0054,
+      "pnl_value": -0.3799,
+      "weight": 0.0967,
+      "rank": 38,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.0709,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 733.7759,
+    "leverage": 0.1999,
+    "atr": 0.0146,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

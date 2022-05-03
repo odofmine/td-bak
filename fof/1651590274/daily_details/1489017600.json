@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.1144,
+      "pnl_value": 0.0129,
+      "weight": 0.0961,
+      "rank": 34,
+      "atr": 0.128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.0041,
+      "pnl_value": 0.0005,
+      "weight": 0.1038,
+      "rank": 20,
+      "atr": 0.1185,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAME",
+      "rank": 20,
+      "atr": 0.1185,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 34,
+      "atr": 0.128,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0114,
+    "cum_pnl": 0.1892,
+    "leverage": 0.1999,
+    "atr": 0.0246,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

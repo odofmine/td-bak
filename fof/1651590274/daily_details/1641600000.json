@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "ICP",
+      "pnl": 0.0887,
+      "pnl_value": 740.7328,
+      "weight": 0.0826,
+      "rank": 36,
+      "atr": 0.1241,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0129,
+      "pnl_value": 130.3277,
+      "weight": 0.1,
+      "rank": 49,
+      "atr": 0.1025,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0235,
+      "pnl_value": -278.5873,
+      "weight": 0.1172,
+      "rank": 21,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 21,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 49,
+      "atr": 0.1025,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 36,
+      "atr": 0.1241,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0059,
+    "cum_pnl": 101712.4292,
+    "leverage": 0.2998,
+    "atr": 0.0308,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

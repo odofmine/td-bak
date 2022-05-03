@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.0243,
+      "pnl_value": 112.1385,
+      "weight": 0.1014,
+      "rank": 72,
+      "atr": 0.1107,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.1391,
+      "rank": 70,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0579,
+      "pnl_value": -156.3218,
+      "weight": 0.0594,
+      "rank": 71,
+      "atr": 0.1888,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAX",
+      "rank": 70,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.1107,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 71,
+      "atr": 0.1888,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 45372.074,
+    "leverage": 0.2999,
+    "atr": 0.0337,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

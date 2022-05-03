@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.102,
+      "pnl_value": 4.8689,
+      "weight": 0.0742,
+      "rank": 22,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0127,
+      "pnl_value": 0.8092,
+      "weight": 0.0991,
+      "rank": 46,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0109,
+      "pnl_value": 0.6978,
+      "weight": 0.0995,
+      "rank": 7,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0012,
+      "pnl_value": 0.081,
+      "weight": 0.1042,
+      "rank": 57,
+      "atr": 0.0647,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.0069,
+      "pnl_value": -0.544,
+      "weight": 0.1228,
+      "rank": 78,
+      "atr": 0.0549,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 78,
+      "atr": 0.0549,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.0647,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 46,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0092,
+    "cum_pnl": 648.5095,
+    "leverage": 0.4998,
+    "atr": 0.0337,
+    "marketcap_pnt": 0.0163,
+    "green_marketcap_pnt": 0
+  }
+}

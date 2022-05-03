@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0389,
+      "pnl_value": 34.727,
+      "weight": 0.0472,
+      "rank": 80,
+      "atr": 0.1329,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0069,
+      "pnl_value": 31.0804,
+      "weight": 0.2388,
+      "rank": 56,
+      "atr": 0.0263,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0079,
+      "pnl_value": -8.6379,
+      "weight": 0.0579,
+      "rank": 92,
+      "atr": 0.1084,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.095,
+      "pnl_value": -100.2883,
+      "weight": 0.0559,
+      "rank": 78,
+      "atr": 0.1122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0263,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 78,
+      "atr": 0.1122,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1329,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 18846.5575,
+    "leverage": 0.3998,
+    "atr": 0.0251,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

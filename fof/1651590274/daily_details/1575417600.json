@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": -0.0251,
+      "pnl_value": -1.8304,
+      "weight": 0.1111,
+      "rank": 17,
+      "atr": 0.0689,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MOF",
+      "pnl": -0.0268,
+      "pnl_value": -2.0843,
+      "weight": 0.1188,
+      "rank": 83,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0843,
+      "pnl_value": -3.8633,
+      "weight": 0.0699,
+      "rank": 48,
+      "atr": 0.1094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MOF",
+      "rank": 83,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 17,
+      "atr": 0.0689,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 48,
+      "atr": 0.1094,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0119,
+    "cum_pnl": 646.4842,
+    "leverage": 0.2998,
+    "atr": 0.023,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

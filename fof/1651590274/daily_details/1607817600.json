@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0349,
+      "pnl_value": 15.6435,
+      "weight": 0.1137,
+      "rank": 15,
+      "atr": 0.0529,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0108,
+      "pnl_value": 3.6549,
+      "weight": 0.0862,
+      "rank": 75,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0529,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 75,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 3959.2034,
+    "leverage": 0.1999,
+    "atr": 0.012,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

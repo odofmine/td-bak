@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0391,
+      "pnl_value": 3.2956,
+      "weight": 0.0884,
+      "rank": 15,
+      "atr": 0.0718,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.023,
+      "pnl_value": -2.4435,
+      "weight": 0.1115,
+      "rank": 10,
+      "atr": 0.0569,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 10,
+      "atr": 0.0569,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 15,
+      "atr": 0.0718,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 953.0055,
+    "leverage": 0.1999,
+    "atr": 0.0127,
+    "marketcap_pnt": 0.0091,
+    "green_marketcap_pnt": 0
+  }
+}

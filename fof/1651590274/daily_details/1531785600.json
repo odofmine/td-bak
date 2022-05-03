@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTS",
+      "pnl": 0.0674,
+      "pnl_value": 2.7072,
+      "weight": 0.0897,
+      "rank": 31,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0604,
+      "pnl_value": 2.9792,
+      "weight": 0.1102,
+      "rank": 60,
+      "atr": 0.0695,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 60,
+      "atr": 0.0695,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 31,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0127,
+    "cum_pnl": 452.4399,
+    "leverage": 0.1999,
+    "atr": 0.0153,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "CHSB",
+      "pnl": -0.0206,
+      "pnl_value": -7.9471,
+      "weight": 0.0966,
+      "rank": 100,
+      "atr": 0.0897,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0447,
+      "pnl_value": -15.6289,
+      "weight": 0.0877,
+      "rank": 39,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.048,
+      "pnl_value": -22.1035,
+      "weight": 0.1156,
+      "rank": 70,
+      "atr": 0.0749,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 70,
+      "atr": 0.0749,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 100,
+      "atr": 0.0897,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 39,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0115,
+    "cum_pnl": 3939.9049,
+    "leverage": 0.2999,
+    "atr": 0.026,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0945,
+      "pnl_value": 3.8635,
+      "weight": 0.0896,
+      "rank": 16,
+      "atr": 0.079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0611,
+      "pnl_value": 3.5497,
+      "weight": 0.1274,
+      "rank": 81,
+      "atr": 0.0556,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.014,
+      "pnl_value": -0.443,
+      "weight": 0.0693,
+      "rank": 62,
+      "atr": 0.1021,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0362,
+      "pnl_value": -1.8759,
+      "weight": 0.1135,
+      "rank": 46,
+      "atr": 0.0624,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 81,
+      "atr": 0.0556,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0624,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 62,
+      "atr": 0.1021,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0112,
+    "cum_pnl": 460.44,
+    "leverage": 0.3998,
+    "atr": 0.0283,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

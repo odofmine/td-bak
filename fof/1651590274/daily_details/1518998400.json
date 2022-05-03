@@ -1,0 +1,170 @@
+{
+  "pnls": [
+    {
+      "name": "VEN",
+      "pnl": 0.2086,
+      "pnl_value": 5.9058,
+      "weight": 0.0885,
+      "rank": 17,
+      "atr": 0.1612,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.1218,
+      "pnl_value": 3.2167,
+      "weight": 0.0826,
+      "rank": 73,
+      "atr": 0.1727,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.1192,
+      "pnl_value": 4.3862,
+      "weight": 0.115,
+      "rank": 15,
+      "atr": 0.124,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0707,
+      "pnl_value": 2.6106,
+      "weight": 0.1155,
+      "rank": 63,
+      "atr": 0.1235,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZCL",
+      "pnl": 0.0634,
+      "pnl_value": 2.0779,
+      "weight": 0.1025,
+      "rank": 42,
+      "atr": 0.1391,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0365,
+      "pnl_value": 1.3193,
+      "weight": 0.1131,
+      "rank": 5,
+      "atr": 0.1261,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": -0.0674,
+      "pnl_value": -1.8226,
+      "weight": 0.0845,
+      "rank": 56,
+      "atr": 0.1688,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.0979,
+      "pnl_value": -3.0658,
+      "weight": 0.0979,
+      "rank": 69,
+      "atr": 0.1457,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SYS",
+      "rank": 63,
+      "atr": 0.1235,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 15,
+      "atr": 0.124,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.1261,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 42,
+      "atr": 0.1391,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 69,
+      "atr": 0.1457,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 17,
+      "atr": 0.1612,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 56,
+      "atr": 0.1688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 73,
+      "atr": 0.1727,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0457,
+    "cum_pnl": 333.4882,
+    "leverage": 0.7996,
+    "atr": 0.1141,
+    "marketcap_pnt": 0.0422,
+    "green_marketcap_pnt": 0
+  }
+}

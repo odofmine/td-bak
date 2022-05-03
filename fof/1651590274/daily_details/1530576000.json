@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.068,
+      "pnl_value": 2.825,
+      "weight": 0.0917,
+      "rank": 87,
+      "atr": 0.0971,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0312,
+      "pnl_value": -1.4848,
+      "weight": 0.1051,
+      "rank": 16,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.0391,
+      "pnl_value": -1.8235,
+      "weight": 0.103,
+      "rank": 73,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 73,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 87,
+      "atr": 0.0971,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 451.6858,
+    "leverage": 0.2998,
+    "atr": 0.0267,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

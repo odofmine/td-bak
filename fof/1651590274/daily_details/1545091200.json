@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.3561,
+      "pnl_value": 10.6378,
+      "weight": 0.1054,
+      "rank": 22,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": 0.0777,
+      "pnl_value": 2.0806,
+      "weight": 0.0945,
+      "rank": 62,
+      "atr": 0.0888,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 22,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 62,
+      "atr": 0.0888,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0449,
+    "cum_pnl": 295.1274,
+    "leverage": 0.1999,
+    "atr": 0.0168,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

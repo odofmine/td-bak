@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "POA",
+      "pnl": 0.1617,
+      "pnl_value": 4.5918,
+      "weight": 0.0923,
+      "rank": 99,
+      "atr": 0.1163,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": 0.1033,
+      "pnl_value": 4.2762,
+      "weight": 0.1345,
+      "rank": 27,
+      "atr": 0.0798,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0416,
+      "pnl_value": 0.9363,
+      "weight": 0.0731,
+      "rank": 105,
+      "atr": 0.1469,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 27,
+      "atr": 0.0798,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POA",
+      "rank": 99,
+      "atr": 0.1163,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 105,
+      "atr": 0.1469,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0319,
+    "cum_pnl": 316.4609,
+    "leverage": 0.2999,
+    "atr": 0.0322,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

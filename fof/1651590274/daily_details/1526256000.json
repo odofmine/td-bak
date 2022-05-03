@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": 0.0258,
+      "pnl_value": 1.1544,
+      "weight": 0.0876,
+      "rank": 44,
+      "atr": 0.1207,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": 0.016,
+      "pnl_value": 0.9829,
+      "weight": 0.1204,
+      "rank": 90,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCN",
+      "pnl": -0.0573,
+      "pnl_value": -2.0261,
+      "weight": 0.0693,
+      "rank": 62,
+      "atr": 0.1526,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SKY",
+      "pnl": -0.0758,
+      "pnl_value": -4.7403,
+      "weight": 0.1225,
+      "rank": 80,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SKY",
+      "rank": 80,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 90,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 44,
+      "atr": 0.1207,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 62,
+      "atr": 0.1526,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0091,
+    "cum_pnl": 504.826,
+    "leverage": 0.3998,
+    "atr": 0.0423,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

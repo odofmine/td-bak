@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0364,
+      "pnl_value": 2.2326,
+      "weight": 0.1234,
+      "rank": 25,
+      "atr": 0.0722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0394,
+      "pnl_value": -2.1297,
+      "weight": 0.1086,
+      "rank": 39,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0598,
+      "pnl_value": -2.2176,
+      "weight": 0.0746,
+      "rank": 44,
+      "atr": 0.1194,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0768,
+      "pnl_value": -3.5642,
+      "weight": 0.0933,
+      "rank": 90,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0722,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 90,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 44,
+      "atr": 0.1194,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0114,
+    "cum_pnl": 490.4568,
+    "leverage": 0.3999,
+    "atr": 0.0356,
+    "marketcap_pnt": 0.0062,
+    "green_marketcap_pnt": 0
+  }
+}

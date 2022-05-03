@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": -0.0075,
+      "pnl_value": -0.2633,
+      "weight": 0.1191,
+      "rank": 2,
+      "atr": 0.0889,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0285,
+      "pnl_value": -0.679,
+      "weight": 0.0808,
+      "rank": 74,
+      "atr": 0.1311,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 2,
+      "atr": 0.0889,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 74,
+      "atr": 0.1311,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0032,
+    "cum_pnl": 292.4529,
+    "leverage": 0.1999,
+    "atr": 0.0212,
+    "marketcap_pnt": 0.1157,
+    "green_marketcap_pnt": 0
+  }
+}

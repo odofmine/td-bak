@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": -0.0008,
+      "pnl_value": -0.0313,
+      "weight": 0.1036,
+      "rank": 4,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0056,
+      "pnl_value": -0.1785,
+      "weight": 0.0894,
+      "rank": 93,
+      "atr": 0.1173,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.006,
+      "pnl_value": -0.258,
+      "weight": 0.12,
+      "rank": 27,
+      "atr": 0.0874,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0132,
+      "pnl_value": -0.409,
+      "weight": 0.0868,
+      "rank": 94,
+      "atr": 0.1208,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 93,
+      "atr": 0.1173,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1208,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 355.5236,
+    "leverage": 0.3998,
+    "atr": 0.0419,
+    "marketcap_pnt": 0.0443,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.1106,
+      "pnl_value": 8.1956,
+      "weight": 0.0714,
+      "rank": 75,
+      "atr": 0.1094,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0412,
+      "pnl_value": 6.9258,
+      "weight": 0.1622,
+      "rank": 36,
+      "atr": 0.0482,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0261,
+      "pnl_value": 2.1912,
+      "weight": 0.081,
+      "rank": 105,
+      "atr": 0.0965,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0253,
+      "pnl_value": 2.2373,
+      "weight": 0.0852,
+      "rank": 96,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 36,
+      "atr": 0.0482,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 96,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 105,
+      "atr": 0.0965,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 75,
+      "atr": 0.1094,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0188,
+    "cum_pnl": 1056.0194,
+    "leverage": 0.3998,
+    "atr": 0.0313,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.0946,
+      "pnl_value": 6.3907,
+      "weight": 0.1096,
+      "rank": 5,
+      "atr": 0.0495,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": 0.0659,
+      "pnl_value": 3.911,
+      "weight": 0.0963,
+      "rank": 9,
+      "atr": 0.0563,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0414,
+      "pnl_value": 2.8423,
+      "weight": 0.1114,
+      "rank": 17,
+      "atr": 0.0487,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0386,
+      "pnl_value": 3.1942,
+      "weight": 0.1343,
+      "rank": 75,
+      "atr": 0.0404,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CSC",
+      "pnl": -0.1674,
+      "pnl_value": -4.9725,
+      "weight": 0.0482,
+      "rank": 90,
+      "atr": 0.1124,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SEELE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 75,
+      "atr": 0.0404,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 17,
+      "atr": 0.0487,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0495,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0563,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CSC",
+      "rank": 90,
+      "atr": 0.1124,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0184,
+    "cum_pnl": 626.7062,
+    "leverage": 0.4998,
+    "atr": 0.0271,
+    "marketcap_pnt": 0.0348,
+    "green_marketcap_pnt": 0
+  }
+}

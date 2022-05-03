@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": -0.0574,
+      "pnl_value": -2.0234,
+      "weight": 0.1182,
+      "rank": 2,
+      "atr": 0.083,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0829,
+      "pnl_value": -2.0204,
+      "weight": 0.0817,
+      "rank": 26,
+      "atr": 0.12,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 2,
+      "atr": 0.083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 26,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0136,
+    "cum_pnl": 293.3952,
+    "leverage": 0.1999,
+    "atr": 0.0196,
+    "marketcap_pnt": 0.1171,
+    "green_marketcap_pnt": 0
+  }
+}

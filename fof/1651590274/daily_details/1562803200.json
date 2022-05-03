@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0153,
+      "pnl_value": 1.1014,
+      "weight": 0.0972,
+      "rank": 28,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0533,
+      "pnl_value": -3.9114,
+      "weight": 0.099,
+      "rank": 38,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0758,
+      "pnl_value": -5.8212,
+      "weight": 0.1037,
+      "rank": 35,
+      "atr": 0.0657,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 35,
+      "atr": 0.0657,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0116,
+    "cum_pnl": 731.3097,
+    "leverage": 0.2999,
+    "atr": 0.0204,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

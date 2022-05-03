@@ -1,0 +1,122 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0254,
+      "pnl_value": 0.7852,
+      "weight": 0.1087,
+      "rank": 6,
+      "atr": 0.0538,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.012,
+      "pnl_value": 0.4524,
+      "weight": 0.132,
+      "rank": 2,
+      "atr": 0.0443,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.009,
+      "pnl_value": 0.2188,
+      "weight": 0.0856,
+      "rank": 3,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0053,
+      "pnl_value": -0.111,
+      "weight": 0.0735,
+      "rank": 67,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0443,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0538,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0047,
+    "cum_pnl": 285.2997,
+    "leverage": 0.3998,
+    "atr": 0.0234,
+    "marketcap_pnt": 0.2172,
+    "green_marketcap_pnt": 0
+  }
+}

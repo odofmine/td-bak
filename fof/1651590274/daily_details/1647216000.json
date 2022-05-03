@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.0623,
+      "pnl_value": 399.071,
+      "weight": 0.0725,
+      "rank": 107,
+      "atr": 0.1215,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0384,
+      "pnl_value": 354.0719,
+      "weight": 0.1043,
+      "rank": 69,
+      "atr": 0.0845,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0191,
+      "pnl_value": 192.6613,
+      "weight": 0.1143,
+      "rank": 6,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0398,
+      "pnl_value": -382.6089,
+      "weight": 0.1087,
+      "rank": 48,
+      "atr": 0.0811,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 48,
+      "atr": 0.0811,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.0845,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 107,
+      "atr": 0.1215,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0064,
+    "cum_pnl": 88956.1248,
+    "leverage": 0.3998,
+    "atr": 0.0353,
+    "marketcap_pnt": 0.0241,
+    "green_marketcap_pnt": 0
+  }
+}

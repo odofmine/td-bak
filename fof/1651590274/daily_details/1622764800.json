@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "PAX",
+      "pnl": -0.003,
+      "pnl_value": -16.0408,
+      "weight": 0.1157,
+      "rank": 68,
+      "atr": 0.0874,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0362,
+      "pnl_value": -228.8526,
+      "weight": 0.1365,
+      "rank": 55,
+      "atr": 0.0741,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0743,
+      "pnl_value": -271.2206,
+      "weight": 0.0788,
+      "rank": 4,
+      "atr": 0.1283,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0872,
+      "pnl_value": -278.1257,
+      "weight": 0.0688,
+      "rank": 109,
+      "atr": 0.1469,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 55,
+      "atr": 0.0741,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAX",
+      "rank": 68,
+      "atr": 0.0874,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 4,
+      "atr": 0.1283,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 109,
+      "atr": 0.1469,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0171,
+    "cum_pnl": 45557.1575,
+    "leverage": 0.3998,
+    "atr": 0.0404,
+    "marketcap_pnt": 0.0352,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MTC",
+      "pnl": 0.1174,
+      "pnl_value": 2.4563,
+      "weight": 0.0464,
+      "rank": 105,
+      "atr": 0.2183,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0889,
+      "pnl_value": -6.1556,
+      "weight": 0.1535,
+      "rank": 15,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 15,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTC",
+      "rank": 105,
+      "atr": 0.2183,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0082,
+    "cum_pnl": 446.1827,
+    "leverage": 0.1999,
+    "atr": 0.0203,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

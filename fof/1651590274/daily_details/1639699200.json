@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0279,
+      "pnl_value": 160.768,
+      "weight": 0.0535,
+      "rank": 74,
+      "atr": 0.1963,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0162,
+      "pnl_value": 254.9866,
+      "weight": 0.1464,
+      "rank": 75,
+      "atr": 0.0717,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 75,
+      "atr": 0.0717,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 74,
+      "atr": 0.1963,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0039,
+    "cum_pnl": 108170.8555,
+    "leverage": 0.1999,
+    "atr": 0.021,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

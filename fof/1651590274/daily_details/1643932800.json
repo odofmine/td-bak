@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.2544,
+      "pnl_value": 3052.3551,
+      "weight": 0.1278,
+      "rank": 36,
+      "atr": 0.0464,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0777,
+      "pnl_value": 525.7301,
+      "weight": 0.0721,
+      "rank": 27,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 36,
+      "atr": 0.0464,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 27,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0381,
+    "cum_pnl": 97468.4439,
+    "leverage": 0.1999,
+    "atr": 0.0119,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

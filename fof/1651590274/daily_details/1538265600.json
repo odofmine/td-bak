@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0008,
+      "pnl_value": 0.0244,
+      "weight": 0.0852,
+      "rank": 28,
+      "atr": 0.0899,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0067,
+      "pnl_value": -0.3093,
+      "weight": 0.1294,
+      "rank": 7,
+      "atr": 0.0592,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.007,
+      "pnl_value": -0.1911,
+      "weight": 0.0755,
+      "rank": 26,
+      "atr": 0.1015,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0126,
+      "pnl_value": -0.4959,
+      "weight": 0.1097,
+      "rank": 23,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0592,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 28,
+      "atr": 0.0899,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.1015,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 357.4842,
+    "leverage": 0.3998,
+    "atr": 0.0306,
+    "marketcap_pnt": 0.0212,
+    "green_marketcap_pnt": 0
+  }
+}

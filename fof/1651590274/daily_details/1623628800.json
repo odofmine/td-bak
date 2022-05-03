@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "AMP",
+      "pnl": 0.2694,
+      "pnl_value": 1063.2169,
+      "weight": 0.0901,
+      "rank": 44,
+      "atr": 0.1488,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0849,
+      "pnl_value": 408.0776,
+      "weight": 0.1098,
+      "rank": 98,
+      "atr": 0.1222,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 98,
+      "atr": 0.1222,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 44,
+      "atr": 0.1488,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0336,
+    "cum_pnl": 45270.3375,
+    "leverage": 0.1999,
+    "atr": 0.0268,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

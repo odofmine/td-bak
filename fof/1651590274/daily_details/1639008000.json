@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0022,
+      "pnl_value": 39.1613,
+      "weight": 0.1599,
+      "rank": 43,
+      "atr": 0.0551,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0586,
+      "pnl_value": -299.6304,
+      "weight": 0.0452,
+      "rank": 76,
+      "atr": 0.1949,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1368,
+      "pnl_value": -1464.6097,
+      "weight": 0.0947,
+      "rank": 15,
+      "atr": 0.093,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 43,
+      "atr": 0.0551,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.093,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 76,
+      "atr": 0.1949,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0153,
+    "cum_pnl": 111300.2951,
+    "leverage": 0.2998,
+    "atr": 0.0264,
+    "marketcap_pnt": 0.0085,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "VEN",
+      "pnl": 0.034,
+      "pnl_value": 1.4924,
+      "weight": 0.1325,
+      "rank": 21,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0067,
+      "pnl_value": -0.2109,
+      "weight": 0.0954,
+      "rank": 9,
+      "atr": 0.1483,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.1428,
+      "pnl_value": -3.3954,
+      "weight": 0.0719,
+      "rank": 91,
+      "atr": 0.1968,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VEN",
+      "rank": 21,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1483,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 91,
+      "atr": 0.1968,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0064,
+    "cum_pnl": 327.6961,
+    "leverage": 0.2998,
+    "atr": 0.0424,
+    "marketcap_pnt": 0.0197,
+    "green_marketcap_pnt": 0
+  }
+}

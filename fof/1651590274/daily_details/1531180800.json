@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BTS",
+      "pnl": -0.1016,
+      "pnl_value": -4.1953,
+      "weight": 0.09,
+      "rank": 33,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.116,
+      "pnl_value": -5.8516,
+      "weight": 0.1099,
+      "rank": 15,
+      "atr": 0.0743,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 15,
+      "atr": 0.0743,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 33,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0219,
+    "cum_pnl": 447.9659,
+    "leverage": 0.1999,
+    "atr": 0.0163,
+    "marketcap_pnt": 0.0088,
+    "green_marketcap_pnt": 0
+  }
+}

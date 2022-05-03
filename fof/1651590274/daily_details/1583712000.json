@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": -0.0098,
+      "pnl_value": -0.6371,
+      "weight": 0.0578,
+      "rank": 14,
+      "atr": 0.1906,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0213,
+      "pnl_value": -4.057,
+      "weight": 0.1697,
+      "rank": 62,
+      "atr": 0.065,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0401,
+      "pnl_value": -3.2551,
+      "weight": 0.0723,
+      "rank": 97,
+      "atr": 0.1525,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 62,
+      "atr": 0.065,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 97,
+      "atr": 0.1525,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 14,
+      "atr": 0.1906,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0071,
+    "cum_pnl": 1114.6713,
+    "leverage": 0.2998,
+    "atr": 0.0331,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

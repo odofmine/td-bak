@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "QQQ",
+      "pnl": -0.0104,
+      "pnl_value": -1.0504,
+      "weight": 0.0885,
+      "rank": 119,
+      "atr": 0.0725,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0106,
+      "pnl_value": -1.3477,
+      "weight": 0.1114,
+      "rank": 36,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 36,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 119,
+      "atr": 0.0725,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 1136.0277,
+    "leverage": 0.1999,
+    "atr": 0.0128,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0547,
+      "pnl_value": 0.2175,
+      "weight": 0.0921,
+      "rank": 40,
+      "atr": 0.1114,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0025,
+      "pnl_value": 0.0157,
+      "weight": 0.1448,
+      "rank": 7,
+      "atr": 0.0709,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0128,
+      "pnl_value": -0.0633,
+      "weight": 0.1143,
+      "rank": 19,
+      "atr": 0.0898,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0355,
+      "pnl_value": -0.1853,
+      "weight": 0.1208,
+      "rank": 4,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": -0.0587,
+      "pnl_value": -0.2237,
+      "weight": 0.0882,
+      "rank": 61,
+      "atr": 0.1164,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.0953,
+      "pnl_value": -0.1625,
+      "weight": 0.0395,
+      "rank": 44,
+      "atr": 0.26,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0709,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 19,
+      "atr": 0.0898,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1114,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 61,
+      "atr": 0.1164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.26,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0093,
+    "cum_pnl": 41.7858,
+    "leverage": 0.5997,
+    "atr": 0.0616,
+    "marketcap_pnt": 0.0411,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "NXS",
+      "pnl": 0.0368,
+      "pnl_value": 1.5233,
+      "weight": 0.0975,
+      "rank": 105,
+      "atr": 0.1044,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0183,
+      "pnl_value": 0.8365,
+      "weight": 0.1077,
+      "rank": 53,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": 0.0118,
+      "pnl_value": 0.4542,
+      "weight": 0.0907,
+      "rank": 25,
+      "atr": 0.1122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0015,
+      "pnl_value": 0.0704,
+      "weight": 0.1072,
+      "rank": 5,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0846,
+      "pnl_value": -5.162,
+      "weight": 0.1436,
+      "rank": 12,
+      "atr": 0.0709,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.1057,
+      "pnl_value": -2.3756,
+      "weight": 0.0529,
+      "rank": 52,
+      "atr": 0.1922,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 12,
+      "atr": 0.0709,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 53,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 105,
+      "atr": 0.1044,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 25,
+      "atr": 0.1122,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 52,
+      "atr": 0.1922,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.011,
+    "cum_pnl": 419.3037,
+    "leverage": 0.5996,
+    "atr": 0.0611,
+    "marketcap_pnt": 0.0368,
+    "green_marketcap_pnt": 0
+  }
+}

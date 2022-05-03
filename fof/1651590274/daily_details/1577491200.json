@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0011,
+      "pnl_value": 0.0712,
+      "weight": 0.0994,
+      "rank": 95,
+      "atr": 0.0605,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0219,
+      "pnl_value": -1.5943,
+      "weight": 0.1164,
+      "rank": 25,
+      "atr": 0.0517,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0231,
+      "pnl_value": -1.2116,
+      "weight": 0.084,
+      "rank": 17,
+      "atr": 0.0716,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 25,
+      "atr": 0.0517,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 95,
+      "atr": 0.0605,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 17,
+      "atr": 0.0716,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 621.0616,
+    "leverage": 0.2998,
+    "atr": 0.018,
+    "marketcap_pnt": 0.0068,
+    "green_marketcap_pnt": 0
+  }
+}

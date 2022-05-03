@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "FAIR",
+      "pnl": -0.0526,
+      "pnl_value": -0.2303,
+      "weight": 0.1114,
+      "rank": 100,
+      "atr": 0.1209,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.1486,
+      "pnl_value": -0.5166,
+      "weight": 0.0885,
+      "rank": 73,
+      "atr": 0.1522,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FAIR",
+      "rank": 100,
+      "atr": 0.1209,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 73,
+      "atr": 0.1522,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.019,
+    "cum_pnl": 37.5307,
+    "leverage": 0.1999,
+    "atr": 0.0269,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

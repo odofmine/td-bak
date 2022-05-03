@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "AMPL",
+      "pnl": 0.0942,
+      "pnl_value": 10.0423,
+      "weight": 0.0424,
+      "rank": 84,
+      "atr": 0.1528,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0917,
+      "pnl_value": 24.0209,
+      "weight": 0.1041,
+      "rank": 70,
+      "atr": 0.0623,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0886,
+      "pnl_value": 21.3461,
+      "weight": 0.0958,
+      "rank": 42,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0567,
+      "pnl_value": 9.0417,
+      "weight": 0.0634,
+      "rank": 52,
+      "atr": 0.1023,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0438,
+      "pnl_value": 20.1901,
+      "weight": 0.1832,
+      "rank": 1,
+      "atr": 0.0354,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0342,
+      "pnl_value": 11.622,
+      "weight": 0.1349,
+      "rank": 8,
+      "atr": 0.0481,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0321,
+      "pnl_value": 6.4725,
+      "weight": 0.0802,
+      "rank": 9,
+      "atr": 0.0809,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0233,
+      "pnl_value": 5.6017,
+      "weight": 0.0957,
+      "rank": 43,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0354,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0481,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0623,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 42,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0809,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 52,
+      "atr": 0.1023,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 84,
+      "atr": 0.1528,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0431,
+    "cum_pnl": 2622.8153,
+    "leverage": 0.7997,
+    "atr": 0.0519,
+    "marketcap_pnt": 0.6592,
+    "green_marketcap_pnt": 0
+  }
+}

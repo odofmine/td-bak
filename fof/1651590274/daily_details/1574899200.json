@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MOF",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0825,
+      "rank": 96,
+      "atr": 0.0941,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0754,
+      "pnl_value": -5.7442,
+      "weight": 0.1174,
+      "rank": 111,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 96,
+      "atr": 0.0941,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0088,
+    "cum_pnl": 642.553,
+    "leverage": 0.1999,
+    "atr": 0.0155,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

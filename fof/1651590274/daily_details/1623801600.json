@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.162,
+      "pnl_value": 729.7867,
+      "weight": 0.0972,
+      "rank": 98,
+      "atr": 0.1103,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMP",
+      "pnl": 0.1486,
+      "pnl_value": 707.3526,
+      "weight": 0.1027,
+      "rank": 44,
+      "atr": 0.1043,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMP",
+      "rank": 44,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 98,
+      "atr": 0.1103,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.031,
+    "cum_pnl": 47781.7574,
+    "leverage": 0.1999,
+    "atr": 0.0214,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

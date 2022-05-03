@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0155,
+      "pnl_value": 0.5729,
+      "weight": 0.1386,
+      "rank": 13,
+      "atr": 0.0621,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.024,
+      "pnl_value": -0.5403,
+      "weight": 0.0843,
+      "rank": 50,
+      "atr": 0.102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0415,
+      "pnl_value": -0.9218,
+      "weight": 0.0832,
+      "rank": 69,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0585,
+      "pnl_value": -1.4636,
+      "weight": 0.0937,
+      "rank": 77,
+      "atr": 0.0918,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 13,
+      "atr": 0.0621,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 77,
+      "atr": 0.0918,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 69,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0088,
+    "cum_pnl": 263.582,
+    "leverage": 0.3998,
+    "atr": 0.0344,
+    "marketcap_pnt": 0.0088,
+    "green_marketcap_pnt": 0
+  }
+}

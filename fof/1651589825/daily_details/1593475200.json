@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.0246,
+      "pnl_value": 0.0007,
+      "weight": 0.0201,
+      "rank": 160,
+      "atr": 0.0866,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.051,
+      "pnl_value": -0.0013,
+      "weight": 0.0198,
+      "rank": 163,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 163,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 0.3178,
+    "leverage": 0.0399,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

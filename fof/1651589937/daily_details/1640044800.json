@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.0858,
+      "pnl_value": 27.4792,
+      "weight": 0.009,
+      "rank": 10,
+      "atr": 0.1057,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0648,
+      "pnl_value": 26.5365,
+      "weight": 0.0115,
+      "rank": 9,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BORA",
+      "pnl": 0.0537,
+      "pnl_value": 14.7128,
+      "weight": 0.0077,
+      "rank": 95,
+      "atr": 0.1234,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0142,
+      "rank": 74,
+      "atr": 0.0668,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0034,
+      "pnl_value": -0.6466,
+      "weight": 0.0053,
+      "rank": 67,
+      "atr": 0.1765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0565,
+      "pnl_value": -24.1131,
+      "weight": 0.012,
+      "rank": 83,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 74,
+      "atr": 0.0668,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1057,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BORA",
+      "rank": 95,
+      "atr": 0.1234,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 67,
+      "atr": 0.1765,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 35631.7115,
+    "leverage": 0.0597,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0281,
+    "green_marketcap_pnt": 0
+  }
+}

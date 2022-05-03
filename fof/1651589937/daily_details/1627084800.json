@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0558,
+      "pnl_value": 8.3349,
+      "weight": 0.0091,
+      "rank": 87,
+      "atr": 0.1047,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": 0.0332,
+      "pnl_value": 4.5168,
+      "weight": 0.0083,
+      "rank": 81,
+      "atr": 0.1154,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0124,
+      "pnl_value": -2.5513,
+      "weight": 0.0125,
+      "rank": 64,
+      "atr": 0.0768,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 64,
+      "atr": 0.0768,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 87,
+      "atr": 0.1047,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 81,
+      "atr": 0.1154,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 16410.4972,
+    "leverage": 0.0299,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "PZM",
+      "pnl": 0.0479,
+      "pnl_value": 0.1328,
+      "weight": 0.008,
+      "rank": 42,
+      "atr": 0.0893,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.0257,
+      "pnl_value": 0.0828,
+      "weight": 0.0093,
+      "rank": 46,
+      "atr": 0.077,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.002,
+      "pnl_value": -0.0086,
+      "weight": 0.0125,
+      "rank": 66,
+      "atr": 0.0571,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 66,
+      "atr": 0.0571,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 42,
+      "atr": 0.0893,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 345.9555,
+    "leverage": 0.0298,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

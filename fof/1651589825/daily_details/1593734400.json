@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.136,
+      "pnl_value": 0.0025,
+      "weight": 0.0139,
+      "rank": 160,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.1346,
+      "pnl_value": 0.003,
+      "weight": 0.0171,
+      "rank": 105,
+      "atr": 0.0776,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0389,
+      "pnl_value": 0.0012,
+      "weight": 0.0228,
+      "rank": 11,
+      "atr": 0.0582,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0012,
+      "pnl_value": 0.0,
+      "weight": 0.0254,
+      "rank": 18,
+      "atr": 0.0523,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.0214,
+      "pnl_value": -0.0006,
+      "weight": 0.0206,
+      "rank": 26,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 18,
+      "atr": 0.0523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0582,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 26,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0047,
+    "cum_pnl": 0.3204,
+    "leverage": 0.0998,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0146,
+    "green_marketcap_pnt": 0
+  }
+}

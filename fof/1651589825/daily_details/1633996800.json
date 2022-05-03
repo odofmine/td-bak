@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "DOT",
+      "pnl": 0.0305,
+      "pnl_value": 0.481,
+      "weight": 0.1011,
+      "rank": 8,
+      "atr": 0.0944,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0093,
+      "pnl_value": 0.126,
+      "weight": 0.0867,
+      "rank": 53,
+      "atr": 0.1101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MDX",
+      "pnl": -0.0064,
+      "pnl_value": -0.0912,
+      "weight": 0.0908,
+      "rank": 90,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0163,
+      "pnl_value": -0.3293,
+      "weight": 0.1296,
+      "rank": 28,
+      "atr": 0.0737,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0304,
+      "pnl_value": -0.5865,
+      "weight": 0.1234,
+      "rank": 6,
+      "atr": 0.0774,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0529,
+      "pnl_value": -0.9141,
+      "weight": 0.1108,
+      "rank": 20,
+      "atr": 0.0862,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.0708,
+      "pnl_value": -1.0184,
+      "weight": 0.0922,
+      "rank": 42,
+      "atr": 0.1036,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0851,
+      "pnl_value": -1.253,
+      "weight": 0.0943,
+      "rank": 127,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCST",
+      "pnl": -0.0987,
+      "pnl_value": -1.0405,
+      "weight": 0.0675,
+      "rank": 124,
+      "atr": 0.1415,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1043,
+      "pnl_value": -1.6795,
+      "weight": 0.1032,
+      "rank": 35,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 28,
+      "atr": 0.0737,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0774,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 20,
+      "atr": 0.0862,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 35,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0944,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 127,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 42,
+      "atr": 0.1036,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MDX",
+      "rank": 90,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 53,
+      "atr": 0.1101,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTCST",
+      "rank": 124,
+      "atr": 0.1415,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0404,
+    "cum_pnl": 148.7891,
+    "leverage": 0.9996,
+    "atr": 0.0955,
+    "marketcap_pnt": 0.0527,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0566,
+      "pnl_value": 1.895,
+      "weight": 0.0953,
+      "rank": 71,
+      "atr": 0.0657,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0145,
+      "pnl_value": 0.5338,
+      "weight": 0.1046,
+      "rank": 38,
+      "atr": 0.0599,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 38,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0657,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0069,
+    "cum_pnl": 352.9661,
+    "leverage": 0.1999,
+    "atr": 0.0125,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

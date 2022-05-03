@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MXM",
+      "pnl": 0.1276,
+      "pnl_value": 0.3973,
+      "weight": 0.0089,
+      "rank": 88,
+      "atr": 0.0784,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.032,
+      "pnl_value": 0.1175,
+      "weight": 0.0105,
+      "rank": 57,
+      "atr": 0.0664,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0302,
+      "pnl_value": 0.0886,
+      "weight": 0.0084,
+      "rank": 51,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": -0.002,
+      "pnl_value": -0.0084,
+      "weight": 0.0121,
+      "rank": 78,
+      "atr": 0.0575,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 78,
+      "atr": 0.0575,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.0664,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MXM",
+      "rank": 88,
+      "atr": 0.0784,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 51,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 349.5551,
+    "leverage": 0.0399,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

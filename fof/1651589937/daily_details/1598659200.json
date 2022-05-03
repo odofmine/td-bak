@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.1002,
+      "pnl_value": 1.6774,
+      "weight": 0.0166,
+      "rank": 82,
+      "atr": 0.0748,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0573,
+      "pnl_value": 0.8384,
+      "weight": 0.0145,
+      "rank": 92,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0414,
+      "pnl_value": 1.5552,
+      "weight": 0.0372,
+      "rank": 57,
+      "atr": 0.0334,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": -0.0103,
+      "pnl_value": -0.2011,
+      "weight": 0.0194,
+      "rank": 99,
+      "atr": 0.064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0124,
+      "pnl_value": -0.3195,
+      "weight": 0.0256,
+      "rank": 22,
+      "atr": 0.0485,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0457,
+      "pnl_value": -0.295,
+      "weight": 0.0064,
+      "rank": 61,
+      "atr": 0.1945,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0334,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 22,
+      "atr": 0.0485,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 99,
+      "atr": 0.064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0748,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 92,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 61,
+      "atr": 0.1945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0032,
+    "cum_pnl": 1010.9262,
+    "leverage": 0.1197,
+    "atr": 0.0075,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

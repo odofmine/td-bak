@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0233,
+      "pnl_value": 0.0775,
+      "weight": 0.0222,
+      "rank": 56,
+      "atr": 0.0835,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPT",
+      "pnl": 0.0227,
+      "pnl_value": 0.0493,
+      "weight": 0.0145,
+      "rank": 57,
+      "atr": 0.1274,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0327,
+      "pnl_value": -0.1135,
+      "weight": 0.0232,
+      "rank": 60,
+      "atr": 0.0798,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.0798,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0835,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPT",
+      "rank": 57,
+      "atr": 0.1274,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 148.77,
+    "leverage": 0.0599,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

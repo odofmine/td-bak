@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": 0.0354,
+      "pnl_value": 0.0018,
+      "weight": 0.019,
+      "rank": 19,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0273,
+      "pnl_value": 0.0016,
+      "weight": 0.022,
+      "rank": 6,
+      "atr": 0.0773,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0018,
+      "pnl_value": 0.0001,
+      "weight": 0.0267,
+      "rank": 46,
+      "atr": 0.0638,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0156,
+      "pnl_value": -0.0008,
+      "weight": 0.0179,
+      "rank": 40,
+      "atr": 0.0951,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0324,
+      "pnl_value": -0.0012,
+      "weight": 0.0141,
+      "rank": 59,
+      "atr": 0.1205,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 46,
+      "atr": 0.0638,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 6,
+      "atr": 0.0773,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0951,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 59,
+      "atr": 0.1205,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 1.728,
+    "leverage": 0.0997,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0209,
+    "green_marketcap_pnt": 0
+  }
+}

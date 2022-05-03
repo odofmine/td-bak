@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ICP",
+      "pnl": 0.0985,
+      "pnl_value": 30.8266,
+      "weight": 0.0089,
+      "rank": 36,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0868,
+      "pnl_value": 33.5889,
+      "weight": 0.011,
+      "rank": 21,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 21,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICP",
+      "rank": 36,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 35234.5881,
+    "leverage": 0.0199,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

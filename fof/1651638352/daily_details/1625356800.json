@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.1583,
+      "pnl_value": 18.0724,
+      "weight": 0.0089,
+      "rank": 72,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0657,
+      "pnl_value": -9.275,
+      "weight": 0.011,
+      "rank": 50,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 50,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 12834.6609,
+    "leverage": 0.0199,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

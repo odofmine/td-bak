@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0655,
+      "pnl_value": 0.6042,
+      "weight": 0.087,
+      "rank": 3,
+      "atr": 0.0698,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0158,
+      "pnl_value": -0.1893,
+      "weight": 0.1129,
+      "rank": 4,
+      "atr": 0.0538,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PPT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0538,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0698,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0039,
+    "cum_pnl": 105.4224,
+    "leverage": 0.1999,
+    "atr": 0.0121,
+    "marketcap_pnt": 0.138,
+    "green_marketcap_pnt": 0
+  }
+}

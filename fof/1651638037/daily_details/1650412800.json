@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0516,
+      "pnl_value": 0.2665,
+      "weight": 0.0248,
+      "rank": 32,
+      "atr": 0.0645,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.045,
+      "pnl_value": 0.2127,
+      "weight": 0.0227,
+      "rank": 47,
+      "atr": 0.0702,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.0211,
+      "pnl_value": -0.0625,
+      "weight": 0.0142,
+      "rank": 90,
+      "atr": 0.1122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0948,
+      "pnl_value": -0.3573,
+      "weight": 0.0181,
+      "rank": 63,
+      "atr": 0.0881,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0645,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 47,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.0881,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 90,
+      "atr": 0.1122,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 207.3083,
+    "leverage": 0.0798,
+    "atr": 0.0064,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

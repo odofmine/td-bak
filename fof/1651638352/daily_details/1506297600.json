@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0555,
+      "pnl_value": 0.0157,
+      "weight": 0.0138,
+      "rank": 6,
+      "atr": 0.0979,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": 0.0521,
+      "pnl_value": 0.0122,
+      "weight": 0.0114,
+      "rank": 106,
+      "atr": 0.1184,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0363,
+      "pnl_value": 0.0076,
+      "weight": 0.0102,
+      "rank": 29,
+      "atr": 0.132,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0369,
+      "pnl_value": -0.0062,
+      "weight": 0.0082,
+      "rank": 87,
+      "atr": 0.164,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.29,
+      "pnl_value": -0.0362,
+      "weight": 0.0061,
+      "rank": 44,
+      "atr": 0.2192,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0979,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1184,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.132,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 87,
+      "atr": 0.164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.2192,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 19.4833,
+    "leverage": 0.0497,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0227,
+    "green_marketcap_pnt": 0
+  }
+}

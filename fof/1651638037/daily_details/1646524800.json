@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0325,
+      "pnl_value": 0.0572,
+      "weight": 0.0089,
+      "rank": 66,
+      "atr": 0.0971,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0584,
+      "pnl_value": -0.0994,
+      "weight": 0.0086,
+      "rank": 63,
+      "atr": 0.1004,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0774,
+      "pnl_value": -0.1363,
+      "weight": 0.0089,
+      "rank": 62,
+      "atr": 0.0976,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANC",
+      "pnl": -0.302,
+      "pnl_value": -0.7948,
+      "weight": 0.0133,
+      "rank": 81,
+      "atr": 0.0651,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 81,
+      "atr": 0.0651,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0971,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 62,
+      "atr": 0.0976,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 63,
+      "atr": 0.1004,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0049,
+    "cum_pnl": 195.8846,
+    "leverage": 0.0397,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

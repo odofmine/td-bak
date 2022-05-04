@@ -1,0 +1,222 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.1264,
+      "pnl_value": 0.0136,
+      "weight": 0.1048,
+      "rank": 69,
+      "atr": 0.0536,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0906,
+      "pnl_value": 0.0091,
+      "weight": 0.0979,
+      "rank": 8,
+      "atr": 0.0574,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0635,
+      "pnl_value": 0.0077,
+      "weight": 0.1188,
+      "rank": 2,
+      "atr": 0.0473,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0538,
+      "pnl_value": 0.0055,
+      "weight": 0.0996,
+      "rank": 41,
+      "atr": 0.0564,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0461,
+      "pnl_value": 0.005,
+      "weight": 0.1048,
+      "rank": 12,
+      "atr": 0.0536,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0323,
+      "pnl_value": 0.003,
+      "weight": 0.0906,
+      "rank": 4,
+      "atr": 0.062,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.0081,
+      "pnl_value": 0.0008,
+      "weight": 0.0932,
+      "rank": 30,
+      "atr": 0.0603,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0048,
+      "pnl_value": 0.0004,
+      "weight": 0.0883,
+      "rank": 14,
+      "atr": 0.0636,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0036,
+      "pnl_value": 0.0004,
+      "weight": 0.0946,
+      "rank": 108,
+      "atr": 0.0594,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.0329,
+      "pnl_value": -0.0036,
+      "weight": 0.107,
+      "rank": 23,
+      "atr": 0.0525,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BEAM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0473,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 23,
+      "atr": 0.0525,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 12,
+      "atr": 0.0536,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0536,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 41,
+      "atr": 0.0564,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 8,
+      "atr": 0.0574,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 108,
+      "atr": 0.0594,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 30,
+      "atr": 0.0603,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 14,
+      "atr": 0.0636,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 49,
+      "atr": 0.0636,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0671,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 85,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BEAM",
+      "rank": 138,
+      "atr": 0.0769,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0408,
+    "cum_pnl": 0.0687,
+    "leverage": 0.9996,
+    "atr": 0.0562,
+    "marketcap_pnt": 0.1332,
+    "green_marketcap_pnt": 0
+  }
+}

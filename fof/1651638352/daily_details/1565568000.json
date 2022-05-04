@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ZB",
+      "pnl": 0.0782,
+      "pnl_value": 0.1853,
+      "weight": 0.0092,
+      "rank": 95,
+      "atr": 0.0688,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.002,
+      "pnl_value": -0.0051,
+      "weight": 0.01,
+      "rank": 52,
+      "atr": 0.0633,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0027,
+      "pnl_value": -0.0076,
+      "weight": 0.0107,
+      "rank": 37,
+      "atr": 0.0588,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 37,
+      "atr": 0.0588,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 52,
+      "atr": 0.0633,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZB",
+      "rank": 95,
+      "atr": 0.0688,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 256.6472,
+    "leverage": 0.0299,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

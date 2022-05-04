@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ARK",
+      "pnl": -0.0008,
+      "pnl_value": -0.0006,
+      "weight": 0.0289,
+      "rank": 22,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": -0.1876,
+      "pnl_value": -0.0761,
+      "weight": 0.0166,
+      "rank": 56,
+      "atr": 0.1789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEL",
+      "pnl": -0.2116,
+      "pnl_value": -0.0739,
+      "weight": 0.0143,
+      "rank": 87,
+      "atr": 0.2076,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 56,
+      "atr": 0.1789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEL",
+      "rank": 87,
+      "atr": 0.2076,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 23.2862,
+    "leverage": 0.0598,
+    "atr": 0.0089,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

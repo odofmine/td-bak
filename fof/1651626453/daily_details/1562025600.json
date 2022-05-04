@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.319,
+      "pnl_value": 11.8231,
+      "weight": 0.108,
+      "rank": 109,
+      "atr": 0.0802,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": 0.1027,
+      "pnl_value": 3.275,
+      "weight": 0.0929,
+      "rank": 35,
+      "atr": 0.0933,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.01,
+      "pnl_value": 0.3264,
+      "weight": 0.0951,
+      "rank": 16,
+      "atr": 0.0911,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0017,
+      "pnl_value": -0.077,
+      "weight": 0.1315,
+      "rank": 42,
+      "atr": 0.0659,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0227,
+      "pnl_value": -0.6196,
+      "weight": 0.0794,
+      "rank": 91,
+      "atr": 0.1091,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0538,
+      "pnl_value": -1.7168,
+      "weight": 0.0929,
+      "rank": 36,
+      "atr": 0.0933,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EGT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ELA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 42,
+      "atr": 0.0659,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0911,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0933,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 36,
+      "atr": 0.0933,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.1091,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0379,
+    "cum_pnl": 355.217,
+    "leverage": 0.5998,
+    "atr": 0.052,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

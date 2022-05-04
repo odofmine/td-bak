@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0866,
+      "pnl_value": 0.2796,
+      "weight": 0.0098,
+      "rank": 15,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0142,
+      "pnl_value": -0.0474,
+      "weight": 0.0101,
+      "rank": 46,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 46,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 328.8374,
+    "leverage": 0.0199,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

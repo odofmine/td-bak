@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0877,
+      "pnl_value": 0.1571,
+      "weight": 0.0098,
+      "rank": 120,
+      "atr": 0.0904,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0074,
+      "pnl_value": 0.01,
+      "weight": 0.0074,
+      "rank": 75,
+      "atr": 0.1193,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0035,
+      "pnl_value": 0.008,
+      "weight": 0.0124,
+      "rank": 6,
+      "atr": 0.0715,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.009,
+      "pnl_value": -0.0155,
+      "weight": 0.0094,
+      "rank": 68,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0101,
+      "pnl_value": -0.0198,
+      "weight": 0.0107,
+      "rank": 76,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0715,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0904,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 68,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 75,
+      "atr": 0.1193,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 181.8611,
+    "leverage": 0.0497,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.024,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MGO",
+      "pnl": -0.0098,
+      "pnl_value": -0.0126,
+      "weight": 0.0093,
+      "rank": 73,
+      "atr": 0.1232,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.091,
+      "pnl_value": -0.1325,
+      "weight": 0.0106,
+      "rank": 51,
+      "atr": 0.1085,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FCT",
+      "rank": 51,
+      "atr": 0.1085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MGO",
+      "rank": 73,
+      "atr": 0.1232,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 136.1674,
+    "leverage": 0.0199,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

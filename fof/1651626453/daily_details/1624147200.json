@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.0063,
+      "pnl_value": 1.1547,
+      "weight": 0.0106,
+      "rank": 98,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XDC",
+      "pnl": 0.0055,
+      "pnl_value": 0.8856,
+      "weight": 0.0093,
+      "rank": 101,
+      "atr": 0.1197,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 98,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 101,
+      "atr": 0.1197,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 17276.4246,
+    "leverage": 0.0199,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

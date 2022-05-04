@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0668,
+      "pnl_value": 15.1953,
+      "weight": 0.0132,
+      "rank": 55,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0482,
+      "pnl_value": 5.5639,
+      "weight": 0.0067,
+      "rank": 109,
+      "atr": 0.1561,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 55,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 109,
+      "atr": 0.1561,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 17264.1021,
+    "leverage": 0.0199,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

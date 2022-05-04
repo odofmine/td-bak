@@ -1,0 +1,229 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0627,
+      "pnl_value": 0.0134,
+      "weight": 0.1034,
+      "rank": 4,
+      "atr": 0.0415,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0623,
+      "pnl_value": 0.0113,
+      "weight": 0.0881,
+      "rank": 27,
+      "atr": 0.0487,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0343,
+      "pnl_value": 0.008,
+      "weight": 0.1121,
+      "rank": 2,
+      "atr": 0.0383,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0304,
+      "pnl_value": 0.0064,
+      "weight": 0.102,
+      "rank": 5,
+      "atr": 0.0421,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0283,
+      "pnl_value": 0.0071,
+      "weight": 0.1206,
+      "rank": 45,
+      "atr": 0.0356,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0266,
+      "pnl_value": 0.0053,
+      "weight": 0.0958,
+      "rank": 16,
+      "atr": 0.0448,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0247,
+      "pnl_value": 0.005,
+      "weight": 0.0982,
+      "rank": 8,
+      "atr": 0.0437,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0152,
+      "pnl_value": 0.0031,
+      "weight": 0.0991,
+      "rank": 12,
+      "atr": 0.0433,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0071,
+      "pnl_value": 0.0014,
+      "weight": 0.0937,
+      "rank": 23,
+      "atr": 0.0458,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.004,
+      "pnl_value": -0.0007,
+      "weight": 0.0864,
+      "rank": 24,
+      "atr": 0.0497,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 45,
+      "atr": 0.0356,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0383,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0415,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0421,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 12,
+      "atr": 0.0433,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0437,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 16,
+      "atr": 0.0448,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 23,
+      "atr": 0.0458,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0487,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 24,
+      "atr": 0.0497,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 128,
+      "atr": 0.0555,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 150,
+      "atr": 0.0617,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0629,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 183,
+      "atr": 0.0697,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 132,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0291,
+    "cum_pnl": 1.1284,
+    "leverage": 0.9994,
+    "atr": 0.0429,
+    "marketcap_pnt": 0.1931,
+    "green_marketcap_pnt": 0
+  }
+}

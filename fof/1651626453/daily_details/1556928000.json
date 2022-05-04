@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0747,
+      "pnl_value": 0.282,
+      "weight": 0.0193,
+      "rank": 97,
+      "atr": 0.0566,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0005,
+      "pnl_value": 0.0022,
+      "weight": 0.0206,
+      "rank": 28,
+      "atr": 0.0533,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.0533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 97,
+      "atr": 0.0566,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 194.9599,
+    "leverage": 0.0399,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

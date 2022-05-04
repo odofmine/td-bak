@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0043,
+      "pnl_value": 0.0213,
+      "weight": 0.0141,
+      "rank": 61,
+      "atr": 0.0962,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0242,
+      "pnl_value": -0.1898,
+      "weight": 0.0222,
+      "rank": 43,
+      "atr": 0.0613,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0561,
+      "pnl_value": -0.4662,
+      "weight": 0.0235,
+      "rank": 18,
+      "atr": 0.0578,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0578,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 43,
+      "atr": 0.0613,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 61,
+      "atr": 0.0962,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 351.6798,
+    "leverage": 0.0598,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0043,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "SLV",
+      "pnl": 0.0325,
+      "pnl_value": 0.0746,
+      "weight": 0.0069,
+      "rank": 89,
+      "atr": 0.1077,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0056,
+      "pnl_value": -0.0214,
+      "weight": 0.0115,
+      "rank": 7,
+      "atr": 0.065,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.0075,
+      "pnl_value": -0.032,
+      "weight": 0.0128,
+      "rank": 42,
+      "atr": 0.0585,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0125,
+      "pnl_value": -0.0433,
+      "weight": 0.0104,
+      "rank": 43,
+      "atr": 0.0718,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0129,
+      "pnl_value": -0.0342,
+      "weight": 0.008,
+      "rank": 20,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZB",
+      "rank": 42,
+      "atr": 0.0585,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.065,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 43,
+      "atr": 0.0718,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SLV",
+      "rank": 89,
+      "atr": 0.1077,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 331.144,
+    "leverage": 0.0496,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0181,
+    "green_marketcap_pnt": 0
+  }
+}

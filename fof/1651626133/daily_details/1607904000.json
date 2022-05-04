@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.1376,
+      "pnl_value": 0.0097,
+      "weight": 0.0188,
+      "rank": 64,
+      "atr": 0.0754,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0034,
+      "pnl_value": 0.0003,
+      "weight": 0.0243,
+      "rank": 14,
+      "atr": 0.0585,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.02,
+      "pnl_value": -0.0013,
+      "weight": 0.0168,
+      "rank": 68,
+      "atr": 0.0845,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0585,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0754,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0845,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 2.7446,
+    "leverage": 0.0599,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

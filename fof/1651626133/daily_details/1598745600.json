@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl": 0.0618,
+      "pnl_value": 0.005,
+      "weight": 0.0274,
+      "rank": 57,
+      "atr": 0.0421,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0226,
+      "pnl_value": -0.0012,
+      "weight": 0.0178,
+      "rank": 19,
+      "atr": 0.0649,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0543,
+      "pnl_value": -0.0023,
+      "weight": 0.0146,
+      "rank": 82,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0421,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0649,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 1.9504,
+    "leverage": 0.0598,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

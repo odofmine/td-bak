@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0719,
+      "pnl_value": 0.137,
+      "weight": 0.0096,
+      "rank": 66,
+      "atr": 0.0878,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0182,
+      "pnl_value": -0.0371,
+      "weight": 0.0103,
+      "rank": 8,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0878,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 197.528,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0169,
+    "green_marketcap_pnt": 0
+  }
+}

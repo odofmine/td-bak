@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0221,
+      "pnl_value": 0.0514,
+      "weight": 0.0159,
+      "rank": 97,
+      "atr": 0.0548,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0038,
+      "pnl_value": 0.0091,
+      "weight": 0.0164,
+      "rank": 28,
+      "atr": 0.0532,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0079,
+      "pnl_value": -0.0325,
+      "weight": 0.0283,
+      "rank": 1,
+      "atr": 0.0308,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0136,
+      "pnl_value": -0.0382,
+      "weight": 0.0192,
+      "rank": 13,
+      "atr": 0.0453,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0308,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 13,
+      "atr": 0.0453,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.0532,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 97,
+      "atr": 0.0548,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 145.1805,
+    "leverage": 0.0798,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.5661,
+    "green_marketcap_pnt": 0
+  }
+}

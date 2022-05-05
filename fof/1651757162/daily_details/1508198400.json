@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.28,
+      "pnl_value": 0.5266,
+      "weight": 0.0893,
+      "rank": 21,
+      "atr": 0.0988,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0255,
+      "pnl_value": -0.0493,
+      "weight": 0.0919,
+      "rank": 25,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0278,
+      "pnl_value": -0.0415,
+      "weight": 0.071,
+      "rank": 26,
+      "atr": 0.1242,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0279,
+      "pnl_value": -0.1082,
+      "weight": 0.1842,
+      "rank": 1,
+      "atr": 0.0479,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0334,
+      "pnl_value": -0.0527,
+      "weight": 0.0749,
+      "rank": 82,
+      "atr": 0.1178,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0521,
+      "pnl_value": -0.0871,
+      "weight": 0.0794,
+      "rank": 30,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0541,
+      "pnl_value": -0.1568,
+      "weight": 0.1376,
+      "rank": 2,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATB",
+      "pnl": -0.0607,
+      "pnl_value": -0.0782,
+      "weight": 0.0611,
+      "rank": 95,
+      "atr": 0.1443,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.086,
+      "pnl_value": -0.1994,
+      "weight": 0.1101,
+      "rank": 5,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0479,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 25,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.0988,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 30,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.1178,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.1242,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATB",
+      "rank": 95,
+      "atr": 0.1443,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0117,
+    "cum_pnl": 19.8136,
+    "leverage": 0.8995,
+    "atr": 0.0794,
+    "marketcap_pnt": 0.7607,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MXM",
+      "pnl": 0.083,
+      "pnl_value": 0.1803,
+      "weight": 0.0084,
+      "rank": 113,
+      "atr": 0.087,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0038,
+      "pnl_value": 0.0105,
+      "weight": 0.0108,
+      "rank": 17,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.0283,
+      "pnl_value": -0.0776,
+      "weight": 0.0106,
+      "rank": 54,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 17,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 54,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MXM",
+      "rank": 113,
+      "atr": 0.087,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 257.5891,
+    "leverage": 0.0298,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

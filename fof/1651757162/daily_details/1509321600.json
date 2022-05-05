@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.2823,
+      "pnl_value": 0.143,
+      "weight": 0.0246,
+      "rank": 34,
+      "atr": 0.1142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0881,
+      "pnl_value": 0.0367,
+      "weight": 0.0202,
+      "rank": 27,
+      "atr": 0.1387,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": 0.0771,
+      "pnl_value": 0.0298,
+      "weight": 0.0188,
+      "rank": 85,
+      "atr": 0.1492,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0244,
+      "pnl_value": 0.0081,
+      "weight": 0.0161,
+      "rank": 63,
+      "atr": 0.1736,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0236,
+      "pnl_value": 0.0102,
+      "weight": 0.0209,
+      "rank": 49,
+      "atr": 0.1344,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0154,
+      "pnl_value": -0.0081,
+      "weight": 0.0256,
+      "rank": 4,
+      "atr": 0.1096,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.0475,
+      "pnl_value": -0.0131,
+      "weight": 0.0134,
+      "rank": 36,
+      "atr": 0.2084,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.1096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.1142,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 49,
+      "atr": 0.1344,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1387,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 85,
+      "atr": 0.1492,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 63,
+      "atr": 0.1736,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 36,
+      "atr": 0.2084,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.01,
+    "cum_pnl": 19.7931,
+    "leverage": 0.1396,
+    "atr": 0.0196,
+    "marketcap_pnt": 0.0474,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "DOT",
+      "pnl": 0.0631,
+      "pnl_value": 148.2239,
+      "weight": 0.0953,
+      "rank": 8,
+      "atr": 0.083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.003,
+      "pnl_value": 9.7852,
+      "weight": 0.1312,
+      "rank": 5,
+      "atr": 0.0603,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TEL",
+      "pnl": -0.0297,
+      "pnl_value": -62.4761,
+      "weight": 0.0852,
+      "rank": 102,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0651,
+      "pnl_value": -162.6436,
+      "weight": 0.1014,
+      "rank": 52,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.094,
+      "pnl_value": -200.6259,
+      "weight": 0.0866,
+      "rank": 57,
+      "atr": 0.0913,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0603,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 52,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 57,
+      "atr": 0.0913,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TEL",
+      "rank": 102,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0109,
+    "cum_pnl": 24386.7347,
+    "leverage": 0.4997,
+    "atr": 0.0395,
+    "marketcap_pnt": 0.0482,
+    "green_marketcap_pnt": 0
+  }
+}

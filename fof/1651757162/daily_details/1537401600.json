@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "PAY",
+      "pnl": 0.041,
+      "pnl_value": 0.0472,
+      "weight": 0.01,
+      "rank": 82,
+      "atr": 0.105,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 114.1666,
+    "leverage": 0.01,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

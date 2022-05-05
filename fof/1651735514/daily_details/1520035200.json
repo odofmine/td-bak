@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0382,
+      "pnl_value": 0.0396,
+      "weight": 0.0114,
+      "rank": 1,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0206,
+      "pnl_value": 0.0228,
+      "weight": 0.0122,
+      "rank": 12,
+      "atr": 0.0941,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CNX",
+      "pnl": 0.0081,
+      "pnl_value": 0.0063,
+      "weight": 0.0085,
+      "rank": 82,
+      "atr": 0.1355,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0037,
+      "pnl_value": -0.0036,
+      "weight": 0.0107,
+      "rank": 63,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0801,
+      "pnl_value": -0.0509,
+      "weight": 0.007,
+      "rank": 22,
+      "atr": 0.1638,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 12,
+      "atr": 0.0941,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 63,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CNX",
+      "rank": 82,
+      "atr": 0.1355,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 22,
+      "atr": 0.1638,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 89.7544,
+    "leverage": 0.0498,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.4021,
+    "green_marketcap_pnt": 0
+  }
+}

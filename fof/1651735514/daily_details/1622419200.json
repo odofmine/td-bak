@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "HNT",
+      "pnl": 0.0286,
+      "pnl_value": 4.6557,
+      "weight": 0.0128,
+      "rank": 66,
+      "atr": 0.1803,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0072,
+      "pnl_value": 2.4991,
+      "weight": 0.0271,
+      "rank": 55,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 55,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 66,
+      "atr": 0.1803,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 12728.5149,
+    "leverage": 0.0399,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.2795,
+      "pnl_value": 30.9691,
+      "weight": 0.0087,
+      "rank": 72,
+      "atr": 0.102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAX",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0112,
+      "rank": 70,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAX",
+      "rank": 70,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0024,
+    "cum_pnl": 12766.1986,
+    "leverage": 0.0199,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

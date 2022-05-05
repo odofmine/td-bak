@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.04,
+      "pnl_value": 0.0975,
+      "weight": 0.0206,
+      "rank": 39,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0198,
+      "pnl_value": 0.0445,
+      "weight": 0.019,
+      "rank": 25,
+      "atr": 0.0845,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0139,
+      "pnl_value": -0.0333,
+      "weight": 0.0202,
+      "rank": 21,
+      "atr": 0.0794,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 21,
+      "atr": 0.0794,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0845,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 117.4472,
+    "leverage": 0.0598,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.008,
+    "green_marketcap_pnt": 0
+  }
+}

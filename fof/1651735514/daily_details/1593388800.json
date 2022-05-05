@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0466,
+      "pnl_value": 0.3493,
+      "weight": 0.0167,
+      "rank": 82,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0068,
+      "pnl_value": -0.06,
+      "weight": 0.0196,
+      "rank": 33,
+      "atr": 0.0706,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": -0.0079,
+      "pnl_value": -0.0955,
+      "weight": 0.0268,
+      "rank": 84,
+      "atr": 0.0518,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0348,
+      "pnl_value": -0.2594,
+      "weight": 0.0166,
+      "rank": 78,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DX",
+      "rank": 84,
+      "atr": 0.0518,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 33,
+      "atr": 0.0706,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 82,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 78,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 447.5767,
+    "leverage": 0.0797,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

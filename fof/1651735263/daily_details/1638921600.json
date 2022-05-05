@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0324,
+      "pnl_value": 0.1295,
+      "weight": 0.02,
+      "rank": 15,
+      "atr": 0.0952,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.0952,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 198.9698,
+    "leverage": 0.02,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

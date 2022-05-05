@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0185,
+      "pnl_value": 0.0508,
+      "weight": 0.0101,
+      "rank": 36,
+      "atr": 0.0711,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MOF",
+      "pnl": 0.0097,
+      "pnl_value": 0.0288,
+      "weight": 0.0109,
+      "rank": 83,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": -0.0246,
+      "pnl_value": -0.043,
+      "weight": 0.0064,
+      "rank": 27,
+      "atr": 0.1112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0618,
+      "pnl_value": -0.2089,
+      "weight": 0.0124,
+      "rank": 79,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 79,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 83,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 36,
+      "atr": 0.0711,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 27,
+      "atr": 0.1112,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 271.3845,
+    "leverage": 0.0398,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

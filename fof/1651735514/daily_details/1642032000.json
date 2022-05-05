@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.1173,
+      "pnl_value": 59.6391,
+      "weight": 0.0188,
+      "rank": 24,
+      "atr": 0.0871,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KLAY",
+      "pnl": -0.0091,
+      "pnl_value": -5.8343,
+      "weight": 0.0236,
+      "rank": 45,
+      "atr": 0.0693,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0383,
+      "pnl_value": -18.0308,
+      "weight": 0.0174,
+      "rank": 82,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KLAY",
+      "rank": 45,
+      "atr": 0.0693,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0871,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 27076.2513,
+    "leverage": 0.0598,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0066,
+    "green_marketcap_pnt": 0
+  }
+}

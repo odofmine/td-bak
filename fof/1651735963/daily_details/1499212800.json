@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0741,
+      "pnl_value": 0.0209,
+      "weight": 0.0187,
+      "rank": 40,
+      "atr": 0.1173,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0647,
+      "pnl_value": 0.0228,
+      "weight": 0.0233,
+      "rank": 19,
+      "atr": 0.0941,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0292,
+      "pnl_value": -0.012,
+      "weight": 0.0272,
+      "rank": 4,
+      "atr": 0.0805,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.0522,
+      "pnl_value": -0.0069,
+      "weight": 0.0087,
+      "rank": 44,
+      "atr": 0.252,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": -0.1175,
+      "pnl_value": -0.0389,
+      "weight": 0.0219,
+      "rank": 61,
+      "atr": 0.1001,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SLS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0805,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 19,
+      "atr": 0.0941,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 61,
+      "atr": 0.1001,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1173,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.252,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 14.086,
+    "leverage": 0.0998,
+    "atr": 0.011,
+    "marketcap_pnt": 0.0281,
+    "green_marketcap_pnt": 0
+  }
+}

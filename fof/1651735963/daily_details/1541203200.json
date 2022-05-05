@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "PPT",
+      "pnl": 0.0117,
+      "pnl_value": 0.0176,
+      "weight": 0.0142,
+      "rank": 57,
+      "atr": 0.1226,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0065,
+      "pnl_value": 0.0148,
+      "weight": 0.0212,
+      "rank": 60,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0205,
+      "pnl_value": -0.0531,
+      "weight": 0.0244,
+      "rank": 98,
+      "atr": 0.0713,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 98,
+      "atr": 0.0713,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPT",
+      "rank": 57,
+      "atr": 0.1226,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 105.3435,
+    "leverage": 0.0598,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

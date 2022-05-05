@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0983,
+      "pnl_value": 1.4099,
+      "weight": 0.0187,
+      "rank": 74,
+      "atr": 0.0871,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0422,
+      "pnl_value": 0.6853,
+      "weight": 0.0212,
+      "rank": 38,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0871,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 767.8119,
+    "leverage": 0.0399,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.2063,
+      "pnl_value": 0.4334,
+      "weight": 0.0077,
+      "rank": 82,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0191,
+      "pnl_value": -0.0552,
+      "weight": 0.0106,
+      "rank": 53,
+      "atr": 0.0585,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0288,
+      "pnl_value": -0.0911,
+      "weight": 0.0116,
+      "rank": 21,
+      "atr": 0.0538,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.0538,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 53,
+      "atr": 0.0585,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 272.1615,
+    "leverage": 0.0299,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

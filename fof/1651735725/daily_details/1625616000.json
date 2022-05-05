@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.0453,
+      "pnl_value": 0.0346,
+      "weight": 0.01,
+      "rank": 124,
+      "atr": 0.1329,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0003,
+      "pnl_value": 0.0002,
+      "weight": 0.0099,
+      "rank": 57,
+      "atr": 0.1344,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1329,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1344,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 75.4116,
+    "leverage": 0.0199,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

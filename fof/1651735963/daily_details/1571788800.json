@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "PZM",
+      "pnl": 0.0698,
+      "pnl_value": 0.1373,
+      "weight": 0.0077,
+      "rank": 42,
+      "atr": 0.088,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAI",
+      "pnl": 0.0069,
+      "pnl_value": 0.0218,
+      "weight": 0.0123,
+      "rank": 66,
+      "atr": 0.0553,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.078,
+      "pnl_value": -0.1973,
+      "weight": 0.0099,
+      "rank": 9,
+      "atr": 0.0687,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SAI",
+      "rank": 66,
+      "atr": 0.0553,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0687,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 42,
+      "atr": 0.088,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 254.555,
+    "leverage": 0.0299,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0087,
+    "green_marketcap_pnt": 0
+  }
+}

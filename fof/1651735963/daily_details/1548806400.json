@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": 0.0172,
+      "pnl_value": 0.0292,
+      "weight": 0.0169,
+      "rank": 41,
+      "atr": 0.1307,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0197,
+      "pnl_value": -0.0426,
+      "weight": 0.0215,
+      "rank": 22,
+      "atr": 0.1032,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0289,
+      "pnl_value": -0.0626,
+      "weight": 0.0215,
+      "rank": 27,
+      "atr": 0.1031,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 27,
+      "atr": 0.1031,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 22,
+      "atr": 0.1032,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 41,
+      "atr": 0.1307,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 99.5914,
+    "leverage": 0.0599,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

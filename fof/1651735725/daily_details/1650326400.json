@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "AUDIO",
+      "pnl": -0.0336,
+      "pnl_value": -0.0493,
+      "weight": 0.0071,
+      "rank": 90,
+      "atr": 0.1091,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0466,
+      "pnl_value": -0.1233,
+      "weight": 0.0128,
+      "rank": 32,
+      "atr": 0.0612,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0612,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 90,
+      "atr": 0.1091,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 205.7518,
+    "leverage": 0.0199,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

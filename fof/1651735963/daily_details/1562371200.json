@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.0929,
+      "pnl_value": 0.4922,
+      "weight": 0.0201,
+      "rank": 91,
+      "atr": 0.0982,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0226,
+      "pnl_value": -0.1234,
+      "weight": 0.0207,
+      "rank": 80,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0773,
+      "pnl_value": -0.3872,
+      "weight": 0.019,
+      "rank": 109,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELF",
+      "rank": 80,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 262.5875,
+    "leverage": 0.0598,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

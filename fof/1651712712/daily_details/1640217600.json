@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.2664,
+      "pnl_value": 64.5461,
+      "weight": 0.0088,
+      "rank": 31,
+      "atr": 0.1127,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BORA",
+      "pnl": 0.1172,
+      "pnl_value": 27.4438,
+      "weight": 0.0085,
+      "rank": 95,
+      "atr": 0.1174,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.1033,
+      "pnl_value": 34.6887,
+      "weight": 0.0122,
+      "rank": 9,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0732,
+      "pnl_value": 21.9626,
+      "weight": 0.0109,
+      "rank": 14,
+      "atr": 0.0916,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0411,
+      "pnl_value": 10.8752,
+      "weight": 0.0096,
+      "rank": 10,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0279,
+      "pnl_value": 6.8428,
+      "weight": 0.0089,
+      "rank": 68,
+      "atr": 0.1123,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0027,
+      "pnl_value": -0.8045,
+      "weight": 0.0108,
+      "rank": 83,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0916,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.1123,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BORA",
+      "rank": 95,
+      "atr": 0.1174,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 27701.7222,
+    "leverage": 0.0697,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0369,
+    "green_marketcap_pnt": 0
+  }
+}

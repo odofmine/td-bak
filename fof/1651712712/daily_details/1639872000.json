@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0582,
+      "pnl_value": 8.327,
+      "weight": 0.0052,
+      "rank": 74,
+      "atr": 0.1915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.01,
+      "pnl_value": 4.085,
+      "weight": 0.0149,
+      "rank": 75,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0722,
+      "pnl_value": -19.4706,
+      "weight": 0.0098,
+      "rank": 12,
+      "atr": 0.1031,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 75,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 12,
+      "atr": 0.1031,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 74,
+      "atr": 0.1915,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 27517.4369,
+    "leverage": 0.0299,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0108,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0042,
+      "pnl_value": -0.0107,
+      "weight": 0.0241,
+      "rank": 98,
+      "atr": 0.0722,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0237,
+      "pnl_value": -0.0542,
+      "weight": 0.0215,
+      "rank": 60,
+      "atr": 0.0812,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPT",
+      "pnl": -0.0259,
+      "pnl_value": -0.0391,
+      "weight": 0.0142,
+      "rank": 57,
+      "atr": 0.1223,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 98,
+      "atr": 0.0722,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.0812,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPT",
+      "rank": 57,
+      "atr": 0.1223,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 105.0992,
+    "leverage": 0.0598,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

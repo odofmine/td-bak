@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.1134,
+      "pnl_value": 0.1425,
+      "weight": 0.011,
+      "rank": 40,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0009,
+      "pnl_value": 0.001,
+      "weight": 0.0091,
+      "rank": 93,
+      "atr": 0.1158,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0282,
+      "pnl_value": -0.0351,
+      "weight": 0.0109,
+      "rank": 43,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0559,
+      "pnl_value": -0.0562,
+      "weight": 0.0088,
+      "rank": 94,
+      "atr": 0.1192,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 43,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 93,
+      "atr": 0.1158,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1192,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 113.3574,
+    "leverage": 0.0398,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

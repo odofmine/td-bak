@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.0414,
+      "pnl_value": 0.0373,
+      "weight": 0.0118,
+      "rank": 64,
+      "atr": 0.0879,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": 0.0334,
+      "pnl_value": 0.0235,
+      "weight": 0.0092,
+      "rank": 112,
+      "atr": 0.1134,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0035,
+      "pnl_value": -0.0026,
+      "weight": 0.0099,
+      "rank": 137,
+      "atr": 0.1053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0273,
+      "pnl_value": -0.0186,
+      "weight": 0.0089,
+      "rank": 31,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 64,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 137,
+      "atr": 0.1053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 112,
+      "atr": 0.1134,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 31,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 75.3628,
+    "leverage": 0.0398,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

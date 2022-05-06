@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.1047,
+      "pnl_value": 0.5353,
+      "weight": 0.0149,
+      "rank": 111,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.004,
+      "pnl_value": -0.0269,
+      "weight": 0.0194,
+      "rank": 35,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": -0.0041,
+      "pnl_value": -0.0341,
+      "weight": 0.0245,
+      "rank": 95,
+      "atr": 0.0529,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0578,
+      "pnl_value": -0.4696,
+      "weight": 0.0237,
+      "rank": 13,
+      "atr": 0.0548,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.07,
+      "pnl_value": -0.6102,
+      "weight": 0.0254,
+      "rank": 32,
+      "atr": 0.0511,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0709,
+      "pnl_value": -0.3529,
+      "weight": 0.0145,
+      "rank": 97,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1136,
+      "pnl_value": -0.7838,
+      "weight": 0.0201,
+      "rank": 42,
+      "atr": 0.0644,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ONT",
+      "rank": 32,
+      "atr": 0.0511,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 95,
+      "atr": 0.0529,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 13,
+      "atr": 0.0548,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.0644,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 35,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 111,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 97,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0051,
+    "cum_pnl": 340.3656,
+    "leverage": 0.1425,
+    "atr": 0.0091,
+    "marketcap_pnt": 0.0102,
+    "green_marketcap_pnt": 0
+  }
+}

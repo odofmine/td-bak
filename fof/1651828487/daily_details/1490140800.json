@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.215,
+      "pnl_value": 0.007,
+      "weight": 0.0298,
+      "rank": 24,
+      "atr": 0.0589,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0221,
+      "pnl_value": 0.0005,
+      "weight": 0.0202,
+      "rank": 8,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.0127,
+      "pnl_value": -0.0003,
+      "weight": 0.0204,
+      "rank": 29,
+      "atr": 0.086,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0416,
+      "pnl_value": -0.0012,
+      "weight": 0.0265,
+      "rank": 7,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BELA",
+      "pnl": -0.1258,
+      "pnl_value": -0.0019,
+      "weight": 0.0139,
+      "rank": 90,
+      "atr": 0.1259,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PIVX",
+      "rank": 24,
+      "atr": 0.0589,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 29,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 90,
+      "atr": 0.1259,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 0.0957,
+    "leverage": 0.1108,
+    "atr": 0.0088,
+    "marketcap_pnt": 0.0147,
+    "green_marketcap_pnt": 0
+  }
+}

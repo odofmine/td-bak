@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "ADA",
+      "pnl": 0.0508,
+      "pnl_value": 0.0728,
+      "weight": 0.0127,
+      "rank": 10,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.001,
+      "pnl_value": -0.0016,
+      "weight": 0.0139,
+      "rank": 44,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0327,
+      "pnl_value": -0.0491,
+      "weight": 0.0133,
+      "rank": 56,
+      "atr": 0.0649,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0701,
+      "pnl_value": -0.094,
+      "weight": 0.0119,
+      "rank": 33,
+      "atr": 0.0726,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTS",
+      "rank": 44,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 56,
+      "atr": 0.0649,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 33,
+      "atr": 0.0726,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 111.6521,
+    "leverage": 0.0518,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0149,
+    "green_marketcap_pnt": 0
+  }
+}

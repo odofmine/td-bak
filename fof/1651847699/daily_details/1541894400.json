@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0468,
+      "pnl_value": 0.0548,
+      "weight": 0.0121,
+      "rank": 6,
+      "atr": 0.0518,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0217,
+      "pnl_value": 0.0168,
+      "weight": 0.008,
+      "rank": 67,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0518,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 95.8907,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0227,
+    "green_marketcap_pnt": 0
+  }
+}

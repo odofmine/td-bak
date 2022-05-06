@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.0295,
+      "pnl_value": 9.0436,
+      "weight": 0.0105,
+      "rank": 8,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0264,
+      "pnl_value": 7.2283,
+      "weight": 0.0094,
+      "rank": 66,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0013,
+      "pnl_value": -0.4687,
+      "weight": 0.0124,
+      "rank": 26,
+      "atr": 0.066,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0398,
+      "pnl_value": -9.1755,
+      "weight": 0.0079,
+      "rank": 10,
+      "atr": 0.1035,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 26,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1035,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 29159.5048,
+    "leverage": 0.0402,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0312,
+    "green_marketcap_pnt": 0
+  }
+}

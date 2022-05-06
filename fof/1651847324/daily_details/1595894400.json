@@ -1,0 +1,231 @@
+{
+  "pnls": [
+    {
+      "name": "ADA",
+      "pnl": 0.0752,
+      "pnl_value": 0.009,
+      "weight": 0.0703,
+      "rank": 6,
+      "atr": 0.0617,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0519,
+      "pnl_value": 0.0089,
+      "weight": 0.1008,
+      "rank": 12,
+      "atr": 0.043,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0464,
+      "pnl_value": 0.0081,
+      "weight": 0.1023,
+      "rank": 8,
+      "atr": 0.0424,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0261,
+      "pnl_value": 0.0047,
+      "weight": 0.106,
+      "rank": 4,
+      "atr": 0.0409,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0213,
+      "pnl_value": 0.0036,
+      "weight": 0.1008,
+      "rank": 10,
+      "atr": 0.043,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0133,
+      "pnl_value": 0.0022,
+      "weight": 0.0966,
+      "rank": 23,
+      "atr": 0.0449,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.009,
+      "pnl_value": 0.0013,
+      "weight": 0.0827,
+      "rank": 22,
+      "atr": 0.0524,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0028,
+      "pnl_value": -0.0004,
+      "weight": 0.0913,
+      "rank": 27,
+      "atr": 0.0475,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0161,
+      "pnl_value": -0.0032,
+      "weight": 0.1169,
+      "rank": 2,
+      "atr": 0.0371,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0301,
+      "pnl_value": -0.0067,
+      "weight": 0.1318,
+      "rank": 45,
+      "atr": 0.0329,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 45,
+      "atr": 0.0329,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0371,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0409,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0424,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.043,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 12,
+      "atr": 0.043,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 23,
+      "atr": 0.0449,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0475,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 22,
+      "atr": 0.0524,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0617,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 165,
+      "atr": 0.0659,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0161,
+    "cum_pnl": 0.7256,
+    "leverage": 0.9995,
+    "atr": 0.0434,
+    "marketcap_pnt": 0.1959,
+    "green_marketcap_pnt": 0
+  }
+}

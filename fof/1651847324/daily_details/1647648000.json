@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.0287,
+      "pnl_value": 0.0448,
+      "weight": 0.0094,
+      "rank": 121,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEC",
+      "pnl": 0.0246,
+      "pnl_value": 0.0455,
+      "weight": 0.0111,
+      "rank": 65,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0113,
+      "pnl_value": 0.0203,
+      "weight": 0.0108,
+      "rank": 36,
+      "atr": 0.084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0001,
+      "pnl_value": 0.0002,
+      "weight": 0.0109,
+      "rank": 76,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GRT",
+      "pnl": -0.0002,
+      "pnl_value": -0.0003,
+      "weight": 0.0086,
+      "rank": 57,
+      "atr": 0.1053,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0054,
+      "pnl_value": -0.008,
+      "weight": 0.0089,
+      "rank": 22,
+      "atr": 0.1018,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.016,
+      "pnl_value": -0.0284,
+      "weight": 0.0107,
+      "rank": 120,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEC",
+      "rank": 65,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 36,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 121,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 22,
+      "atr": 0.1018,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRT",
+      "rank": 57,
+      "atr": 0.1053,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 165.4563,
+    "leverage": 0.0704,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0086,
+    "green_marketcap_pnt": 0
+  }
+}

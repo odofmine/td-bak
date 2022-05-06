@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.0708,
+      "pnl_value": 19.8313,
+      "weight": 0.0095,
+      "rank": 89,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0187,
+      "pnl_value": -5.0823,
+      "weight": 0.0092,
+      "rank": 27,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0396,
+      "pnl_value": -10.1536,
+      "weight": 0.0087,
+      "rank": 21,
+      "atr": 0.091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0429,
+      "pnl_value": -18.2075,
+      "weight": 0.0144,
+      "rank": 44,
+      "atr": 0.0553,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0732,
+      "pnl_value": -17.9085,
+      "weight": 0.0083,
+      "rank": 84,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0553,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 89,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 21,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 29448.8198,
+    "leverage": 0.0501,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0101,
+    "green_marketcap_pnt": 0
+  }
+}

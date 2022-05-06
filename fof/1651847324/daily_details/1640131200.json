@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0544,
+      "pnl_value": 0.0893,
+      "weight": 0.0097,
+      "rank": 14,
+      "atr": 0.0971,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0221,
+      "pnl_value": -0.0408,
+      "weight": 0.0109,
+      "rank": 9,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0532,
+      "pnl_value": -0.0854,
+      "weight": 0.0095,
+      "rank": 10,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0971,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 168.1725,
+    "leverage": 0.0301,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0327,
+    "green_marketcap_pnt": 0
+  }
+}

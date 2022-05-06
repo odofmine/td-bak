@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.1203,
+      "pnl_value": 0.0064,
+      "weight": 0.0326,
+      "rank": 198,
+      "atr": 0.0804,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0436,
+      "pnl_value": 0.0026,
+      "weight": 0.0359,
+      "rank": 122,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OGN",
+      "pnl": 0.0157,
+      "pnl_value": 0.0006,
+      "weight": 0.0251,
+      "rank": 194,
+      "atr": 0.1043,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": 0.0151,
+      "pnl_value": 0.0009,
+      "weight": 0.0347,
+      "rank": 112,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": 0.0019,
+      "pnl_value": 0.0001,
+      "weight": 0.0344,
+      "rank": 134,
+      "atr": 0.0763,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0153,
+      "pnl_value": -0.001,
+      "weight": 0.0387,
+      "rank": 171,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0444,
+      "pnl_value": -0.0023,
+      "weight": 0.0315,
+      "rank": 100,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ONE",
+      "rank": 171,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 122,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 112,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 134,
+      "atr": 0.0763,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 198,
+      "atr": 0.0804,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 100,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OGN",
+      "rank": 194,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 0.6397,
+    "leverage": 0.2329,
+    "atr": 0.0184,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ANKR",
+      "pnl": -0.0035,
+      "pnl_value": -0.0,
+      "weight": 0.0053,
+      "rank": 145,
+      "atr": 0.1162,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0066,
+      "pnl_value": -0.0002,
+      "weight": 0.0124,
+      "rank": 10,
+      "atr": 0.0498,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0153,
+      "pnl_value": -0.0005,
+      "weight": 0.0127,
+      "rank": 2,
+      "atr": 0.0488,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0171,
+      "pnl_value": -0.0005,
+      "weight": 0.0127,
+      "rank": 5,
+      "atr": 0.0487,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0435,
+      "pnl_value": -0.0008,
+      "weight": 0.0071,
+      "rank": 7,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0487,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0488,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 10,
+      "atr": 0.0498,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 7,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 145,
+      "atr": 0.1162,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 1.5179,
+    "leverage": 0.0502,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.1532,
+    "green_marketcap_pnt": 0
+  }
+}

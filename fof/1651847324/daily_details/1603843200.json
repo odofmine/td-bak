@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.037,
+      "pnl_value": -0.0118,
+      "weight": 0.1281,
+      "rank": 8,
+      "atr": 0.0519,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0675,
+      "pnl_value": -0.0121,
+      "weight": 0.0718,
+      "rank": 9,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0519,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0096,
+    "cum_pnl": 1.4699,
+    "leverage": 0.1999,
+    "atr": 0.0133,
+    "marketcap_pnt": 0.0193,
+    "green_marketcap_pnt": 0
+  }
+}

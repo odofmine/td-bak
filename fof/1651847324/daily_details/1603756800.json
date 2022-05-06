@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0194,
+      "pnl_value": 0.008,
+      "weight": 0.1664,
+      "rank": 8,
+      "atr": 0.0531,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0072,
+      "pnl_value": -0.0017,
+      "weight": 0.0952,
+      "rank": 9,
+      "atr": 0.0928,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRB",
+      "pnl": -0.0079,
+      "pnl_value": -0.0008,
+      "weight": 0.0382,
+      "rank": 155,
+      "atr": 0.2311,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0531,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0928,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRB",
+      "rank": 155,
+      "atr": 0.2311,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 1.4938,
+    "leverage": 0.2998,
+    "atr": 0.0265,
+    "marketcap_pnt": 0.0194,
+    "green_marketcap_pnt": 0
+  }
+}

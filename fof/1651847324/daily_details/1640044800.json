@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.0855,
+      "pnl_value": 0.133,
+      "weight": 0.0092,
+      "rank": 10,
+      "atr": 0.1062,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0634,
+      "pnl_value": 0.1167,
+      "weight": 0.0109,
+      "rank": 9,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1062,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 168.2095,
+    "leverage": 0.0201,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0255,
+    "green_marketcap_pnt": 0
+  }
+}

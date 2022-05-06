@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": 0.2206,
+      "pnl_value": 0.2671,
+      "weight": 0.0119,
+      "rank": 53,
+      "atr": 0.1366,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.2022,
+      "pnl_value": 0.4403,
+      "weight": 0.0214,
+      "rank": 50,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0069,
+      "pnl_value": 0.0216,
+      "weight": 0.031,
+      "rank": 13,
+      "atr": 0.0524,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0756,
+      "pnl_value": -0.1462,
+      "weight": 0.019,
+      "rank": 40,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.087,
+      "pnl_value": -0.146,
+      "weight": 0.0165,
+      "rank": 96,
+      "atr": 0.0981,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 13,
+      "atr": 0.0524,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 40,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 96,
+      "atr": 0.0981,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 53,
+      "atr": 0.1366,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 101.1754,
+    "leverage": 0.0998,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0099,
+    "green_marketcap_pnt": 0
+  }
+}

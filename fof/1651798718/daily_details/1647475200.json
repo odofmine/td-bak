@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0328,
+      "pnl_value": 8.2105,
+      "weight": 0.0093,
+      "rank": 89,
+      "atr": 0.069,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0312,
+      "pnl_value": 11.0091,
+      "weight": 0.0131,
+      "rank": 26,
+      "atr": 0.0489,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0016,
+      "pnl_value": 0.3971,
+      "weight": 0.009,
+      "rank": 6,
+      "atr": 0.0708,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0014,
+      "pnl_value": -0.3065,
+      "weight": 0.0084,
+      "rank": 69,
+      "atr": 0.0756,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 26,
+      "atr": 0.0489,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 89,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 6,
+      "atr": 0.0708,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.0756,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 26919.7236,
+    "leverage": 0.0398,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0262,
+    "green_marketcap_pnt": 0
+  }
+}

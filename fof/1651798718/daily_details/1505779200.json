@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "IOC",
+      "pnl": 0.059,
+      "pnl_value": 0.0291,
+      "weight": 0.0237,
+      "rank": 77,
+      "atr": 0.1288,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": 0.0126,
+      "pnl_value": 0.005,
+      "weight": 0.0193,
+      "rank": 51,
+      "atr": 0.1586,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEL",
+      "pnl": -0.1421,
+      "pnl_value": -0.0448,
+      "weight": 0.0152,
+      "rank": 78,
+      "atr": 0.2004,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PTOY",
+      "pnl": -0.1682,
+      "pnl_value": -0.0755,
+      "weight": 0.0216,
+      "rank": 97,
+      "atr": 0.1415,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1288,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PTOY",
+      "rank": 97,
+      "atr": 0.1415,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1586,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEL",
+      "rank": 78,
+      "atr": 0.2004,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 19.6774,
+    "leverage": 0.0798,
+    "atr": 0.0122,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

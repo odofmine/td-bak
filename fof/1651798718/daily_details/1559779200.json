@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "BTM",
+      "pnl": -0.0195,
+      "pnl_value": -0.0974,
+      "weight": 0.0234,
+      "rank": 61,
+      "atr": 0.0927,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0247,
+      "pnl_value": -0.1172,
+      "weight": 0.0222,
+      "rank": 16,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": -0.0571,
+      "pnl_value": -0.277,
+      "weight": 0.0227,
+      "rank": 74,
+      "atr": 0.0957,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0886,
+      "pnl_value": -0.2179,
+      "weight": 0.0115,
+      "rank": 46,
+      "atr": 0.188,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MXM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 61,
+      "atr": 0.0927,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOLVE",
+      "rank": 74,
+      "atr": 0.0957,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 16,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 46,
+      "atr": 0.188,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0033,
+    "cum_pnl": 212.0926,
+    "leverage": 0.0798,
+    "atr": 0.0087,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

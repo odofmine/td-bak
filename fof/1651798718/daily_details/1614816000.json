@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.2024,
+      "pnl_value": 27.0559,
+      "weight": 0.0257,
+      "rank": 88,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1169,
+      "pnl_value": 13.9788,
+      "weight": 0.023,
+      "rank": 25,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0984,
+      "pnl_value": 9.8767,
+      "weight": 0.0193,
+      "rank": 91,
+      "atr": 0.1019,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0553,
+      "pnl_value": -4.4267,
+      "weight": 0.0154,
+      "rank": 102,
+      "atr": 0.1276,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0936,
+      "pnl_value": -9.9271,
+      "weight": 0.0204,
+      "rank": 71,
+      "atr": 0.0961,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.1096,
+      "pnl_value": -9.1226,
+      "weight": 0.016,
+      "rank": 54,
+      "atr": 0.1228,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.0961,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1019,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.1228,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.1276,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0053,
+    "cum_pnl": 5227.7406,
+    "leverage": 0.1198,
+    "atr": 0.0118,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ABBC",
+      "pnl": 0.1134,
+      "pnl_value": 0.71,
+      "weight": 0.0094,
+      "rank": 58,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0077,
+      "pnl_value": 0.0354,
+      "weight": 0.0069,
+      "rank": 21,
+      "atr": 0.0916,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0009,
+      "pnl_value": -0.0056,
+      "weight": 0.0092,
+      "rank": 10,
+      "atr": 0.0694,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0097,
+      "pnl_value": -0.0912,
+      "weight": 0.0141,
+      "rank": 15,
+      "atr": 0.0452,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0402,
+      "pnl_value": -0.2869,
+      "weight": 0.0107,
+      "rank": 27,
+      "atr": 0.0593,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0452,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0593,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 58,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0694,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0916,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 665.5673,
+    "leverage": 0.0503,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0218,
+    "green_marketcap_pnt": 0
+  }
+}

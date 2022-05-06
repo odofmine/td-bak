@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "POT",
+      "pnl": -0.0651,
+      "pnl_value": -0.0076,
+      "weight": 0.1164,
+      "rank": 54,
+      "atr": 0.1065,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAUT",
+      "pnl": -0.1397,
+      "pnl_value": -0.0117,
+      "weight": 0.0835,
+      "rank": 76,
+      "atr": 0.1484,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POT",
+      "rank": 54,
+      "atr": 0.1065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 76,
+      "atr": 0.1484,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0193,
+    "cum_pnl": -0.0142,
+    "leverage": 0.1999,
+    "atr": 0.0248,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

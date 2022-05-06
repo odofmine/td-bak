@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": -0.002,
+      "pnl_value": -0.0031,
+      "weight": 0.0159,
+      "rank": 41,
+      "atr": 0.1293,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.1283,
+      "pnl_value": -0.296,
+      "weight": 0.024,
+      "rank": 27,
+      "atr": 0.0858,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 27,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 41,
+      "atr": 0.1293,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 94.7896,
+    "leverage": 0.0399,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

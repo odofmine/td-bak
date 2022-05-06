@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0119,
+      "pnl_value": 41.963,
+      "weight": 0.1128,
+      "rank": 52,
+      "atr": 0.0786,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0045,
+      "pnl_value": -10.5777,
+      "weight": 0.0756,
+      "rank": 53,
+      "atr": 0.1172,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0228,
+      "pnl_value": -77.6391,
+      "weight": 0.1091,
+      "rank": 8,
+      "atr": 0.0813,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.038,
+      "pnl_value": -121.3734,
+      "weight": 0.1023,
+      "rank": 57,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 52,
+      "atr": 0.0786,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0813,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 57,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 53,
+      "atr": 0.1172,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0054,
+    "cum_pnl": 31060.7988,
+    "leverage": 0.3998,
+    "atr": 0.0355,
+    "marketcap_pnt": 0.0187,
+    "green_marketcap_pnt": 0
+  }
+}

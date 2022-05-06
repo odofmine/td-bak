@@ -1,0 +1,231 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": 0.0543,
+      "pnl_value": 0.5315,
+      "weight": 0.0951,
+      "rank": 109,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0076,
+      "pnl_value": -0.0732,
+      "weight": 0.0937,
+      "rank": 30,
+      "atr": 0.0693,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0104,
+      "pnl_value": -0.0911,
+      "weight": 0.0852,
+      "rank": 110,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0165,
+      "pnl_value": -0.2624,
+      "weight": 0.1546,
+      "rank": 15,
+      "atr": 0.042,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0173,
+      "pnl_value": -0.1823,
+      "weight": 0.1024,
+      "rank": 33,
+      "atr": 0.0634,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0276,
+      "pnl_value": -0.2539,
+      "weight": 0.0893,
+      "rank": 18,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0333,
+      "pnl_value": -0.336,
+      "weight": 0.0981,
+      "rank": 85,
+      "atr": 0.0662,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0384,
+      "pnl_value": -0.3369,
+      "weight": 0.0851,
+      "rank": 86,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PAI",
+      "pnl": -0.0495,
+      "pnl_value": -0.4431,
+      "weight": 0.0869,
+      "rank": 72,
+      "atr": 0.0747,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0503,
+      "pnl_value": -0.5644,
+      "weight": 0.109,
+      "rank": 107,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 15,
+      "atr": 0.042,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 107,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 33,
+      "atr": 0.0634,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 85,
+      "atr": 0.0662,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 109,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 30,
+      "atr": 0.0693,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 18,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAI",
+      "rank": 72,
+      "atr": 0.0747,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 110,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 86,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 51,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0195,
+    "cum_pnl": 99.9724,
+    "leverage": 0.9994,
+    "atr": 0.0649,
+    "marketcap_pnt": 0.0152,
+    "green_marketcap_pnt": 0
+  }
+}

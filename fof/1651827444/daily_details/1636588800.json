@@ -1,0 +1,230 @@
+{
+  "pnls": [
+    {
+      "name": "UMA",
+      "pnl": 0.391,
+      "pnl_value": 979.7292,
+      "weight": 0.0676,
+      "rank": 109,
+      "atr": 0.1082,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KDA",
+      "pnl": 0.0896,
+      "pnl_value": 289.2958,
+      "weight": 0.0871,
+      "rank": 58,
+      "atr": 0.084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.0587,
+      "pnl_value": 199.3452,
+      "weight": 0.0916,
+      "rank": 77,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0441,
+      "pnl_value": 213.879,
+      "weight": 0.1307,
+      "rank": 82,
+      "atr": 0.056,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0312,
+      "pnl_value": 104.8559,
+      "weight": 0.0906,
+      "rank": 13,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VET",
+      "pnl": 0.0123,
+      "pnl_value": 42.9109,
+      "weight": 0.0944,
+      "rank": 22,
+      "atr": 0.0775,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0081,
+      "pnl_value": 37.8482,
+      "weight": 0.1254,
+      "rank": 17,
+      "atr": 0.0584,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.034,
+      "pnl_value": -141.4784,
+      "weight": 0.1121,
+      "rank": 44,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 82,
+      "atr": 0.056,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 17,
+      "atr": 0.0584,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 44,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 22,
+      "atr": 0.0775,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 77,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 13,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KDA",
+      "rank": 58,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 109,
+      "atr": 0.1082,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0466,
+    "cum_pnl": 38795.1166,
+    "leverage": 0.7995,
+    "atr": 0.0585,
+    "marketcap_pnt": 0.02,
+    "green_marketcap_pnt": 0
+  }
+}

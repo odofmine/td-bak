@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.2149,
+      "pnl_value": 1.5283,
+      "weight": 0.0208,
+      "rank": 49,
+      "atr": 0.0641,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VEST",
+      "pnl": 0.1499,
+      "pnl_value": 0.7997,
+      "weight": 0.0156,
+      "rank": 39,
+      "atr": 0.0853,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.1416,
+      "pnl_value": 0.862,
+      "weight": 0.0178,
+      "rank": 105,
+      "atr": 0.0746,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0363,
+      "pnl_value": 0.2919,
+      "weight": 0.0235,
+      "rank": 11,
+      "atr": 0.0567,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0068,
+      "pnl_value": 0.0521,
+      "weight": 0.0223,
+      "rank": 63,
+      "atr": 0.0598,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.092,
+      "pnl_value": -0.6954,
+      "weight": 0.0221,
+      "rank": 80,
+      "atr": 0.0602,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0567,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 63,
+      "atr": 0.0598,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 80,
+      "atr": 0.0602,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 49,
+      "atr": 0.0641,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0746,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VEST",
+      "rank": 39,
+      "atr": 0.0853,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0083,
+    "cum_pnl": 343.756,
+    "leverage": 0.1221,
+    "atr": 0.008,
+    "marketcap_pnt": 0.0111,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BSV",
+      "pnl": 0.0906,
+      "pnl_value": 0.2014,
+      "weight": 0.0104,
+      "rank": 9,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PZM",
+      "pnl": 0.0217,
+      "pnl_value": 0.0451,
+      "weight": 0.0097,
+      "rank": 42,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 42,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 212.9466,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0083,
+    "green_marketcap_pnt": 0
+  }
+}

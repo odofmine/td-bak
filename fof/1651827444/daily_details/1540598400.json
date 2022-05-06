@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": 0.0277,
+      "pnl_value": 0.2797,
+      "weight": 0.1033,
+      "rank": 50,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.014,
+      "pnl_value": -0.1481,
+      "weight": 0.108,
+      "rank": 28,
+      "atr": 0.0681,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0161,
+      "pnl_value": -0.1599,
+      "weight": 0.1016,
+      "rank": 36,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0502,
+      "pnl_value": -0.4253,
+      "weight": 0.0868,
+      "rank": 56,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 28,
+      "atr": 0.0681,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 36,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0046,
+    "cum_pnl": 96.2397,
+    "leverage": 0.3997,
+    "atr": 0.0294,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

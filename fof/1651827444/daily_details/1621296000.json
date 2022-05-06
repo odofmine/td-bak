@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.4176,
+      "pnl_value": 193.0673,
+      "weight": 0.0274,
+      "rank": 19,
+      "atr": 0.085,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.3034,
+      "pnl_value": 70.1321,
+      "weight": 0.0137,
+      "rank": 82,
+      "atr": 0.1701,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.1492,
+      "pnl_value": 36.2396,
+      "weight": 0.0144,
+      "rank": 53,
+      "atr": 0.1617,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.1445,
+      "pnl_value": 46.7983,
+      "weight": 0.0192,
+      "rank": 61,
+      "atr": 0.1211,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0992,
+      "pnl_value": 36.8145,
+      "weight": 0.022,
+      "rank": 28,
+      "atr": 0.106,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.035,
+      "pnl_value": 15.7744,
+      "weight": 0.0267,
+      "rank": 43,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0056,
+      "pnl_value": -2.0409,
+      "weight": 0.0216,
+      "rank": 60,
+      "atr": 0.1078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0123,
+      "pnl_value": -5.2543,
+      "weight": 0.0253,
+      "rank": 4,
+      "atr": 0.0921,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.145,
+      "pnl_value": -50.6403,
+      "weight": 0.0207,
+      "rank": 98,
+      "atr": 0.1124,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.085,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 43,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 4,
+      "atr": 0.0921,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.106,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 60,
+      "atr": 0.1078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 98,
+      "atr": 0.1124,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 61,
+      "atr": 0.1211,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 53,
+      "atr": 0.1617,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 82,
+      "atr": 0.1701,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0202,
+    "cum_pnl": 17211.7449,
+    "leverage": 0.191,
+    "atr": 0.021,
+    "marketcap_pnt": 0.0489,
+    "green_marketcap_pnt": 0
+  }
+}

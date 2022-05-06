@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "AMPL",
+      "pnl": 0.0512,
+      "pnl_value": 0.6109,
+      "weight": 0.0138,
+      "rank": 64,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0406,
+      "pnl_value": 0.6573,
+      "weight": 0.0187,
+      "rank": 45,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0268,
+      "pnl_value": 0.5144,
+      "weight": 0.0222,
+      "rank": 57,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0205,
+      "pnl_value": -0.3859,
+      "weight": 0.0217,
+      "rank": 75,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.034,
+      "pnl_value": -0.5475,
+      "weight": 0.0186,
+      "rank": 54,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0403,
+      "pnl_value": -1.2253,
+      "weight": 0.0351,
+      "rank": 48,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.1099,
+      "pnl_value": -2.3786,
+      "weight": 0.025,
+      "rank": 53,
+      "atr": 0.0627,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 48,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 53,
+      "atr": 0.0627,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 57,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 75,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 54,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 64,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0032,
+    "cum_pnl": 861.6083,
+    "leverage": 0.1551,
+    "atr": 0.011,
+    "marketcap_pnt": 0.004,
+    "green_marketcap_pnt": 0
+  }
+}

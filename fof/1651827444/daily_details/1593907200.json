@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "VEST",
+      "pnl": 0.195,
+      "pnl_value": 1.2328,
+      "weight": 0.0183,
+      "rank": 39,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": 0.1429,
+      "pnl_value": 1.0905,
+      "weight": 0.0221,
+      "rank": 28,
+      "atr": 0.0617,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0872,
+      "pnl_value": 0.5361,
+      "weight": 0.0178,
+      "rank": 45,
+      "atr": 0.0765,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0322,
+      "pnl_value": 0.2301,
+      "weight": 0.0207,
+      "rank": 63,
+      "atr": 0.0659,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0176,
+      "pnl_value": -0.153,
+      "weight": 0.0252,
+      "rank": 11,
+      "atr": 0.0542,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0266,
+      "pnl_value": -0.1729,
+      "weight": 0.0188,
+      "rank": 49,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0359,
+      "pnl_value": -0.2582,
+      "weight": 0.0208,
+      "rank": 54,
+      "atr": 0.0657,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0639,
+      "pnl_value": -0.4214,
+      "weight": 0.0191,
+      "rank": 105,
+      "atr": 0.0714,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0542,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 28,
+      "atr": 0.0617,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 54,
+      "atr": 0.0657,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 63,
+      "atr": 0.0659,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0714,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 49,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEST",
+      "rank": 39,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 45,
+      "atr": 0.0765,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 346.5048,
+    "leverage": 0.1628,
+    "atr": 0.0109,
+    "marketcap_pnt": 0.0141,
+    "green_marketcap_pnt": 0
+  }
+}

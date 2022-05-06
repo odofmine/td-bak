@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "ZIL",
+      "pnl": 0.139,
+      "pnl_value": 0.8408,
+      "weight": 0.0091,
+      "rank": 70,
+      "atr": 0.1089,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0856,
+      "pnl_value": 0.7906,
+      "weight": 0.0139,
+      "rank": 63,
+      "atr": 0.0713,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0241,
+      "pnl_value": -0.1154,
+      "weight": 0.0072,
+      "rank": 42,
+      "atr": 0.1372,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 63,
+      "atr": 0.0713,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 70,
+      "atr": 0.1089,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 42,
+      "atr": 0.1372,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 665.0257,
+    "leverage": 0.0302,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0024,
+    "green_marketcap_pnt": 0
+  }
+}

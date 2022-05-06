@@ -1,0 +1,284 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0357,
+      "pnl_value": 58.0747,
+      "weight": 0.0998,
+      "rank": 2,
+      "atr": 0.0805,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0313,
+      "pnl_value": 57.2996,
+      "weight": 0.1124,
+      "rank": 50,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0288,
+      "pnl_value": 44.2772,
+      "weight": 0.0944,
+      "rank": 78,
+      "atr": 0.0851,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.026,
+      "pnl_value": 50.4941,
+      "weight": 0.1191,
+      "rank": 26,
+      "atr": 0.0675,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0226,
+      "pnl_value": 35.1067,
+      "weight": 0.0953,
+      "rank": 31,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRO",
+      "pnl": 0.0223,
+      "pnl_value": 37.0575,
+      "weight": 0.1021,
+      "rank": 30,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0219,
+      "pnl_value": 27.8467,
+      "weight": 0.0779,
+      "rank": 79,
+      "atr": 0.1031,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0,
+      "pnl_value": 0.0283,
+      "weight": 0.136,
+      "rank": 1,
+      "atr": 0.0591,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": -0.0162,
+      "pnl_value": -21.8495,
+      "weight": 0.0827,
+      "rank": 91,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0307,
+      "pnl_value": -39.9234,
+      "weight": 0.0798,
+      "rank": 34,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0591,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 26,
+      "atr": 0.0675,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 50,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 30,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0805,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 31,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 78,
+      "atr": 0.0851,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 91,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 79,
+      "atr": 0.1031,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 52,
+      "atr": 0.1033,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 111,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 66,
+      "atr": 0.1058,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 36,
+      "atr": 0.1174,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 27,
+      "atr": 0.1178,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 60,
+      "atr": 0.1212,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 98,
+      "atr": 0.1303,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 65,
+      "atr": 0.1344,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 67,
+      "atr": 0.1344,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 71,
+      "atr": 0.1379,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0152,
+    "cum_pnl": 16553.3967,
+    "leverage": 0.9995,
+    "atr": 0.0804,
+    "marketcap_pnt": 0.6612,
+    "green_marketcap_pnt": 0
+  }
+}

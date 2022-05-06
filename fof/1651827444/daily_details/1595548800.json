@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "SXP",
+      "pnl": 0.2446,
+      "pnl_value": 7.0061,
+      "weight": 0.0648,
+      "rank": 92,
+      "atr": 0.0925,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0785,
+      "pnl_value": 4.7287,
+      "weight": 0.1363,
+      "rank": 94,
+      "atr": 0.044,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0184,
+      "pnl_value": 0.7883,
+      "weight": 0.0967,
+      "rank": 55,
+      "atr": 0.062,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0143,
+      "pnl_value": 1.2488,
+      "weight": 0.1972,
+      "rank": 2,
+      "atr": 0.0304,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0153,
+      "pnl_value": -0.5332,
+      "weight": 0.079,
+      "rank": 46,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0164,
+      "pnl_value": -0.6806,
+      "weight": 0.094,
+      "rank": 74,
+      "atr": 0.0638,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0334,
+      "pnl_value": -0.9453,
+      "weight": 0.064,
+      "rank": 56,
+      "atr": 0.0936,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0373,
+      "pnl_value": -1.5907,
+      "weight": 0.0965,
+      "rank": 54,
+      "atr": 0.0621,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0509,
+      "pnl_value": -2.2117,
+      "weight": 0.0983,
+      "rank": 80,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.052,
+      "pnl_value": -1.6716,
+      "weight": 0.0728,
+      "rank": 112,
+      "atr": 0.0823,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0304,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 94,
+      "atr": 0.044,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 80,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 55,
+      "atr": 0.062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 54,
+      "atr": 0.0621,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 74,
+      "atr": 0.0638,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 46,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 112,
+      "atr": 0.0823,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 92,
+      "atr": 0.0925,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 56,
+      "atr": 0.0936,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 97,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0139,
+    "cum_pnl": 447.076,
+    "leverage": 0.9996,
+    "atr": 0.0599,
+    "marketcap_pnt": 0.1022,
+    "green_marketcap_pnt": 0
+  }
+}

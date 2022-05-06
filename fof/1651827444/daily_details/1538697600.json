@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": 0.0697,
+      "pnl_value": 0.0674,
+      "weight": 0.0093,
+      "rank": 81,
+      "atr": 0.1034,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0139,
+      "pnl_value": 0.0156,
+      "weight": 0.0108,
+      "rank": 40,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.1034,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 103.1034,
+    "leverage": 0.0201,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

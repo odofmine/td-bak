@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MGO",
+      "pnl": -0.097,
+      "pnl_value": -0.1166,
+      "weight": 0.0125,
+      "rank": 73,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.1083,
+      "pnl_value": -0.0813,
+      "weight": 0.0078,
+      "rank": 46,
+      "atr": 0.1817,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MGO",
+      "rank": 73,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 46,
+      "atr": 0.1817,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 94.9562,
+    "leverage": 0.0203,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

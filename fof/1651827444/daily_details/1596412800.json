@@ -1,0 +1,227 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0782,
+      "pnl_value": 4.846,
+      "weight": 0.1227,
+      "rank": 3,
+      "atr": 0.0452,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.0616,
+      "pnl_value": 1.9184,
+      "weight": 0.0616,
+      "rank": 86,
+      "atr": 0.09,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BSV",
+      "pnl": 0.0547,
+      "pnl_value": 2.9556,
+      "weight": 0.1069,
+      "rank": 6,
+      "atr": 0.0519,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HEDG",
+      "pnl": 0.0473,
+      "pnl_value": 2.1428,
+      "weight": 0.0897,
+      "rank": 28,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.038,
+      "pnl_value": 2.6579,
+      "weight": 0.1383,
+      "rank": 2,
+      "atr": 0.0401,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0308,
+      "pnl_value": 2.2,
+      "weight": 0.1415,
+      "rank": 24,
+      "atr": 0.0392,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0267,
+      "pnl_value": 0.7929,
+      "weight": 0.0587,
+      "rank": 53,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0227,
+      "pnl_value": -1.3447,
+      "weight": 0.1175,
+      "rank": 25,
+      "atr": 0.0472,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0265,
+      "pnl_value": -0.8379,
+      "weight": 0.0626,
+      "rank": 35,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 24,
+      "atr": 0.0392,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0401,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0452,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0472,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 6,
+      "atr": 0.0519,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HEDG",
+      "rank": 28,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 35,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 86,
+      "atr": 0.09,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 53,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0303,
+    "cum_pnl": 519.5133,
+    "leverage": 0.8995,
+    "atr": 0.0499,
+    "marketcap_pnt": 0.1826,
+    "green_marketcap_pnt": 0
+  }
+}

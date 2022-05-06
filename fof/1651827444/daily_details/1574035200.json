@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl": -0.0503,
+      "pnl_value": -0.2485,
+      "weight": 0.022,
+      "rank": 28,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.063,
+      "pnl_value": -0.276,
+      "weight": 0.0195,
+      "rank": 88,
+      "atr": 0.0757,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0893,
+      "pnl_value": -0.3952,
+      "weight": 0.0197,
+      "rank": 116,
+      "atr": 0.0749,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 28,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 116,
+      "atr": 0.0749,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 88,
+      "atr": 0.0757,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 222.7341,
+    "leverage": 0.0612,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

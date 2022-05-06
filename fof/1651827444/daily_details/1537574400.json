@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0158,
+      "pnl_value": 0.0199,
+      "weight": 0.0121,
+      "rank": 3,
+      "atr": 0.0756,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.024,
+      "pnl_value": -0.0308,
+      "weight": 0.0123,
+      "rank": 24,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0286,
+      "pnl_value": -0.0287,
+      "weight": 0.0096,
+      "rank": 82,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.0348,
+      "pnl_value": -0.0163,
+      "weight": 0.0045,
+      "rank": 29,
+      "atr": 0.2026,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0374,
+      "pnl_value": -0.0457,
+      "weight": 0.0117,
+      "rank": 6,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 24,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0756,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 29,
+      "atr": 0.2026,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 103.3351,
+    "leverage": 0.0502,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0795,
+    "green_marketcap_pnt": 0
+  }
+}

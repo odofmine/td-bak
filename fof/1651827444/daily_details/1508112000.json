@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.2427,
+      "pnl_value": 0.2821,
+      "weight": 0.0594,
+      "rank": 82,
+      "atr": 0.14,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0144,
+      "pnl_value": 0.048,
+      "weight": 0.1701,
+      "rank": 1,
+      "atr": 0.0489,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.008,
+      "pnl_value": 0.0118,
+      "weight": 0.0758,
+      "rank": 30,
+      "atr": 0.1097,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0125,
+      "pnl_value": -0.0256,
+      "weight": 0.1044,
+      "rank": 5,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0331,
+      "pnl_value": -0.0583,
+      "weight": 0.0901,
+      "rank": 25,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0489,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 25,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 30,
+      "atr": 0.1097,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.14,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0132,
+    "cum_pnl": 18.8311,
+    "leverage": 0.4998,
+    "atr": 0.0416,
+    "marketcap_pnt": 0.5713,
+    "green_marketcap_pnt": 0
+  }
+}

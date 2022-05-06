@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0929,
+      "pnl_value": 1.6267,
+      "weight": 0.0262,
+      "rank": 8,
+      "atr": 0.0531,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0097,
+      "pnl_value": -0.1097,
+      "weight": 0.017,
+      "rank": 45,
+      "atr": 0.082,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HMR",
+      "pnl": -0.0102,
+      "pnl_value": -0.1446,
+      "weight": 0.0213,
+      "rank": 86,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0653,
+      "pnl_value": -0.9348,
+      "weight": 0.0214,
+      "rank": 21,
+      "atr": 0.0652,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.147,
+      "pnl_value": -1.5619,
+      "weight": 0.0159,
+      "rank": 28,
+      "atr": 0.0874,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0531,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 21,
+      "atr": 0.0652,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 45,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 28,
+      "atr": 0.0874,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 666.3184,
+    "leverage": 0.1018,
+    "atr": 0.007,
+    "marketcap_pnt": 0.0175,
+    "green_marketcap_pnt": 0
+  }
+}

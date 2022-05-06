@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.2177,
+      "pnl_value": 1.5064,
+      "weight": 0.0202,
+      "rank": 42,
+      "atr": 0.0652,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.104,
+      "pnl_value": 0.8874,
+      "weight": 0.0249,
+      "rank": 95,
+      "atr": 0.053,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.018,
+      "pnl_value": -0.0923,
+      "weight": 0.015,
+      "rank": 61,
+      "atr": 0.0877,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0194,
+      "pnl_value": -0.1698,
+      "weight": 0.0256,
+      "rank": 13,
+      "atr": 0.0514,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0194,
+      "pnl_value": -0.0989,
+      "weight": 0.0149,
+      "rank": 111,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0315,
+      "pnl_value": -0.2071,
+      "weight": 0.0192,
+      "rank": 35,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0339,
+      "pnl_value": -0.2971,
+      "weight": 0.0256,
+      "rank": 32,
+      "atr": 0.0515,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0675,
+      "pnl_value": -0.525,
+      "weight": 0.0227,
+      "rank": 78,
+      "atr": 0.0581,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VEST",
+      "pnl": -0.2049,
+      "pnl_value": -1.0667,
+      "weight": 0.0152,
+      "rank": 41,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 13,
+      "atr": 0.0514,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 32,
+      "atr": 0.0515,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 95,
+      "atr": 0.053,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 78,
+      "atr": 0.0581,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.0652,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 35,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VEST",
+      "rank": 41,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 61,
+      "atr": 0.0877,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 111,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 341.4603,
+    "leverage": 0.1833,
+    "atr": 0.0119,
+    "marketcap_pnt": 0.0119,
+    "green_marketcap_pnt": 0
+  }
+}

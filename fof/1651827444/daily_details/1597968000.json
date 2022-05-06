@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "OMG",
+      "pnl": 0.0964,
+      "pnl_value": 1.8378,
+      "weight": 0.0271,
+      "rank": 44,
+      "atr": 0.0536,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0425,
+      "pnl_value": 0.6976,
+      "weight": 0.0233,
+      "rank": 38,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0544,
+      "pnl_value": -0.6312,
+      "weight": 0.0165,
+      "rank": 49,
+      "atr": 0.0878,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.076,
+      "pnl_value": -1.3912,
+      "weight": 0.026,
+      "rank": 53,
+      "atr": 0.0559,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.079,
+      "pnl_value": -1.7743,
+      "weight": 0.0319,
+      "rank": 22,
+      "atr": 0.0456,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 22,
+      "atr": 0.0456,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 44,
+      "atr": 0.0536,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 53,
+      "atr": 0.0559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 38,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 49,
+      "atr": 0.0878,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 701.4711,
+    "leverage": 0.1248,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.007,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0277,
+      "pnl_value": 0.004,
+      "weight": 0.1476,
+      "rank": 7,
+      "atr": 0.0557,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.0269,
+      "pnl_value": 0.0022,
+      "weight": 0.0834,
+      "rank": 23,
+      "atr": 0.0985,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0084,
+      "pnl_value": -0.0009,
+      "weight": 0.114,
+      "rank": 5,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAUT",
+      "pnl": -0.0589,
+      "pnl_value": -0.0032,
+      "weight": 0.0548,
+      "rank": 98,
+      "atr": 0.1499,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0557,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 23,
+      "atr": 0.0985,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 98,
+      "atr": 0.1499,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": -0.0216,
+    "leverage": 0.3998,
+    "atr": 0.0329,
+    "marketcap_pnt": 0.0172,
+    "green_marketcap_pnt": 0
+  }
+}

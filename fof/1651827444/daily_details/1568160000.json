@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MXM",
+      "pnl": 0.0257,
+      "pnl_value": 0.058,
+      "weight": 0.0105,
+      "rank": 88,
+      "atr": 0.076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0058,
+      "pnl_value": -0.012,
+      "weight": 0.0096,
+      "rank": 51,
+      "atr": 0.0834,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MXM",
+      "rank": 88,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 51,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 214.374,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

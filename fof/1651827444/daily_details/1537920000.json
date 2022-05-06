@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "STEEM",
+      "pnl": 0.0227,
+      "pnl_value": 0.0203,
+      "weight": 0.0086,
+      "rank": 38,
+      "atr": 0.1093,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": 0.0029,
+      "pnl_value": 0.0025,
+      "weight": 0.0085,
+      "rank": 26,
+      "atr": 0.111,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0232,
+      "pnl_value": -0.0239,
+      "weight": 0.0099,
+      "rank": 3,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0239,
+      "pnl_value": -0.0216,
+      "weight": 0.0087,
+      "rank": 37,
+      "atr": 0.1086,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0248,
+      "pnl_value": -0.0351,
+      "weight": 0.0136,
+      "rank": 42,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0355,
+      "pnl_value": -0.041,
+      "weight": 0.0111,
+      "rank": 6,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETP",
+      "rank": 42,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 37,
+      "atr": 0.1086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1093,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.111,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 102.9833,
+    "leverage": 0.0604,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.1312,
+    "green_marketcap_pnt": 0
+  }
+}

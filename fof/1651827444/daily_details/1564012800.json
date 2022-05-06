@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.1514,
+      "pnl_value": 0.561,
+      "weight": 0.017,
+      "rank": 87,
+      "atr": 0.1196,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0283,
+      "pnl_value": -0.146,
+      "weight": 0.0237,
+      "rank": 30,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 30,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 87,
+      "atr": 0.1196,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0019,
+    "cum_pnl": 217.3446,
+    "leverage": 0.0407,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

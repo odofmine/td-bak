@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "OMG",
+      "pnl": 0.2139,
+      "pnl_value": 107.7497,
+      "weight": 0.0188,
+      "rank": 77,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0232,
+      "pnl_value": -13.611,
+      "weight": 0.0219,
+      "rank": 38,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 38,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 77,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0035,
+    "cum_pnl": 26888.3145,
+    "leverage": 0.0407,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

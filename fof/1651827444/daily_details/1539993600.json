@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "KMD",
+      "pnl": 0.0244,
+      "pnl_value": 0.0308,
+      "weight": 0.0123,
+      "rank": 52,
+      "atr": 0.0803,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0154,
+      "pnl_value": 0.0224,
+      "weight": 0.0141,
+      "rank": 6,
+      "atr": 0.0703,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": 0.0054,
+      "pnl_value": 0.007,
+      "weight": 0.0125,
+      "rank": 91,
+      "atr": 0.0793,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0031,
+      "pnl_value": -0.0013,
+      "weight": 0.0042,
+      "rank": 29,
+      "atr": 0.232,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0082,
+      "pnl_value": -0.0091,
+      "weight": 0.0107,
+      "rank": 92,
+      "atr": 0.0922,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0116,
+      "pnl_value": -0.0102,
+      "weight": 0.0085,
+      "rank": 51,
+      "atr": 0.1158,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0158,
+      "pnl_value": -0.0183,
+      "weight": 0.0112,
+      "rank": 93,
+      "atr": 0.0885,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": -0.0255,
+      "pnl_value": -0.0346,
+      "weight": 0.0132,
+      "rank": 109,
+      "atr": 0.0747,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0289,
+      "pnl_value": -0.011,
+      "weight": 0.0037,
+      "rank": 25,
+      "atr": 0.2663,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0703,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 109,
+      "atr": 0.0747,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 91,
+      "atr": 0.0793,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0803,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.0885,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0922,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 51,
+      "atr": 0.1158,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 29,
+      "atr": 0.232,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 25,
+      "atr": 0.2663,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 101.9145,
+    "leverage": 0.0904,
+    "atr": 0.0089,
+    "marketcap_pnt": 0.0263,
+    "green_marketcap_pnt": 0
+  }
+}

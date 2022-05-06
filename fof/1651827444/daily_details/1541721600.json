@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": 0.0416,
+      "pnl_value": 0.3266,
+      "weight": 0.0812,
+      "rank": 67,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0031,
+      "pnl_value": 0.0375,
+      "weight": 0.1239,
+      "rank": 6,
+      "atr": 0.0542,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0552,
+      "pnl_value": -0.6246,
+      "weight": 0.1172,
+      "rank": 4,
+      "atr": 0.0573,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.102,
+      "pnl_value": -0.7637,
+      "weight": 0.0775,
+      "rank": 30,
+      "atr": 0.0866,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0542,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0573,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 30,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0106,
+    "cum_pnl": 94.5997,
+    "leverage": 0.3998,
+    "atr": 0.0269,
+    "marketcap_pnt": 0.0717,
+    "green_marketcap_pnt": 0
+  }
+}

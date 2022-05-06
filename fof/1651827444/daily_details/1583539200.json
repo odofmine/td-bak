@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0716,
+      "pnl_value": 0.4393,
+      "weight": 0.0208,
+      "rank": 111,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0074,
+      "pnl_value": 0.0382,
+      "weight": 0.0175,
+      "rank": 66,
+      "atr": 0.0966,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.009,
+      "pnl_value": -0.0788,
+      "weight": 0.0295,
+      "rank": 70,
+      "atr": 0.0573,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0725,
+      "pnl_value": -0.4688,
+      "weight": 0.0219,
+      "rank": 11,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.076,
+      "pnl_value": -0.2735,
+      "weight": 0.0122,
+      "rank": 48,
+      "atr": 0.1386,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 70,
+      "atr": 0.0573,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 66,
+      "atr": 0.0966,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 48,
+      "atr": 0.1386,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 293.761,
+    "leverage": 0.1019,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0072,
+    "green_marketcap_pnt": 0
+  }
+}

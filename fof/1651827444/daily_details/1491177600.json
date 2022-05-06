@@ -1,0 +1,208 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.2515,
+      "pnl_value": 0.0376,
+      "weight": 0.0932,
+      "rank": 8,
+      "atr": 0.1017,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.0651,
+      "pnl_value": 0.0087,
+      "weight": 0.0835,
+      "rank": 20,
+      "atr": 0.1135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0426,
+      "pnl_value": 0.0107,
+      "weight": 0.157,
+      "rank": 5,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": -0.0213,
+      "pnl_value": -0.0028,
+      "weight": 0.0806,
+      "rank": 41,
+      "atr": 0.1176,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0443,
+      "pnl_value": -0.008,
+      "weight": 0.1121,
+      "rank": 7,
+      "atr": 0.0846,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0537,
+      "pnl_value": -0.0082,
+      "weight": 0.0954,
+      "rank": 9,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CLAM",
+      "pnl": -0.0716,
+      "pnl_value": -0.0091,
+      "weight": 0.0792,
+      "rank": 80,
+      "atr": 0.1197,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.103,
+      "pnl_value": -0.0142,
+      "weight": 0.0863,
+      "rank": 33,
+      "atr": 0.1098,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.1192,
+      "pnl_value": -0.0219,
+      "weight": 0.1145,
+      "rank": 27,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.1351,
+      "pnl_value": -0.0211,
+      "weight": 0.0976,
+      "rank": 17,
+      "atr": 0.0971,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 27,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0846,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 17,
+      "atr": 0.0971,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.1017,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 33,
+      "atr": 0.1098,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.1135,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 41,
+      "atr": 0.1176,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CLAM",
+      "rank": 80,
+      "atr": 0.1197,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 63,
+      "atr": 0.1311,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 50,
+      "atr": 0.2095,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0176,
+    "cum_pnl": 0.574,
+    "leverage": 0.9994,
+    "atr": 0.0948,
+    "marketcap_pnt": 0.0379,
+    "green_marketcap_pnt": 0
+  }
+}

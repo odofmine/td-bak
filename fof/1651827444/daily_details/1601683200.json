@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0333,
+      "pnl_value": 0.2986,
+      "weight": 0.0135,
+      "rank": 7,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0166,
+      "pnl_value": -0.0728,
+      "weight": 0.0066,
+      "rank": 42,
+      "atr": 0.1381,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TMTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 42,
+      "atr": 0.1381,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 663.5097,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0123,
+    "green_marketcap_pnt": 0
+  }
+}

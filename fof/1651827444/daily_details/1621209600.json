@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl": 0.0834,
+      "pnl_value": 28.6758,
+      "weight": 0.0203,
+      "rank": 28,
+      "atr": 0.1104,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0554,
+      "pnl_value": 24.1359,
+      "weight": 0.0257,
+      "rank": 43,
+      "atr": 0.0873,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0012,
+      "pnl_value": 0.5412,
+      "weight": 0.0275,
+      "rank": 19,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0299,
+      "pnl_value": -10.8853,
+      "weight": 0.0215,
+      "rank": 60,
+      "atr": 0.1043,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0971,
+      "pnl_value": -24.5187,
+      "weight": 0.0149,
+      "rank": 82,
+      "atr": 0.1505,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.1121,
+      "pnl_value": -30.1972,
+      "weight": 0.0159,
+      "rank": 53,
+      "atr": 0.1415,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.1196,
+      "pnl_value": -59.3926,
+      "weight": 0.0293,
+      "rank": 4,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 4,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 43,
+      "atr": 0.0873,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 60,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 53,
+      "atr": 0.1415,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 82,
+      "atr": 0.1505,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 16870.8543,
+    "leverage": 0.1551,
+    "atr": 0.0157,
+    "marketcap_pnt": 0.0474,
+    "green_marketcap_pnt": 0
+  }
+}

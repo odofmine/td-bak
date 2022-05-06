@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": 0.0491,
+      "pnl_value": 0.1592,
+      "weight": 0.0333,
+      "rank": 60,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 96.5764,
+    "leverage": 0.0333,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

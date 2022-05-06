@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.141,
+      "pnl_value": 9.2079,
+      "weight": 0.0994,
+      "rank": 74,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": 0.0287,
+      "pnl_value": 1.895,
+      "weight": 0.1005,
+      "rank": 45,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DGB",
+      "rank": 45,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0169,
+    "cum_pnl": 666.9173,
+    "leverage": 0.1999,
+    "atr": 0.0198,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

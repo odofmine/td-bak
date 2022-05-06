@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0062,
+      "pnl_value": 0.0122,
+      "weight": 0.0091,
+      "rank": 61,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0393,
+      "pnl_value": -0.0933,
+      "weight": 0.011,
+      "rank": 20,
+      "atr": 0.0615,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 20,
+      "atr": 0.0615,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 61,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 214.5902,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.1287,
+      "pnl_value": 5.2415,
+      "weight": 0.0209,
+      "rank": 80,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": 0.1227,
+      "pnl_value": 3.7785,
+      "weight": 0.0158,
+      "rank": 59,
+      "atr": 0.1288,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0309,
+      "pnl_value": -1.2039,
+      "weight": 0.02,
+      "rank": 54,
+      "atr": 0.102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.035,
+      "pnl_value": -1.2351,
+      "weight": 0.0181,
+      "rank": 111,
+      "atr": 0.1125,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0459,
+      "pnl_value": -1.4134,
+      "weight": 0.0158,
+      "rank": 86,
+      "atr": 0.1289,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0564,
+      "pnl_value": -2.3831,
+      "weight": 0.0217,
+      "rank": 64,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0599,
+      "pnl_value": -2.9624,
+      "weight": 0.0254,
+      "rank": 14,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0605,
+      "pnl_value": -2.6752,
+      "weight": 0.0227,
+      "rank": 15,
+      "atr": 0.0898,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0727,
+      "pnl_value": -2.8058,
+      "weight": 0.0198,
+      "rank": 79,
+      "atr": 0.103,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.115,
+      "pnl_value": -4.9965,
+      "weight": 0.0223,
+      "rank": 66,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.1502,
+      "pnl_value": -6.3209,
+      "weight": 0.0216,
+      "rank": 34,
+      "atr": 0.0943,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNI",
+      "rank": 14,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 15,
+      "atr": 0.0898,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 66,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 64,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 34,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 80,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 54,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 79,
+      "atr": 0.103,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 111,
+      "atr": 0.1125,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 59,
+      "atr": 0.1288,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 86,
+      "atr": 0.1289,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0087,
+    "cum_pnl": 1930.7371,
+    "leverage": 0.2241,
+    "atr": 0.0224,
+    "marketcap_pnt": 0.0115,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": 0.0333,
+      "pnl_value": 0.7585,
+      "weight": 0.1052,
+      "rank": 64,
+      "atr": 0.0806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.0084,
+      "pnl_value": 0.1725,
+      "weight": 0.0947,
+      "rank": 20,
+      "atr": 0.0896,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 64,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 20,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 216.3753,
+    "leverage": 0.1999,
+    "atr": 0.017,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

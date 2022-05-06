@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0976,
+      "pnl_value": 0.441,
+      "weight": 0.0068,
+      "rank": 22,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0842,
+      "pnl_value": 0.7838,
+      "weight": 0.014,
+      "rank": 16,
+      "atr": 0.0476,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0133,
+      "pnl_value": 0.0823,
+      "weight": 0.0093,
+      "rank": 12,
+      "atr": 0.0718,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0476,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 12,
+      "atr": 0.0718,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 664.8862,
+    "leverage": 0.0301,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0176,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0945,
+      "pnl_value": 0.2473,
+      "weight": 0.0187,
+      "rank": 16,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0362,
+      "pnl_value": -0.1201,
+      "weight": 0.0237,
+      "rank": 46,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 139.089,
+    "leverage": 0.0424,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

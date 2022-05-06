@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": -0.017,
+      "pnl_value": -0.0586,
+      "weight": 0.0153,
+      "rank": 61,
+      "atr": 0.0979,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0313,
+      "pnl_value": -0.1916,
+      "weight": 0.0272,
+      "rank": 19,
+      "atr": 0.055,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.055,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 61,
+      "atr": 0.0979,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 223.9943,
+    "leverage": 0.0425,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

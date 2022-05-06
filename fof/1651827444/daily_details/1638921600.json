@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0302,
+      "pnl_value": 15.8374,
+      "weight": 0.0142,
+      "rank": 15,
+      "atr": 0.0938,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0307,
+      "pnl_value": -8.2787,
+      "weight": 0.0073,
+      "rank": 76,
+      "atr": 0.1825,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.0938,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 76,
+      "atr": 0.1825,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 36890.3241,
+    "leverage": 0.0215,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "KMD",
+      "pnl": 0.024,
+      "pnl_value": 0.0334,
+      "weight": 0.0135,
+      "rank": 52,
+      "atr": 0.0801,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0432,
+      "pnl_value": -0.0569,
+      "weight": 0.0128,
+      "rank": 93,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0628,
+      "pnl_value": -0.0252,
+      "weight": 0.0039,
+      "rank": 25,
+      "atr": 0.278,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0801,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 25,
+      "atr": 0.278,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 101.9102,
+    "leverage": 0.0302,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

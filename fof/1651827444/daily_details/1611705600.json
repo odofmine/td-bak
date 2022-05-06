@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.1061,
+      "pnl_value": 5.3117,
+      "weight": 0.0258,
+      "rank": 50,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0611,
+      "pnl_value": 2.9977,
+      "weight": 0.0253,
+      "rank": 14,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0326,
+      "pnl_value": 1.3468,
+      "weight": 0.0213,
+      "rank": 15,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.0056,
+      "pnl_value": 0.201,
+      "weight": 0.0186,
+      "rank": 84,
+      "atr": 0.1054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0494,
+      "pnl_value": -1.5323,
+      "weight": 0.016,
+      "rank": 59,
+      "atr": 0.1223,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0505,
+      "pnl_value": -1.5971,
+      "weight": 0.0163,
+      "rank": 111,
+      "atr": 0.1197,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0794,
+      "pnl_value": -2.8649,
+      "weight": 0.0186,
+      "rank": 34,
+      "atr": 0.1054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0985,
+      "pnl_value": -3.8017,
+      "weight": 0.0199,
+      "rank": 52,
+      "atr": 0.0985,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.1029,
+      "pnl_value": -4.3118,
+      "weight": 0.0216,
+      "rank": 67,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.1108,
+      "pnl_value": -3.1168,
+      "weight": 0.0145,
+      "rank": 86,
+      "atr": 0.1345,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.1122,
+      "pnl_value": -5.6805,
+      "weight": 0.0261,
+      "rank": 68,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 68,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 50,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 14,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 67,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 15,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 52,
+      "atr": 0.0985,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 34,
+      "atr": 0.1054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 84,
+      "atr": 0.1054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 111,
+      "atr": 0.1197,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 59,
+      "atr": 0.1223,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 86,
+      "atr": 0.1345,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0067,
+    "cum_pnl": 1926.3468,
+    "leverage": 0.224,
+    "atr": 0.0215,
+    "marketcap_pnt": 0.0118,
+    "green_marketcap_pnt": 0
+  }
+}

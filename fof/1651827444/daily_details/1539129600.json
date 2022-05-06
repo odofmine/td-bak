@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": -0.0084,
+      "pnl_value": -0.0067,
+      "weight": 0.0077,
+      "rank": 47,
+      "atr": 0.1298,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0091,
+      "pnl_value": -0.0111,
+      "weight": 0.0117,
+      "rank": 84,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0319,
+      "pnl_value": -0.0356,
+      "weight": 0.0107,
+      "rank": 95,
+      "atr": 0.093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0799,
+      "pnl_value": -0.084,
+      "weight": 0.0101,
+      "rank": 24,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NAS",
+      "rank": 84,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 95,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.1298,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 103.0772,
+    "leverage": 0.0402,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

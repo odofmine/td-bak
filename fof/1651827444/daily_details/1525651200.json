@@ -1,0 +1,139 @@
+{
+  "pnls": [
+    {
+      "name": "FUN",
+      "pnl": 0.074,
+      "pnl_value": 0.5364,
+      "weight": 0.0682,
+      "rank": 80,
+      "atr": 0.1157,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WICC",
+      "pnl": -0.0336,
+      "pnl_value": -0.3756,
+      "weight": 0.1051,
+      "rank": 62,
+      "atr": 0.0751,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0442,
+      "pnl_value": -0.5031,
+      "weight": 0.107,
+      "rank": 6,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0481,
+      "pnl_value": -0.598,
+      "weight": 0.117,
+      "rank": 2,
+      "atr": 0.0675,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0684,
+      "pnl_value": -0.7447,
+      "weight": 0.1024,
+      "rank": 16,
+      "atr": 0.0771,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NXT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WICC",
+      "rank": 62,
+      "atr": 0.0751,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.0771,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FUN",
+      "rank": 80,
+      "atr": 0.1157,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0158,
+    "cum_pnl": 103.6259,
+    "leverage": 0.4997,
+    "atr": 0.0395,
+    "marketcap_pnt": 0.2064,
+    "green_marketcap_pnt": 0
+  }
+}

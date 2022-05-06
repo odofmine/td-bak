@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0279,
+      "pnl_value": 0.0305,
+      "weight": 0.0111,
+      "rank": 40,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0125,
+      "pnl_value": 0.0109,
+      "weight": 0.0089,
+      "rank": 66,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.021,
+      "pnl_value": -0.0147,
+      "weight": 0.0071,
+      "rank": 51,
+      "atr": 0.1421,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0607,
+      "pnl_value": -0.0783,
+      "weight": 0.0131,
+      "rank": 27,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 27,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 66,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 51,
+      "atr": 0.1421,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 97.5144,
+    "leverage": 0.0402,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.3987,
+      "pnl_value": 2.6882,
+      "weight": 0.0979,
+      "rank": 39,
+      "atr": 0.1064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.1689,
+      "pnl_value": 1.1176,
+      "weight": 0.0961,
+      "rank": 33,
+      "atr": 0.1084,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.1306,
+      "pnl_value": 0.9528,
+      "weight": 0.1059,
+      "rank": 47,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.1064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1084,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0691,
+    "cum_pnl": 72.6281,
+    "leverage": 0.2999,
+    "atr": 0.0312,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

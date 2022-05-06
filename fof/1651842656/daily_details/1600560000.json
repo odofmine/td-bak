@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": -0.0367,
+      "pnl_value": -0.0013,
+      "weight": 0.0134,
+      "rank": 19,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1303,
+      "pnl_value": -0.0022,
+      "weight": 0.0067,
+      "rank": 167,
+      "atr": 0.1562,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 167,
+      "atr": 0.1562,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 1.5445,
+    "leverage": 0.0201,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0044,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.1813,
+      "pnl_value": 0.0514,
+      "weight": 0.0183,
+      "rank": 80,
+      "atr": 0.1181,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0009,
+      "pnl_value": -0.0004,
+      "weight": 0.0249,
+      "rank": 6,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.071,
+      "pnl_value": -0.0225,
+      "weight": 0.0205,
+      "rank": 92,
+      "atr": 0.1053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1181,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0018,
+    "cum_pnl": 14.5193,
+    "leverage": 0.0637,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.0205,
+    "green_marketcap_pnt": 0
+  }
+}

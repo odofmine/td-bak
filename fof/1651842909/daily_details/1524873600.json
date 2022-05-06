@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "ONT",
+      "pnl": 0.335,
+      "pnl_value": 2.7229,
+      "weight": 0.0905,
+      "rank": 49,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.1306,
+      "pnl_value": 1.2098,
+      "weight": 0.1031,
+      "rank": 5,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0927,
+      "pnl_value": 1.0168,
+      "weight": 0.1221,
+      "rank": 35,
+      "atr": 0.0629,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0515,
+      "pnl_value": 0.4095,
+      "weight": 0.0886,
+      "rank": 48,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0256,
+      "pnl_value": -0.2195,
+      "weight": 0.0955,
+      "rank": 74,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0629,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 49,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0572,
+    "cum_pnl": 93.9554,
+    "leverage": 0.4998,
+    "atr": 0.0384,
+    "marketcap_pnt": 0.0291,
+    "green_marketcap_pnt": 0
+  }
+}

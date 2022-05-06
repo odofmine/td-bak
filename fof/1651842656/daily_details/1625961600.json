@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.1242,
+      "pnl_value": 0.0798,
+      "weight": 0.0091,
+      "rank": 71,
+      "atr": 0.1552,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.1199,
+      "pnl_value": 0.1024,
+      "weight": 0.0121,
+      "rank": 70,
+      "atr": 0.1169,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0699,
+      "pnl_value": 0.0503,
+      "weight": 0.0102,
+      "rank": 41,
+      "atr": 0.1391,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0038,
+      "pnl_value": -0.0023,
+      "weight": 0.0086,
+      "rank": 87,
+      "atr": 0.164,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0072,
+      "pnl_value": -0.0049,
+      "weight": 0.0096,
+      "rank": 74,
+      "atr": 0.1468,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0243,
+      "pnl_value": -0.0182,
+      "weight": 0.0106,
+      "rank": 35,
+      "atr": 0.1331,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 70,
+      "atr": 0.1169,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 35,
+      "atr": 0.1331,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 41,
+      "atr": 0.1391,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 74,
+      "atr": 0.1468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 71,
+      "atr": 0.1552,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 87,
+      "atr": 0.164,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0029,
+    "cum_pnl": 69.7806,
+    "leverage": 0.0602,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}

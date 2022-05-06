@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0121,
+      "pnl_value": 0.0005,
+      "weight": 0.0279,
+      "rank": 88,
+      "atr": 0.0835,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0348,
+      "pnl_value": -0.0007,
+      "weight": 0.0146,
+      "rank": 153,
+      "atr": 0.1597,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0835,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 153,
+      "atr": 0.1597,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.3812,
+    "leverage": 0.0425,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

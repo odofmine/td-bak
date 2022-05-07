@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.2205,
+      "pnl_value": 0.0071,
+      "weight": 0.0278,
+      "rank": 2,
+      "atr": 0.0551,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0854,
+      "pnl_value": 0.0016,
+      "weight": 0.0165,
+      "rank": 20,
+      "atr": 0.0931,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0795,
+      "pnl_value": 0.002,
+      "weight": 0.0222,
+      "rank": 4,
+      "atr": 0.069,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0609,
+      "pnl_value": 0.0013,
+      "weight": 0.0188,
+      "rank": 9,
+      "atr": 0.0813,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SDC",
+      "pnl": 0.0205,
+      "pnl_value": 0.0005,
+      "weight": 0.0195,
+      "rank": 18,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.028,
+      "pnl_value": -0.0007,
+      "weight": 0.0225,
+      "rank": 3,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0551,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 18,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0813,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.0931,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0102,
+    "cum_pnl": 0.1659,
+    "leverage": 0.1273,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.1246,
+    "green_marketcap_pnt": 0
+  }
+}

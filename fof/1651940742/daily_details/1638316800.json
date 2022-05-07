@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.0733,
+      "pnl_value": 0.1584,
+      "weight": 0.0122,
+      "rank": 13,
+      "atr": 0.0806,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0368,
+      "pnl_value": 0.0801,
+      "weight": 0.0123,
+      "rank": 69,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.024,
+      "pnl_value": 0.0383,
+      "weight": 0.009,
+      "rank": 67,
+      "atr": 0.109,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": 0.0177,
+      "pnl_value": 0.0275,
+      "weight": 0.0088,
+      "rank": 114,
+      "atr": 0.1121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0094,
+      "pnl_value": -0.014,
+      "weight": 0.0084,
+      "rank": 90,
+      "atr": 0.117,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0259,
+      "pnl_value": -0.039,
+      "weight": 0.0085,
+      "rank": 104,
+      "atr": 0.1151,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0291,
+      "pnl_value": -0.0545,
+      "weight": 0.0106,
+      "rank": 93,
+      "atr": 0.0927,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": -0.0451,
+      "pnl_value": -0.0838,
+      "weight": 0.0105,
+      "rank": 115,
+      "atr": 0.0942,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0806,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 93,
+      "atr": 0.0927,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 115,
+      "atr": 0.0942,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 67,
+      "atr": 0.109,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 114,
+      "atr": 0.1121,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 104,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 90,
+      "atr": 0.117,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 176.1399,
+    "leverage": 0.0803,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.0118,
+    "green_marketcap_pnt": 0
+  }
+}

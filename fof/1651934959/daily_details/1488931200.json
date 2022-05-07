@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": -0.081,
+      "pnl_value": -0.0083,
+      "weight": 0.0859,
+      "rank": 10,
+      "atr": 0.0968,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0852,
+      "pnl_value": -0.0116,
+      "weight": 0.1143,
+      "rank": 5,
+      "atr": 0.0728,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.1657,
+      "pnl_value": -0.0162,
+      "weight": 0.082,
+      "rank": 34,
+      "atr": 0.1014,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.1752,
+      "pnl_value": -0.0245,
+      "weight": 0.1175,
+      "rank": 8,
+      "atr": 0.0708,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GAME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0708,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.0728,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 10,
+      "atr": 0.0968,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 34,
+      "atr": 0.1014,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0509,
+    "cum_pnl": 0.13,
+    "leverage": 0.3997,
+    "atr": 0.0333,
+    "marketcap_pnt": 0.0162,
+    "green_marketcap_pnt": 0
+  }
+}

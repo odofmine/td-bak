@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.0209,
+      "pnl_value": 0.0036,
+      "weight": 0.0081,
+      "rank": 87,
+      "atr": 0.1696,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.0327,
+      "pnl_value": -0.0083,
+      "weight": 0.012,
+      "rank": 106,
+      "atr": 0.1139,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 87,
+      "atr": 0.1696,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 20.2408,
+    "leverage": 0.0201,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

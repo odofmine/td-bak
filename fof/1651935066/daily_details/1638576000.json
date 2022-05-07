@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.1834,
+      "pnl_value": 0.3472,
+      "weight": 0.0107,
+      "rank": 13,
+      "atr": 0.0799,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1234,
+      "pnl_value": -0.1922,
+      "weight": 0.0088,
+      "rank": 69,
+      "atr": 0.0967,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.13,
+      "pnl_value": -0.2461,
+      "weight": 0.0107,
+      "rank": 19,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0799,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0967,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 175.8474,
+    "leverage": 0.0302,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

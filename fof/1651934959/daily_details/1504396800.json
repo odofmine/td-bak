@@ -1,0 +1,256 @@
+{
+  "pnls": [
+    {
+      "name": "BTCD",
+      "pnl": 0.6311,
+      "pnl_value": 1.234,
+      "weight": 0.0896,
+      "rank": 70,
+      "atr": 0.1178,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.4747,
+      "pnl_value": 0.894,
+      "weight": 0.0863,
+      "rank": 51,
+      "atr": 0.1224,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.205,
+      "pnl_value": 0.45,
+      "weight": 0.1006,
+      "rank": 57,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.081,
+      "pnl_value": 0.1508,
+      "weight": 0.0853,
+      "rank": 47,
+      "atr": 0.1238,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": 0.0775,
+      "pnl_value": 0.1108,
+      "weight": 0.0655,
+      "rank": 26,
+      "atr": 0.1611,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.0023,
+      "pnl_value": 0.0048,
+      "weight": 0.0951,
+      "rank": 99,
+      "atr": 0.111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": 0.0008,
+      "pnl_value": 0.0018,
+      "weight": 0.0998,
+      "rank": 72,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0018,
+      "pnl_value": -0.0061,
+      "weight": 0.1588,
+      "rank": 5,
+      "atr": 0.0665,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0101,
+      "pnl_value": -0.0216,
+      "weight": 0.0975,
+      "rank": 13,
+      "atr": 0.1083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0352,
+      "pnl_value": -0.0931,
+      "weight": 0.1211,
+      "rank": 11,
+      "atr": 0.0872,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0665,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 11,
+      "atr": 0.0872,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 57,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 72,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 13,
+      "atr": 0.1083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 99,
+      "atr": 0.111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 70,
+      "atr": 0.1178,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 51,
+      "atr": 0.1224,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 47,
+      "atr": 0.1238,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.1611,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 39,
+      "atr": 0.1615,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 71,
+      "atr": 0.1712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 106,
+      "atr": 0.1898,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RDD",
+      "rank": 103,
+      "atr": 0.1926,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 34,
+      "atr": 0.199,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 107,
+      "atr": 0.1994,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1249,
+    "cum_pnl": 23.5475,
+    "leverage": 0.9996,
+    "atr": 0.1056,
+    "marketcap_pnt": 0.0407,
+    "green_marketcap_pnt": 0
+  }
+}

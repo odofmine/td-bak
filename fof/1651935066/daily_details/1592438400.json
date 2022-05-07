@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0306,
+      "pnl_value": 0.0008,
+      "weight": 0.0193,
+      "rank": 88,
+      "atr": 0.0825,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0185,
+      "pnl_value": 0.0004,
+      "weight": 0.0179,
+      "rank": 198,
+      "atr": 0.0889,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0082,
+      "pnl_value": -0.0002,
+      "weight": 0.0227,
+      "rank": 67,
+      "atr": 0.0699,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RVN",
+      "rank": 67,
+      "atr": 0.0699,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0825,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0889,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 0.3059,
+    "leverage": 0.0599,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

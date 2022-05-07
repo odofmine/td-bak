@@ -1,0 +1,273 @@
+{
+  "pnls": [
+    {
+      "name": "SAN",
+      "pnl": 0.0321,
+      "pnl_value": 0.341,
+      "weight": 0.1008,
+      "rank": 71,
+      "atr": 0.0922,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0205,
+      "pnl_value": 0.2704,
+      "weight": 0.1251,
+      "rank": 3,
+      "atr": 0.0743,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.02,
+      "pnl_value": -0.1908,
+      "weight": 0.0905,
+      "rank": 47,
+      "atr": 0.1027,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0387,
+      "pnl_value": -0.3413,
+      "weight": 0.0838,
+      "rank": 13,
+      "atr": 0.1109,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VEN",
+      "pnl": -0.0416,
+      "pnl_value": -0.495,
+      "weight": 0.113,
+      "rank": 46,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0562,
+      "pnl_value": -0.4609,
+      "weight": 0.0779,
+      "rank": 22,
+      "atr": 0.1194,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICN",
+      "pnl": -0.058,
+      "pnl_value": -0.5941,
+      "weight": 0.0972,
+      "rank": 83,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0806,
+      "pnl_value": -1.0423,
+      "weight": 0.1228,
+      "rank": 2,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0859,
+      "pnl_value": -0.9068,
+      "weight": 0.1002,
+      "rank": 10,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.1257,
+      "pnl_value": -1.166,
+      "weight": 0.0881,
+      "rank": 39,
+      "atr": 0.1055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 3,
+      "atr": 0.0743,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 2,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 46,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 71,
+      "atr": 0.0922,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 10,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICN",
+      "rank": 83,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 47,
+      "atr": 0.1027,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 39,
+      "atr": 0.1055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 13,
+      "atr": 0.1109,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 22,
+      "atr": 0.1194,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 72,
+      "atr": 0.1248,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAS",
+      "rank": 82,
+      "atr": 0.1262,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 52,
+      "atr": 0.1334,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 19,
+      "atr": 0.1335,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 45,
+      "atr": 0.1414,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 54,
+      "atr": 0.1497,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 84,
+      "atr": 0.1945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0435,
+    "cum_pnl": 99.7414,
+    "leverage": 0.9994,
+    "atr": 0.093,
+    "marketcap_pnt": 0.2938,
+    "green_marketcap_pnt": 0
+  }
+}

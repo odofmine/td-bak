@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "SYS",
+      "pnl": -0.0463,
+      "pnl_value": -0.0835,
+      "weight": 0.0855,
+      "rank": 69,
+      "atr": 0.1601,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0507,
+      "pnl_value": -0.1413,
+      "weight": 0.1322,
+      "rank": 82,
+      "atr": 0.1035,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATB",
+      "pnl": -0.0564,
+      "pnl_value": -0.1147,
+      "weight": 0.0963,
+      "rank": 95,
+      "atr": 0.1421,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0772,
+      "pnl_value": -0.143,
+      "weight": 0.0877,
+      "rank": 15,
+      "atr": 0.156,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.1471,
+      "pnl_value": -0.3042,
+      "weight": 0.098,
+      "rank": 21,
+      "atr": 0.1396,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.1035,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1396,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATB",
+      "rank": 95,
+      "atr": 0.1421,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 15,
+      "atr": 0.156,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 69,
+      "atr": 0.1601,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0373,
+    "cum_pnl": 19.3163,
+    "leverage": 0.4997,
+    "atr": 0.0684,
+    "marketcap_pnt": 0.0064,
+    "green_marketcap_pnt": 0
+  }
+}

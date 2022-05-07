@@ -1,0 +1,170 @@
+{
+  "pnls": [
+    {
+      "name": "HMR",
+      "pnl": 0.0005,
+      "pnl_value": 0.008,
+      "weight": 0.0153,
+      "rank": 99,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0403,
+      "pnl_value": -0.9009,
+      "weight": 0.0215,
+      "rank": 22,
+      "atr": 0.0471,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0551,
+      "pnl_value": -0.7452,
+      "weight": 0.013,
+      "rank": 16,
+      "atr": 0.0777,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0705,
+      "pnl_value": -0.9897,
+      "weight": 0.0135,
+      "rank": 81,
+      "atr": 0.0746,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0897,
+      "pnl_value": -1.2887,
+      "weight": 0.0138,
+      "rank": 82,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0922,
+      "pnl_value": -1.1895,
+      "weight": 0.0124,
+      "rank": 42,
+      "atr": 0.0815,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.1082,
+      "pnl_value": -0.5968,
+      "weight": 0.0053,
+      "rank": 61,
+      "atr": 0.1879,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.1456,
+      "pnl_value": -1.9539,
+      "weight": 0.0129,
+      "rank": 92,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 22,
+      "atr": 0.0471,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 99,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 81,
+      "atr": 0.0746,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 16,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 92,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 42,
+      "atr": 0.0815,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 61,
+      "atr": 0.1879,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0074,
+    "cum_pnl": 1031.8589,
+    "leverage": 0.1077,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0112,
+    "green_marketcap_pnt": 0
+  }
+}

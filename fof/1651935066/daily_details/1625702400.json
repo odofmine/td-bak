@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": -0.0608,
+      "pnl_value": -0.04,
+      "weight": 0.0098,
+      "rank": 43,
+      "atr": 0.134,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0749,
+      "pnl_value": -0.0502,
+      "weight": 0.01,
+      "rank": 57,
+      "atr": 0.1318,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0896,
+      "pnl_value": -0.0625,
+      "weight": 0.0104,
+      "rank": 124,
+      "atr": 0.1263,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1263,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1318,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.134,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 65.9517,
+    "leverage": 0.0302,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

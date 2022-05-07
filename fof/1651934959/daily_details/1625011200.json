@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.0243,
+      "pnl_value": 6.4436,
+      "weight": 0.0127,
+      "rank": 72,
+      "atr": 0.1107,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0579,
+      "pnl_value": -8.9345,
+      "weight": 0.0074,
+      "rank": 71,
+      "atr": 0.1888,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.1107,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 71,
+      "atr": 0.1888,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 20833.0667,
+    "leverage": 0.0201,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "CRV",
+      "pnl": 0.1693,
+      "pnl_value": 27.4166,
+      "weight": 0.0145,
+      "rank": 97,
+      "atr": 0.1271,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.122,
+      "pnl_value": 24.6729,
+      "weight": 0.0181,
+      "rank": 106,
+      "atr": 0.1015,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.1107,
+      "pnl_value": 23.8607,
+      "weight": 0.0193,
+      "rank": 76,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.1005,
+      "pnl_value": 19.9777,
+      "weight": 0.0178,
+      "rank": 69,
+      "atr": 0.1036,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0706,
+      "pnl_value": 22.0055,
+      "weight": 0.0279,
+      "rank": 24,
+      "atr": 0.0659,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0684,
+      "pnl_value": 13.7475,
+      "weight": 0.018,
+      "rank": 94,
+      "atr": 0.102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0623,
+      "pnl_value": 14.1381,
+      "weight": 0.0203,
+      "rank": 44,
+      "atr": 0.0906,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0517,
+      "pnl_value": 10.7411,
+      "weight": 0.0186,
+      "rank": 74,
+      "atr": 0.099,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0465,
+      "pnl_value": 11.1585,
+      "weight": 0.0215,
+      "rank": 22,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0179,
+      "pnl_value": 4.8449,
+      "weight": 0.0242,
+      "rank": 23,
+      "atr": 0.0762,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FIL",
+      "pnl": 0.0165,
+      "pnl_value": 4.8528,
+      "weight": 0.0264,
+      "rank": 16,
+      "atr": 0.0697,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.0069,
+      "pnl_value": 1.3569,
+      "weight": 0.0177,
+      "rank": 98,
+      "atr": 0.104,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 24,
+      "atr": 0.0659,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FIL",
+      "rank": 16,
+      "atr": 0.0697,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 23,
+      "atr": 0.0762,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 22,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 44,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 76,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 74,
+      "atr": 0.099,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 106,
+      "atr": 0.1015,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 94,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.1036,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 98,
+      "atr": 0.104,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 97,
+      "atr": 0.1271,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.016,
+    "cum_pnl": 11348.6611,
+    "leverage": 0.2443,
+    "atr": 0.0221,
+    "marketcap_pnt": 0.0177,
+    "green_marketcap_pnt": 0
+  }
+}

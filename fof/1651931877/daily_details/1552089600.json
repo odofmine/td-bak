@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.19,
+      "pnl_value": 0.4702,
+      "weight": 0.0203,
+      "rank": 39,
+      "atr": 0.0705,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.1739,
+      "pnl_value": 0.475,
+      "weight": 0.0224,
+      "rank": 104,
+      "atr": 0.0638,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0273,
+      "pnl_value": 0.0426,
+      "weight": 0.0128,
+      "rank": 33,
+      "atr": 0.1115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.027,
+      "pnl_value": 0.0757,
+      "weight": 0.023,
+      "rank": 62,
+      "atr": 0.062,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0119,
+      "pnl_value": 0.0371,
+      "weight": 0.0256,
+      "rank": 9,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": 0.0091,
+      "pnl_value": 0.0184,
+      "weight": 0.0167,
+      "rank": 21,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.1037,
+      "pnl_value": -0.2743,
+      "weight": 0.0217,
+      "rank": 58,
+      "atr": 0.0658,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 9,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 62,
+      "atr": 0.062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 104,
+      "atr": 0.0638,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 58,
+      "atr": 0.0658,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0705,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 21,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 33,
+      "atr": 0.1115,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0069,
+    "cum_pnl": 121.7831,
+    "leverage": 0.1425,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0187,
+    "green_marketcap_pnt": 0
+  }
+}

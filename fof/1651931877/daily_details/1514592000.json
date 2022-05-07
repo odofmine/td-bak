@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": -0.0363,
+      "pnl_value": -0.1089,
+      "weight": 0.0317,
+      "rank": 4,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VEN",
+      "pnl": -0.1417,
+      "pnl_value": -0.2604,
+      "weight": 0.0194,
+      "rank": 56,
+      "atr": 0.108,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.1756,
+      "pnl_value": -0.3027,
+      "weight": 0.0182,
+      "rank": 57,
+      "atr": 0.1154,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.1895,
+      "pnl_value": -0.2784,
+      "weight": 0.0155,
+      "rank": 101,
+      "atr": 0.135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.2844,
+      "pnl_value": -0.4554,
+      "weight": 0.0169,
+      "rank": 106,
+      "atr": 0.1238,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 56,
+      "atr": 0.108,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 57,
+      "atr": 0.1154,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 106,
+      "atr": 0.1238,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 101,
+      "atr": 0.135,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0148,
+    "cum_pnl": 92.3363,
+    "leverage": 0.1017,
+    "atr": 0.0105,
+    "marketcap_pnt": 0.0779,
+    "green_marketcap_pnt": 0
+  }
+}

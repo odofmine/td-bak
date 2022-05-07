@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.0539,
+      "pnl_value": 0.0704,
+      "weight": 0.0108,
+      "rank": 21,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.1461,
+      "pnl_value": -0.1642,
+      "weight": 0.0093,
+      "rank": 23,
+      "atr": 0.0989,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 21,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 23,
+      "atr": 0.0989,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 119.742,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

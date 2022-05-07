@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.1479,
+      "pnl_value": 1.6517,
+      "weight": 0.0257,
+      "rank": 97,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0924,
+      "pnl_value": 0.951,
+      "weight": 0.0237,
+      "rank": 102,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": 0.0176,
+      "pnl_value": 0.1091,
+      "weight": 0.0143,
+      "rank": 117,
+      "atr": 0.1372,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0401,
+      "pnl_value": -0.4353,
+      "weight": 0.025,
+      "rank": 45,
+      "atr": 0.0783,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0783,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 117,
+      "atr": 0.1372,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0052,
+    "cum_pnl": 435.7201,
+    "leverage": 0.0887,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

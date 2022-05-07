@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0344,
+      "pnl_value": 13.056,
+      "weight": 0.0097,
+      "rank": 69,
+      "atr": 0.0752,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0275,
+      "pnl_value": 11.8334,
+      "weight": 0.011,
+      "rank": 89,
+      "atr": 0.0663,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0113,
+      "pnl_value": 3.1904,
+      "weight": 0.0072,
+      "rank": 75,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.01,
+      "pnl_value": -3.0789,
+      "weight": 0.0079,
+      "rank": 68,
+      "atr": 0.0924,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0104,
+      "pnl_value": -3.6452,
+      "weight": 0.009,
+      "rank": 76,
+      "atr": 0.081,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0248,
+      "pnl_value": -15.065,
+      "weight": 0.0155,
+      "rank": 26,
+      "atr": 0.0471,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 26,
+      "atr": 0.0471,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 89,
+      "atr": 0.0663,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.0752,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 68,
+      "atr": 0.0924,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 75,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 39127.2589,
+    "leverage": 0.0603,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

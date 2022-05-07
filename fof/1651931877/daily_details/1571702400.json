@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "PZM",
+      "pnl": -0.0229,
+      "pnl_value": -0.0616,
+      "weight": 0.0093,
+      "rank": 42,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0558,
+      "pnl_value": -0.1739,
+      "weight": 0.0108,
+      "rank": 46,
+      "atr": 0.0752,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0752,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 42,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 287.4549,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

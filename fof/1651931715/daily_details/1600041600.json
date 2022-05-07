@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": 0.083,
+      "pnl_value": 0.002,
+      "weight": 0.0101,
+      "rank": 19,
+      "atr": 0.086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0536,
+      "pnl_value": 0.0009,
+      "weight": 0.0069,
+      "rank": 194,
+      "atr": 0.1244,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.03,
+      "pnl_value": 0.001,
+      "weight": 0.0143,
+      "rank": 46,
+      "atr": 0.0606,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LRC",
+      "pnl": 0.0205,
+      "pnl_value": 0.0004,
+      "weight": 0.0074,
+      "rank": 59,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0029,
+      "pnl_value": 0.0001,
+      "weight": 0.0141,
+      "rank": 6,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0221,
+      "pnl_value": -0.0005,
+      "weight": 0.0091,
+      "rank": 40,
+      "atr": 0.0947,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0826,
+      "pnl_value": -0.0016,
+      "weight": 0.0084,
+      "rank": 110,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 46,
+      "atr": 0.0606,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 6,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0947,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 110,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 59,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 194,
+      "atr": 0.1244,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 1.3537,
+    "leverage": 0.0703,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0214,
+    "green_marketcap_pnt": 0
+  }
+}

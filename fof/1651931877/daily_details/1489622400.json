@@ -1,0 +1,204 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.2936,
+      "pnl_value": 0.0491,
+      "weight": 0.1471,
+      "rank": 2,
+      "atr": 0.0501,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.1733,
+      "pnl_value": 0.0239,
+      "weight": 0.1212,
+      "rank": 7,
+      "atr": 0.0608,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.1703,
+      "pnl_value": 0.0212,
+      "weight": 0.1095,
+      "rank": 4,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.0996,
+      "pnl_value": 0.0099,
+      "weight": 0.087,
+      "rank": 13,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0143,
+      "pnl_value": -0.0015,
+      "weight": 0.0901,
+      "rank": 8,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0435,
+      "pnl_value": -0.0053,
+      "weight": 0.1065,
+      "rank": 9,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.0474,
+      "pnl_value": -0.0027,
+      "weight": 0.0499,
+      "rank": 55,
+      "atr": 0.1476,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0561,
+      "pnl_value": -0.0048,
+      "weight": 0.0756,
+      "rank": 20,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.0588,
+      "pnl_value": -0.0068,
+      "weight": 0.1022,
+      "rank": 18,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0636,
+      "pnl_value": -0.008,
+      "weight": 0.1105,
+      "rank": 3,
+      "atr": 0.0667,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GAME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0501,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0667,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 18,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 55,
+      "atr": 0.1476,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0659,
+    "cum_pnl": 0.2118,
+    "leverage": 0.9996,
+    "atr": 0.0737,
+    "marketcap_pnt": 0.135,
+    "green_marketcap_pnt": 0
+  }
+}

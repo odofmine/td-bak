@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "CRV",
+      "pnl": 0.0652,
+      "pnl_value": 3.7533,
+      "weight": 0.0214,
+      "rank": 76,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0106,
+      "pnl_value": -0.4569,
+      "weight": 0.016,
+      "rank": 83,
+      "atr": 0.1282,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0218,
+      "pnl_value": -1.1902,
+      "weight": 0.0203,
+      "rank": 64,
+      "atr": 0.1008,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.024,
+      "pnl_value": -1.3915,
+      "weight": 0.0216,
+      "rank": 101,
+      "atr": 0.095,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0301,
+      "pnl_value": -1.8107,
+      "weight": 0.0224,
+      "rank": 66,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0956,
+      "pnl_value": -5.8602,
+      "weight": 0.0228,
+      "rank": 77,
+      "atr": 0.0898,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.1111,
+      "pnl_value": -5.4048,
+      "weight": 0.0181,
+      "rank": 106,
+      "atr": 0.1134,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QTUM",
+      "rank": 77,
+      "atr": 0.0898,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 66,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 101,
+      "atr": 0.095,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 76,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 64,
+      "atr": 0.1008,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 106,
+      "atr": 0.1134,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 83,
+      "atr": 0.1282,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0046,
+    "cum_pnl": 2675.4815,
+    "leverage": 0.1426,
+    "atr": 0.0143,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

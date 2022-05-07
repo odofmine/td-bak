@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": -0.0362,
+      "pnl_value": -10.1181,
+      "weight": 0.0145,
+      "rank": 55,
+      "atr": 0.0741,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0743,
+      "pnl_value": -12.0333,
+      "weight": 0.0084,
+      "rank": 4,
+      "atr": 0.1283,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0872,
+      "pnl_value": -12.2824,
+      "weight": 0.0073,
+      "rank": 109,
+      "atr": 0.1469,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 55,
+      "atr": 0.0741,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 4,
+      "atr": 0.1283,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 109,
+      "atr": 0.1469,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 19256.7191,
+    "leverage": 0.0302,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0343,
+    "green_marketcap_pnt": 0
+  }
+}

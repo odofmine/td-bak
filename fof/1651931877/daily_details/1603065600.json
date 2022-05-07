@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0718,
+      "pnl_value": 0.8892,
+      "weight": 0.014,
+      "rank": 18,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0223,
+      "pnl_value": 0.2008,
+      "weight": 0.0102,
+      "rank": 109,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0386,
+      "pnl_value": -0.1399,
+      "weight": 0.0041,
+      "rank": 90,
+      "atr": 0.1904,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0402,
+      "pnl_value": -0.327,
+      "weight": 0.0092,
+      "rank": 49,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0872,
+      "pnl_value": -0.9792,
+      "weight": 0.0127,
+      "rank": 39,
+      "atr": 0.0613,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 39,
+      "atr": 0.0613,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 90,
+      "atr": 0.1904,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 883.2025,
+    "leverage": 0.0502,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

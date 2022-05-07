@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ZRX",
+      "pnl": 0.0175,
+      "pnl_value": 0.0515,
+      "weight": 0.0102,
+      "rank": 38,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.0402,
+      "pnl_value": -0.1149,
+      "weight": 0.0099,
+      "rank": 49,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 49,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 287.5864,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

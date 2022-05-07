@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.1277,
+      "pnl_value": 0.0353,
+      "weight": 0.0175,
+      "rank": 91,
+      "atr": 0.1197,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": 0.0864,
+      "pnl_value": 0.027,
+      "weight": 0.0198,
+      "rank": 89,
+      "atr": 0.1056,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.057,
+      "pnl_value": -0.0209,
+      "weight": 0.0232,
+      "rank": 3,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0682,
+      "pnl_value": -0.0224,
+      "weight": 0.0208,
+      "rank": 54,
+      "atr": 0.1006,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.1006,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 89,
+      "atr": 0.1056,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1197,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 14.8128,
+    "leverage": 0.0813,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0312,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": -0.0715,
+      "pnl_value": -0.1268,
+      "weight": 0.0188,
+      "rank": 6,
+      "atr": 0.151,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.082,
+      "pnl_value": -0.1695,
+      "weight": 0.0219,
+      "rank": 9,
+      "atr": 0.1302,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1302,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.151,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 93.0646,
+    "leverage": 0.0407,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0357,
+    "green_marketcap_pnt": 0
+  }
+}

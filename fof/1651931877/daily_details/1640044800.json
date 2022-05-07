@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.0858,
+      "pnl_value": 32.5173,
+      "weight": 0.0095,
+      "rank": 10,
+      "atr": 0.1057,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0648,
+      "pnl_value": 31.5599,
+      "weight": 0.0122,
+      "rank": 9,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0034,
+      "pnl_value": -0.7795,
+      "weight": 0.0057,
+      "rank": 67,
+      "atr": 0.1765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0565,
+      "pnl_value": -28.8345,
+      "weight": 0.0128,
+      "rank": 83,
+      "atr": 0.0789,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0789,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 67,
+      "atr": 0.1765,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 39930.701,
+    "leverage": 0.0402,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0269,
+    "green_marketcap_pnt": 0
+  }
+}

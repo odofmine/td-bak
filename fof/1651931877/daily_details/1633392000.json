@@ -1,0 +1,262 @@
+{
+  "pnls": [
+    {
+      "name": "SHIB",
+      "pnl": 0.2828,
+      "pnl_value": 114.6115,
+      "weight": 0.0123,
+      "rank": 47,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0589,
+      "pnl_value": 17.8671,
+      "weight": 0.0092,
+      "rank": 74,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0452,
+      "pnl_value": 26.3655,
+      "weight": 0.0177,
+      "rank": 1,
+      "atr": 0.05,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0318,
+      "pnl_value": 8.7916,
+      "weight": 0.0084,
+      "rank": 86,
+      "atr": 0.105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0159,
+      "pnl_value": 4.189,
+      "weight": 0.008,
+      "rank": 88,
+      "atr": 0.1099,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0118,
+      "pnl_value": 3.6269,
+      "weight": 0.0093,
+      "rank": 12,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0052,
+      "pnl_value": -1.3157,
+      "weight": 0.0077,
+      "rank": 33,
+      "atr": 0.1147,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0135,
+      "pnl_value": -3.2546,
+      "weight": 0.0073,
+      "rank": 62,
+      "atr": 0.1212,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0154,
+      "pnl_value": -4.6272,
+      "weight": 0.0091,
+      "rank": 6,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0314,
+      "pnl_value": -11.179,
+      "weight": 0.0108,
+      "rank": 76,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.043,
+      "pnl_value": -16.5919,
+      "weight": 0.0117,
+      "rank": 23,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0444,
+      "pnl_value": -13.6183,
+      "weight": 0.0093,
+      "rank": 11,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0474,
+      "pnl_value": -14.3748,
+      "weight": 0.0092,
+      "rank": 24,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0621,
+      "pnl_value": -22.1101,
+      "weight": 0.0108,
+      "rank": 56,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.05,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 47,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 23,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 76,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 56,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 12,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 11,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 24,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 74,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 6,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 86,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 88,
+      "atr": 0.1099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 33,
+      "atr": 0.1147,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 62,
+      "atr": 0.1212,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 33041.905,
+    "leverage": 0.1408,
+    "atr": 0.0124,
+    "marketcap_pnt": 0.4825,
+    "green_marketcap_pnt": 0
+  }
+}

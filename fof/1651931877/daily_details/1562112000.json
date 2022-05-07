@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "HT",
+      "pnl": 0.0181,
+      "pnl_value": 0.2165,
+      "weight": 0.0405,
+      "rank": 42,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0043,
+      "pnl_value": -0.039,
+      "weight": 0.0308,
+      "rank": 35,
+      "atr": 0.089,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0152,
+      "pnl_value": -0.1108,
+      "weight": 0.0247,
+      "rank": 91,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0634,
+      "pnl_value": -0.578,
+      "weight": 0.0308,
+      "rank": 16,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.1873,
+      "pnl_value": -2.1996,
+      "weight": 0.0397,
+      "rank": 109,
+      "atr": 0.0691,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 42,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.0691,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.089,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0092,
+    "cum_pnl": 292.1743,
+    "leverage": 0.1665,
+    "atr": 0.0137,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

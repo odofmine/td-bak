@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "PAXG",
+      "pnl": 0.0245,
+      "pnl_value": 0.0554,
+      "weight": 0.0166,
+      "rank": 104,
+      "atr": 0.0175,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0093,
+      "pnl_value": -0.0044,
+      "weight": 0.0035,
+      "rank": 48,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UMA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 104,
+      "atr": 0.0175,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 48,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 135.5047,
+    "leverage": 0.0201,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

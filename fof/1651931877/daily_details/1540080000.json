@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "QTUM",
+      "pnl": 0.0816,
+      "pnl_value": 0.0411,
+      "weight": 0.0043,
+      "rank": 29,
+      "atr": 0.2297,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": 0.0123,
+      "pnl_value": 0.0185,
+      "weight": 0.0128,
+      "rank": 109,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0136,
+      "pnl_value": -0.0059,
+      "weight": 0.0037,
+      "rank": 25,
+      "atr": 0.266,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0143,
+      "pnl_value": -0.0183,
+      "weight": 0.0109,
+      "rank": 92,
+      "atr": 0.0909,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0153,
+      "pnl_value": -0.0242,
+      "weight": 0.0135,
+      "rank": 44,
+      "atr": 0.0736,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0299,
+      "pnl_value": -0.0438,
+      "weight": 0.0125,
+      "rank": 52,
+      "atr": 0.0793,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0344,
+      "pnl_value": -0.0512,
+      "weight": 0.0127,
+      "rank": 91,
+      "atr": 0.078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 44,
+      "atr": 0.0736,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 109,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 91,
+      "atr": 0.078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0793,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0909,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 29,
+      "atr": 0.2297,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 25,
+      "atr": 0.266,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 116.0831,
+    "leverage": 0.0704,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ETP",
+      "pnl": 0.059,
+      "pnl_value": 0.2542,
+      "weight": 0.0179,
+      "rank": 68,
+      "atr": 0.081,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0486,
+      "pnl_value": 0.3329,
+      "weight": 0.0285,
+      "rank": 4,
+      "atr": 0.051,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": 0.0253,
+      "pnl_value": 0.0923,
+      "weight": 0.0152,
+      "rank": 94,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.0069,
+      "pnl_value": 0.0364,
+      "weight": 0.0218,
+      "rank": 91,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0382,
+      "pnl_value": -0.1683,
+      "weight": 0.0183,
+      "rank": 93,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 91,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 93,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 68,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 240.0049,
+    "leverage": 0.1017,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.031,
+    "green_marketcap_pnt": 0
+  }
+}

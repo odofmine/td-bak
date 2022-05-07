@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DCN",
+      "pnl": -0.02,
+      "pnl_value": -0.0451,
+      "weight": 0.0183,
+      "rank": 87,
+      "atr": 0.1686,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0693,
+      "pnl_value": -0.176,
+      "weight": 0.0206,
+      "rank": 23,
+      "atr": 0.1494,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0742,
+      "pnl_value": -0.2535,
+      "weight": 0.0277,
+      "rank": 54,
+      "atr": 0.1114,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 54,
+      "atr": 0.1114,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 23,
+      "atr": 0.1494,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 87,
+      "atr": 0.1686,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 121.7683,
+    "leverage": 0.0666,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

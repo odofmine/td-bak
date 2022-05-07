@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.0153,
+      "pnl_value": 0.0197,
+      "weight": 0.0114,
+      "rank": 91,
+      "atr": 0.0703,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0145,
+      "pnl_value": 0.0152,
+      "weight": 0.0093,
+      "rank": 17,
+      "atr": 0.0856,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0018,
+      "pnl_value": 0.0025,
+      "weight": 0.012,
+      "rank": 70,
+      "atr": 0.0669,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.0148,
+      "pnl_value": -0.0125,
+      "weight": 0.0075,
+      "rank": 43,
+      "atr": 0.1062,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 70,
+      "atr": 0.0669,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 91,
+      "atr": 0.0703,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0856,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.1062,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 111.7242,
+    "leverage": 0.0402,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

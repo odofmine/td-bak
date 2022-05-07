@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0627,
+      "pnl_value": 0.0119,
+      "weight": 0.1092,
+      "rank": 4,
+      "atr": 0.0415,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0623,
+      "pnl_value": 0.0101,
+      "weight": 0.093,
+      "rank": 27,
+      "atr": 0.0487,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0343,
+      "pnl_value": 0.0071,
+      "weight": 0.1183,
+      "rank": 2,
+      "atr": 0.0383,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0304,
+      "pnl_value": 0.0057,
+      "weight": 0.1076,
+      "rank": 5,
+      "atr": 0.0421,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0283,
+      "pnl_value": 0.0063,
+      "weight": 0.1273,
+      "rank": 45,
+      "atr": 0.0356,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0247,
+      "pnl_value": 0.0045,
+      "weight": 0.1037,
+      "rank": 8,
+      "atr": 0.0437,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0152,
+      "pnl_value": 0.0028,
+      "weight": 0.1046,
+      "rank": 12,
+      "atr": 0.0433,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0071,
+      "pnl_value": 0.0012,
+      "weight": 0.0989,
+      "rank": 23,
+      "atr": 0.0458,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0128,
+      "pnl_value": -0.0016,
+      "weight": 0.072,
+      "rank": 6,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": -0.0279,
+      "pnl_value": -0.0032,
+      "weight": 0.065,
+      "rank": 183,
+      "atr": 0.0697,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 45,
+      "atr": 0.0356,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0383,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0415,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0421,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 12,
+      "atr": 0.0433,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0437,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 23,
+      "atr": 0.0458,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0487,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 6,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FET",
+      "rank": 183,
+      "atr": 0.0697,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0257,
+    "cum_pnl": 0.7892,
+    "leverage": 0.9996,
+    "atr": 0.0453,
+    "marketcap_pnt": 0.1991,
+    "green_marketcap_pnt": 0
+  }
+}

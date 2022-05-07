@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.0345,
+      "pnl_value": -0.013,
+      "weight": 0.15,
+      "rank": 8,
+      "atr": 0.0505,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0362,
+      "pnl_value": -0.0077,
+      "weight": 0.084,
+      "rank": 6,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0543,
+      "pnl_value": -0.009,
+      "weight": 0.0659,
+      "rank": 134,
+      "atr": 0.115,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0505,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 134,
+      "atr": 0.115,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0118,
+    "cum_pnl": 1.4882,
+    "leverage": 0.2999,
+    "atr": 0.0227,
+    "marketcap_pnt": 0.0221,
+    "green_marketcap_pnt": 0
+  }
+}

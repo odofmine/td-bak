@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "PERP",
+      "pnl": 0.0157,
+      "pnl_value": 0.1805,
+      "weight": 0.0854,
+      "rank": 103,
+      "atr": 0.1267,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0049,
+      "pnl_value": -0.06,
+      "weight": 0.0911,
+      "rank": 53,
+      "atr": 0.1187,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.024,
+      "pnl_value": -0.4221,
+      "weight": 0.1305,
+      "rank": 8,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MDX",
+      "pnl": -0.039,
+      "pnl_value": -0.4875,
+      "weight": 0.0928,
+      "rank": 90,
+      "atr": 0.1165,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDX",
+      "rank": 90,
+      "atr": 0.1165,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 53,
+      "atr": 0.1187,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1267,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0059,
+    "cum_pnl": 133.069,
+    "leverage": 0.3998,
+    "atr": 0.0433,
+    "marketcap_pnt": 0.0172,
+    "green_marketcap_pnt": 0
+  }
+}

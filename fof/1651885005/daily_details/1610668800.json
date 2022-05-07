@@ -1,0 +1,204 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl": 0.1267,
+      "pnl_value": 0.0634,
+      "weight": 0.0973,
+      "rank": 26,
+      "atr": 0.094,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.1257,
+      "pnl_value": 0.0571,
+      "weight": 0.0884,
+      "rank": 50,
+      "atr": 0.1035,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0885,
+      "pnl_value": 0.0383,
+      "weight": 0.0842,
+      "rank": 68,
+      "atr": 0.1086,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0419,
+      "pnl_value": -0.0232,
+      "weight": 0.1077,
+      "rank": 15,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0482,
+      "pnl_value": -0.0248,
+      "weight": 0.0999,
+      "rank": 154,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0558,
+      "pnl_value": -0.0295,
+      "weight": 0.1029,
+      "rank": 48,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0609,
+      "pnl_value": -0.0265,
+      "weight": 0.0847,
+      "rank": 82,
+      "atr": 0.1079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0648,
+      "pnl_value": -0.0329,
+      "weight": 0.0987,
+      "rank": 28,
+      "atr": 0.0927,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0758,
+      "pnl_value": -0.0416,
+      "weight": 0.1067,
+      "rank": 38,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0913,
+      "pnl_value": -0.0605,
+      "weight": 0.129,
+      "rank": 8,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 38,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 48,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 154,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 28,
+      "atr": 0.0927,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 26,
+      "atr": 0.094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 50,
+      "atr": 0.1035,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.1079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 68,
+      "atr": 0.1086,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0156,
+    "cum_pnl": 4.0605,
+    "leverage": 0.9995,
+    "atr": 0.0915,
+    "marketcap_pnt": 0.0168,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "CVC",
+      "pnl": 0.9481,
+      "pnl_value": 0.2163,
+      "weight": 0.0944,
+      "rank": 150,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": 0.1208,
+      "pnl_value": 0.0267,
+      "weight": 0.0914,
+      "rank": 78,
+      "atr": 0.0868,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0219,
+      "pnl_value": -0.0085,
+      "weight": 0.1607,
+      "rank": 2,
+      "atr": 0.0494,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0302,
+      "pnl_value": -0.0046,
+      "weight": 0.0634,
+      "rank": 136,
+      "atr": 0.1252,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0343,
+      "pnl_value": -0.0075,
+      "weight": 0.0899,
+      "rank": 79,
+      "atr": 0.0883,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0494,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 150,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 78,
+      "atr": 0.0868,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 79,
+      "atr": 0.0883,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 136,
+      "atr": 0.1252,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.092,
+    "cum_pnl": 1.6397,
+    "leverage": 0.4998,
+    "atr": 0.0397,
+    "marketcap_pnt": 0.1169,
+    "green_marketcap_pnt": 0
+  }
+}

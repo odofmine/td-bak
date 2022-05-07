@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl": -0.0327,
+      "pnl_value": -11.5105,
+      "weight": 0.0121,
+      "rank": 29,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SCRT",
+      "pnl": -0.1542,
+      "pnl_value": -35.848,
+      "weight": 0.008,
+      "rank": 81,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 29,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 81,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 29012.3561,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0371,
+      "pnl_value": 0.032,
+      "weight": 0.0089,
+      "rank": 56,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0437,
+      "pnl_value": -0.0475,
+      "weight": 0.0112,
+      "rank": 50,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 96.0318,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

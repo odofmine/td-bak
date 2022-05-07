@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": -0.0051,
+      "pnl_value": -0.0039,
+      "weight": 0.0108,
+      "rank": 124,
+      "atr": 0.1379,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0297,
+      "pnl_value": -0.0195,
+      "weight": 0.0093,
+      "rank": 139,
+      "atr": 0.16,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1379,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 139,
+      "atr": 0.16,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 69.7601,
+    "leverage": 0.0201,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

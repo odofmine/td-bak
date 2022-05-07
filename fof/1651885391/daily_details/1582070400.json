@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0067,
+      "pnl_value": 0.0473,
+      "weight": 0.0239,
+      "rank": 102,
+      "atr": 0.0881,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0666,
+      "pnl_value": -0.8545,
+      "weight": 0.0435,
+      "rank": 37,
+      "atr": 0.0484,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.3257,
+      "pnl_value": -3.1121,
+      "weight": 0.0324,
+      "rank": 58,
+      "atr": 0.065,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 37,
+      "atr": 0.0484,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 58,
+      "atr": 0.065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0881,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0133,
+    "cum_pnl": 289.9491,
+    "leverage": 0.0998,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

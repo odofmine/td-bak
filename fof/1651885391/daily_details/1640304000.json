@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.0895,
+      "pnl_value": 27.1172,
+      "weight": 0.0102,
+      "rank": 31,
+      "atr": 0.0964,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0808,
+      "pnl_value": 21.6009,
+      "weight": 0.009,
+      "rank": 65,
+      "atr": 0.1087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0174,
+      "pnl_value": 6.6152,
+      "weight": 0.0128,
+      "rank": 9,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.009,
+      "rank": 68,
+      "atr": 0.109,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0342,
+      "pnl_value": -9.3463,
+      "weight": 0.0092,
+      "rank": 43,
+      "atr": 0.1062,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0539,
+      "pnl_value": -16.0126,
+      "weight": 0.01,
+      "rank": 10,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BORA",
+      "pnl": -0.0624,
+      "pnl_value": -17.247,
+      "weight": 0.0093,
+      "rank": 95,
+      "atr": 0.1051,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0733,
+      "pnl_value": -20.6786,
+      "weight": 0.0095,
+      "rank": 38,
+      "atr": 0.1028,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0808,
+      "pnl_value": -27.3721,
+      "weight": 0.0114,
+      "rank": 14,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.0964,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 38,
+      "atr": 0.1028,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BORA",
+      "rank": 95,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 43,
+      "atr": 0.1062,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 65,
+      "atr": 0.1087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 29661.6395,
+    "leverage": 0.0904,
+    "atr": 0.0088,
+    "marketcap_pnt": 0.041,
+    "green_marketcap_pnt": 0
+  }
+}

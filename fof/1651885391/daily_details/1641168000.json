@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.1017,
+      "pnl_value": 26.0458,
+      "weight": 0.0087,
+      "rank": 26,
+      "atr": 0.0878,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0275,
+      "pnl_value": 5.9995,
+      "weight": 0.0074,
+      "rank": 80,
+      "atr": 0.1024,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.01,
+      "pnl_value": -2.8453,
+      "weight": 0.0097,
+      "rank": 81,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0334,
+      "pnl_value": -12.9996,
+      "weight": 0.0132,
+      "rank": 43,
+      "atr": 0.0578,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0351,
+      "pnl_value": -11.5828,
+      "weight": 0.0112,
+      "rank": 93,
+      "atr": 0.0683,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ALGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0578,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 93,
+      "atr": 0.0683,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 81,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 26,
+      "atr": 0.0878,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 80,
+      "atr": 0.1024,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 29453.4374,
+    "leverage": 0.0502,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

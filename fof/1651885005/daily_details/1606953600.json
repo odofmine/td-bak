@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.1213,
+      "pnl_value": 0.0509,
+      "weight": 0.1181,
+      "rank": 92,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0564,
+      "pnl_value": 0.0195,
+      "weight": 0.0973,
+      "rank": 32,
+      "atr": 0.1062,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0203,
+      "pnl_value": -0.0051,
+      "weight": 0.0706,
+      "rank": 66,
+      "atr": 0.1463,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0412,
+      "pnl_value": -0.018,
+      "weight": 0.123,
+      "rank": 45,
+      "atr": 0.084,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0412,
+      "pnl_value": -0.0133,
+      "weight": 0.0907,
+      "rank": 145,
+      "atr": 0.1139,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 92,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 32,
+      "atr": 0.1062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 145,
+      "atr": 0.1139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 66,
+      "atr": 0.1463,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0096,
+    "cum_pnl": 2.5856,
+    "leverage": 0.4997,
+    "atr": 0.0517,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0877,
+      "pnl_value": 0.14,
+      "weight": 0.0096,
+      "rank": 120,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0101,
+      "pnl_value": -0.0177,
+      "weight": 0.0105,
+      "rank": 76,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 165.3822,
+    "leverage": 0.0201,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

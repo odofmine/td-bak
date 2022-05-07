@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0263,
+      "pnl_value": -0.1412,
+      "weight": 0.0091,
+      "rank": 29,
+      "atr": 0.073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0444,
+      "pnl_value": -0.3846,
+      "weight": 0.0147,
+      "rank": 16,
+      "atr": 0.0453,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0641,
+      "pnl_value": -0.404,
+      "weight": 0.0107,
+      "rank": 7,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TMTG",
+      "pnl": -0.1937,
+      "pnl_value": -0.6505,
+      "weight": 0.0057,
+      "rank": 74,
+      "atr": 0.1174,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0453,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TMTG",
+      "rank": 74,
+      "atr": 0.1174,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 586.6593,
+    "leverage": 0.0402,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0186,
+    "green_marketcap_pnt": 0
+  }
+}

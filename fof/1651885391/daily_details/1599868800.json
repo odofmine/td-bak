@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.1331,
+      "pnl_value": 0.5709,
+      "weight": 0.0073,
+      "rank": 28,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.1223,
+      "pnl_value": 0.8843,
+      "weight": 0.0123,
+      "rank": 8,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0101,
+      "pnl_value": 0.0624,
+      "weight": 0.0105,
+      "rank": 86,
+      "atr": 0.0667,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0667,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 28,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0026,
+    "cum_pnl": 588.124,
+    "leverage": 0.0301,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0127,
+    "green_marketcap_pnt": 0
+  }
+}

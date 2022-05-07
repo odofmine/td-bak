@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ZRX",
+      "pnl": 0.0625,
+      "pnl_value": 0.1837,
+      "weight": 0.0097,
+      "rank": 46,
+      "atr": 0.0768,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0034,
+      "pnl_value": -0.0083,
+      "weight": 0.008,
+      "rank": 22,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0271,
+      "pnl_value": -0.0764,
+      "weight": 0.0093,
+      "rank": 12,
+      "atr": 0.0804,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0373,
+      "pnl_value": -0.1479,
+      "weight": 0.0131,
+      "rank": 3,
+      "atr": 0.0568,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0583,
+      "pnl_value": -0.1785,
+      "weight": 0.0101,
+      "rank": 15,
+      "atr": 0.0735,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0568,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 46,
+      "atr": 0.0768,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 12,
+      "atr": 0.0804,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 301.8735,
+    "leverage": 0.0502,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0629,
+    "green_marketcap_pnt": 0
+  }
+}

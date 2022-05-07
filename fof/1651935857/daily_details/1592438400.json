@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0726,
+      "pnl_value": 0.9634,
+      "weight": 0.0248,
+      "rank": 106,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.019,
+      "pnl_value": -0.212,
+      "weight": 0.0208,
+      "rank": 70,
+      "atr": 0.0774,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHSB",
+      "pnl": -0.1718,
+      "pnl_value": -1.3154,
+      "weight": 0.0143,
+      "rank": 110,
+      "atr": 0.1125,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 70,
+      "atr": 0.0774,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 110,
+      "atr": 0.1125,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 533.8364,
+    "leverage": 0.0599,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MOF",
+      "pnl": -0.0018,
+      "pnl_value": -0.005,
+      "weight": 0.0088,
+      "rank": 96,
+      "atr": 0.1043,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0572,
+      "pnl_value": -0.2082,
+      "weight": 0.0113,
+      "rank": 14,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XTZ",
+      "rank": 14,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 96,
+      "atr": 0.1043,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 320.902,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

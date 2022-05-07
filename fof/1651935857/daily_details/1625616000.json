@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0084,
+      "pnl_value": 1.9941,
+      "weight": 0.0113,
+      "rank": 45,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.002,
+      "pnl_value": -0.3352,
+      "weight": 0.0081,
+      "rank": 57,
+      "atr": 0.1104,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0048,
+      "pnl_value": -1.0973,
+      "weight": 0.0109,
+      "rank": 56,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0784,
+      "pnl_value": -20.2974,
+      "weight": 0.0124,
+      "rank": 97,
+      "atr": 0.072,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0838,
+      "pnl_value": -13.1289,
+      "weight": 0.0075,
+      "rank": 43,
+      "atr": 0.119,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 97,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 45,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 56,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1104,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.119,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 20851.0552,
+    "leverage": 0.0502,
+    "atr": 0.0045,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

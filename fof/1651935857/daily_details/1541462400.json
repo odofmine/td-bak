@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1262,
+      "pnl_value": 1.6246,
+      "weight": 0.1051,
+      "rank": 4,
+      "atr": 0.0553,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.1074,
+      "pnl_value": 1.1554,
+      "weight": 0.0879,
+      "rank": 3,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0772,
+      "pnl_value": 1.01,
+      "weight": 0.1068,
+      "rank": 6,
+      "atr": 0.0544,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0544,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0553,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.031,
+    "cum_pnl": 125.2365,
+    "leverage": 0.2998,
+    "atr": 0.0174,
+    "marketcap_pnt": 0.1603,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0815,
+      "pnl_value": 0.2862,
+      "weight": 0.0109,
+      "rank": 111,
+      "atr": 0.0746,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0061,
+      "pnl_value": 0.0201,
+      "weight": 0.0103,
+      "rank": 112,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MOF",
+      "pnl": -0.0009,
+      "pnl_value": -0.0025,
+      "weight": 0.0089,
+      "rank": 96,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0746,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 112,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 96,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 321.5087,
+    "leverage": 0.0301,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

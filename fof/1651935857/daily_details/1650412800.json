@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0501,
+      "pnl_value": 29.0082,
+      "weight": 0.0114,
+      "rank": 32,
+      "atr": 0.054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0019,
+      "pnl_value": -1.4537,
+      "weight": 0.015,
+      "rank": 59,
+      "atr": 0.0412,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": -0.0211,
+      "pnl_value": -6.1139,
+      "weight": 0.0057,
+      "rank": 90,
+      "atr": 0.1081,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0316,
+      "pnl_value": -13.0058,
+      "weight": 0.0081,
+      "rank": 92,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 59,
+      "atr": 0.0412,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.054,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 92,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AUDIO",
+      "rank": 90,
+      "atr": 0.1081,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 50765.2165,
+    "leverage": 0.0402,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

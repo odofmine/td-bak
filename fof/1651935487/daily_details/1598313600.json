@@ -1,0 +1,262 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0202,
+      "pnl_value": 0.0013,
+      "weight": 0.0228,
+      "rank": 16,
+      "atr": 0.0702,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0392,
+      "pnl_value": -0.0021,
+      "weight": 0.0193,
+      "rank": 198,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0574,
+      "pnl_value": -0.0029,
+      "weight": 0.0181,
+      "rank": 53,
+      "atr": 0.0881,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0578,
+      "pnl_value": -0.0038,
+      "weight": 0.0235,
+      "rank": 19,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0678,
+      "pnl_value": -0.0039,
+      "weight": 0.0204,
+      "rank": 32,
+      "atr": 0.0782,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0748,
+      "pnl_value": -0.0048,
+      "weight": 0.0229,
+      "rank": 81,
+      "atr": 0.0699,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.081,
+      "pnl_value": -0.005,
+      "weight": 0.0222,
+      "rank": 42,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.083,
+      "pnl_value": -0.0037,
+      "weight": 0.016,
+      "rank": 63,
+      "atr": 0.0996,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.089,
+      "pnl_value": -0.0049,
+      "weight": 0.0197,
+      "rank": 82,
+      "atr": 0.0811,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0991,
+      "pnl_value": -0.0061,
+      "weight": 0.0219,
+      "rank": 70,
+      "atr": 0.073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.1123,
+      "pnl_value": -0.0052,
+      "weight": 0.0167,
+      "rank": 36,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": -0.1173,
+      "pnl_value": -0.0069,
+      "weight": 0.021,
+      "rank": 169,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.1203,
+      "pnl_value": -0.0063,
+      "weight": 0.0187,
+      "rank": 24,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.1291,
+      "pnl_value": -0.0079,
+      "weight": 0.0218,
+      "rank": 33,
+      "atr": 0.0733,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 81,
+      "atr": 0.0699,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 16,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 42,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 70,
+      "atr": 0.073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 33,
+      "atr": 0.0733,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 169,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 32,
+      "atr": 0.0782,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0811,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 198,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 24,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 53,
+      "atr": 0.0881,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 36,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 63,
+      "atr": 0.0996,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0222,
+    "cum_pnl": 1.7346,
+    "leverage": 0.285,
+    "atr": 0.0224,
+    "marketcap_pnt": 0.0203,
+    "green_marketcap_pnt": 0
+  }
+}

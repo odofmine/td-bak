@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0941,
+      "pnl_value": 64.4131,
+      "weight": 0.0138,
+      "rank": 44,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.0506,
+      "pnl_value": 21.094,
+      "weight": 0.0084,
+      "rank": 21,
+      "atr": 0.0961,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0415,
+      "pnl_value": 16.6685,
+      "weight": 0.0081,
+      "rank": 84,
+      "atr": 0.1005,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0312,
+      "pnl_value": -12.3662,
+      "weight": 0.008,
+      "rank": 94,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0356,
+      "pnl_value": -21.1731,
+      "weight": 0.012,
+      "rank": 105,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 105,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 21,
+      "atr": 0.0961,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.1005,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 94,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 49663.7572,
+    "leverage": 0.0503,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

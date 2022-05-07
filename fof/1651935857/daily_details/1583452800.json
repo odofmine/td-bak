@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": 0.0903,
+      "pnl_value": 0.5329,
+      "weight": 0.0129,
+      "rank": 70,
+      "atr": 0.0607,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0047,
+      "pnl_value": -0.0215,
+      "weight": 0.0101,
+      "rank": 11,
+      "atr": 0.0779,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.053,
+      "pnl_value": -0.2474,
+      "weight": 0.0102,
+      "rank": 111,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.2495,
+      "pnl_value": -0.7992,
+      "weight": 0.007,
+      "rank": 108,
+      "atr": 0.1113,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 70,
+      "atr": 0.0607,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0779,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 108,
+      "atr": 0.1113,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 455.9858,
+    "leverage": 0.0402,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

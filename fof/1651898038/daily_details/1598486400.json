@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": -0.054,
+      "pnl_value": -0.0029,
+      "weight": 0.0208,
+      "rank": 16,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0712,
+      "pnl_value": -0.0039,
+      "weight": 0.0212,
+      "rank": 81,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0918,
+      "pnl_value": -0.0046,
+      "weight": 0.0193,
+      "rank": 42,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0934,
+      "pnl_value": -0.0048,
+      "weight": 0.0201,
+      "rank": 82,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENJ",
+      "rank": 81,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 16,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 42,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0063,
+    "cum_pnl": 1.5534,
+    "leverage": 0.0814,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0069,
+    "green_marketcap_pnt": 0
+  }
+}

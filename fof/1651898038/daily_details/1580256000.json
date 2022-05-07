@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ICX",
+      "pnl": 0.1324,
+      "pnl_value": 0.0027,
+      "weight": 0.0203,
+      "rank": 69,
+      "atr": 0.0569,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0755,
+      "pnl_value": 0.0014,
+      "weight": 0.0176,
+      "rank": 14,
+      "atr": 0.0659,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTA",
+      "pnl": 0.0622,
+      "pnl_value": 0.0014,
+      "weight": 0.0216,
+      "rank": 23,
+      "atr": 0.0536,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0184,
+      "pnl_value": -0.0004,
+      "weight": 0.0203,
+      "rank": 8,
+      "atr": 0.057,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOTA",
+      "rank": 23,
+      "atr": 0.0536,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0569,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 8,
+      "atr": 0.057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 14,
+      "atr": 0.0659,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.005,
+    "cum_pnl": 0.0244,
+    "leverage": 0.0798,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0222,
+    "green_marketcap_pnt": 0
+  }
+}

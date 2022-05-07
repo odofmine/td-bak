@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.0078,
+      "pnl_value": 0.0013,
+      "weight": 0.1035,
+      "rank": 134,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0567,
+      "pnl_value": -0.011,
+      "weight": 0.1166,
+      "rank": 112,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0686,
+      "pnl_value": -0.0109,
+      "weight": 0.0956,
+      "rank": 66,
+      "atr": 0.0744,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0826,
+      "pnl_value": -0.0156,
+      "weight": 0.1139,
+      "rank": 42,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0934,
+      "pnl_value": -0.0163,
+      "weight": 0.1053,
+      "rank": 100,
+      "atr": 0.0675,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OGN",
+      "pnl": -0.1004,
+      "pnl_value": -0.0135,
+      "weight": 0.0812,
+      "rank": 194,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.1023,
+      "pnl_value": -0.0142,
+      "weight": 0.0835,
+      "rank": 83,
+      "atr": 0.0851,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FET",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DATA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAND",
+      "rank": 112,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 42,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 100,
+      "atr": 0.0675,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 134,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 66,
+      "atr": 0.0744,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 83,
+      "atr": 0.0851,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OGN",
+      "rank": 194,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0483,
+    "cum_pnl": 0.5776,
+    "leverage": 0.6996,
+    "atr": 0.0498,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

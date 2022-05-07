@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "BAND",
+      "pnl": 0.1358,
+      "pnl_value": 0.0219,
+      "weight": 0.1024,
+      "rank": 112,
+      "atr": 0.0767,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.1072,
+      "pnl_value": 0.0155,
+      "weight": 0.0916,
+      "rank": 100,
+      "atr": 0.0858,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0811,
+      "pnl_value": 0.0142,
+      "weight": 0.1108,
+      "rank": 171,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OGN",
+      "pnl": -0.0117,
+      "pnl_value": -0.0014,
+      "weight": 0.0766,
+      "rank": 194,
+      "atr": 0.1025,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0143,
+      "pnl_value": -0.0024,
+      "weight": 0.1075,
+      "rank": 134,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0294,
+      "pnl_value": -0.0051,
+      "weight": 0.1108,
+      "rank": 42,
+      "atr": 0.0709,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ALGO",
+      "rank": 42,
+      "atr": 0.0709,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 171,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 134,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 112,
+      "atr": 0.0767,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 100,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OGN",
+      "rank": 194,
+      "atr": 0.1025,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.027,
+    "cum_pnl": 0.6202,
+    "leverage": 0.5997,
+    "atr": 0.0471,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

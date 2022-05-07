@@ -1,0 +1,156 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.081,
+      "pnl_value": 0.1439,
+      "weight": 0.0291,
+      "rank": 39,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0574,
+      "pnl_value": 0.1117,
+      "weight": 0.0319,
+      "rank": 5,
+      "atr": 0.0778,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0206,
+      "pnl_value": 0.0271,
+      "weight": 0.0216,
+      "rank": 33,
+      "atr": 0.1147,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0092,
+      "pnl_value": -0.0139,
+      "weight": 0.0248,
+      "rank": 47,
+      "atr": 0.1,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0119,
+      "pnl_value": -0.0148,
+      "weight": 0.0204,
+      "rank": 78,
+      "atr": 0.1217,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0177,
+      "pnl_value": -0.0236,
+      "weight": 0.0219,
+      "rank": 75,
+      "atr": 0.1129,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0778,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.1,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.1129,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1147,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 78,
+      "atr": 0.1217,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 60.2529,
+    "leverage": 0.1497,
+    "atr": 0.0149,
+    "marketcap_pnt": 0.0308,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0081,
+      "pnl_value": -0.0459,
+      "weight": 0.0096,
+      "rank": 36,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0145,
+      "pnl_value": -0.1022,
+      "weight": 0.012,
+      "rank": 5,
+      "atr": 0.0628,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0227,
+      "pnl_value": -0.1446,
+      "weight": 0.0108,
+      "rank": 51,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0235,
+      "pnl_value": -0.1064,
+      "weight": 0.0077,
+      "rank": 62,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0628,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 51,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 36,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 62,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 587.3613,
+    "leverage": 0.0401,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0156,
+    "green_marketcap_pnt": 0
+  }
+}

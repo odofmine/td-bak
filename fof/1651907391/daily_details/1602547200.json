@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0069,
+      "pnl_value": 0.0002,
+      "weight": 0.0095,
+      "rank": 21,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": 0.0027,
+      "pnl_value": 0.0001,
+      "weight": 0.0079,
+      "rank": 85,
+      "atr": 0.1123,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0022,
+      "pnl_value": -0.0001,
+      "weight": 0.0121,
+      "rank": 10,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0085,
+      "pnl_value": -0.0003,
+      "weight": 0.0153,
+      "rank": 15,
+      "atr": 0.058,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0385,
+      "pnl_value": -0.0011,
+      "weight": 0.0121,
+      "rank": 27,
+      "atr": 0.0735,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0487,
+      "pnl_value": -0.0007,
+      "weight": 0.0061,
+      "rank": 43,
+      "atr": 0.1444,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0552,
+      "pnl_value": -0.001,
+      "weight": 0.0073,
+      "rank": 114,
+      "atr": 0.121,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.058,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 85,
+      "atr": 0.1123,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 114,
+      "atr": 0.121,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 43,
+      "atr": 0.1444,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 1.4556,
+    "leverage": 0.0703,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.0227,
+    "green_marketcap_pnt": 0
+  }
+}

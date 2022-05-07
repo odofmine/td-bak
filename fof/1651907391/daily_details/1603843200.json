@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0271,
+      "pnl_value": -0.0106,
+      "weight": 0.1602,
+      "rank": 1,
+      "atr": 0.029,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.037,
+      "pnl_value": -0.0081,
+      "weight": 0.0895,
+      "rank": 8,
+      "atr": 0.0519,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0675,
+      "pnl_value": -0.0083,
+      "weight": 0.0502,
+      "rank": 9,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.029,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0519,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0111,
+    "cum_pnl": 1.4216,
+    "leverage": 0.2999,
+    "atr": 0.0139,
+    "marketcap_pnt": 0.6352,
+    "green_marketcap_pnt": 0
+  }
+}

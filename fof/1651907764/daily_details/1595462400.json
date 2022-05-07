@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0739,
+      "pnl_value": 3.6643,
+      "weight": 0.1292,
+      "rank": 94,
+      "atr": 0.0452,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SXP",
+      "pnl": 0.0624,
+      "pnl_value": 1.4358,
+      "weight": 0.06,
+      "rank": 92,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0454,
+      "pnl_value": 1.63,
+      "weight": 0.0936,
+      "rank": 80,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0429,
+      "pnl_value": 3.1901,
+      "weight": 0.194,
+      "rank": 2,
+      "atr": 0.0301,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0399,
+      "pnl_value": 0.8401,
+      "weight": 0.0549,
+      "rank": 97,
+      "atr": 0.1064,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0243,
+      "pnl_value": -0.8936,
+      "weight": 0.096,
+      "rank": 54,
+      "atr": 0.0608,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAND",
+      "pnl": -0.0244,
+      "pnl_value": -0.7186,
+      "weight": 0.0769,
+      "rank": 112,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0298,
+      "pnl_value": -1.1213,
+      "weight": 0.098,
+      "rank": 55,
+      "atr": 0.0596,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.048,
+      "pnl_value": -1.7858,
+      "weight": 0.097,
+      "rank": 74,
+      "atr": 0.0602,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0301,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 94,
+      "atr": 0.0452,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 55,
+      "atr": 0.0596,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 74,
+      "atr": 0.0602,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 54,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 80,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAND",
+      "rank": 112,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SXP",
+      "rank": 92,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 97,
+      "atr": 0.1064,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0163,
+    "cum_pnl": 388.864,
+    "leverage": 0.8996,
+    "atr": 0.0525,
+    "marketcap_pnt": 0.1008,
+    "green_marketcap_pnt": 0
+  }
+}

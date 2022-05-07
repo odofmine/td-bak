@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.1525,
+      "pnl_value": 0.8172,
+      "weight": 0.0157,
+      "rank": 97,
+      "atr": 0.0939,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0775,
+      "pnl_value": 0.4442,
+      "weight": 0.0168,
+      "rank": 111,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.026,
+      "pnl_value": 0.2448,
+      "weight": 0.0276,
+      "rank": 95,
+      "atr": 0.0534,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0262,
+      "pnl_value": -0.1906,
+      "weight": 0.0213,
+      "rank": 35,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DX",
+      "rank": 95,
+      "atr": 0.0534,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 35,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 111,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 97,
+      "atr": 0.0939,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0039,
+    "cum_pnl": 341.6811,
+    "leverage": 0.0814,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

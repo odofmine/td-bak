@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": -0.0425,
+      "pnl_value": -0.1819,
+      "weight": 0.0231,
+      "rank": 108,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": -0.0605,
+      "pnl_value": -0.1971,
+      "weight": 0.0176,
+      "rank": 74,
+      "atr": 0.1159,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 108,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOLVE",
+      "rank": 74,
+      "atr": 0.1159,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 183.7122,
+    "leverage": 0.0407,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

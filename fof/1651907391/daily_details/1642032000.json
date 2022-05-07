@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.1167,
+      "pnl_value": 0.1461,
+      "weight": 0.01,
+      "rank": 24,
+      "atr": 0.0972,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0477,
+      "pnl_value": -0.0603,
+      "weight": 0.0101,
+      "rank": 82,
+      "atr": 0.0971,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0971,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0972,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 124.2569,
+    "leverage": 0.0201,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

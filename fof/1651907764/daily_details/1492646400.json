@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "NAV",
+      "pnl": 0.3042,
+      "pnl_value": 0.0599,
+      "weight": 0.085,
+      "rank": 65,
+      "atr": 0.1117,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0293,
+      "pnl_value": -0.0076,
+      "weight": 0.1119,
+      "rank": 17,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0417,
+      "pnl_value": -0.0097,
+      "weight": 0.1008,
+      "rank": 44,
+      "atr": 0.0942,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.0489,
+      "pnl_value": -0.0092,
+      "weight": 0.0815,
+      "rank": 66,
+      "atr": 0.1165,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0495,
+      "pnl_value": -0.0109,
+      "weight": 0.0947,
+      "rank": 9,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EXP",
+      "pnl": -0.0958,
+      "pnl_value": -0.019,
+      "weight": 0.0855,
+      "rank": 67,
+      "atr": 0.1111,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0986,
+      "pnl_value": -0.03,
+      "weight": 0.1312,
+      "rank": 25,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.0986,
+      "pnl_value": -0.0233,
+      "weight": 0.102,
+      "rank": 30,
+      "atr": 0.0931,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.1138,
+      "pnl_value": -0.0327,
+      "weight": 0.124,
+      "rank": 8,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": -0.1239,
+      "pnl_value": -0.0238,
+      "weight": 0.0829,
+      "rank": 45,
+      "atr": 0.1146,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NXC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SJCX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAME",
+      "rank": 25,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 17,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 30,
+      "atr": 0.0931,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 44,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 67,
+      "atr": 0.1111,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.1117,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 45,
+      "atr": 0.1146,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 66,
+      "atr": 0.1165,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 33,
+      "atr": 0.1336,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 62,
+      "atr": 0.1374,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0459,
+    "cum_pnl": 1.2106,
+    "leverage": 0.9995,
+    "atr": 0.095,
+    "marketcap_pnt": 0.0179,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0367,
+      "pnl_value": 0.0261,
+      "weight": 0.012,
+      "rank": 70,
+      "atr": 0.1188,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0258,
+      "pnl_value": -0.016,
+      "weight": 0.0105,
+      "rank": 41,
+      "atr": 0.1353,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0277,
+      "pnl_value": -0.0158,
+      "weight": 0.0096,
+      "rank": 28,
+      "atr": 0.1491,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0372,
+      "pnl_value": -0.0209,
+      "weight": 0.0095,
+      "rank": 71,
+      "atr": 0.1502,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.045,
+      "pnl_value": -0.0229,
+      "weight": 0.0086,
+      "rank": 135,
+      "atr": 0.1651,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 70,
+      "atr": 0.1188,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 41,
+      "atr": 0.1353,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1491,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 71,
+      "atr": 0.1502,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 135,
+      "atr": 0.1651,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 58.1933,
+    "leverage": 0.0502,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "UIP",
+      "pnl": 0.9837,
+      "pnl_value": 0.9489,
+      "weight": 0.0045,
+      "rank": 98,
+      "atr": 0.2722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.021,
+      "pnl_value": -0.0703,
+      "weight": 0.0156,
+      "rank": 26,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 26,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UIP",
+      "rank": 98,
+      "atr": 0.2722,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0041,
+    "cum_pnl": 214.2396,
+    "leverage": 0.0201,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

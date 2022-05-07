@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "POT",
+      "pnl": 0.1331,
+      "pnl_value": 0.1692,
+      "weight": 0.0963,
+      "rank": 88,
+      "atr": 0.1257,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0088,
+      "pnl_value": -0.01,
+      "weight": 0.0862,
+      "rank": 14,
+      "atr": 0.1405,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0288,
+      "pnl_value": -0.0447,
+      "weight": 0.1173,
+      "rank": 30,
+      "atr": 0.1032,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.1032,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 88,
+      "atr": 0.1257,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 14,
+      "atr": 0.1405,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0087,
+    "cum_pnl": 12.3155,
+    "leverage": 0.2998,
+    "atr": 0.0363,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0488,
+      "pnl_value": 0.1479,
+      "weight": 0.0104,
+      "rank": 111,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.017,
+      "pnl_value": 0.051,
+      "weight": 0.0103,
+      "rank": 11,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 290.4209,
+    "leverage": 0.0207,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

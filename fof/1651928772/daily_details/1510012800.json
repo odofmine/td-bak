@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "BTX",
+      "pnl": 0.1525,
+      "pnl_value": 0.1745,
+      "weight": 0.0569,
+      "rank": 65,
+      "atr": 0.203,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": 0.1013,
+      "pnl_value": 0.201,
+      "weight": 0.0987,
+      "rank": 39,
+      "atr": 0.117,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0606,
+      "pnl_value": 0.118,
+      "weight": 0.0968,
+      "rank": 24,
+      "atr": 0.1193,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0238,
+      "pnl_value": -0.0659,
+      "weight": 0.1375,
+      "rank": 10,
+      "atr": 0.084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": -0.1014,
+      "pnl_value": -0.2242,
+      "weight": 0.11,
+      "rank": 52,
+      "atr": 0.105,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 10,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 52,
+      "atr": 0.105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 39,
+      "atr": 0.117,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 24,
+      "atr": 0.1193,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 65,
+      "atr": 0.203,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0101,
+    "cum_pnl": 19.3098,
+    "leverage": 0.4999,
+    "atr": 0.0577,
+    "marketcap_pnt": 0.0095,
+    "green_marketcap_pnt": 0
+  }
+}

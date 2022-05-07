@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "QTUM",
+      "pnl": 0.1043,
+      "pnl_value": 0.0062,
+      "weight": 0.0213,
+      "rank": 53,
+      "atr": 0.079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0554,
+      "pnl_value": 0.0038,
+      "weight": 0.0248,
+      "rank": 38,
+      "atr": 0.0679,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0497,
+      "pnl_value": 0.0025,
+      "weight": 0.0184,
+      "rank": 41,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AION",
+      "pnl": 0.0429,
+      "pnl_value": 0.0027,
+      "weight": 0.0226,
+      "rank": 187,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0152,
+      "pnl_value": -0.001,
+      "weight": 0.0242,
+      "rank": 44,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.1038,
+      "pnl_value": -0.0062,
+      "weight": 0.0216,
+      "rank": 66,
+      "atr": 0.0779,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BAT",
+      "rank": 38,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 44,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 187,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 66,
+      "atr": 0.0779,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 53,
+      "atr": 0.079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 41,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0029,
+    "cum_pnl": 1.7877,
+    "leverage": 0.1329,
+    "atr": 0.0101,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

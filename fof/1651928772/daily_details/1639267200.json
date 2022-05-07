@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.0196,
+      "pnl_value": 2.7868,
+      "weight": 0.0058,
+      "rank": 76,
+      "atr": 0.2158,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0904,
+      "pnl_value": -31.6879,
+      "weight": 0.0143,
+      "rank": 40,
+      "atr": 0.0874,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEAR",
+      "rank": 40,
+      "atr": 0.0874,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 76,
+      "atr": 0.2158,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 24493.1356,
+    "leverage": 0.0201,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

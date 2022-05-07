@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BCN",
+      "pnl": 0.3384,
+      "pnl_value": 3.7624,
+      "weight": 0.1154,
+      "rank": 23,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FUN",
+      "pnl": -0.0355,
+      "pnl_value": -0.2893,
+      "weight": 0.0845,
+      "rank": 80,
+      "atr": 0.1122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WICC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCN",
+      "rank": 23,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FUN",
+      "rank": 80,
+      "atr": 0.1122,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.036,
+    "cum_pnl": 98.8151,
+    "leverage": 0.1999,
+    "atr": 0.019,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

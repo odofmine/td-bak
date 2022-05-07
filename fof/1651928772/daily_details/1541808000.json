@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0254,
+      "pnl_value": 0.0283,
+      "weight": 0.012,
+      "rank": 6,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0053,
+      "pnl_value": -0.004,
+      "weight": 0.0081,
+      "rank": 67,
+      "atr": 0.0796,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0796,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 92.1023,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0227,
+    "green_marketcap_pnt": 0
+  }
+}

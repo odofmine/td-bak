@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0126,
+      "pnl_value": 0.0134,
+      "weight": 0.011,
+      "rank": 30,
+      "atr": 0.0753,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0018,
+      "pnl_value": -0.0022,
+      "weight": 0.0125,
+      "rank": 17,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0066,
+      "pnl_value": -0.0056,
+      "weight": 0.0087,
+      "rank": 25,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0404,
+      "pnl_value": -0.031,
+      "weight": 0.0079,
+      "rank": 5,
+      "atr": 0.1046,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 17,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0753,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 25,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.1046,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 96.0824,
+    "leverage": 0.0401,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0481,
+    "green_marketcap_pnt": 0
+  }
+}

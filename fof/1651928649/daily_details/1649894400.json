@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "PAXG",
+      "pnl": -0.002,
+      "pnl_value": -0.0115,
+      "weight": 0.0437,
+      "rank": 116,
+      "atr": 0.014,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0333,
+      "pnl_value": -0.0393,
+      "weight": 0.0091,
+      "rank": 32,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0427,
+      "pnl_value": -0.0393,
+      "weight": 0.0071,
+      "rank": 15,
+      "atr": 0.0858,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 116,
+      "atr": 0.014,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 15,
+      "atr": 0.0858,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 128.6164,
+    "leverage": 0.0599,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0095,
+    "green_marketcap_pnt": 0
+  }
+}

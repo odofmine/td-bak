@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "MONA",
+      "pnl": 0.1063,
+      "pnl_value": 0.0148,
+      "weight": 0.0073,
+      "rank": 102,
+      "atr": 0.1212,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.0658,
+      "pnl_value": 0.0072,
+      "weight": 0.0057,
+      "rank": 21,
+      "atr": 0.1556,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0324,
+      "pnl_value": 0.0067,
+      "weight": 0.0108,
+      "rank": 3,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.003,
+      "pnl_value": -0.0009,
+      "weight": 0.0164,
+      "rank": 1,
+      "atr": 0.0541,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0541,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 102,
+      "atr": 0.1212,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1556,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 18.1043,
+    "leverage": 0.0402,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.5808,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": -0.0027,
+      "pnl_value": -0.0054,
+      "weight": 0.0204,
+      "rank": 1,
+      "atr": 0.0336,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0034,
+      "pnl_value": -0.0027,
+      "weight": 0.0085,
+      "rank": 5,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0046,
+      "pnl_value": -0.0028,
+      "weight": 0.0065,
+      "rank": 59,
+      "atr": 0.1054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.023,
+      "pnl_value": -0.0116,
+      "weight": 0.0053,
+      "rank": 47,
+      "atr": 0.1296,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0427,
+      "pnl_value": -0.0298,
+      "weight": 0.0073,
+      "rank": 24,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.059,
+      "pnl_value": -0.0698,
+      "weight": 0.0124,
+      "rank": 29,
+      "atr": 0.0554,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0336,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.0554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.1054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.1296,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 94.3822,
+    "leverage": 0.0604,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.564,
+    "green_marketcap_pnt": 0
+  }
+}

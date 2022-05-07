@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0842,
+      "pnl_value": 0.7091,
+      "weight": 0.0246,
+      "rank": 78,
+      "atr": 0.0589,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0819,
+      "pnl_value": 0.5663,
+      "weight": 0.0202,
+      "rank": 42,
+      "atr": 0.0718,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0522,
+      "pnl_value": 0.3338,
+      "weight": 0.0187,
+      "rank": 101,
+      "atr": 0.0774,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0185,
+      "pnl_value": 0.1388,
+      "weight": 0.0219,
+      "rank": 54,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.0149,
+      "pnl_value": -0.0835,
+      "weight": 0.0164,
+      "rank": 61,
+      "atr": 0.0881,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 78,
+      "atr": 0.0589,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 54,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.0718,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 101,
+      "atr": 0.0774,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 61,
+      "atr": 0.0881,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 342.8924,
+    "leverage": 0.1018,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

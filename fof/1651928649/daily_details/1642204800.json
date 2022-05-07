@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.015,
+      "pnl_value": 0.0167,
+      "weight": 0.009,
+      "rank": 30,
+      "atr": 0.1013,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KLAY",
+      "pnl": 0.0058,
+      "pnl_value": 0.0086,
+      "weight": 0.012,
+      "rank": 45,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0001,
+      "pnl_value": -0.0002,
+      "weight": 0.0098,
+      "rank": 82,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0065,
+      "pnl_value": -0.0071,
+      "weight": 0.0088,
+      "rank": 68,
+      "atr": 0.1036,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0404,
+      "pnl_value": -0.0525,
+      "weight": 0.0105,
+      "rank": 117,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0452,
+      "pnl_value": -0.0587,
+      "weight": 0.0105,
+      "rank": 24,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0497,
+      "pnl_value": -0.0597,
+      "weight": 0.0097,
+      "rank": 47,
+      "atr": 0.0942,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KLAY",
+      "rank": 45,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 117,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 30,
+      "atr": 0.1013,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 68,
+      "atr": 0.1036,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 122.5329,
+    "leverage": 0.0703,
+    "atr": 0.0064,
+    "marketcap_pnt": 0.0127,
+    "green_marketcap_pnt": 0
+  }
+}

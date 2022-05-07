@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.1432,
+      "pnl_value": 0.1591,
+      "weight": 0.009,
+      "rank": 82,
+      "atr": 0.1028,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0289,
+      "pnl_value": 0.0372,
+      "weight": 0.0104,
+      "rank": 24,
+      "atr": 0.0888,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0175,
+      "pnl_value": 0.0208,
+      "weight": 0.0096,
+      "rank": 47,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0165,
+      "pnl_value": -0.0187,
+      "weight": 0.0092,
+      "rank": 30,
+      "atr": 0.1001,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KLAY",
+      "pnl": -0.0177,
+      "pnl_value": -0.0265,
+      "weight": 0.0121,
+      "rank": 45,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KLAY",
+      "rank": 45,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0888,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 30,
+      "atr": 0.1001,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.1028,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 122.6857,
+    "leverage": 0.0503,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0114,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "pnls": [
+    {
+      "name": "UNI",
+      "pnl": 0.0823,
+      "pnl_value": 16.7214,
+      "weight": 0.0182,
+      "rank": 9,
+      "atr": 0.0868,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0467,
+      "pnl_value": 8.2269,
+      "weight": 0.0158,
+      "rank": 31,
+      "atr": 0.0997,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0368,
+      "pnl_value": 7.7116,
+      "weight": 0.0188,
+      "rank": 13,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0311,
+      "pnl_value": 8.5391,
+      "weight": 0.0246,
+      "rank": 2,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0106,
+      "pnl_value": 2.3791,
+      "weight": 0.0201,
+      "rank": 26,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0154,
+      "pnl_value": -7.6201,
+      "weight": 0.0444,
+      "rank": 51,
+      "atr": 0.0356,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0162,
+      "pnl_value": -3.0276,
+      "weight": 0.0167,
+      "rank": 41,
+      "atr": 0.0945,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.034,
+      "pnl_value": -6.6815,
+      "weight": 0.0176,
+      "rank": 75,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0353,
+      "pnl_value": -5.3187,
+      "weight": 0.0135,
+      "rank": 88,
+      "atr": 0.1172,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0502,
+      "pnl_value": -9.6973,
+      "weight": 0.0173,
+      "rank": 22,
+      "atr": 0.091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0645,
+      "pnl_value": -14.8253,
+      "weight": 0.0206,
+      "rank": 53,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0817,
+      "pnl_value": -15.1325,
+      "weight": 0.0166,
+      "rank": 73,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0356,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0868,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 75,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 22,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0945,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 73,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.0997,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 88,
+      "atr": 0.1172,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 11140.6228,
+    "leverage": 0.2442,
+    "atr": 0.0189,
+    "marketcap_pnt": 0.1798,
+    "green_marketcap_pnt": 0
+  }
+}

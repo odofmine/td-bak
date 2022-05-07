@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.0622,
+      "pnl_value": 13.1681,
+      "weight": 0.0085,
+      "rank": 97,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APE",
+      "pnl": 0.0072,
+      "pnl_value": 1.4872,
+      "weight": 0.0083,
+      "rank": 39,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0012,
+      "pnl_value": -0.3337,
+      "weight": 0.0113,
+      "rank": 48,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0287,
+      "pnl_value": -9.2959,
+      "weight": 0.013,
+      "rank": 27,
+      "atr": 0.0485,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0529,
+      "pnl_value": -15.0262,
+      "weight": 0.0114,
+      "rank": 32,
+      "atr": 0.055,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.093,
+      "pnl_value": -18.3119,
+      "weight": 0.0079,
+      "rank": 96,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 27,
+      "atr": 0.0485,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.055,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 48,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 97,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 39,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 96,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 24891.1177,
+    "leverage": 0.0604,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0096,
+    "green_marketcap_pnt": 0
+  }
+}

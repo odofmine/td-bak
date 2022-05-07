@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "SKY",
+      "pnl": -0.0335,
+      "pnl_value": -0.0244,
+      "weight": 0.0095,
+      "rank": 90,
+      "atr": 0.1718,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XVG",
+      "pnl": -0.1996,
+      "pnl_value": -0.1627,
+      "weight": 0.0106,
+      "rank": 26,
+      "atr": 0.1539,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XVG",
+      "rank": 26,
+      "atr": 0.1539,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKY",
+      "rank": 90,
+      "atr": 0.1718,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 75.7295,
+    "leverage": 0.0201,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

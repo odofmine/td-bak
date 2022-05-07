@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.1628,
+      "pnl_value": 24.1992,
+      "weight": 0.0135,
+      "rank": 41,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.1125,
+      "pnl_value": 21.0567,
+      "weight": 0.017,
+      "rank": 26,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": 0.023,
+      "pnl_value": 3.0934,
+      "weight": 0.0122,
+      "rank": 77,
+      "atr": 0.121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0017,
+      "pnl_value": -0.7549,
+      "weight": 0.0394,
+      "rank": 51,
+      "atr": 0.0375,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0763,
+      "pnl_value": -16.5485,
+      "weight": 0.0197,
+      "rank": 13,
+      "atr": 0.0748,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0375,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0748,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.121,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 11042.9205,
+    "leverage": 0.1018,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0132,
+    "green_marketcap_pnt": 0
+  }
+}

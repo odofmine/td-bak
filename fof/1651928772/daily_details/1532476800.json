@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EMC",
+      "pnl": -0.0215,
+      "pnl_value": -0.02,
+      "weight": 0.0096,
+      "rank": 80,
+      "atr": 0.0659,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0269,
+      "pnl_value": -0.0394,
+      "weight": 0.0151,
+      "rank": 1,
+      "atr": 0.0419,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0286,
+      "pnl_value": -0.0266,
+      "weight": 0.0096,
+      "rank": 13,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0419,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 80,
+      "atr": 0.0659,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 96.0248,
+    "leverage": 0.0343,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.4726,
+    "green_marketcap_pnt": 0
+  }
+}

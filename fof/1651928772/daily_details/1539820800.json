@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0793,
+      "pnl_value": 0.0782,
+      "weight": 0.0105,
+      "rank": 92,
+      "atr": 0.0912,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": 0.0405,
+      "pnl_value": 0.0453,
+      "weight": 0.0119,
+      "rank": 109,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.024,
+      "pnl_value": 0.027,
+      "weight": 0.012,
+      "rank": 52,
+      "atr": 0.0801,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": 0.0006,
+      "pnl_value": 0.0006,
+      "weight": 0.0116,
+      "rank": 91,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0432,
+      "pnl_value": -0.0462,
+      "weight": 0.0114,
+      "rank": 93,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0552,
+      "pnl_value": -0.0498,
+      "weight": 0.0096,
+      "rank": 60,
+      "atr": 0.1002,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0628,
+      "pnl_value": -0.02,
+      "weight": 0.0034,
+      "rank": 25,
+      "atr": 0.278,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0801,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 109,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 91,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0912,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.1002,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 25,
+      "atr": 0.278,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 92.9597,
+    "leverage": 0.0704,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0043,
+    "green_marketcap_pnt": 0
+  }
+}

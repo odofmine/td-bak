@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.2881,
+      "pnl_value": 0.2769,
+      "weight": 0.0101,
+      "rank": 24,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.0885,
+      "pnl_value": 0.0497,
+      "weight": 0.0059,
+      "rank": 47,
+      "atr": 0.1415,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0332,
+      "pnl_value": 0.0237,
+      "weight": 0.0075,
+      "rank": 59,
+      "atr": 0.1102,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0123,
+      "pnl_value": 0.0111,
+      "weight": 0.0095,
+      "rank": 35,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0028,
+      "pnl_value": -0.0047,
+      "weight": 0.0173,
+      "rank": 14,
+      "atr": 0.0483,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 14,
+      "atr": 0.0483,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 35,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.1102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.1415,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0037,
+    "cum_pnl": 94.5044,
+    "leverage": 0.0503,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0104,
+    "green_marketcap_pnt": 0
+  }
+}

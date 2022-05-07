@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0287,
+      "pnl_value": 0.0069,
+      "weight": 0.0124,
+      "rank": 6,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0202,
+      "pnl_value": -0.0031,
+      "weight": 0.0078,
+      "rank": 104,
+      "atr": 0.1521,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 104,
+      "atr": 0.1521,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 18.3735,
+    "leverage": 0.0202,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0196,
+    "green_marketcap_pnt": 0
+  }
+}

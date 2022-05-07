@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.5467,
+      "pnl_value": 97.8121,
+      "weight": 0.0162,
+      "rank": 53,
+      "atr": 0.1014,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0654,
+      "pnl_value": 14.4494,
+      "weight": 0.02,
+      "rank": 26,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0377,
+      "pnl_value": 7.5432,
+      "weight": 0.0181,
+      "rank": 9,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.0233,
+      "pnl_value": 4.3248,
+      "weight": 0.0168,
+      "rank": 41,
+      "atr": 0.0973,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.02,
+      "pnl_value": 9.939,
+      "weight": 0.0449,
+      "rank": 51,
+      "atr": 0.0366,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0159,
+      "pnl_value": -3.4996,
+      "weight": 0.0199,
+      "rank": 13,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0333,
+      "pnl_value": -5.1152,
+      "weight": 0.0139,
+      "rank": 77,
+      "atr": 0.1178,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REV",
+      "pnl": -0.0629,
+      "pnl_value": -9.0263,
+      "weight": 0.013,
+      "rank": 79,
+      "atr": 0.1255,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0366,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0973,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.1014,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.1178,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REV",
+      "rank": 79,
+      "atr": 0.1255,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0105,
+    "cum_pnl": 11159.348,
+    "leverage": 0.1628,
+    "atr": 0.0131,
+    "marketcap_pnt": 0.0248,
+    "green_marketcap_pnt": 0
+  }
+}

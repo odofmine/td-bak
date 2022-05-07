@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ZIL",
+      "pnl": 0.3665,
+      "pnl_value": 0.149,
+      "weight": 0.1109,
+      "rank": 45,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.3023,
+      "pnl_value": 0.15,
+      "weight": 0.1353,
+      "rank": 32,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.1019,
+      "pnl_value": 0.0357,
+      "weight": 0.0954,
+      "rank": 118,
+      "atr": 0.0919,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.092,
+      "pnl_value": 0.0289,
+      "weight": 0.0857,
+      "rank": 42,
+      "atr": 0.1022,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.0436,
+      "pnl_value": 0.0116,
+      "weight": 0.0725,
+      "rank": 165,
+      "atr": 0.1209,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 32,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 45,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 118,
+      "atr": 0.0919,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.1022,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 165,
+      "atr": 0.1209,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1023,
+    "cum_pnl": 3.0422,
+    "leverage": 0.4998,
+    "atr": 0.0438,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}

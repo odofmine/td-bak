@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.4291,
+      "pnl_value": 7.4461,
+      "weight": 0.0179,
+      "rank": 104,
+      "atr": 0.0747,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.262,
+      "pnl_value": 5.1801,
+      "weight": 0.0204,
+      "rank": 64,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.101,
+      "pnl_value": 1.616,
+      "weight": 0.0165,
+      "rank": 100,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0271,
+      "pnl_value": 0.5393,
+      "weight": 0.0205,
+      "rank": 52,
+      "atr": 0.0652,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0116,
+      "pnl_value": -0.2992,
+      "weight": 0.0266,
+      "rank": 14,
+      "atr": 0.0503,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0503,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 52,
+      "atr": 0.0652,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 104,
+      "atr": 0.0747,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 100,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0149,
+    "cum_pnl": 982.8402,
+    "leverage": 0.1019,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

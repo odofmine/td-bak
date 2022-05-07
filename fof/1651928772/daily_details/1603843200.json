@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0056,
+      "pnl_value": 0.1934,
+      "weight": 0.0557,
+      "rank": 110,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0008,
+      "pnl_value": -0.0833,
+      "weight": 0.1717,
+      "rank": 21,
+      "atr": 0.0228,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0264,
+      "pnl_value": -2.3306,
+      "weight": 0.1413,
+      "rank": 1,
+      "atr": 0.0277,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.0272,
+      "pnl_value": -1.3477,
+      "weight": 0.0794,
+      "rank": 10,
+      "atr": 0.0493,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0364,
+      "pnl_value": -2.0486,
+      "weight": 0.09,
+      "rank": 8,
+      "atr": 0.0435,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0652,
+      "pnl_value": -4.4043,
+      "weight": 0.1081,
+      "rank": 44,
+      "atr": 0.0362,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0669,
+      "pnl_value": -2.2326,
+      "weight": 0.0534,
+      "rank": 9,
+      "atr": 0.0732,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 21,
+      "atr": 0.0228,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0277,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0362,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0435,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 10,
+      "atr": 0.0493,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 110,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0732,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0196,
+    "cum_pnl": 611.8843,
+    "leverage": 0.6996,
+    "atr": 0.0274,
+    "marketcap_pnt": 0.6481,
+    "green_marketcap_pnt": 0
+  }
+}

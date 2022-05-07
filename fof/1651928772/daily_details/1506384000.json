@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": -0.0177,
+      "pnl_value": -0.004,
+      "weight": 0.0118,
+      "rank": 6,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.0327,
+      "pnl_value": -0.0061,
+      "weight": 0.0096,
+      "rank": 106,
+      "atr": 0.1139,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0396,
+      "pnl_value": -0.0067,
+      "weight": 0.0087,
+      "rank": 29,
+      "atr": 0.1262,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.1262,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 18.2957,
+    "leverage": 0.0301,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0214,
+    "green_marketcap_pnt": 0
+  }
+}

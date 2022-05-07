@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.0291,
+      "pnl_value": 0.0354,
+      "weight": 0.0099,
+      "rank": 8,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0264,
+      "pnl_value": 0.0311,
+      "weight": 0.0096,
+      "rank": 66,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0011,
+      "pnl_value": -0.0014,
+      "weight": 0.0103,
+      "rank": 98,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0022,
+      "pnl_value": -0.0033,
+      "weight": 0.0126,
+      "rank": 26,
+      "atr": 0.0666,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0407,
+      "pnl_value": -0.04,
+      "weight": 0.008,
+      "rank": 10,
+      "atr": 0.1048,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 26,
+      "atr": 0.0666,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 98,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1048,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 121.7897,
+    "leverage": 0.0504,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0316,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "DOGE",
+      "pnl": 0.335,
+      "pnl_value": 0.7183,
+      "weight": 0.0862,
+      "rank": 47,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.1849,
+      "pnl_value": 0.4153,
+      "weight": 0.0903,
+      "rank": 32,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.1167,
+      "pnl_value": 0.2111,
+      "weight": 0.0727,
+      "rank": 20,
+      "atr": 0.1182,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0563,
+      "pnl_value": 0.2287,
+      "weight": 0.1632,
+      "rank": 2,
+      "atr": 0.0527,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.041,
+      "pnl_value": 0.06,
+      "weight": 0.0588,
+      "rank": 99,
+      "atr": 0.1463,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0276,
+      "pnl_value": 0.0757,
+      "weight": 0.1104,
+      "rank": 4,
+      "atr": 0.0779,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXT",
+      "pnl": 0.0177,
+      "pnl_value": 0.0504,
+      "weight": 0.1144,
+      "rank": 76,
+      "atr": 0.0752,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0166,
+      "pnl_value": 0.0644,
+      "weight": 0.1558,
+      "rank": 1,
+      "atr": 0.0552,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0107,
+      "pnl_value": 0.022,
+      "weight": 0.0825,
+      "rank": 13,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0078,
+      "pnl_value": 0.0126,
+      "weight": 0.0653,
+      "rank": 18,
+      "atr": 0.1317,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0527,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0552,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXT",
+      "rank": 76,
+      "atr": 0.0752,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0779,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 32,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 47,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 13,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 20,
+      "atr": 0.1182,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 18,
+      "atr": 0.1317,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 99,
+      "atr": 0.1463,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 102,
+      "atr": 0.1594,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 84,
+      "atr": 0.1791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 27,
+      "atr": 0.2117,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0747,
+    "cum_pnl": 25.7323,
+    "leverage": 0.9996,
+    "atr": 0.086,
+    "marketcap_pnt": 0.7625,
+    "green_marketcap_pnt": 0
+  }
+}

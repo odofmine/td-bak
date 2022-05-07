@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "PART",
+      "pnl": -0.059,
+      "pnl_value": -0.031,
+      "weight": 0.0068,
+      "rank": 74,
+      "atr": 0.1549,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0616,
+      "pnl_value": -0.0557,
+      "weight": 0.0117,
+      "rank": 1,
+      "atr": 0.0903,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0704,
+      "pnl_value": -0.0674,
+      "weight": 0.0124,
+      "rank": 9,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0807,
+      "pnl_value": -0.0635,
+      "weight": 0.0102,
+      "rank": 56,
+      "atr": 0.1039,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.1146,
+      "pnl_value": -0.0814,
+      "weight": 0.0092,
+      "rank": 48,
+      "atr": 0.1153,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0903,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 56,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 48,
+      "atr": 0.1153,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 74,
+      "atr": 0.1549,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 75.9079,
+    "leverage": 0.0503,
+    "atr": 0.0053,
+    "marketcap_pnt": 0.4368,
+    "green_marketcap_pnt": 0
+  }
+}

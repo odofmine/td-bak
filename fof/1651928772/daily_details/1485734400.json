@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.0339,
+      "pnl_value": 0.0006,
+      "weight": 0.0174,
+      "rank": 10,
+      "atr": 0.0943,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0087,
+      "pnl_value": 0.0002,
+      "weight": 0.0208,
+      "rank": 5,
+      "atr": 0.079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0124,
+      "pnl_value": -0.0002,
+      "weight": 0.0161,
+      "rank": 23,
+      "atr": 0.102,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 23,
+      "atr": 0.102,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": -0.0334,
+    "leverage": 0.0543,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0136,
+    "green_marketcap_pnt": 0
+  }
+}

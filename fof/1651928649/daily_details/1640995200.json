@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0945,
+      "pnl_value": 0.1528,
+      "weight": 0.013,
+      "rank": 44,
+      "atr": 0.0717,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.05,
+      "pnl_value": 0.0572,
+      "weight": 0.0092,
+      "rank": 21,
+      "atr": 0.1004,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0413,
+      "pnl_value": 0.0447,
+      "weight": 0.0087,
+      "rank": 84,
+      "atr": 0.1068,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0051,
+      "pnl_value": -0.0066,
+      "weight": 0.0105,
+      "rank": 121,
+      "atr": 0.0884,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0309,
+      "pnl_value": -0.0338,
+      "weight": 0.0088,
+      "rank": 94,
+      "atr": 0.1051,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0717,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 121,
+      "atr": 0.0884,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 21,
+      "atr": 0.1004,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 94,
+      "atr": 0.1051,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.1068,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 123.5367,
+    "leverage": 0.0502,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0072,
+    "green_marketcap_pnt": 0
+  }
+}

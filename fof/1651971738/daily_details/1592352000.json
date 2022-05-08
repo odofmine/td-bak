@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "CHSB",
+      "pnl": 0.2676,
+      "pnl_value": 2.6268,
+      "weight": 0.0184,
+      "rank": 110,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0202,
+      "pnl_value": 0.2811,
+      "weight": 0.0261,
+      "rank": 106,
+      "atr": 0.065,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.1113,
+      "pnl_value": -0.914,
+      "weight": 0.0154,
+      "rank": 38,
+      "atr": 0.1102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 110,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 38,
+      "atr": 0.1102,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0037,
+    "cum_pnl": 534.4003,
+    "leverage": 0.0599,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

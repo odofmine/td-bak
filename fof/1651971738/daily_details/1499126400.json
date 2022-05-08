@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.0016,
+      "pnl_value": 0.0003,
+      "weight": 0.0131,
+      "rank": 40,
+      "atr": 0.1161,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": -0.0004,
+      "pnl_value": -0.0,
+      "weight": 0.0059,
+      "rank": 44,
+      "atr": 0.2579,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0442,
+      "pnl_value": -0.0115,
+      "weight": 0.0169,
+      "rank": 19,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SLS",
+      "pnl": -0.209,
+      "pnl_value": -0.018,
+      "weight": 0.0056,
+      "rank": 123,
+      "atr": 0.2682,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 19,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 40,
+      "atr": 0.1161,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCAP",
+      "rank": 44,
+      "atr": 0.2579,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SLS",
+      "rank": 123,
+      "atr": 0.2682,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 14.3376,
+    "leverage": 0.0415,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0061,
+    "green_marketcap_pnt": 0
+  }
+}

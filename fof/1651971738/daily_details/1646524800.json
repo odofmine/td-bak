@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.033,
+      "pnl_value": 12.3202,
+      "weight": 0.0076,
+      "rank": 66,
+      "atr": 0.1006,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANC",
+      "pnl": -0.3042,
+      "pnl_value": -186.5269,
+      "weight": 0.0125,
+      "rank": 81,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 81,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.1006,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 48883.5879,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "DENT",
+      "pnl": 0.0802,
+      "pnl_value": 18.6915,
+      "weight": 0.0191,
+      "rank": 100,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0449,
+      "pnl_value": 10.514,
+      "weight": 0.0192,
+      "rank": 103,
+      "atr": 0.0994,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0049,
+      "pnl_value": -1.2558,
+      "weight": 0.0208,
+      "rank": 60,
+      "atr": 0.0914,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0448,
+      "pnl_value": -14.1147,
+      "weight": 0.0258,
+      "rank": 13,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 13,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 60,
+      "atr": 0.0914,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 103,
+      "atr": 0.0994,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 100,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 12215.5297,
+    "leverage": 0.0849,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

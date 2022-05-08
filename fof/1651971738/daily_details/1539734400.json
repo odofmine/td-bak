@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ELA",
+      "pnl": 0.0579,
+      "pnl_value": 0.0743,
+      "weight": 0.0104,
+      "rank": 93,
+      "atr": 0.089,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0383,
+      "pnl_value": 0.0458,
+      "weight": 0.0097,
+      "rank": 92,
+      "atr": 0.0949,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.089,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 122.3782,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

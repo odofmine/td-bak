@@ -1,0 +1,259 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.4425,
+      "pnl_value": 1.2262,
+      "weight": 0.1186,
+      "rank": 6,
+      "atr": 0.0756,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.1128,
+      "pnl_value": 0.2375,
+      "weight": 0.0901,
+      "rank": 15,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0348,
+      "pnl_value": 0.0905,
+      "weight": 0.1115,
+      "rank": 9,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0245,
+      "pnl_value": 0.0786,
+      "weight": 0.1371,
+      "rank": 3,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0233,
+      "pnl_value": -0.0382,
+      "weight": 0.0703,
+      "rank": 38,
+      "atr": 0.1274,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0466,
+      "pnl_value": -0.0849,
+      "weight": 0.078,
+      "rank": 17,
+      "atr": 0.1149,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0581,
+      "pnl_value": -0.1664,
+      "weight": 0.1226,
+      "rank": 5,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0867,
+      "pnl_value": -0.143,
+      "weight": 0.0706,
+      "rank": 12,
+      "atr": 0.127,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0983,
+      "pnl_value": -0.1598,
+      "weight": 0.0696,
+      "rank": 21,
+      "atr": 0.1287,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.2355,
+      "pnl_value": -0.7215,
+      "weight": 0.1311,
+      "rank": 10,
+      "atr": 0.0684,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 3,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 10,
+      "atr": 0.0684,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0756,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 15,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 17,
+      "atr": 0.1149,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 12,
+      "atr": 0.127,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 38,
+      "atr": 0.1274,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 21,
+      "atr": 0.1287,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.1293,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 48,
+      "atr": 0.1323,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 20,
+      "atr": 0.1445,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 25,
+      "atr": 0.1503,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 65,
+      "atr": 0.1853,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0136,
+    "cum_pnl": 22.6829,
+    "leverage": 0.9995,
+    "atr": 0.0896,
+    "marketcap_pnt": 0.1037,
+    "green_marketcap_pnt": 0
+  }
+}

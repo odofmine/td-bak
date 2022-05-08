@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.0885,
+      "pnl_value": 0.5562,
+      "weight": 0.0201,
+      "rank": 189,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0347,
+      "pnl_value": 0.1842,
+      "weight": 0.017,
+      "rank": 148,
+      "atr": 0.1076,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0357,
+      "pnl_value": -0.2587,
+      "weight": 0.0232,
+      "rank": 164,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0566,
+      "pnl_value": -0.4581,
+      "weight": 0.0259,
+      "rank": 22,
+      "atr": 0.0708,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0685,
+      "pnl_value": -0.4537,
+      "weight": 0.0212,
+      "rank": 168,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.1036,
+      "pnl_value": -0.6571,
+      "weight": 0.0203,
+      "rank": 97,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": -0.1551,
+      "pnl_value": -0.722,
+      "weight": 0.0149,
+      "rank": 74,
+      "atr": 0.1233,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 22,
+      "atr": 0.0708,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 164,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 168,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 97,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 189,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 148,
+      "atr": 0.1076,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOLVE",
+      "rank": 74,
+      "atr": 0.1233,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0058,
+    "cum_pnl": 309.6685,
+    "leverage": 0.1426,
+    "atr": 0.0128,
+    "marketcap_pnt": 0.0037,
+    "green_marketcap_pnt": 0
+  }
+}

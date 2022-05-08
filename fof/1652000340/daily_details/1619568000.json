@@ -1,0 +1,262 @@
+{
+  "pnls": [
+    {
+      "name": "ABBC",
+      "pnl": 0.1094,
+      "pnl_value": 61.453,
+      "weight": 0.0204,
+      "rank": 176,
+      "atr": 0.0739,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0823,
+      "pnl_value": 39.2266,
+      "weight": 0.0173,
+      "rank": 9,
+      "atr": 0.0868,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0654,
+      "pnl_value": 43.9186,
+      "weight": 0.0244,
+      "rank": 158,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0467,
+      "pnl_value": 19.4039,
+      "weight": 0.0151,
+      "rank": 31,
+      "atr": 0.0997,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0368,
+      "pnl_value": 18.1207,
+      "weight": 0.0179,
+      "rank": 13,
+      "atr": 0.0839,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0311,
+      "pnl_value": 20.046,
+      "weight": 0.0234,
+      "rank": 2,
+      "atr": 0.0643,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0106,
+      "pnl_value": 5.6085,
+      "weight": 0.0192,
+      "rank": 26,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0154,
+      "pnl_value": -17.9165,
+      "weight": 0.0423,
+      "rank": 51,
+      "atr": 0.0356,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0162,
+      "pnl_value": -7.114,
+      "weight": 0.0159,
+      "rank": 41,
+      "atr": 0.0945,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.034,
+      "pnl_value": -15.7401,
+      "weight": 0.0168,
+      "rank": 75,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0502,
+      "pnl_value": -22.8256,
+      "weight": 0.0165,
+      "rank": 22,
+      "atr": 0.091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0645,
+      "pnl_value": -34.8119,
+      "weight": 0.0196,
+      "rank": 53,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0697,
+      "pnl_value": -28.2286,
+      "weight": 0.0147,
+      "rank": 127,
+      "atr": 0.1025,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0817,
+      "pnl_value": -35.7714,
+      "weight": 0.0159,
+      "rank": 73,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0356,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 158,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0643,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 176,
+      "atr": 0.0739,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0839,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0868,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 75,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 22,
+      "atr": 0.091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0945,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 73,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 31,
+      "atr": 0.0997,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.1025,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 27587.439,
+    "leverage": 0.2794,
+    "atr": 0.0211,
+    "marketcap_pnt": 0.1798,
+    "green_marketcap_pnt": 0
+  }
+}

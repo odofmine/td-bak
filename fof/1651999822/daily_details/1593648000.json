@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ADA",
+      "pnl": -0.0407,
+      "pnl_value": -0.0007,
+      "weight": 0.0124,
+      "rank": 11,
+      "atr": 0.0543,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0734,
+      "pnl_value": -0.0007,
+      "weight": 0.0077,
+      "rank": 160,
+      "atr": 0.0871,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0543,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0871,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 0.2888,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0081,
+    "green_marketcap_pnt": 0
+  }
+}

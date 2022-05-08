@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.1305,
+      "pnl_value": 20.2009,
+      "weight": 0.0158,
+      "rank": 91,
+      "atr": 0.1355,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": 0.0474,
+      "pnl_value": 12.9122,
+      "weight": 0.0278,
+      "rank": 88,
+      "atr": 0.077,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": -0.0493,
+      "pnl_value": -7.73,
+      "weight": 0.016,
+      "rank": 194,
+      "atr": 0.1336,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0555,
+      "pnl_value": -12.2888,
+      "weight": 0.0226,
+      "rank": 3,
+      "atr": 0.0947,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0647,
+      "pnl_value": -12.3501,
+      "weight": 0.0195,
+      "rank": 54,
+      "atr": 0.11,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0947,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.11,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.1336,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1355,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 9794.8453,
+    "leverage": 0.1017,
+    "atr": 0.0107,
+    "marketcap_pnt": 0.0313,
+    "green_marketcap_pnt": 0
+  }
+}

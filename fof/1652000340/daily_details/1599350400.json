@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": 0.0548,
+      "pnl_value": 0.8826,
+      "weight": 0.0108,
+      "rank": 15,
+      "atr": 0.11,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": 0.0278,
+      "pnl_value": 0.5013,
+      "weight": 0.0121,
+      "rank": 141,
+      "atr": 0.0986,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTS",
+      "rank": 141,
+      "atr": 0.0986,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 15,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 1490.7936,
+    "leverage": 0.0229,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

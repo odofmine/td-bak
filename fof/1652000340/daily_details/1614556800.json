@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "ADK",
+      "pnl": 0.0893,
+      "pnl_value": 14.2163,
+      "weight": 0.0163,
+      "rank": 194,
+      "atr": 0.1463,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0779,
+      "pnl_value": 15.5286,
+      "weight": 0.0204,
+      "rank": 54,
+      "atr": 0.1171,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0137,
+      "pnl_value": -3.4232,
+      "weight": 0.0256,
+      "rank": 3,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.1171,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.1463,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0027,
+    "cum_pnl": 9794.101,
+    "leverage": 0.0623,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.0306,
+    "green_marketcap_pnt": 0
+  }
+}

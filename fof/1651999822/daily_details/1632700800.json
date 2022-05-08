@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "COTI",
+      "pnl": 0.1785,
+      "pnl_value": 0.2091,
+      "weight": 0.0093,
+      "rank": 126,
+      "atr": 0.1249,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0706,
+      "pnl_value": -0.0979,
+      "weight": 0.011,
+      "rank": 90,
+      "atr": 0.1057,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": -0.088,
+      "pnl_value": -0.0976,
+      "weight": 0.0088,
+      "rank": 162,
+      "atr": 0.1318,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.1139,
+      "pnl_value": -0.1607,
+      "weight": 0.0112,
+      "rank": 81,
+      "atr": 0.1039,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REN",
+      "rank": 81,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 90,
+      "atr": 0.1057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 126,
+      "atr": 0.1249,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 162,
+      "atr": 0.1318,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 124.8357,
+    "leverage": 0.0403,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

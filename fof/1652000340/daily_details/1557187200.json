@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "PART",
+      "pnl": 0.1689,
+      "pnl_value": 2.2614,
+      "weight": 0.0619,
+      "rank": 150,
+      "atr": 0.0936,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0339,
+      "pnl_value": 0.7422,
+      "weight": 0.1013,
+      "rank": 84,
+      "atr": 0.0572,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0169,
+      "pnl_value": 0.4056,
+      "weight": 0.1112,
+      "rank": 27,
+      "atr": 0.0521,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0124,
+      "pnl_value": 0.5025,
+      "weight": 0.187,
+      "rank": 1,
+      "atr": 0.031,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0273,
+      "pnl_value": -0.9239,
+      "weight": 0.1566,
+      "rank": 2,
+      "atr": 0.037,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.0472,
+      "pnl_value": -0.6692,
+      "weight": 0.0655,
+      "rank": 128,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.069,
+      "pnl_value": -1.2914,
+      "weight": 0.0865,
+      "rank": 40,
+      "atr": 0.067,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ABT",
+      "pnl": -0.1027,
+      "pnl_value": -0.6575,
+      "weight": 0.0296,
+      "rank": 132,
+      "atr": 0.1956,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.031,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.037,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 27,
+      "atr": 0.0521,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 84,
+      "atr": 0.0572,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 40,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 128,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 150,
+      "atr": 0.0936,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABT",
+      "rank": 132,
+      "atr": 0.1956,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 215.721,
+    "leverage": 0.7996,
+    "atr": 0.0464,
+    "marketcap_pnt": 0.6705,
+    "green_marketcap_pnt": 0
+  }
+}

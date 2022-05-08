@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "UNFI",
+      "pnl": 0.1698,
+      "pnl_value": 0.0402,
+      "weight": 0.0155,
+      "rank": 178,
+      "atr": 0.1466,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0703,
+      "pnl_value": 0.023,
+      "weight": 0.0214,
+      "rank": 54,
+      "atr": 0.106,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0122,
+      "pnl_value": -0.0048,
+      "weight": 0.0255,
+      "rank": 3,
+      "atr": 0.0891,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 3,
+      "atr": 0.0891,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 54,
+      "atr": 0.106,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1466,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 14.342,
+    "leverage": 0.0624,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0306,
+    "green_marketcap_pnt": 0
+  }
+}

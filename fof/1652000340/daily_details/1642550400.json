@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl": 0.0398,
+      "pnl_value": 51.9401,
+      "weight": 0.0124,
+      "rank": 29,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0423,
+      "pnl_value": -38.7226,
+      "weight": 0.0087,
+      "rank": 110,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SCRT",
+      "pnl": -0.0514,
+      "pnl_value": -49.7483,
+      "weight": 0.0092,
+      "rank": 81,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0836,
+      "pnl_value": -87.0758,
+      "weight": 0.0099,
+      "rank": 5,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ROSE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KAVA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 29,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 81,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 110,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 105061.3818,
+    "leverage": 0.0402,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.027,
+    "green_marketcap_pnt": 0
+  }
+}

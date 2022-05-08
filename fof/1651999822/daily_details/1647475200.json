@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.016,
+      "pnl_value": 0.0348,
+      "weight": 0.0122,
+      "rank": 120,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MBL",
+      "pnl": -0.0942,
+      "pnl_value": -0.1292,
+      "weight": 0.0077,
+      "rank": 193,
+      "atr": 0.146,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MBL",
+      "rank": 193,
+      "atr": 0.146,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 177.0237,
+    "leverage": 0.0199,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

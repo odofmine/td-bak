@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "CLAM",
+      "pnl": 0.0062,
+      "pnl_value": 0.0015,
+      "weight": 0.0115,
+      "rank": 129,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EMC2",
+      "pnl": -0.0125,
+      "pnl_value": -0.0024,
+      "weight": 0.0089,
+      "rank": 167,
+      "atr": 0.1258,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.0327,
+      "pnl_value": -0.0069,
+      "weight": 0.0098,
+      "rank": 106,
+      "atr": 0.1139,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCAP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CLAM",
+      "rank": 129,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 167,
+      "atr": 0.1258,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 20.5628,
+    "leverage": 0.0302,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

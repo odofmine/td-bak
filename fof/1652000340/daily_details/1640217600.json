@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.2664,
+      "pnl_value": 248.2434,
+      "weight": 0.0087,
+      "rank": 31,
+      "atr": 0.1127,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": 0.1349,
+      "pnl_value": 150.322,
+      "weight": 0.0104,
+      "rank": 197,
+      "atr": 0.0938,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.1033,
+      "pnl_value": 131.6274,
+      "weight": 0.0119,
+      "rank": 9,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0732,
+      "pnl_value": 83.8709,
+      "weight": 0.0107,
+      "rank": 14,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0411,
+      "pnl_value": 41.8657,
+      "weight": 0.0095,
+      "rank": 10,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0279,
+      "pnl_value": 26.0218,
+      "weight": 0.0087,
+      "rank": 68,
+      "atr": 0.1123,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0027,
+      "pnl_value": -3.0716,
+      "weight": 0.0106,
+      "rank": 83,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0938,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.1123,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.1127,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0063,
+    "cum_pnl": 107802.7539,
+    "leverage": 0.0705,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0366,
+    "green_marketcap_pnt": 0
+  }
+}

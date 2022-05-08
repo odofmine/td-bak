@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "AMPL",
+      "pnl": 0.0594,
+      "pnl_value": 0.7225,
+      "weight": 0.0085,
+      "rank": 84,
+      "atr": 0.1479,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0471,
+      "pnl_value": 1.3748,
+      "weight": 0.0204,
+      "rank": 70,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0458,
+      "pnl_value": 1.2851,
+      "weight": 0.0196,
+      "rank": 42,
+      "atr": 0.0641,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0006,
+      "pnl_value": -0.0344,
+      "weight": 0.0403,
+      "rank": 1,
+      "atr": 0.0312,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0312,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 42,
+      "atr": 0.0641,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 84,
+      "atr": 0.1479,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 1432.6588,
+    "leverage": 0.0888,
+    "atr": 0.005,
+    "marketcap_pnt": 0.6394,
+    "green_marketcap_pnt": 0
+  }
+}

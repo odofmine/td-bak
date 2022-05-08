@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": 0.0587,
+      "pnl_value": 0.001,
+      "weight": 0.0129,
+      "rank": 134,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0082,
+      "pnl_value": 0.0001,
+      "weight": 0.0111,
+      "rank": 198,
+      "atr": 0.0819,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0359,
+      "pnl_value": -0.0005,
+      "weight": 0.0109,
+      "rank": 88,
+      "atr": 0.0835,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0505,
+      "pnl_value": -0.0007,
+      "weight": 0.0109,
+      "rank": 154,
+      "atr": 0.0829,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 134,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0819,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 154,
+      "atr": 0.0829,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0835,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.3042,
+    "leverage": 0.0458,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

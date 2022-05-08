@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.1093,
+      "pnl_value": 31.0853,
+      "weight": 0.0089,
+      "rank": 43,
+      "atr": 0.1244,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0038,
+      "pnl_value": -0.9915,
+      "weight": 0.0082,
+      "rank": 124,
+      "atr": 0.1361,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0336,
+      "pnl_value": -13.3069,
+      "weight": 0.0124,
+      "rank": 186,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.034,
+      "pnl_value": -9.6787,
+      "weight": 0.0089,
+      "rank": 173,
+      "atr": 0.1248,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XDC",
+      "pnl": -0.1443,
+      "pnl_value": -54.8779,
+      "weight": 0.0119,
+      "rank": 63,
+      "atr": 0.094,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMPL",
+      "rank": 186,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 63,
+      "atr": 0.094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1244,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1248,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1361,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 31906.8415,
+    "leverage": 0.0503,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

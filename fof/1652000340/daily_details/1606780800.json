@@ -1,0 +1,204 @@
+{
+  "pnls": [
+    {
+      "name": "AMPL",
+      "pnl": 0.0512,
+      "pnl_value": 1.2667,
+      "weight": 0.0117,
+      "rank": 64,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0406,
+      "pnl_value": 1.3583,
+      "weight": 0.0158,
+      "rank": 45,
+      "atr": 0.0837,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0268,
+      "pnl_value": 1.0653,
+      "weight": 0.0188,
+      "rank": 57,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0059,
+      "pnl_value": 0.8583,
+      "weight": 0.0692,
+      "rank": 21,
+      "atr": 0.0192,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0205,
+      "pnl_value": -0.7958,
+      "weight": 0.0183,
+      "rank": 75,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.034,
+      "pnl_value": -1.1373,
+      "weight": 0.0158,
+      "rank": 54,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0403,
+      "pnl_value": -2.5356,
+      "weight": 0.0297,
+      "rank": 48,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETN",
+      "pnl": -0.0519,
+      "pnl_value": -1.3622,
+      "weight": 0.0124,
+      "rank": 144,
+      "atr": 0.1068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.1099,
+      "pnl_value": -4.9329,
+      "weight": 0.0212,
+      "rank": 53,
+      "atr": 0.0627,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NRG",
+      "pnl": -0.1141,
+      "pnl_value": -2.1247,
+      "weight": 0.0088,
+      "rank": 149,
+      "atr": 0.1507,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 21,
+      "atr": 0.0192,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 48,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 53,
+      "atr": 0.0627,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 57,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 75,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.0837,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 54,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETN",
+      "rank": 144,
+      "atr": 0.1068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 64,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NRG",
+      "rank": 149,
+      "atr": 0.1507,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0039,
+    "cum_pnl": 2106.9599,
+    "leverage": 0.2217,
+    "atr": 0.0133,
+    "marketcap_pnt": 0.0067,
+    "green_marketcap_pnt": 0
+  }
+}

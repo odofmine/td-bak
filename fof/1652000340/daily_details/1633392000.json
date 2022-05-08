@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "SHIB",
+      "pnl": 0.2828,
+      "pnl_value": 2129.861,
+      "weight": 0.1097,
+      "rank": 47,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": 0.1495,
+      "pnl_value": 780.0461,
+      "weight": 0.076,
+      "rank": 122,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0589,
+      "pnl_value": 332.6278,
+      "weight": 0.0822,
+      "rank": 74,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0452,
+      "pnl_value": 491.6304,
+      "weight": 0.1584,
+      "rank": 1,
+      "atr": 0.05,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SCRT",
+      "pnl": 0.006,
+      "pnl_value": 45.0206,
+      "weight": 0.1099,
+      "rank": 197,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0314,
+      "pnl_value": -208.7743,
+      "weight": 0.0968,
+      "rank": 76,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.043,
+      "pnl_value": -309.0745,
+      "weight": 0.1046,
+      "rank": 23,
+      "atr": 0.0757,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0444,
+      "pnl_value": -252.939,
+      "weight": 0.0829,
+      "rank": 11,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0474,
+      "pnl_value": -268.5904,
+      "weight": 0.0825,
+      "rank": 24,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0621,
+      "pnl_value": -411.2125,
+      "weight": 0.0964,
+      "rank": 56,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.05,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 197,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 47,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 23,
+      "atr": 0.0757,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 76,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 56,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 11,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 24,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 74,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 122,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 86,
+      "atr": 0.105,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 88,
+      "atr": 0.1099,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0339,
+    "cum_pnl": 70992.7839,
+    "leverage": 0.9994,
+    "atr": 0.0792,
+    "marketcap_pnt": 0.4464,
+    "green_marketcap_pnt": 0
+  }
+}

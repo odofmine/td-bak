@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.1628,
+      "pnl_value": 32.3955,
+      "weight": 0.0073,
+      "rank": 41,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.1125,
+      "pnl_value": 28.2114,
+      "weight": 0.0092,
+      "rank": 26,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": 0.1114,
+      "pnl_value": 27.341,
+      "weight": 0.009,
+      "rank": 176,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": 0.023,
+      "pnl_value": 4.1429,
+      "weight": 0.0066,
+      "rank": 77,
+      "atr": 0.121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0017,
+      "pnl_value": -1.0151,
+      "weight": 0.0214,
+      "rank": 51,
+      "atr": 0.0375,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0763,
+      "pnl_value": -22.2521,
+      "weight": 0.0107,
+      "rank": 13,
+      "atr": 0.0748,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0375,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0748,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 176,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.121,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0025,
+    "cum_pnl": 27332.1886,
+    "leverage": 0.0642,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

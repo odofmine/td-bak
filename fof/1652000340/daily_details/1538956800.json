@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.2881,
+      "pnl_value": 0.4309,
+      "weight": 0.0094,
+      "rank": 24,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0976,
+      "pnl_value": 0.2033,
+      "weight": 0.0131,
+      "rank": 29,
+      "atr": 0.059,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": 0.0673,
+      "pnl_value": 0.09,
+      "weight": 0.0084,
+      "rank": 117,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SALT",
+      "pnl": 0.0347,
+      "pnl_value": 0.0364,
+      "weight": 0.0066,
+      "rank": 119,
+      "atr": 0.1173,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0123,
+      "pnl_value": 0.0172,
+      "weight": 0.0088,
+      "rank": 35,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0028,
+      "pnl_value": -0.0072,
+      "weight": 0.016,
+      "rank": 14,
+      "atr": 0.0483,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SKY",
+      "pnl": -0.0078,
+      "pnl_value": -0.0092,
+      "weight": 0.0074,
+      "rank": 127,
+      "atr": 0.1046,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEBL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 14,
+      "atr": 0.0483,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.059,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 35,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 117,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SKY",
+      "rank": 127,
+      "atr": 0.1046,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 119,
+      "atr": 0.1173,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0048,
+    "cum_pnl": 158.853,
+    "leverage": 0.0697,
+    "atr": 0.0054,
+    "marketcap_pnt": 0.0114,
+    "green_marketcap_pnt": 0
+  }
+}

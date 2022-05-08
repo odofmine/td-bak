@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.0446,
+      "pnl_value": 0.0593,
+      "weight": 0.0068,
+      "rank": 29,
+      "atr": 0.1487,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0831,
+      "pnl_value": -0.1689,
+      "weight": 0.0104,
+      "rank": 52,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.1682,
+      "pnl_value": -0.4241,
+      "weight": 0.0129,
+      "rank": 85,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 52,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.1487,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 193.8646,
+    "leverage": 0.0301,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0043,
+    "green_marketcap_pnt": 0
+  }
+}

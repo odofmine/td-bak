@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0033,
+      "pnl_value": 0.0061,
+      "weight": 0.0104,
+      "rank": 66,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0405,
+      "pnl_value": -0.0546,
+      "weight": 0.0075,
+      "rank": 153,
+      "atr": 0.1186,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0782,
+      "pnl_value": -0.1491,
+      "weight": 0.0106,
+      "rank": 8,
+      "atr": 0.0842,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0911,
+      "pnl_value": -0.1737,
+      "weight": 0.0106,
+      "rank": 199,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0945,
+      "pnl_value": -0.1716,
+      "weight": 0.0101,
+      "rank": 62,
+      "atr": 0.089,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0963,
+      "pnl_value": -0.1939,
+      "weight": 0.0112,
+      "rank": 144,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.1043,
+      "pnl_value": -0.1745,
+      "weight": 0.0093,
+      "rank": 20,
+      "atr": 0.0964,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0842,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 199,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 62,
+      "atr": 0.089,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0964,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1186,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0051,
+    "cum_pnl": 177.9064,
+    "leverage": 0.0697,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0228,
+    "green_marketcap_pnt": 0
+  }
+}

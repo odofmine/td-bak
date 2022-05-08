@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "SLV",
+      "pnl": 0.2236,
+      "pnl_value": 0.4269,
+      "weight": 0.0049,
+      "rank": 153,
+      "atr": 0.1662,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.102,
+      "pnl_value": 0.3535,
+      "weight": 0.0089,
+      "rank": 22,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0127,
+      "pnl_value": 0.0588,
+      "weight": 0.0119,
+      "rank": 46,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0109,
+      "pnl_value": 0.0509,
+      "weight": 0.012,
+      "rank": 7,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0012,
+      "pnl_value": 0.0059,
+      "weight": 0.0125,
+      "rank": 57,
+      "atr": 0.0647,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0032,
+      "pnl_value": -0.0125,
+      "weight": 0.0101,
+      "rank": 149,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.0647,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 46,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 149,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SLV",
+      "rank": 153,
+      "atr": 0.1662,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 389.4912,
+    "leverage": 0.0603,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0162,
+    "green_marketcap_pnt": 0
+  }
+}

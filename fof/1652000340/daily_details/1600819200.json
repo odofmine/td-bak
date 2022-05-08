@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "QQQ",
+      "pnl": -0.0504,
+      "pnl_value": -0.8208,
+      "weight": 0.0113,
+      "rank": 162,
+      "atr": 0.112,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0679,
+      "pnl_value": -1.3903,
+      "weight": 0.0142,
+      "rank": 74,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.1335,
+      "pnl_value": -2.5597,
+      "weight": 0.0133,
+      "rank": 45,
+      "atr": 0.095,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 45,
+      "atr": 0.095,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 162,
+      "atr": 0.112,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0033,
+    "cum_pnl": 1436.3914,
+    "leverage": 0.0388,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "CELO",
+      "pnl": 0.0892,
+      "pnl_value": 0.124,
+      "weight": 0.011,
+      "rank": 65,
+      "atr": 0.127,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": -0.0696,
+      "pnl_value": -0.0915,
+      "weight": 0.0104,
+      "rank": 192,
+      "atr": 0.134,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CELO",
+      "rank": 65,
+      "atr": 0.127,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 192,
+      "atr": 0.134,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 125.366,
+    "leverage": 0.0214,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

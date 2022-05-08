@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "POT",
+      "pnl": 0.2382,
+      "pnl_value": 0.2859,
+      "weight": 0.0515,
+      "rank": 147,
+      "atr": 0.2434,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": 0.1261,
+      "pnl_value": 0.1818,
+      "weight": 0.0619,
+      "rank": 65,
+      "atr": 0.2027,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": 0.0805,
+      "pnl_value": 0.1045,
+      "weight": 0.0557,
+      "rank": 149,
+      "atr": 0.2254,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0284,
+      "pnl_value": 0.1207,
+      "weight": 0.1825,
+      "rank": 5,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0108,
+      "pnl_value": 0.0378,
+      "weight": 0.1503,
+      "rank": 10,
+      "atr": 0.0835,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.0207,
+      "pnl_value": -0.0554,
+      "weight": 0.1148,
+      "rank": 39,
+      "atr": 0.1093,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": -0.0293,
+      "pnl_value": -0.0507,
+      "weight": 0.0743,
+      "rank": 52,
+      "atr": 0.1689,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0422,
+      "pnl_value": -0.1068,
+      "weight": 0.1086,
+      "rank": 24,
+      "atr": 0.1156,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 10,
+      "atr": 0.0835,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 39,
+      "atr": 0.1093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 24,
+      "atr": 0.1156,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 52,
+      "atr": 0.1689,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 65,
+      "atr": 0.2027,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 149,
+      "atr": 0.2254,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 147,
+      "atr": 0.2434,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0222,
+    "cum_pnl": 22.8215,
+    "leverage": 0.7996,
+    "atr": 0.1004,
+    "marketcap_pnt": 0.0246,
+    "green_marketcap_pnt": 0
+  }
+}

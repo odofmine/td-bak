@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0341,
+      "pnl_value": 0.0114,
+      "weight": 0.0218,
+      "rank": 80,
+      "atr": 0.1184,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0082,
+      "pnl_value": -0.0032,
+      "weight": 0.0253,
+      "rank": 92,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": -0.0558,
+      "pnl_value": -0.0179,
+      "weight": 0.0209,
+      "rank": 191,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1018,
+      "pnl_value": -0.0322,
+      "weight": 0.0207,
+      "rank": 78,
+      "atr": 0.1246,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SRM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 80,
+      "atr": 0.1184,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVA",
+      "rank": 191,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 78,
+      "atr": 0.1246,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 14.2555,
+    "leverage": 0.0887,
+    "atr": 0.0103,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

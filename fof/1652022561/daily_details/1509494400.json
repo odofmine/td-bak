@@ -1,0 +1,207 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.3901,
+      "pnl_value": 0.076,
+      "weight": 0.0125,
+      "rank": 117,
+      "atr": 0.1705,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.3424,
+      "pnl_value": 0.1019,
+      "weight": 0.0191,
+      "rank": 23,
+      "atr": 0.1116,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.2176,
+      "pnl_value": 0.0638,
+      "weight": 0.0188,
+      "rank": 4,
+      "atr": 0.1135,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0448,
+      "pnl_value": 0.0313,
+      "weight": 0.0448,
+      "rank": 1,
+      "atr": 0.0478,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TIME",
+      "pnl": 0.0448,
+      "pnl_value": 0.0131,
+      "weight": 0.0187,
+      "rank": 167,
+      "atr": 0.1142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BLK",
+      "pnl": 0.0229,
+      "pnl_value": 0.0056,
+      "weight": 0.0157,
+      "rank": 184,
+      "atr": 0.1364,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0457,
+      "pnl_value": -0.0113,
+      "weight": 0.0159,
+      "rank": 27,
+      "atr": 0.1346,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.092,
+      "pnl_value": -0.0236,
+      "weight": 0.0165,
+      "rank": 53,
+      "atr": 0.1291,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.2049,
+      "pnl_value": -0.0677,
+      "weight": 0.0212,
+      "rank": 34,
+      "atr": 0.1009,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NAV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TAAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0478,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.1009,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 23,
+      "atr": 0.1116,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.1135,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 167,
+      "atr": 0.1142,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 53,
+      "atr": 0.1291,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1346,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BLK",
+      "rank": 184,
+      "atr": 0.1364,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1705,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0121,
+    "cum_pnl": 14.7729,
+    "leverage": 0.1832,
+    "atr": 0.0192,
+    "marketcap_pnt": 0.6262,
+    "green_marketcap_pnt": 0
+  }
+}

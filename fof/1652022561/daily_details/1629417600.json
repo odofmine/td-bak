@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.2747,
+      "pnl_value": 1159.5133,
+      "weight": 0.1255,
+      "rank": 41,
+      "atr": 0.0589,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.1268,
+      "pnl_value": 379.5052,
+      "weight": 0.089,
+      "rank": 123,
+      "atr": 0.083,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.088,
+      "pnl_value": 282.8234,
+      "weight": 0.0956,
+      "rank": 44,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0805,
+      "pnl_value": 274.4645,
+      "weight": 0.1014,
+      "rank": 11,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0587,
+      "pnl_value": 186.5532,
+      "weight": 0.0945,
+      "rank": 9,
+      "atr": 0.0782,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.0515,
+      "pnl_value": 162.066,
+      "weight": 0.0936,
+      "rank": 106,
+      "atr": 0.0789,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0415,
+      "pnl_value": 148.6879,
+      "weight": 0.1066,
+      "rank": 22,
+      "atr": 0.0693,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0144,
+      "pnl_value": 46.5004,
+      "weight": 0.0958,
+      "rank": 39,
+      "atr": 0.0771,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0003,
+      "pnl_value": -0.7581,
+      "weight": 0.089,
+      "rank": 156,
+      "atr": 0.083,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0236,
+      "pnl_value": -86.0829,
+      "weight": 0.1085,
+      "rank": 96,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DODO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AVAX",
+      "rank": 41,
+      "atr": 0.0589,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 96,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 22,
+      "atr": 0.0693,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 11,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 39,
+      "atr": 0.0771,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 44,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0782,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 106,
+      "atr": 0.0789,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 123,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 156,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 66,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 116,
+      "atr": 0.0866,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DODO",
+      "rank": 192,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0759,
+    "cum_pnl": 36188.0384,
+    "leverage": 0.9995,
+    "atr": 0.0739,
+    "marketcap_pnt": 0.0293,
+    "green_marketcap_pnt": 0
+  }
+}

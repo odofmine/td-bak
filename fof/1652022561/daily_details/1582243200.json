@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.1479,
+      "pnl_value": 1.5793,
+      "weight": 0.0228,
+      "rank": 97,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0924,
+      "pnl_value": 0.9082,
+      "weight": 0.021,
+      "rank": 102,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0401,
+      "pnl_value": -0.4166,
+      "weight": 0.0222,
+      "rank": 45,
+      "atr": 0.0783,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRUE",
+      "pnl": -0.0601,
+      "pnl_value": -0.6417,
+      "weight": 0.0228,
+      "rank": 175,
+      "atr": 0.0761,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UBT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRUE",
+      "rank": 175,
+      "atr": 0.0761,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0783,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 468.6417,
+    "leverage": 0.0888,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

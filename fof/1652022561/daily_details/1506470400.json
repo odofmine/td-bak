@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "EMC2",
+      "pnl": 0.2771,
+      "pnl_value": 0.0378,
+      "weight": 0.0096,
+      "rank": 167,
+      "atr": 0.1266,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CLAM",
+      "pnl": 0.056,
+      "pnl_value": 0.0101,
+      "weight": 0.0127,
+      "rank": 129,
+      "atr": 0.096,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAY",
+      "pnl": -0.0337,
+      "pnl_value": -0.0038,
+      "weight": 0.008,
+      "rank": 132,
+      "atr": 0.1526,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.1094,
+      "pnl_value": -0.0154,
+      "weight": 0.0099,
+      "rank": 106,
+      "atr": 0.1229,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CLAM",
+      "rank": 129,
+      "atr": 0.096,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 106,
+      "atr": 0.1229,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 167,
+      "atr": 0.1266,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAY",
+      "rank": 132,
+      "atr": 0.1526,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 13.2471,
+    "leverage": 0.0402,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

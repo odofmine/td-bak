@@ -1,0 +1,204 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.0268,
+      "pnl_value": 0.0058,
+      "weight": 0.0137,
+      "rank": 117,
+      "atr": 0.1727,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTCD",
+      "pnl": 0.0158,
+      "pnl_value": 0.0046,
+      "weight": 0.0181,
+      "rank": 53,
+      "atr": 0.1307,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0212,
+      "pnl_value": -0.0071,
+      "weight": 0.021,
+      "rank": 4,
+      "atr": 0.1127,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0328,
+      "pnl_value": -0.0098,
+      "weight": 0.0187,
+      "rank": 27,
+      "atr": 0.1266,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0442,
+      "pnl_value": -0.0176,
+      "weight": 0.0251,
+      "rank": 34,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.086,
+      "pnl_value": -0.0317,
+      "weight": 0.0232,
+      "rank": 167,
+      "atr": 0.1017,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.129,
+      "pnl_value": -0.0373,
+      "weight": 0.0182,
+      "rank": 49,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.1435,
+      "pnl_value": -0.0338,
+      "weight": 0.0148,
+      "rank": 90,
+      "atr": 0.1597,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1654,
+      "pnl_value": -0.0452,
+      "weight": 0.0172,
+      "rank": 85,
+      "atr": 0.1376,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TAAS",
+      "pnl": -0.2532,
+      "pnl_value": -0.1356,
+      "weight": 0.0337,
+      "rank": 92,
+      "atr": 0.0703,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LMC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TAAS",
+      "rank": 92,
+      "atr": 0.0703,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 167,
+      "atr": 0.1017,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1266,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 49,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 53,
+      "atr": 0.1307,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 85,
+      "atr": 0.1376,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 90,
+      "atr": 0.1597,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1727,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0194,
+    "cum_pnl": 14.584,
+    "leverage": 0.2037,
+    "atr": 0.0236,
+    "marketcap_pnt": 0.0475,
+    "green_marketcap_pnt": 0
+  }
+}

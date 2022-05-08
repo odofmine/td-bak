@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.0693,
+      "pnl_value": 10.0775,
+      "weight": 0.0218,
+      "rank": 80,
+      "atr": 0.0924,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0041,
+      "pnl_value": -0.531,
+      "weight": 0.0194,
+      "rank": 77,
+      "atr": 0.1037,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0143,
+      "pnl_value": -1.7514,
+      "weight": 0.0184,
+      "rank": 142,
+      "atr": 0.1096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0173,
+      "pnl_value": -2.1357,
+      "weight": 0.0185,
+      "rank": 71,
+      "atr": 0.1089,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0431,
+      "pnl_value": -4.1422,
+      "weight": 0.0144,
+      "rank": 102,
+      "atr": 0.1395,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.046,
+      "pnl_value": -5.0656,
+      "weight": 0.0165,
+      "rank": 140,
+      "atr": 0.1222,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0716,
+      "pnl_value": -12.0926,
+      "weight": 0.0253,
+      "rank": 25,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.102,
+      "pnl_value": -13.615,
+      "weight": 0.02,
+      "rank": 100,
+      "atr": 0.1008,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.1097,
+      "pnl_value": -21.0764,
+      "weight": 0.0288,
+      "rank": 88,
+      "atr": 0.07,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.07,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0924,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 100,
+      "atr": 0.1008,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 77,
+      "atr": 0.1037,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 140,
+      "atr": 0.1222,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.1395,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0075,
+    "cum_pnl": 6622.2383,
+    "leverage": 0.1831,
+    "atr": 0.0181,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": 0.1331,
+      "pnl_value": 1.5929,
+      "weight": 0.0221,
+      "rank": 181,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": 0.0527,
+      "pnl_value": 0.5451,
+      "weight": 0.0191,
+      "rank": 169,
+      "atr": 0.0773,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0517,
+      "pnl_value": 0.6657,
+      "weight": 0.0238,
+      "rank": 106,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": 0.0514,
+      "pnl_value": 0.4317,
+      "weight": 0.0155,
+      "rank": 63,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0162,
+      "pnl_value": -0.1681,
+      "weight": 0.0192,
+      "rank": 70,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 70,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 169,
+      "atr": 0.0773,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 63,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0057,
+    "cum_pnl": 543.4654,
+    "leverage": 0.0997,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

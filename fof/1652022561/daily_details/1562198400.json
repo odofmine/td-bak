@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0407,
+      "pnl_value": 0.2925,
+      "weight": 0.0263,
+      "rank": 109,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.005,
+      "pnl_value": -0.0316,
+      "weight": 0.023,
+      "rank": 150,
+      "atr": 0.1099,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0109,
+      "pnl_value": -0.078,
+      "weight": 0.0263,
+      "rank": 16,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0285,
+      "pnl_value": -0.2141,
+      "weight": 0.0275,
+      "rank": 35,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TNT",
+      "pnl": -0.0874,
+      "pnl_value": -0.5159,
+      "weight": 0.0216,
+      "rank": 188,
+      "atr": 0.1167,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 150,
+      "atr": 0.1099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 188,
+      "atr": 0.1167,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 271.6376,
+    "leverage": 0.1247,
+    "atr": 0.0126,
+    "marketcap_pnt": 0.0052,
+    "green_marketcap_pnt": 0
+  }
+}

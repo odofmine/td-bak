@@ -1,0 +1,291 @@
+{
+  "pnls": [
+    {
+      "name": "REEF",
+      "pnl": 0.0804,
+      "pnl_value": 1.0476,
+      "weight": 0.0859,
+      "rank": 152,
+      "atr": 0.0904,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0297,
+      "pnl_value": 0.5581,
+      "weight": 0.1237,
+      "rank": 3,
+      "atr": 0.0628,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.021,
+      "pnl_value": 0.345,
+      "weight": 0.108,
+      "rank": 67,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0158,
+      "pnl_value": 0.2049,
+      "weight": 0.0855,
+      "rank": 21,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "1INCH",
+      "pnl": -0.0098,
+      "pnl_value": -0.1267,
+      "weight": 0.0855,
+      "rank": 122,
+      "atr": 0.0908,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0102,
+      "pnl_value": -0.1586,
+      "weight": 0.1027,
+      "rank": 22,
+      "atr": 0.0756,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0226,
+      "pnl_value": -0.3208,
+      "weight": 0.0937,
+      "rank": 8,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0257,
+      "pnl_value": -0.3584,
+      "weight": 0.0917,
+      "rank": 60,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0265,
+      "pnl_value": -0.5363,
+      "weight": 0.1332,
+      "rank": 2,
+      "atr": 0.0583,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": -0.0304,
+      "pnl_value": -0.4144,
+      "weight": 0.0897,
+      "rank": 23,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0583,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 3,
+      "atr": 0.0628,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 67,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 22,
+      "atr": 0.0756,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 60,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 23,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REEF",
+      "rank": 152,
+      "atr": 0.0904,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 21,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "1INCH",
+      "rank": 122,
+      "atr": 0.0908,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 159,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OXT",
+      "rank": 160,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 124,
+      "atr": 0.0994,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 134,
+      "atr": 0.1007,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 138,
+      "atr": 0.102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 156,
+      "atr": 0.1029,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLS",
+      "rank": 198,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTSI",
+      "rank": 187,
+      "atr": 0.1151,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NKN",
+      "rank": 165,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 85,
+      "atr": 0.1231,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REQ",
+      "rank": 196,
+      "atr": 0.1443,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 151.0214,
+    "leverage": 0.9996,
+    "atr": 0.0777,
+    "marketcap_pnt": 0.2459,
+    "green_marketcap_pnt": 0
+  }
+}

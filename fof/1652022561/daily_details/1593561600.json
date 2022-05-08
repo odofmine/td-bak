@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": -0.0035,
+      "pnl_value": -0.0175,
+      "weight": 0.0092,
+      "rank": 133,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0214,
+      "pnl_value": -0.1078,
+      "weight": 0.0092,
+      "rank": 160,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0217,
+      "pnl_value": -0.1553,
+      "weight": 0.0131,
+      "rank": 53,
+      "atr": 0.059,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0904,
+      "pnl_value": -0.43,
+      "weight": 0.0087,
+      "rank": 82,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 53,
+      "atr": 0.059,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 82,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 544.7649,
+    "leverage": 0.0402,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

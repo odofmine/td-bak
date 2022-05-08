@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "GAS",
+      "pnl": 0.1238,
+      "pnl_value": 0.2286,
+      "weight": 0.0231,
+      "rank": 52,
+      "atr": 0.1,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.0494,
+      "pnl_value": 0.0726,
+      "weight": 0.0184,
+      "rank": 165,
+      "atr": 0.1257,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QASH",
+      "pnl": -0.0667,
+      "pnl_value": -0.1098,
+      "weight": 0.0206,
+      "rank": 44,
+      "atr": 0.1123,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NMC",
+      "pnl": -0.1149,
+      "pnl_value": -0.1947,
+      "weight": 0.0212,
+      "rank": 200,
+      "atr": 0.1089,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.1517,
+      "pnl_value": -0.2764,
+      "weight": 0.0228,
+      "rank": 94,
+      "atr": 0.1014,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GAME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAS",
+      "rank": 52,
+      "atr": 0.1,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 94,
+      "atr": 0.1014,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NMC",
+      "rank": 200,
+      "atr": 0.1089,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QASH",
+      "rank": 44,
+      "atr": 0.1123,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 165,
+      "atr": 0.1257,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 78.6472,
+    "leverage": 0.1061,
+    "atr": 0.0116,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

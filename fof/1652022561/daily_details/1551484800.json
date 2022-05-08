@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2271,
+      "pnl_value": 0.7854,
+      "weight": 0.0344,
+      "rank": 104,
+      "atr": 0.072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.0071,
+      "pnl_value": 0.0298,
+      "weight": 0.0418,
+      "rank": 128,
+      "atr": 0.0593,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BIX",
+      "pnl": 0.0054,
+      "pnl_value": 0.0189,
+      "weight": 0.0346,
+      "rank": 176,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0007,
+      "pnl_value": -0.0029,
+      "weight": 0.0396,
+      "rank": 68,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.005,
+      "pnl_value": -0.0156,
+      "weight": 0.0312,
+      "rank": 57,
+      "atr": 0.0794,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": -0.0112,
+      "pnl_value": -0.0314,
+      "weight": 0.0279,
+      "rank": 157,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": -0.0336,
+      "pnl_value": -0.0862,
+      "weight": 0.0255,
+      "rank": 182,
+      "atr": 0.0969,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0345,
+      "pnl_value": -0.119,
+      "weight": 0.0343,
+      "rank": 45,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0892,
+      "pnl_value": -0.2717,
+      "weight": 0.0303,
+      "rank": 130,
+      "atr": 0.0818,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MDA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GBYTE",
+      "rank": 128,
+      "atr": 0.0593,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 68,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 176,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 104,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 45,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0794,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.0818,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 157,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 182,
+      "atr": 0.0969,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 99.8421,
+    "leverage": 0.2996,
+    "atr": 0.0223,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

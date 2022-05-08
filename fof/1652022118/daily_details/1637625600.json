@@ -1,0 +1,221 @@
+{
+  "pnls": [
+    {
+      "name": "ALICE",
+      "pnl": 0.2615,
+      "pnl_value": 0.4194,
+      "weight": 0.0085,
+      "rank": 151,
+      "atr": 0.1085,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.1597,
+      "pnl_value": 0.2532,
+      "weight": 0.0084,
+      "rank": 88,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.1438,
+      "pnl_value": 0.2414,
+      "weight": 0.0089,
+      "rank": 161,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.126,
+      "pnl_value": 0.1925,
+      "weight": 0.0081,
+      "rank": 192,
+      "atr": 0.1145,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.0841,
+      "pnl_value": 0.1555,
+      "weight": 0.0098,
+      "rank": 143,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0734,
+      "pnl_value": 0.1261,
+      "weight": 0.0091,
+      "rank": 91,
+      "atr": 0.1017,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.068,
+      "pnl_value": 0.1245,
+      "weight": 0.0097,
+      "rank": 64,
+      "atr": 0.0957,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0627,
+      "pnl_value": 0.1265,
+      "weight": 0.0107,
+      "rank": 57,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0336,
+      "pnl_value": -0.0589,
+      "weight": 0.0093,
+      "rank": 175,
+      "atr": 0.0989,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0437,
+      "pnl_value": -0.127,
+      "weight": 0.0154,
+      "rank": 25,
+      "atr": 0.0599,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0817,
+      "pnl_value": -0.1941,
+      "weight": 0.0126,
+      "rank": 11,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ICX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 25,
+      "atr": 0.0599,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 57,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 143,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 64,
+      "atr": 0.0957,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 175,
+      "atr": 0.0989,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 91,
+      "atr": 0.1017,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 161,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 151,
+      "atr": 0.1085,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 88,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 192,
+      "atr": 0.1145,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0067,
+    "cum_pnl": 188.9198,
+    "leverage": 0.1105,
+    "atr": 0.0102,
+    "marketcap_pnt": 0.0183,
+    "green_marketcap_pnt": 0
+  }
+}

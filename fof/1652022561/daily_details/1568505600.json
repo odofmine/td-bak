@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.102,
+      "pnl_value": 0.2243,
+      "weight": 0.0081,
+      "rank": 22,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0127,
+      "pnl_value": 0.0372,
+      "weight": 0.0108,
+      "rank": 46,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0109,
+      "pnl_value": 0.0323,
+      "weight": 0.0109,
+      "rank": 7,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0012,
+      "pnl_value": 0.0037,
+      "weight": 0.0114,
+      "rank": 57,
+      "atr": 0.0647,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0032,
+      "pnl_value": -0.0079,
+      "weight": 0.0091,
+      "rank": 149,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.0647,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 46,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 149,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 22,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 270.8836,
+    "leverage": 0.0503,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0161,
+    "green_marketcap_pnt": 0
+  }
+}

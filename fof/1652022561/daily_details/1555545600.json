@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0945,
+      "pnl_value": 0.2499,
+      "weight": 0.0182,
+      "rank": 16,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0611,
+      "pnl_value": 0.2298,
+      "weight": 0.0259,
+      "rank": 81,
+      "atr": 0.0556,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0362,
+      "pnl_value": -0.121,
+      "weight": 0.023,
+      "rank": 46,
+      "atr": 0.0624,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EMC2",
+      "pnl": -0.073,
+      "pnl_value": -0.1888,
+      "weight": 0.0178,
+      "rank": 199,
+      "atr": 0.0808,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 81,
+      "atr": 0.0556,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0624,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 199,
+      "atr": 0.0808,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 144.4879,
+    "leverage": 0.0849,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

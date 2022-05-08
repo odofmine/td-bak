@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0083,
+      "pnl_value": -0.0283,
+      "weight": 0.0318,
+      "rank": 164,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.1144,
+      "pnl_value": -0.4268,
+      "weight": 0.0347,
+      "rank": 54,
+      "atr": 0.0835,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FUN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 54,
+      "atr": 0.0835,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 164,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 106.0497,
+    "leverage": 0.0665,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

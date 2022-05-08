@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "UBQ",
+      "pnl": 0.6729,
+      "pnl_value": 0.1204,
+      "weight": 0.0216,
+      "rank": 50,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.3327,
+      "pnl_value": 0.0777,
+      "weight": 0.0282,
+      "rank": 15,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.31,
+      "pnl_value": 0.0365,
+      "weight": 0.0142,
+      "rank": 55,
+      "atr": 0.1404,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.2976,
+      "pnl_value": 0.0276,
+      "weight": 0.0112,
+      "rank": 42,
+      "atr": 0.178,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.2288,
+      "pnl_value": 0.0518,
+      "weight": 0.0273,
+      "rank": 36,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0713,
+      "pnl_value": 0.0114,
+      "weight": 0.0193,
+      "rank": 7,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0098,
+      "pnl_value": 0.0019,
+      "weight": 0.0237,
+      "rank": 2,
+      "atr": 0.0844,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 15,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 36,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0844,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 50,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 55,
+      "atr": 0.1404,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 42,
+      "atr": 0.178,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0395,
+    "cum_pnl": 7.6136,
+    "leverage": 0.1455,
+    "atr": 0.014,
+    "marketcap_pnt": 0.233,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "pnls": [
+    {
+      "name": "CRPT",
+      "pnl": 0.0245,
+      "pnl_value": 0.0808,
+      "weight": 0.012,
+      "rank": 166,
+      "atr": 0.165,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0533,
+      "pnl_value": -0.4212,
+      "weight": 0.0288,
+      "rank": 38,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRPT",
+      "rank": 166,
+      "atr": 0.165,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 272.9435,
+    "leverage": 0.0408,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

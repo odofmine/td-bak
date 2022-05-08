@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "CHSB",
+      "pnl": 0.1123,
+      "pnl_value": 17.6183,
+      "weight": 0.0876,
+      "rank": 70,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0834,
+      "pnl_value": 16.3213,
+      "weight": 0.1093,
+      "rank": 32,
+      "atr": 0.0621,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0729,
+      "pnl_value": 11.1566,
+      "weight": 0.0855,
+      "rank": 45,
+      "atr": 0.0794,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0076,
+      "pnl_value": 1.6058,
+      "weight": 0.1174,
+      "rank": 40,
+      "atr": 0.0578,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 40,
+      "atr": 0.0578,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 32,
+      "atr": 0.0621,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 70,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 45,
+      "atr": 0.0794,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0261,
+    "cum_pnl": 1836.1041,
+    "leverage": 0.3998,
+    "atr": 0.0272,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

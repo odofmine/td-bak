@@ -1,0 +1,385 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": -0.0166,
+      "pnl_value": -2.1632,
+      "weight": 0.1047,
+      "rank": 26,
+      "atr": 0.0475,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0206,
+      "pnl_value": -2.9134,
+      "weight": 0.1135,
+      "rank": 2,
+      "atr": 0.0438,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0265,
+      "pnl_value": -3.7017,
+      "weight": 0.1125,
+      "rank": 7,
+      "atr": 0.0442,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0271,
+      "pnl_value": -3.7552,
+      "weight": 0.1113,
+      "rank": 22,
+      "atr": 0.0447,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0301,
+      "pnl_value": -3.2041,
+      "weight": 0.0856,
+      "rank": 132,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": -0.0377,
+      "pnl_value": -4.1111,
+      "weight": 0.0877,
+      "rank": 53,
+      "atr": 0.0567,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0494,
+      "pnl_value": -6.0661,
+      "weight": 0.0987,
+      "rank": 72,
+      "atr": 0.0504,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0518,
+      "pnl_value": -6.0031,
+      "weight": 0.0931,
+      "rank": 9,
+      "atr": 0.0534,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0536,
+      "pnl_value": -7.0493,
+      "weight": 0.1058,
+      "rank": 15,
+      "atr": 0.047,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0579,
+      "pnl_value": -6.2392,
+      "weight": 0.0866,
+      "rank": 136,
+      "atr": 0.0574,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0438,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0442,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 22,
+      "atr": 0.0447,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 15,
+      "atr": 0.047,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 26,
+      "atr": 0.0475,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 72,
+      "atr": 0.0504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.0534,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 53,
+      "atr": 0.0567,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 136,
+      "atr": 0.0574,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 132,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0591,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 35,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 38,
+      "atr": 0.0599,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 73,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 63,
+      "atr": 0.0611,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 69,
+      "atr": 0.0617,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 153,
+      "atr": 0.0617,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AE",
+      "rank": 180,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 44,
+      "atr": 0.0649,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 49,
+      "atr": 0.0668,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 161,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 91,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 82,
+      "atr": 0.0695,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 57,
+      "atr": 0.0704,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 36,
+      "atr": 0.0705,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 108,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 41,
+      "atr": 0.0778,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VITAE",
+      "rank": 194,
+      "atr": 0.0787,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 157,
+      "atr": 0.0879,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 101,
+      "atr": 0.0881,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 31,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 71,
+      "atr": 0.0942,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0363,
+    "cum_pnl": 1197.6652,
+    "leverage": 0.9995,
+    "atr": 0.0497,
+    "marketcap_pnt": 0.1622,
+    "green_marketcap_pnt": 0
+  }
+}

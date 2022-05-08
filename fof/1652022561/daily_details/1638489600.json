@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.071,
+      "pnl_value": 53.2189,
+      "weight": 0.0103,
+      "rank": 19,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0004,
+      "pnl_value": -0.2659,
+      "weight": 0.0093,
+      "rank": 69,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0426,
+      "pnl_value": -48.707,
+      "weight": 0.0157,
+      "rank": 53,
+      "atr": 0.054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0546,
+      "pnl_value": -34.1777,
+      "weight": 0.0086,
+      "rank": 166,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0567,
+      "pnl_value": -25.9673,
+      "weight": 0.0063,
+      "rank": 196,
+      "atr": 0.1337,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 53,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 196,
+      "atr": 0.1337,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 72690.1268,
+    "leverage": 0.0502,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0071,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "LBC",
+      "pnl": 0.1824,
+      "pnl_value": 0.0297,
+      "weight": 0.0813,
+      "rank": 86,
+      "atr": 0.1341,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": 0.1216,
+      "pnl_value": 0.0187,
+      "weight": 0.0767,
+      "rank": 87,
+      "atr": 0.142,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0469,
+      "pnl_value": 0.0089,
+      "weight": 0.0948,
+      "rank": 52,
+      "atr": 0.115,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0406,
+      "pnl_value": 0.0097,
+      "weight": 0.1191,
+      "rank": 8,
+      "atr": 0.0915,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0151,
+      "pnl_value": 0.0027,
+      "weight": 0.0908,
+      "rank": 38,
+      "atr": 0.12,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0024,
+      "pnl_value": -0.0004,
+      "weight": 0.0868,
+      "rank": 50,
+      "atr": 0.1255,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0058,
+      "pnl_value": -0.0013,
+      "weight": 0.112,
+      "rank": 20,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": -0.0107,
+      "pnl_value": -0.0026,
+      "weight": 0.1214,
+      "rank": 26,
+      "atr": 0.0898,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAUT",
+      "pnl": -0.0269,
+      "pnl_value": -0.0051,
+      "weight": 0.0942,
+      "rank": 98,
+      "atr": 0.1157,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.1184,
+      "pnl_value": -0.0291,
+      "weight": 0.1225,
+      "rank": 54,
+      "atr": 0.089,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POT",
+      "rank": 54,
+      "atr": 0.089,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 26,
+      "atr": 0.0898,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0915,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 52,
+      "atr": 0.115,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 98,
+      "atr": 0.1157,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 38,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 50,
+      "atr": 0.1255,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 86,
+      "atr": 0.1341,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 87,
+      "atr": 0.142,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0156,
+    "cum_pnl": 1.035,
+    "leverage": 0.9996,
+    "atr": 0.109,
+    "marketcap_pnt": 0.0107,
+    "green_marketcap_pnt": 0
+  }
+}

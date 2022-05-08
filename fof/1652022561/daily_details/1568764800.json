@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0446,
+      "pnl_value": 0.1103,
+      "weight": 0.0091,
+      "rank": 121,
+      "atr": 0.0807,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0122,
+      "pnl_value": 0.0529,
+      "weight": 0.016,
+      "rank": 2,
+      "atr": 0.0461,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0003,
+      "pnl_value": -0.0006,
+      "weight": 0.0078,
+      "rank": 20,
+      "atr": 0.0944,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0453,
+      "pnl_value": -0.0899,
+      "weight": 0.0073,
+      "rank": 66,
+      "atr": 0.101,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0461,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 121,
+      "atr": 0.0807,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0944,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 66,
+      "atr": 0.101,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 270.8286,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0799,
+    "green_marketcap_pnt": 0
+  }
+}

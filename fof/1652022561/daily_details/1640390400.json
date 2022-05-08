@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "CRV",
+      "pnl": 0.1266,
+      "pnl_value": 78.1204,
+      "weight": 0.0085,
+      "rank": 68,
+      "atr": 0.1091,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0705,
+      "pnl_value": 50.7045,
+      "weight": 0.0099,
+      "rank": 14,
+      "atr": 0.0938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0257,
+      "pnl_value": 22.9162,
+      "weight": 0.0123,
+      "rank": 9,
+      "atr": 0.0752,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0174,
+      "pnl_value": 12.7381,
+      "weight": 0.0101,
+      "rank": 31,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0218,
+      "pnl_value": -14.2487,
+      "weight": 0.009,
+      "rank": 65,
+      "atr": 0.1026,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0712,
+      "pnl_value": -54.776,
+      "weight": 0.0106,
+      "rank": 197,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AVAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BORA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0752,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0938,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 65,
+      "atr": 0.1026,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.1091,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 72710.2847,
+    "leverage": 0.0604,
+    "atr": 0.0056,
+    "marketcap_pnt": 0.025,
+    "green_marketcap_pnt": 0
+  }
+}

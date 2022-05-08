@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "SRN",
+      "pnl": 0.1489,
+      "pnl_value": 0.1444,
+      "weight": 0.0095,
+      "rank": 187,
+      "atr": 0.0743,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0158,
+      "pnl_value": -0.0212,
+      "weight": 0.0131,
+      "rank": 4,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNM",
+      "pnl": -0.0172,
+      "pnl_value": -0.0133,
+      "weight": 0.0076,
+      "rank": 197,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0173,
+      "pnl_value": -0.0171,
+      "weight": 0.0097,
+      "rank": 111,
+      "atr": 0.0729,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 111,
+      "atr": 0.0729,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRN",
+      "rank": 187,
+      "atr": 0.0743,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 197,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 101.1879,
+    "leverage": 0.0399,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.048,
+    "green_marketcap_pnt": 0
+  }
+}

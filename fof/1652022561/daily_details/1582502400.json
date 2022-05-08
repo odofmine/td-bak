@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ALGO",
+      "pnl": 0.0765,
+      "pnl_value": 0.7136,
+      "weight": 0.0198,
+      "rank": 39,
+      "atr": 0.0791,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": -0.0234,
+      "pnl_value": -0.2434,
+      "weight": 0.0221,
+      "rank": 78,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0283,
+      "pnl_value": -0.296,
+      "weight": 0.0222,
+      "rank": 72,
+      "atr": 0.0706,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": -0.1115,
+      "pnl_value": -0.9087,
+      "weight": 0.0173,
+      "rank": 104,
+      "atr": 0.0906,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 72,
+      "atr": 0.0706,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 78,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 39,
+      "atr": 0.0791,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 104,
+      "atr": 0.0906,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 469.5314,
+    "leverage": 0.0814,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

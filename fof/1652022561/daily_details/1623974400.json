@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.001,
+      "pnl_value": 0.2315,
+      "weight": 0.0111,
+      "rank": 98,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0523,
+      "pnl_value": -10.3362,
+      "weight": 0.0092,
+      "rank": 17,
+      "atr": 0.1259,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMP",
+      "pnl": -0.148,
+      "pnl_value": -31.1631,
+      "weight": 0.0098,
+      "rank": 44,
+      "atr": 0.1175,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 98,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 44,
+      "atr": 0.1175,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 17,
+      "atr": 0.1259,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 21444.2951,
+    "leverage": 0.0301,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": 0.0172,
+      "pnl_value": 0.0145,
+      "weight": 0.0088,
+      "rank": 41,
+      "atr": 0.1307,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0289,
+      "pnl_value": -0.0309,
+      "weight": 0.0111,
+      "rank": 27,
+      "atr": 0.1031,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 27,
+      "atr": 0.1031,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 41,
+      "atr": 0.1307,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 95.2852,
+    "leverage": 0.0199,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

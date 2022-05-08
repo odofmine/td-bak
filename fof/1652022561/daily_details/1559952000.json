@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "EGT",
+      "pnl": 0.0221,
+      "pnl_value": 0.1131,
+      "weight": 0.0238,
+      "rank": 164,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": 0.0014,
+      "pnl_value": 0.0059,
+      "weight": 0.0199,
+      "rank": 189,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0177,
+      "pnl_value": -0.0754,
+      "weight": 0.0198,
+      "rank": 61,
+      "atr": 0.0928,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.0359,
+      "pnl_value": -0.1353,
+      "weight": 0.0175,
+      "rank": 148,
+      "atr": 0.1052,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0425,
+      "pnl_value": -0.1907,
+      "weight": 0.0208,
+      "rank": 108,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 164,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 108,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 189,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 61,
+      "atr": 0.0928,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 148,
+      "atr": 0.1052,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 214.2931,
+    "leverage": 0.1018,
+    "atr": 0.0092,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

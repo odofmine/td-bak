@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0372,
+      "pnl_value": 0.4643,
+      "weight": 0.0375,
+      "rank": 18,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0076,
+      "pnl_value": 0.1085,
+      "weight": 0.0431,
+      "rank": 61,
+      "atr": 0.0486,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.001,
+      "pnl_value": -0.0108,
+      "weight": 0.0339,
+      "rank": 94,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0241,
+      "pnl_value": -0.2105,
+      "weight": 0.0262,
+      "rank": 126,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0248,
+      "pnl_value": -0.2703,
+      "weight": 0.0328,
+      "rank": 50,
+      "atr": 0.0638,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0261,
+      "pnl_value": -0.2922,
+      "weight": 0.0337,
+      "rank": 21,
+      "atr": 0.0622,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0393,
+      "pnl_value": -0.3373,
+      "weight": 0.0258,
+      "rank": 17,
+      "atr": 0.081,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DX",
+      "rank": 61,
+      "atr": 0.0486,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 94,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 21,
+      "atr": 0.0622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 50,
+      "atr": 0.0638,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 126,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 17,
+      "atr": 0.081,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 331.2684,
+    "leverage": 0.233,
+    "atr": 0.0147,
+    "marketcap_pnt": 0.0107,
+    "green_marketcap_pnt": 0
+  }
+}

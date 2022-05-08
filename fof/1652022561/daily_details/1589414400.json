@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "ZIL",
+      "pnl": 0.0808,
+      "pnl_value": 0.7707,
+      "weight": 0.0211,
+      "rank": 88,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": 0.0284,
+      "pnl_value": 0.261,
+      "weight": 0.0203,
+      "rank": 199,
+      "atr": 0.1106,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0069,
+      "pnl_value": -0.0972,
+      "weight": 0.0312,
+      "rank": 105,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0183,
+      "pnl_value": -0.2249,
+      "weight": 0.0272,
+      "rank": 57,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 57,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 199,
+      "atr": 0.1106,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 451.7011,
+    "leverage": 0.0998,
+    "atr": 0.009,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

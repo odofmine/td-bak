@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "QKC",
+      "pnl": 0.0527,
+      "pnl_value": 0.0593,
+      "weight": 0.0108,
+      "rank": 118,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0332,
+      "pnl_value": 0.0294,
+      "weight": 0.0085,
+      "rank": 59,
+      "atr": 0.1032,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": 0.0115,
+      "pnl_value": 0.0104,
+      "weight": 0.0087,
+      "rank": 168,
+      "atr": 0.1014,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0017,
+      "pnl_value": -0.0025,
+      "weight": 0.0144,
+      "rank": 29,
+      "atr": 0.0615,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0091,
+      "pnl_value": -0.0097,
+      "weight": 0.0103,
+      "rank": 84,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SKY",
+      "pnl": -0.0094,
+      "pnl_value": -0.009,
+      "weight": 0.0092,
+      "rank": 127,
+      "atr": 0.096,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0319,
+      "pnl_value": -0.0316,
+      "weight": 0.0095,
+      "rank": 95,
+      "atr": 0.093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SALT",
+      "pnl": -0.0367,
+      "pnl_value": -0.0314,
+      "weight": 0.0082,
+      "rank": 119,
+      "atr": 0.1071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.0615,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 118,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 84,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 95,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SKY",
+      "rank": 127,
+      "atr": 0.096,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 168,
+      "atr": 0.1014,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.1032,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 119,
+      "atr": 0.1071,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 103.2115,
+    "leverage": 0.0796,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

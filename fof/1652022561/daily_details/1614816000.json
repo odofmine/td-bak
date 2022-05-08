@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.2024,
+      "pnl_value": 34.1549,
+      "weight": 0.0254,
+      "rank": 88,
+      "atr": 0.0766,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1169,
+      "pnl_value": 17.6222,
+      "weight": 0.0227,
+      "rank": 25,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0301,
+      "pnl_value": -3.6575,
+      "weight": 0.0183,
+      "rank": 142,
+      "atr": 0.1059,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0553,
+      "pnl_value": -5.5808,
+      "weight": 0.0152,
+      "rank": 102,
+      "atr": 0.1276,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0936,
+      "pnl_value": -12.5555,
+      "weight": 0.0202,
+      "rank": 71,
+      "atr": 0.0961,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0766,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.0961,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1059,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.1276,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 6672.5707,
+    "leverage": 0.1018,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

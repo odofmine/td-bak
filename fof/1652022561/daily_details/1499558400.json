@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": -0.0506,
+      "pnl_value": -0.0049,
+      "weight": 0.0091,
+      "rank": 4,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0717,
+      "pnl_value": -0.0083,
+      "weight": 0.011,
+      "rank": 7,
+      "atr": 0.075,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": 9.5594,
+    "leverage": 0.0201,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0348,
+    "green_marketcap_pnt": 0
+  }
+}

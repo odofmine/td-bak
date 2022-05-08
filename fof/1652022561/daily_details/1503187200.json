@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.161,
+      "pnl_value": 0.1764,
+      "weight": 0.0978,
+      "rank": 25,
+      "atr": 0.1164,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0837,
+      "pnl_value": 0.0998,
+      "weight": 0.1064,
+      "rank": 39,
+      "atr": 0.107,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UBQ",
+      "pnl": 0.0233,
+      "pnl_value": 0.0172,
+      "weight": 0.066,
+      "rank": 79,
+      "atr": 0.1726,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0183,
+      "pnl_value": 0.0303,
+      "weight": 0.1476,
+      "rank": 9,
+      "atr": 0.0772,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0144,
+      "pnl_value": -0.0132,
+      "weight": 0.0819,
+      "rank": 166,
+      "atr": 0.139,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TAAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 9,
+      "atr": 0.0772,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 39,
+      "atr": 0.107,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 25,
+      "atr": 0.1164,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 166,
+      "atr": 0.139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 79,
+      "atr": 0.1726,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0277,
+    "cum_pnl": 10.5148,
+    "leverage": 0.4997,
+    "atr": 0.0569,
+    "marketcap_pnt": 0.0145,
+    "green_marketcap_pnt": 0
+  }
+}

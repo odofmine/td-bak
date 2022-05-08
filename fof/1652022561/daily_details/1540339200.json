@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0105,
+      "pnl_value": 0.0108,
+      "weight": 0.01,
+      "rank": 36,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GVT",
+      "pnl": -0.0082,
+      "pnl_value": -0.0091,
+      "weight": 0.0108,
+      "rank": 100,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POE",
+      "pnl": -0.0115,
+      "pnl_value": -0.0092,
+      "weight": 0.0077,
+      "rank": 167,
+      "atr": 0.0989,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0154,
+      "pnl_value": -0.0157,
+      "weight": 0.0099,
+      "rank": 89,
+      "atr": 0.0765,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.025,
+      "pnl_value": -0.0255,
+      "weight": 0.0099,
+      "rank": 42,
+      "atr": 0.0767,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0329,
+      "pnl_value": -0.0343,
+      "weight": 0.0101,
+      "rank": 135,
+      "atr": 0.0756,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SALT",
+      "pnl": -0.0545,
+      "pnl_value": -0.0443,
+      "weight": 0.0079,
+      "rank": 98,
+      "atr": 0.0968,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0641,
+      "pnl_value": -0.0601,
+      "weight": 0.0091,
+      "rank": 165,
+      "atr": 0.0833,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0903,
+      "pnl_value": -0.1311,
+      "weight": 0.0141,
+      "rank": 28,
+      "atr": 0.0539,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 28,
+      "atr": 0.0539,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 100,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 135,
+      "atr": 0.0756,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 36,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 89,
+      "atr": 0.0765,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 42,
+      "atr": 0.0767,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 165,
+      "atr": 0.0833,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 98,
+      "atr": 0.0968,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POE",
+      "rank": 167,
+      "atr": 0.0989,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 101.6704,
+    "leverage": 0.0895,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

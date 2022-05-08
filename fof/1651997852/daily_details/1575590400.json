@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.2555,
+      "pnl_value": 1.368,
+      "weight": 0.0114,
+      "rank": 79,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0785,
+      "pnl_value": 0.3982,
+      "weight": 0.0108,
+      "rank": 139,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MOF",
+      "pnl": 0.0198,
+      "pnl_value": 0.1004,
+      "weight": 0.0108,
+      "rank": 83,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": -0.071,
+      "pnl_value": -0.2402,
+      "weight": 0.0072,
+      "rank": 27,
+      "atr": 0.102,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 79,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 139,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 83,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 27,
+      "atr": 0.102,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0035,
+    "cum_pnl": 470.2679,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

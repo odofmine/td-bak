@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.174,
+      "pnl_value": 0.2861,
+      "weight": 0.0103,
+      "rank": 6,
+      "atr": 0.0812,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": 0.0248,
+      "pnl_value": 0.0234,
+      "weight": 0.0059,
+      "rank": 148,
+      "atr": 0.1403,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": 0.0195,
+      "pnl_value": 0.0271,
+      "weight": 0.0087,
+      "rank": 82,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0188,
+      "pnl_value": 0.0335,
+      "weight": 0.0112,
+      "rank": 24,
+      "atr": 0.0749,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0004,
+      "pnl_value": -0.0009,
+      "weight": 0.0131,
+      "rank": 9,
+      "atr": 0.0639,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0035,
+      "pnl_value": -0.0058,
+      "weight": 0.0104,
+      "rank": 3,
+      "atr": 0.0801,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0639,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 24,
+      "atr": 0.0749,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0801,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0812,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 148,
+      "atr": 0.1403,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 158.9887,
+    "leverage": 0.0596,
+    "atr": 0.005,
+    "marketcap_pnt": 0.0878,
+    "green_marketcap_pnt": 0
+  }
+}

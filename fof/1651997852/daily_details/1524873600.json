@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "ONT",
+      "pnl": 0.335,
+      "pnl_value": 4.4523,
+      "weight": 0.0971,
+      "rank": 49,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.2614,
+      "pnl_value": 2.9164,
+      "weight": 0.0815,
+      "rank": 83,
+      "atr": 0.101,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.1306,
+      "pnl_value": 1.9778,
+      "weight": 0.1106,
+      "rank": 5,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0927,
+      "pnl_value": 1.6625,
+      "weight": 0.131,
+      "rank": 35,
+      "atr": 0.0629,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0515,
+      "pnl_value": 0.6691,
+      "weight": 0.095,
+      "rank": 48,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": -0.0012,
+      "pnl_value": -0.0137,
+      "weight": 0.082,
+      "rank": 150,
+      "atr": 0.1005,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0256,
+      "pnl_value": -0.359,
+      "weight": 0.1025,
+      "rank": 74,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0629,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 49,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 150,
+      "atr": 0.1005,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.101,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0826,
+    "cum_pnl": 147.1858,
+    "leverage": 0.6997,
+    "atr": 0.0577,
+    "marketcap_pnt": 0.0299,
+    "green_marketcap_pnt": 0
+  }
+}

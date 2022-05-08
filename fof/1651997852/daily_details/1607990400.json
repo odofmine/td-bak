@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.4291,
+      "pnl_value": 17.8155,
+      "weight": 0.0179,
+      "rank": 104,
+      "atr": 0.0747,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.262,
+      "pnl_value": 12.3939,
+      "weight": 0.0204,
+      "rank": 64,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.101,
+      "pnl_value": 3.8664,
+      "weight": 0.0165,
+      "rank": 100,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0116,
+      "pnl_value": -0.7158,
+      "weight": 0.0266,
+      "rank": 14,
+      "atr": 0.0503,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0503,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 104,
+      "atr": 0.0747,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 100,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0144,
+    "cum_pnl": 2351.6407,
+    "leverage": 0.0814,
+    "atr": 0.0053,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

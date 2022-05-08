@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": -0.0309,
+      "pnl_value": -0.0347,
+      "weight": 0.0076,
+      "rank": 31,
+      "atr": 0.1575,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": -0.0631,
+      "pnl_value": -0.1149,
+      "weight": 0.0123,
+      "rank": 195,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GTO",
+      "rank": 195,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 31,
+      "atr": 0.1575,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 146.887,
+    "leverage": 0.0199,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

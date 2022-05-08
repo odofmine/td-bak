@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.1026,
+      "pnl_value": 94.3924,
+      "weight": 0.0087,
+      "rank": 30,
+      "atr": 0.0989,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.066,
+      "pnl_value": 69.0747,
+      "weight": 0.0099,
+      "rank": 117,
+      "atr": 0.0878,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0436,
+      "pnl_value": 48.8794,
+      "weight": 0.0106,
+      "rank": 24,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0351,
+      "pnl_value": 33.8117,
+      "weight": 0.0091,
+      "rank": 47,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SCRT",
+      "pnl": 0.027,
+      "pnl_value": 26.5494,
+      "weight": 0.0093,
+      "rank": 92,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0096,
+      "pnl_value": 13.4518,
+      "weight": 0.0133,
+      "rank": 32,
+      "atr": 0.0652,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0156,
+      "pnl_value": -16.2116,
+      "weight": 0.0098,
+      "rank": 125,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0834,
+      "pnl_value": -85.5995,
+      "weight": 0.0097,
+      "rank": 82,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 32,
+      "atr": 0.0652,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 117,
+      "atr": 0.0878,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 125,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 92,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 30,
+      "atr": 0.0989,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 105967.9639,
+    "leverage": 0.0804,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.0134,
+    "green_marketcap_pnt": 0
+  }
+}

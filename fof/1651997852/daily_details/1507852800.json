@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0377,
+      "pnl_value": 0.0129,
+      "weight": 0.0157,
+      "rank": 1,
+      "atr": 0.049,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": 0.0241,
+      "pnl_value": 0.004,
+      "weight": 0.0076,
+      "rank": 37,
+      "atr": 0.101,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.0339,
+      "pnl_value": -0.0042,
+      "weight": 0.0057,
+      "rank": 144,
+      "atr": 0.135,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CLAM",
+      "pnl": -0.4746,
+      "pnl_value": -0.1164,
+      "weight": 0.0112,
+      "rank": 115,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.049,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CLAM",
+      "rank": 115,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 37,
+      "atr": 0.101,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 144,
+      "atr": 0.135,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 20.792,
+    "leverage": 0.0402,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.5084,
+    "green_marketcap_pnt": 0
+  }
+}

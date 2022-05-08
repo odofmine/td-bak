@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.1322,
+      "pnl_value": 0.0908,
+      "weight": 0.0046,
+      "rank": 38,
+      "atr": 0.2052,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.04,
+      "pnl_value": 0.0865,
+      "weight": 0.0145,
+      "rank": 6,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.018,
+      "pnl_value": 0.0226,
+      "weight": 0.0084,
+      "rank": 11,
+      "atr": 0.1125,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0024,
+      "pnl_value": -0.0055,
+      "weight": 0.0155,
+      "rank": 1,
+      "atr": 0.0614,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0054,
+      "pnl_value": -0.0078,
+      "weight": 0.0097,
+      "rank": 39,
+      "atr": 0.0982,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.0176,
+      "pnl_value": -0.0181,
+      "weight": 0.0069,
+      "rank": 159,
+      "atr": 0.1368,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0203,
+      "pnl_value": -0.0306,
+      "weight": 0.0101,
+      "rank": 83,
+      "atr": 0.0937,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0614,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 83,
+      "atr": 0.0937,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.1125,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 159,
+      "atr": 0.1368,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 38,
+      "atr": 0.2052,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 148.4952,
+    "leverage": 0.0697,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.5555,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.0961,
+      "pnl_value": 0.3129,
+      "weight": 0.0084,
+      "rank": 47,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0085,
+      "pnl_value": -0.0385,
+      "weight": 0.0117,
+      "rank": 3,
+      "atr": 0.054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.054,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 386.8009,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.054,
+    "green_marketcap_pnt": 0
+  }
+}

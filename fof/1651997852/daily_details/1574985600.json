@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0815,
+      "pnl_value": 0.4088,
+      "weight": 0.0107,
+      "rank": 111,
+      "atr": 0.0746,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0061,
+      "pnl_value": 0.0289,
+      "weight": 0.0102,
+      "rank": 112,
+      "atr": 0.0786,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MOF",
+      "pnl": -0.0009,
+      "pnl_value": -0.0037,
+      "weight": 0.0088,
+      "rank": 96,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": -0.0624,
+      "pnl_value": -0.3041,
+      "weight": 0.0104,
+      "rank": 143,
+      "atr": 0.0768,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0746,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 143,
+      "atr": 0.0768,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 112,
+      "atr": 0.0786,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 96,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 467.8769,
+    "leverage": 0.0401,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

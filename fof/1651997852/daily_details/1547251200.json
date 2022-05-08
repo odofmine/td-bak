@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "HC",
+      "pnl": 0.575,
+      "pnl_value": 1.0438,
+      "weight": 0.0123,
+      "rank": 88,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0022,
+      "pnl_value": -0.003,
+      "weight": 0.0095,
+      "rank": 58,
+      "atr": 0.1129,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.0746,
+      "pnl_value": -0.0892,
+      "weight": 0.0081,
+      "rank": 159,
+      "atr": 0.1331,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HC",
+      "rank": 88,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 58,
+      "atr": 0.1129,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 159,
+      "atr": 0.1331,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0064,
+    "cum_pnl": 147.5429,
+    "leverage": 0.0299,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

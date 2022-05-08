@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "DATA",
+      "pnl": 0.0443,
+      "pnl_value": 0.0563,
+      "weight": 0.0078,
+      "rank": 188,
+      "atr": 0.1091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DDD",
+      "pnl": 0.0322,
+      "pnl_value": 0.0498,
+      "weight": 0.0095,
+      "rank": 113,
+      "atr": 0.0892,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0264,
+      "pnl_value": -0.0395,
+      "weight": 0.0092,
+      "rank": 25,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0567,
+      "pnl_value": -0.1263,
+      "weight": 0.0137,
+      "rank": 17,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 17,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DDD",
+      "rank": 113,
+      "atr": 0.0892,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 25,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 188,
+      "atr": 0.1091,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 161.5833,
+    "leverage": 0.0402,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0083,
+    "green_marketcap_pnt": 0
+  }
+}

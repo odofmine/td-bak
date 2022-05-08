@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": -0.082,
+      "pnl_value": -0.1234,
+      "weight": 0.0128,
+      "rank": 9,
+      "atr": 0.1302,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADT",
+      "pnl": -0.0843,
+      "pnl_value": -0.0723,
+      "weight": 0.0073,
+      "rank": 179,
+      "atr": 0.2294,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1302,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADT",
+      "rank": 179,
+      "atr": 0.2294,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 116.3192,
+    "leverage": 0.0201,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0165,
+    "green_marketcap_pnt": 0
+  }
+}

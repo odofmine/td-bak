@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.092,
+      "pnl_value": 0.1117,
+      "weight": 0.0104,
+      "rank": 14,
+      "atr": 0.1301,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.0884,
+      "pnl_value": -0.1001,
+      "weight": 0.0097,
+      "rank": 61,
+      "atr": 0.1394,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 14,
+      "atr": 0.1301,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 61,
+      "atr": 0.1394,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 115.7389,
+    "leverage": 0.0201,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

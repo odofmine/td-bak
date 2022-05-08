@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.073,
+      "pnl_value": 0.5899,
+      "weight": 0.0204,
+      "rank": 150,
+      "atr": 0.1107,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.003,
+      "pnl_value": 0.026,
+      "weight": 0.0222,
+      "rank": 109,
+      "atr": 0.1019,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CMT",
+      "pnl": -0.1576,
+      "pnl_value": -1.4927,
+      "weight": 0.0239,
+      "rank": 163,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VSYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CMT",
+      "rank": 163,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.1019,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 150,
+      "atr": 0.1107,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 394.3267,
+    "leverage": 0.0665,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

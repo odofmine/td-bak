@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0139,
+      "pnl_value": 0.0621,
+      "weight": 0.0114,
+      "rank": 52,
+      "atr": 0.0653,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0071,
+      "pnl_value": -0.0133,
+      "weight": 0.0048,
+      "rank": 140,
+      "atr": 0.1544,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0145,
+      "pnl_value": -0.0729,
+      "weight": 0.0128,
+      "rank": 37,
+      "atr": 0.0579,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.0161,
+      "pnl_value": -0.0707,
+      "weight": 0.0112,
+      "rank": 95,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 37,
+      "atr": 0.0579,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 52,
+      "atr": 0.0653,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZB",
+      "rank": 95,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 140,
+      "atr": 0.1544,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 390.5143,
+    "leverage": 0.0402,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

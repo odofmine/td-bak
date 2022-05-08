@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "SRN",
+      "pnl": 0.156,
+      "pnl_value": 2.2616,
+      "weight": 0.0927,
+      "rank": 187,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.1262,
+      "pnl_value": 2.227,
+      "weight": 0.1128,
+      "rank": 4,
+      "atr": 0.0553,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.1074,
+      "pnl_value": 1.5848,
+      "weight": 0.0944,
+      "rank": 3,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CVC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0553,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRN",
+      "rank": 187,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0388,
+    "cum_pnl": 161.4642,
+    "leverage": 0.2999,
+    "atr": 0.0187,
+    "marketcap_pnt": 0.1381,
+    "green_marketcap_pnt": 0
+  }
+}

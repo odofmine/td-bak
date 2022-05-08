@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": -0.0047,
+      "pnl_value": -0.01,
+      "weight": 0.0144,
+      "rank": 13,
+      "atr": 0.06,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0131,
+      "pnl_value": -0.0161,
+      "weight": 0.0083,
+      "rank": 50,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0492,
+      "pnl_value": -0.0637,
+      "weight": 0.0088,
+      "rank": 77,
+      "atr": 0.0974,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": -0.0883,
+      "pnl_value": -0.1287,
+      "weight": 0.0099,
+      "rank": 126,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0924,
+      "pnl_value": -0.1414,
+      "weight": 0.0104,
+      "rank": 27,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.1483,
+      "pnl_value": -0.1725,
+      "weight": 0.0079,
+      "rank": 69,
+      "atr": 0.1094,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 13,
+      "atr": 0.06,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 27,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 126,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 77,
+      "atr": 0.0974,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 69,
+      "atr": 0.1094,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 145.7028,
+    "leverage": 0.0597,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0107,
+    "green_marketcap_pnt": 0
+  }
+}

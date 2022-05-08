@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.0946,
+      "pnl_value": 0.5307,
+      "weight": 0.0119,
+      "rank": 5,
+      "atr": 0.0495,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": 0.0659,
+      "pnl_value": 0.3261,
+      "weight": 0.0105,
+      "rank": 9,
+      "atr": 0.0563,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0414,
+      "pnl_value": 0.2361,
+      "weight": 0.0121,
+      "rank": 17,
+      "atr": 0.0487,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CSC",
+      "pnl": -0.1674,
+      "pnl_value": -0.4103,
+      "weight": 0.0052,
+      "rank": 90,
+      "atr": 0.1124,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 17,
+      "atr": 0.0487,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0495,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0563,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CSC",
+      "rank": 90,
+      "atr": 0.1124,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 471.0707,
+    "leverage": 0.0397,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0344,
+    "green_marketcap_pnt": 0
+  }
+}

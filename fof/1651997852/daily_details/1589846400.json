@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.1228,
+      "pnl_value": 7.7358,
+      "weight": 0.0997,
+      "rank": 74,
+      "atr": 0.0746,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1224,
+      "pnl_value": 8.4883,
+      "weight": 0.1098,
+      "rank": 47,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0768,
+      "pnl_value": 4.9862,
+      "weight": 0.1028,
+      "rank": 93,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QQQ",
+      "pnl": 0.0657,
+      "pnl_value": 3.0943,
+      "weight": 0.0746,
+      "rank": 116,
+      "atr": 0.0997,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MONA",
+      "pnl": 0.0367,
+      "pnl_value": 2.3931,
+      "weight": 0.1033,
+      "rank": 75,
+      "atr": 0.072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BDX",
+      "pnl": 0.0312,
+      "pnl_value": 1.8554,
+      "weight": 0.0941,
+      "rank": 106,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0196,
+      "pnl_value": 1.369,
+      "weight": 0.1107,
+      "rank": 28,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0018,
+      "pnl_value": -0.1641,
+      "weight": 0.1447,
+      "rank": 14,
+      "atr": 0.0514,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UBT",
+      "pnl": -0.0185,
+      "pnl_value": -1.0124,
+      "weight": 0.0865,
+      "rank": 92,
+      "atr": 0.086,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.0757,
+      "pnl_value": -3.5098,
+      "weight": 0.0734,
+      "rank": 43,
+      "atr": 0.1013,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0514,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 28,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 47,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 75,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 93,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 74,
+      "atr": 0.0746,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BDX",
+      "rank": 106,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBT",
+      "rank": 92,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 116,
+      "atr": 0.0997,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 43,
+      "atr": 0.1013,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 140,
+      "atr": 0.1097,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 178,
+      "atr": 0.1685,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0399,
+    "cum_pnl": 656.0115,
+    "leverage": 0.9996,
+    "atr": 0.0744,
+    "marketcap_pnt": 0.0089,
+    "green_marketcap_pnt": 0
+  }
+}

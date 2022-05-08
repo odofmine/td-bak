@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": -0.0562,
+      "pnl_value": -0.463,
+      "weight": 0.0208,
+      "rank": 34,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0806,
+      "pnl_value": -0.7213,
+      "weight": 0.0226,
+      "rank": 38,
+      "atr": 0.076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "APL",
+      "pnl": -0.1822,
+      "pnl_value": -1.1824,
+      "weight": 0.0164,
+      "rank": 181,
+      "atr": 0.1045,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRPT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 34,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APL",
+      "rank": 181,
+      "atr": 0.1045,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.006,
+    "cum_pnl": 392.3951,
+    "leverage": 0.0598,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

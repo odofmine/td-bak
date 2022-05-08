@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0726,
+      "pnl_value": 65.7276,
+      "weight": 0.0086,
+      "rank": 66,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0567,
+      "pnl_value": 53.0982,
+      "weight": 0.0089,
+      "rank": 144,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0053,
+      "pnl_value": 6.9496,
+      "weight": 0.0124,
+      "rank": 58,
+      "atr": 0.0609,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0175,
+      "pnl_value": -18.2714,
+      "weight": 0.0099,
+      "rank": 8,
+      "atr": 0.0761,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 58,
+      "atr": 0.0609,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0761,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 105420.9205,
+    "leverage": 0.0398,
+    "atr": 0.003,
+    "marketcap_pnt": 0.018,
+    "green_marketcap_pnt": 0
+  }
+}

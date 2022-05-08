@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0745,
+      "pnl_value": -0.0703,
+      "weight": 0.0084,
+      "rank": 24,
+      "atr": 0.1096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.1181,
+      "pnl_value": -0.1286,
+      "weight": 0.0097,
+      "rank": 95,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.1191,
+      "pnl_value": -0.139,
+      "weight": 0.0104,
+      "rank": 93,
+      "atr": 0.0891,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.1277,
+      "pnl_value": -0.1549,
+      "weight": 0.0108,
+      "rank": 84,
+      "atr": 0.0856,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.1516,
+      "pnl_value": -0.1684,
+      "weight": 0.0099,
+      "rank": 85,
+      "atr": 0.0935,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.1664,
+      "pnl_value": -0.1905,
+      "weight": 0.0102,
+      "rank": 92,
+      "atr": 0.0909,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.1808,
+      "pnl_value": -0.2354,
+      "weight": 0.0116,
+      "rank": 43,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.1828,
+      "pnl_value": -0.1908,
+      "weight": 0.0093,
+      "rank": 59,
+      "atr": 0.0992,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 43,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 84,
+      "atr": 0.0856,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 93,
+      "atr": 0.0891,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 92,
+      "atr": 0.0909,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 85,
+      "atr": 0.0935,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 95,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.0992,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.1096,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0114,
+    "cum_pnl": 109.976,
+    "leverage": 0.0803,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

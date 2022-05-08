@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "NAS",
+      "pnl": 0.0134,
+      "pnl_value": 0.0137,
+      "weight": 0.0091,
+      "rank": 81,
+      "atr": 0.108,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0013,
+      "pnl_value": 0.0016,
+      "weight": 0.011,
+      "rank": 40,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LOOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.108,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 111.2256,
+    "leverage": 0.0201,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

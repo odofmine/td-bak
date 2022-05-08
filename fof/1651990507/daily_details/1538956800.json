@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.2881,
+      "pnl_value": 0.2584,
+      "weight": 0.008,
+      "rank": 24,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0976,
+      "pnl_value": 0.1214,
+      "weight": 0.0111,
+      "rank": 29,
+      "atr": 0.059,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0123,
+      "pnl_value": 0.0103,
+      "weight": 0.0075,
+      "rank": 35,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0028,
+      "pnl_value": -0.0043,
+      "weight": 0.0136,
+      "rank": 14,
+      "atr": 0.0483,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 14,
+      "atr": 0.0483,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.059,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 35,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 111.4904,
+    "leverage": 0.0402,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0108,
+    "green_marketcap_pnt": 0
+  }
+}

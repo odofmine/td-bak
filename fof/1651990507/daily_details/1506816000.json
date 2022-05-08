@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEO",
+      "pnl": 0.0408,
+      "pnl_value": 0.0077,
+      "weight": 0.009,
+      "rank": 11,
+      "atr": 0.1355,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.0281,
+      "pnl_value": 0.0051,
+      "weight": 0.0087,
+      "rank": 51,
+      "atr": 0.1402,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0105,
+      "pnl_value": -0.0022,
+      "weight": 0.0098,
+      "rank": 18,
+      "atr": 0.1244,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.0424,
+      "pnl_value": -0.0081,
+      "weight": 0.0091,
+      "rank": 49,
+      "atr": 0.1349,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0448,
+      "pnl_value": -0.0097,
+      "weight": 0.0104,
+      "rank": 16,
+      "atr": 0.1171,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0599,
+      "pnl_value": -0.0121,
+      "weight": 0.0097,
+      "rank": 21,
+      "atr": 0.1263,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0624,
+      "pnl_value": -0.0177,
+      "weight": 0.0136,
+      "rank": 47,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARDR",
+      "rank": 47,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 16,
+      "atr": 0.1171,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 18,
+      "atr": 0.1244,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 21,
+      "atr": 0.1263,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.1349,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 11,
+      "atr": 0.1355,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 51,
+      "atr": 0.1402,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 19.8686,
+    "leverage": 0.0703,
+    "atr": 0.0086,
+    "marketcap_pnt": 0.0191,
+    "green_marketcap_pnt": 0
+  }
+}

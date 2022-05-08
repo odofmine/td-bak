@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "FTT",
+      "pnl": -0.0444,
+      "pnl_value": -0.1026,
+      "weight": 0.014,
+      "rank": 29,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.049,
+      "pnl_value": -0.0729,
+      "weight": 0.009,
+      "rank": 67,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0542,
+      "pnl_value": -0.0968,
+      "weight": 0.0108,
+      "rank": 97,
+      "atr": 0.0839,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0574,
+      "pnl_value": -0.0825,
+      "weight": 0.0087,
+      "rank": 110,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0843,
+      "pnl_value": -0.1072,
+      "weight": 0.0077,
+      "rank": 130,
+      "atr": 0.1178,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0966,
+      "pnl_value": -0.1531,
+      "weight": 0.0096,
+      "rank": 42,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.1168,
+      "pnl_value": -0.193,
+      "weight": 0.01,
+      "rank": 26,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.1216,
+      "pnl_value": -0.211,
+      "weight": 0.0105,
+      "rank": 16,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 29,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 97,
+      "atr": 0.0839,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 16,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 26,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 42,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 67,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 110,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 130,
+      "atr": 0.1178,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 163.1593,
+    "leverage": 0.0803,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.0171,
+    "green_marketcap_pnt": 0
+  }
+}

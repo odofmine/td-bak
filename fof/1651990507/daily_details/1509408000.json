@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "BTCD",
+      "pnl": 0.0158,
+      "pnl_value": 0.0061,
+      "weight": 0.0177,
+      "rank": 53,
+      "atr": 0.1307,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0212,
+      "pnl_value": -0.0095,
+      "weight": 0.0205,
+      "rank": 4,
+      "atr": 0.1127,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0328,
+      "pnl_value": -0.013,
+      "weight": 0.0182,
+      "rank": 27,
+      "atr": 0.1266,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0442,
+      "pnl_value": -0.0237,
+      "weight": 0.0246,
+      "rank": 34,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.129,
+      "pnl_value": -0.05,
+      "weight": 0.0178,
+      "rank": 49,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.1435,
+      "pnl_value": -0.045,
+      "weight": 0.0144,
+      "rank": 90,
+      "atr": 0.1597,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1654,
+      "pnl_value": -0.0606,
+      "weight": 0.0168,
+      "rank": 85,
+      "atr": 0.1376,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TAAS",
+      "pnl": -0.2532,
+      "pnl_value": -0.1816,
+      "weight": 0.0329,
+      "rank": 92,
+      "atr": 0.0703,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TAAS",
+      "rank": 92,
+      "atr": 0.0703,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 34,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.1127,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1266,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 49,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 53,
+      "atr": 0.1307,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 85,
+      "atr": 0.1376,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 90,
+      "atr": 0.1597,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0173,
+    "cum_pnl": 20.4196,
+    "leverage": 0.1629,
+    "atr": 0.0185,
+    "marketcap_pnt": 0.0472,
+    "green_marketcap_pnt": 0
+  }
+}

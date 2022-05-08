@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "GVT",
+      "pnl": 0.0681,
+      "pnl_value": 0.0802,
+      "weight": 0.0106,
+      "rank": 100,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": 0.0204,
+      "pnl_value": 0.0222,
+      "weight": 0.0098,
+      "rank": 42,
+      "atr": 0.0776,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0023,
+      "pnl_value": -0.0025,
+      "weight": 0.0098,
+      "rank": 52,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SALT",
+      "pnl": -0.0663,
+      "pnl_value": -0.0627,
+      "weight": 0.0085,
+      "rank": 98,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.081,
+      "pnl_value": -0.1036,
+      "weight": 0.0115,
+      "rank": 89,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 89,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 100,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 42,
+      "atr": 0.0776,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 98,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 110.1701,
+    "leverage": 0.0502,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "NEXO",
+      "pnl": 0.0056,
+      "pnl_value": 0.2304,
+      "weight": 0.0539,
+      "rank": 110,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0008,
+      "pnl_value": -0.0992,
+      "weight": 0.166,
+      "rank": 21,
+      "atr": 0.0228,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0264,
+      "pnl_value": -2.7734,
+      "weight": 0.1366,
+      "rank": 1,
+      "atr": 0.0277,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0364,
+      "pnl_value": -2.4376,
+      "weight": 0.087,
+      "rank": 8,
+      "atr": 0.0435,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0652,
+      "pnl_value": -5.2409,
+      "weight": 0.1045,
+      "rank": 44,
+      "atr": 0.0362,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0669,
+      "pnl_value": -2.6607,
+      "weight": 0.0517,
+      "rank": 9,
+      "atr": 0.0732,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 21,
+      "atr": 0.0228,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0277,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0362,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0435,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 110,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0732,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0169,
+    "cum_pnl": 755.5228,
+    "leverage": 0.5997,
+    "atr": 0.0227,
+    "marketcap_pnt": 0.6395,
+    "green_marketcap_pnt": 0
+  }
+}

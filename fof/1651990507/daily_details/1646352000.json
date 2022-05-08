@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ANC",
+      "pnl": 0.109,
+      "pnl_value": 53.3096,
+      "weight": 0.0127,
+      "rank": 81,
+      "atr": 0.0647,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0098,
+      "pnl_value": 3.406,
+      "weight": 0.009,
+      "rank": 66,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0786,
+      "pnl_value": -32.0726,
+      "weight": 0.0106,
+      "rank": 8,
+      "atr": 0.077,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0935,
+      "pnl_value": -33.8636,
+      "weight": 0.0094,
+      "rank": 62,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.1048,
+      "pnl_value": -34.7198,
+      "weight": 0.0086,
+      "rank": 20,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 81,
+      "atr": 0.0647,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.077,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 62,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0011,
+    "cum_pnl": 38472.3514,
+    "leverage": 0.0503,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0229,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "FTM",
+      "pnl": 0.102,
+      "pnl_value": 0.153,
+      "weight": 0.0091,
+      "rank": 30,
+      "atr": 0.0987,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.071,
+      "pnl_value": 0.1172,
+      "weight": 0.01,
+      "rank": 117,
+      "atr": 0.0903,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0447,
+      "pnl_value": 0.0736,
+      "weight": 0.01,
+      "rank": 24,
+      "atr": 0.0902,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0364,
+      "pnl_value": 0.0552,
+      "weight": 0.0092,
+      "rank": 47,
+      "atr": 0.0979,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0096,
+      "pnl_value": 0.0215,
+      "weight": 0.0136,
+      "rank": 32,
+      "atr": 0.0666,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0112,
+      "pnl_value": -0.0161,
+      "weight": 0.0087,
+      "rank": 125,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0748,
+      "pnl_value": -0.1196,
+      "weight": 0.0097,
+      "rank": 82,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 32,
+      "atr": 0.0666,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0902,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 117,
+      "atr": 0.0903,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0979,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 30,
+      "atr": 0.0987,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 125,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 164.1783,
+    "leverage": 0.0703,
+    "atr": 0.0063,
+    "marketcap_pnt": 0.0129,
+    "green_marketcap_pnt": 0
+  }
+}

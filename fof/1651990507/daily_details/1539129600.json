@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "WAN",
+      "pnl": 0.0332,
+      "pnl_value": 0.0309,
+      "weight": 0.0083,
+      "rank": 59,
+      "atr": 0.1032,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0017,
+      "pnl_value": -0.0027,
+      "weight": 0.014,
+      "rank": 29,
+      "atr": 0.0615,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.0091,
+      "pnl_value": -0.0102,
+      "weight": 0.01,
+      "rank": 84,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0319,
+      "pnl_value": -0.033,
+      "weight": 0.0092,
+      "rank": 95,
+      "atr": 0.093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0799,
+      "pnl_value": -0.078,
+      "weight": 0.0087,
+      "rank": 24,
+      "atr": 0.0983,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 29,
+      "atr": 0.0615,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 84,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 95,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 24,
+      "atr": 0.0983,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.1032,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 111.254,
+    "leverage": 0.0502,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0049,
+    "green_marketcap_pnt": 0
+  }
+}

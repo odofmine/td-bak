@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ZRX",
+      "pnl": 0.1145,
+      "pnl_value": 0.3247,
+      "weight": 0.011,
+      "rank": 38,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0926,
+      "pnl_value": 0.1455,
+      "weight": 0.0061,
+      "rank": 100,
+      "atr": 0.1242,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0325,
+      "pnl_value": -0.109,
+      "weight": 0.013,
+      "rank": 84,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 84,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 100,
+      "atr": 0.1242,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 257.0486,
+    "leverage": 0.0301,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

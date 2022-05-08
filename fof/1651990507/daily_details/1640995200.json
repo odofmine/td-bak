@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0941,
+      "pnl_value": 42.0015,
+      "weight": 0.0115,
+      "rank": 44,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.0415,
+      "pnl_value": 10.7884,
+      "weight": 0.0067,
+      "rank": 84,
+      "atr": 0.1005,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0101,
+      "pnl_value": 6.0384,
+      "weight": 0.0154,
+      "rank": 50,
+      "atr": 0.044,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": -0.0312,
+      "pnl_value": -7.9829,
+      "weight": 0.0066,
+      "rank": 94,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0356,
+      "pnl_value": -13.8062,
+      "weight": 0.01,
+      "rank": 105,
+      "atr": 0.0678,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 50,
+      "atr": 0.044,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 44,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 105,
+      "atr": 0.0678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 84,
+      "atr": 0.1005,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 94,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 38843.8996,
+    "leverage": 0.0502,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0044,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "SYS",
+      "pnl": 0.0347,
+      "pnl_value": 0.0138,
+      "weight": 0.0189,
+      "rank": 58,
+      "atr": 0.1283,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": 0.0033,
+      "pnl_value": 0.0014,
+      "weight": 0.0206,
+      "rank": 39,
+      "atr": 0.1174,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.0871,
+      "pnl_value": -0.0415,
+      "weight": 0.0226,
+      "rank": 49,
+      "atr": 0.1074,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.1359,
+      "pnl_value": -0.0507,
+      "weight": 0.0177,
+      "rank": 27,
+      "atr": 0.137,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.1074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.1174,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 58,
+      "atr": 0.1283,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.137,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0036,
+    "cum_pnl": 20.0058,
+    "leverage": 0.0798,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

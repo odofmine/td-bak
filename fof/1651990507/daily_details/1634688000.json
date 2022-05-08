@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": 0.0652,
+      "pnl_value": 265.474,
+      "weight": 0.1363,
+      "rank": 94,
+      "atr": 0.0527,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0413,
+      "pnl_value": 101.8504,
+      "weight": 0.0825,
+      "rank": 21,
+      "atr": 0.087,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.039,
+      "pnl_value": 135.2359,
+      "weight": 0.1162,
+      "rank": 67,
+      "atr": 0.0618,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": 0.0375,
+      "pnl_value": 99.9662,
+      "weight": 0.0893,
+      "rank": 10,
+      "atr": 0.0804,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.0234,
+      "pnl_value": 65.7024,
+      "weight": 0.0939,
+      "rank": 60,
+      "atr": 0.0765,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0082,
+      "pnl_value": -19.9275,
+      "weight": 0.0816,
+      "rank": 53,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 94,
+      "atr": 0.0527,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 67,
+      "atr": 0.0618,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 60,
+      "atr": 0.0765,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 10,
+      "atr": 0.0804,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 21,
+      "atr": 0.087,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 53,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0217,
+    "cum_pnl": 30519.3694,
+    "leverage": 0.5998,
+    "atr": 0.0431,
+    "marketcap_pnt": 0.0199,
+    "green_marketcap_pnt": 0
+  }
+}

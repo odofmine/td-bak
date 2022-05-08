@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0431,
+      "pnl_value": 0.0921,
+      "weight": 0.0123,
+      "rank": 32,
+      "atr": 0.062,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0707,
+      "pnl_value": -0.0934,
+      "weight": 0.0076,
+      "rank": 63,
+      "atr": 0.0998,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0937,
+      "pnl_value": -0.1793,
+      "weight": 0.011,
+      "rank": 47,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1122,
+      "pnl_value": -0.1619,
+      "weight": 0.0083,
+      "rank": 116,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.1387,
+      "pnl_value": -0.2678,
+      "weight": 0.0111,
+      "rank": 114,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 114,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 47,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 116,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.0998,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 172.2968,
+    "leverage": 0.0503,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

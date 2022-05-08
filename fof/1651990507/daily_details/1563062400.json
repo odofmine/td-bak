@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "VSYS",
+      "pnl": -0.0562,
+      "pnl_value": -0.2805,
+      "weight": 0.0191,
+      "rank": 34,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0806,
+      "pnl_value": -0.438,
+      "weight": 0.0208,
+      "rank": 38,
+      "atr": 0.076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 34,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 259.3859,
+    "leverage": 0.0399,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

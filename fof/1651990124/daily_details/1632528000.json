@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": -0.0885,
+      "pnl_value": -0.1077,
+      "weight": 0.0102,
+      "rank": 104,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0922,
+      "pnl_value": -0.1276,
+      "weight": 0.0116,
+      "rank": 118,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.1034,
+      "pnl_value": -0.1073,
+      "weight": 0.0087,
+      "rank": 65,
+      "atr": 0.1189,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CELR",
+      "rank": 118,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 104,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 65,
+      "atr": 0.1189,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 117.9126,
+    "leverage": 0.0305,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

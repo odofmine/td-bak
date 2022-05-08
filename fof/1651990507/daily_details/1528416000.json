@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.0126,
+      "pnl_value": 0.0148,
+      "weight": 0.0103,
+      "rank": 30,
+      "atr": 0.0753,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0018,
+      "pnl_value": -0.0025,
+      "weight": 0.0117,
+      "rank": 17,
+      "atr": 0.0661,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0066,
+      "pnl_value": -0.0062,
+      "weight": 0.0082,
+      "rank": 25,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 17,
+      "atr": 0.0661,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0753,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 25,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 113.0905,
+    "leverage": 0.0302,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0098,
+    "green_marketcap_pnt": 0
+  }
+}

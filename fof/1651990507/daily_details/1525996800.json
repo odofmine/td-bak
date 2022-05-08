@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": 0.2473,
+      "pnl_value": 0.7933,
+      "weight": 0.0278,
+      "rank": 54,
+      "atr": 0.0957,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.1784,
+      "pnl_value": -0.4548,
+      "weight": 0.0221,
+      "rank": 23,
+      "atr": 0.1199,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 54,
+      "atr": 0.0957,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 23,
+      "atr": 0.1199,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0029,
+    "cum_pnl": 114.7087,
+    "leverage": 0.0499,
+    "atr": 0.0053,
+    "marketcap_pnt": 0.004,
+    "green_marketcap_pnt": 0
+  }
+}

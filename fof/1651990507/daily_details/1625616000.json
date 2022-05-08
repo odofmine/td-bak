@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0084,
+      "pnl_value": 1.5138,
+      "weight": 0.0116,
+      "rank": 45,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.002,
+      "pnl_value": -0.254,
+      "weight": 0.0083,
+      "rank": 57,
+      "atr": 0.1104,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0784,
+      "pnl_value": -15.3731,
+      "weight": 0.0127,
+      "rank": 97,
+      "atr": 0.072,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0838,
+      "pnl_value": -9.9678,
+      "weight": 0.0077,
+      "rank": 43,
+      "atr": 0.119,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 97,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 45,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1104,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.119,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 15419.3637,
+    "leverage": 0.0403,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.319,
+      "pnl_value": 8.5651,
+      "weight": 0.1065,
+      "rank": 109,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": 0.1027,
+      "pnl_value": 2.3723,
+      "weight": 0.0916,
+      "rank": 35,
+      "atr": 0.0933,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.01,
+      "pnl_value": 0.2365,
+      "weight": 0.0938,
+      "rank": 16,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0017,
+      "pnl_value": -0.0557,
+      "weight": 0.1296,
+      "rank": 42,
+      "atr": 0.0659,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0227,
+      "pnl_value": -0.4489,
+      "weight": 0.0783,
+      "rank": 91,
+      "atr": 0.1091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ELA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 42,
+      "atr": 0.0659,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0933,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.1091,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0423,
+    "cum_pnl": 261.8041,
+    "leverage": 0.4998,
+    "atr": 0.0427,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

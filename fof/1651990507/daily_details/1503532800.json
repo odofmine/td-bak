@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.2111,
+      "pnl_value": 0.2561,
+      "weight": 0.0748,
+      "rank": 20,
+      "atr": 0.1333,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.1334,
+      "pnl_value": 0.1661,
+      "weight": 0.0768,
+      "rank": 34,
+      "atr": 0.1299,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0651,
+      "pnl_value": 0.1354,
+      "weight": 0.1283,
+      "rank": 8,
+      "atr": 0.0777,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.0132,
+      "pnl_value": 0.0148,
+      "weight": 0.0692,
+      "rank": 95,
+      "atr": 0.1441,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0057,
+      "pnl_value": -0.0069,
+      "weight": 0.0748,
+      "rank": 87,
+      "atr": 0.1333,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0495,
+      "pnl_value": -0.1028,
+      "weight": 0.128,
+      "rank": 12,
+      "atr": 0.0779,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0576,
+      "pnl_value": -0.1394,
+      "weight": 0.1491,
+      "rank": 7,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.1156,
+      "pnl_value": -0.1848,
+      "weight": 0.0986,
+      "rank": 4,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 8,
+      "atr": 0.0777,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 12,
+      "atr": 0.0779,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 34,
+      "atr": 0.1299,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 20,
+      "atr": 0.1333,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 87,
+      "atr": 0.1333,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 95,
+      "atr": 0.1441,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0085,
+    "cum_pnl": 15.3559,
+    "leverage": 0.7996,
+    "atr": 0.0798,
+    "marketcap_pnt": 0.0847,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "ENJ",
+      "pnl": 0.2298,
+      "pnl_value": 26.1884,
+      "weight": 0.02,
+      "rank": 64,
+      "atr": 0.1013,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": 0.2214,
+      "pnl_value": 23.2132,
+      "weight": 0.0184,
+      "rank": 91,
+      "atr": 0.1102,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.1746,
+      "pnl_value": 21.2917,
+      "weight": 0.0214,
+      "rank": 28,
+      "atr": 0.0947,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VET",
+      "pnl": 0.154,
+      "pnl_value": 16.1452,
+      "weight": 0.0184,
+      "rank": 25,
+      "atr": 0.1103,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.1479,
+      "pnl_value": 16.5214,
+      "weight": 0.0196,
+      "rank": 69,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.1445,
+      "pnl_value": 14.3227,
+      "weight": 0.0174,
+      "rank": 66,
+      "atr": 0.1166,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1317,
+      "pnl_value": 17.4918,
+      "weight": 0.0233,
+      "rank": 18,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": 0.0865,
+      "pnl_value": 12.2799,
+      "weight": 0.0249,
+      "rank": 57,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0683,
+      "pnl_value": 7.3145,
+      "weight": 0.0188,
+      "rank": 74,
+      "atr": 0.108,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0269,
+      "pnl_value": -2.3743,
+      "weight": 0.0155,
+      "rank": 115,
+      "atr": 0.1305,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0298,
+      "pnl_value": -3.8364,
+      "weight": 0.0226,
+      "rank": 8,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.0628,
+      "pnl_value": -8.585,
+      "weight": 0.024,
+      "rank": 77,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNT",
+      "rank": 57,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 77,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 18,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 8,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 28,
+      "atr": 0.0947,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 64,
+      "atr": 0.1013,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 69,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 74,
+      "atr": 0.108,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 91,
+      "atr": 0.1102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 25,
+      "atr": 0.1103,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 66,
+      "atr": 0.1166,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 115,
+      "atr": 0.1305,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0246,
+    "cum_pnl": 5837.3829,
+    "leverage": 0.2443,
+    "atr": 0.0244,
+    "marketcap_pnt": 0.0234,
+    "green_marketcap_pnt": 0
+  }
+}

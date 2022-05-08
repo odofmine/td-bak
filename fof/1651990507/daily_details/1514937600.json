@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.5907,
+      "pnl_value": 1.4098,
+      "weight": 0.0263,
+      "rank": 10,
+      "atr": 0.0806,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.4567,
+      "pnl_value": 1.0278,
+      "weight": 0.0248,
+      "rank": 5,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VEN",
+      "pnl": 0.3717,
+      "pnl_value": 0.6781,
+      "weight": 0.0201,
+      "rank": 46,
+      "atr": 0.1057,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.2466,
+      "pnl_value": 0.6154,
+      "weight": 0.0275,
+      "rank": 2,
+      "atr": 0.0771,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": 0.1861,
+      "pnl_value": 0.1705,
+      "weight": 0.0101,
+      "rank": 84,
+      "atr": 0.21,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.1719,
+      "pnl_value": 0.2886,
+      "weight": 0.0185,
+      "rank": 13,
+      "atr": 0.1148,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": 0.1713,
+      "pnl_value": 0.3965,
+      "weight": 0.0255,
+      "rank": 39,
+      "atr": 0.083,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICN",
+      "pnl": 0.1437,
+      "pnl_value": 0.2321,
+      "weight": 0.0178,
+      "rank": 83,
+      "atr": 0.1189,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": 0.0218,
+      "pnl_value": 0.0365,
+      "weight": 0.0184,
+      "rank": 22,
+      "atr": 0.1151,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0024,
+      "pnl_value": 0.0044,
+      "weight": 0.0199,
+      "rank": 47,
+      "atr": 0.1063,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0234,
+      "pnl_value": -0.0293,
+      "weight": 0.0138,
+      "rank": 114,
+      "atr": 0.1532,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0487,
+      "pnl_value": -0.0792,
+      "weight": 0.0179,
+      "rank": 72,
+      "atr": 0.1182,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.1072,
+      "pnl_value": -0.2334,
+      "weight": 0.024,
+      "rank": 24,
+      "atr": 0.0884,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 2,
+      "atr": 0.0771,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 10,
+      "atr": 0.0806,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 39,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 24,
+      "atr": 0.0884,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VEN",
+      "rank": 46,
+      "atr": 0.1057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 47,
+      "atr": 0.1063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 13,
+      "atr": 0.1148,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 22,
+      "atr": 0.1151,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 72,
+      "atr": 0.1182,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICN",
+      "rank": 83,
+      "atr": 0.1189,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 114,
+      "atr": 0.1532,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 84,
+      "atr": 0.21,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0498,
+    "cum_pnl": 94.269,
+    "leverage": 0.2646,
+    "atr": 0.0275,
+    "marketcap_pnt": 0.2076,
+    "green_marketcap_pnt": 0
+  }
+}

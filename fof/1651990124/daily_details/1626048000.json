@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": -0.0267,
+      "pnl_value": -0.0151,
+      "weight": 0.0088,
+      "rank": 62,
+      "atr": 0.1391,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0535,
+      "pnl_value": -0.0275,
+      "weight": 0.008,
+      "rank": 67,
+      "atr": 0.1516,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0688,
+      "pnl_value": -0.0419,
+      "weight": 0.0095,
+      "rank": 29,
+      "atr": 0.1289,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": -0.0775,
+      "pnl_value": -0.0716,
+      "weight": 0.0144,
+      "rank": 70,
+      "atr": 0.0845,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0909,
+      "pnl_value": -0.0484,
+      "weight": 0.0083,
+      "rank": 65,
+      "atr": 0.1458,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1388,
+      "pnl_value": -0.1016,
+      "weight": 0.0114,
+      "rank": 55,
+      "atr": 0.1072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.1476,
+      "pnl_value": -0.0947,
+      "weight": 0.01,
+      "rank": 116,
+      "atr": 0.1224,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 70,
+      "atr": 0.0845,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 55,
+      "atr": 0.1072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 116,
+      "atr": 0.1224,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 29,
+      "atr": 0.1289,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 62,
+      "atr": 0.1391,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 65,
+      "atr": 0.1458,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 67,
+      "atr": 0.1516,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 62.7828,
+    "leverage": 0.0704,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0075,
+    "green_marketcap_pnt": 0
+  }
+}

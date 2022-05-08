@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0566,
+      "pnl_value": -0.317,
+      "weight": 0.0259,
+      "rank": 22,
+      "atr": 0.0708,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.1036,
+      "pnl_value": -0.4546,
+      "weight": 0.0203,
+      "rank": 97,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOLVE",
+      "pnl": -0.1551,
+      "pnl_value": -0.4996,
+      "weight": 0.0149,
+      "rank": 74,
+      "atr": 0.1233,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 22,
+      "atr": 0.0708,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 97,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOLVE",
+      "rank": 74,
+      "atr": 0.1233,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0059,
+    "cum_pnl": 213.9417,
+    "leverage": 0.0611,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}

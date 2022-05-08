@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1986,
+      "pnl_value": 0.4635,
+      "weight": 0.1127,
+      "rank": 82,
+      "atr": 0.118,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATB",
+      "pnl": 0.0085,
+      "pnl_value": 0.0162,
+      "weight": 0.0923,
+      "rank": 95,
+      "atr": 0.144,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0299,
+      "pnl_value": -0.053,
+      "weight": 0.0855,
+      "rank": 69,
+      "atr": 0.1554,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.1141,
+      "pnl_value": -0.2581,
+      "weight": 0.1093,
+      "rank": 21,
+      "atr": 0.1217,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.118,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 21,
+      "atr": 0.1217,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATB",
+      "rank": 95,
+      "atr": 0.144,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 69,
+      "atr": 0.1554,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0081,
+    "cum_pnl": 19.8708,
+    "leverage": 0.3998,
+    "atr": 0.0532,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

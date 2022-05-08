@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0079,
+      "pnl_value": 0.048,
+      "weight": 0.022,
+      "rank": 15,
+      "atr": 0.0616,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0037,
+      "pnl_value": 0.0245,
+      "weight": 0.0241,
+      "rank": 94,
+      "atr": 0.0564,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DX",
+      "pnl": -0.017,
+      "pnl_value": -0.0644,
+      "weight": 0.0138,
+      "rank": 61,
+      "atr": 0.0979,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.029,
+      "pnl_value": -0.171,
+      "weight": 0.0215,
+      "rank": 43,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0313,
+      "pnl_value": -0.2121,
+      "weight": 0.0247,
+      "rank": 19,
+      "atr": 0.055,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.055,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 94,
+      "atr": 0.0564,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0616,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 43,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 61,
+      "atr": 0.0979,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 273.1463,
+    "leverage": 0.1061,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

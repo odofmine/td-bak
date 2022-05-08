@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.1717,
+      "pnl_value": 0.0332,
+      "weight": 0.0709,
+      "rank": 79,
+      "atr": 0.0921,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0386,
+      "pnl_value": 0.0078,
+      "weight": 0.0746,
+      "rank": 6,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0135,
+      "pnl_value": 0.0047,
+      "weight": 0.1285,
+      "rank": 2,
+      "atr": 0.0508,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0072,
+      "pnl_value": 0.0019,
+      "weight": 0.0952,
+      "rank": 44,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.002,
+      "pnl_value": -0.001,
+      "weight": 0.1723,
+      "rank": 1,
+      "atr": 0.0379,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0041,
+      "pnl_value": -0.0007,
+      "weight": 0.0642,
+      "rank": 137,
+      "atr": 0.1016,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0216,
+      "pnl_value": -0.0066,
+      "weight": 0.1114,
+      "rank": 8,
+      "atr": 0.0586,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.094,
+      "pnl_value": -0.0204,
+      "weight": 0.0796,
+      "rank": 78,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.1494,
+      "pnl_value": -0.0418,
+      "weight": 0.1028,
+      "rank": 150,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0379,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0508,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0586,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 150,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 44,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 78,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 79,
+      "atr": 0.0921,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 137,
+      "atr": 0.1016,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0084,
+    "cum_pnl": 1.7009,
+    "leverage": 0.8995,
+    "atr": 0.0588,
+    "marketcap_pnt": 0.786,
+    "green_marketcap_pnt": 0
+  }
+}

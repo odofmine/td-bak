@@ -1,0 +1,234 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.1429,
+      "pnl_value": 4.8861,
+      "weight": 0.1252,
+      "rank": 42,
+      "atr": 0.054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.028,
+      "pnl_value": 0.7573,
+      "weight": 0.0991,
+      "rank": 64,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PZM",
+      "pnl": 0.0135,
+      "pnl_value": 0.3474,
+      "weight": 0.0941,
+      "rank": 38,
+      "atr": 0.0718,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HC",
+      "pnl": 0.0005,
+      "pnl_value": 0.0126,
+      "weight": 0.0865,
+      "rank": 76,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0114,
+      "pnl_value": -0.3976,
+      "weight": 0.1275,
+      "rank": 16,
+      "atr": 0.053,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0137,
+      "pnl_value": -0.3701,
+      "weight": 0.0989,
+      "rank": 20,
+      "atr": 0.0683,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0375,
+      "pnl_value": -0.6264,
+      "weight": 0.0612,
+      "rank": 80,
+      "atr": 0.1104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0383,
+      "pnl_value": -1.1314,
+      "weight": 0.108,
+      "rank": 10,
+      "atr": 0.0626,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0444,
+      "pnl_value": -1.4735,
+      "weight": 0.1216,
+      "rank": 88,
+      "atr": 0.0556,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SLV",
+      "pnl": -0.0744,
+      "pnl_value": -1.5726,
+      "weight": 0.0774,
+      "rank": 66,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 16,
+      "atr": 0.053,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 42,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 88,
+      "atr": 0.0556,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 10,
+      "atr": 0.0626,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 64,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0683,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 38,
+      "atr": 0.0718,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 76,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SLV",
+      "rank": 66,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 80,
+      "atr": 0.1104,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 272.618,
+    "leverage": 0.9995,
+    "atr": 0.0676,
+    "marketcap_pnt": 0.014,
+    "green_marketcap_pnt": 0
+  }
+}

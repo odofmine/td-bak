@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "NEAR",
+      "pnl": 0.2664,
+      "pnl_value": 90.2144,
+      "weight": 0.0087,
+      "rank": 31,
+      "atr": 0.1127,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.1033,
+      "pnl_value": 48.2369,
+      "weight": 0.012,
+      "rank": 9,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0732,
+      "pnl_value": 30.4796,
+      "weight": 0.0107,
+      "rank": 14,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0411,
+      "pnl_value": 15.2145,
+      "weight": 0.0095,
+      "rank": 10,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0279,
+      "pnl_value": 9.4566,
+      "weight": 0.0087,
+      "rank": 68,
+      "atr": 0.1123,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0027,
+      "pnl_value": -1.1163,
+      "weight": 0.0106,
+      "rank": 83,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.1123,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.1127,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0049,
+    "cum_pnl": 39121.8702,
+    "leverage": 0.0602,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0365,
+    "green_marketcap_pnt": 0
+  }
+}

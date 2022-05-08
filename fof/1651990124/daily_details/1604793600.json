@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0443,
+      "pnl_value": 0.0107,
+      "weight": 0.0939,
+      "rank": 1,
+      "atr": 0.0371,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0439,
+      "pnl_value": 0.0077,
+      "weight": 0.0682,
+      "rank": 2,
+      "atr": 0.0511,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0357,
+      "pnl_value": 0.0055,
+      "weight": 0.0597,
+      "rank": 8,
+      "atr": 0.0583,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0238,
+      "pnl_value": 0.0029,
+      "weight": 0.0472,
+      "rank": 43,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": 0.0053,
+      "pnl_value": 0.0032,
+      "weight": 0.2308,
+      "rank": 112,
+      "atr": 0.0151,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 112,
+      "atr": 0.0151,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0371,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0511,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0583,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0117,
+    "cum_pnl": 1.6116,
+    "leverage": 0.4998,
+    "atr": 0.0174,
+    "marketcap_pnt": 0.7606,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "PAXG",
+      "pnl": 0.004,
+      "pnl_value": 0.0123,
+      "weight": 0.0175,
+      "rank": 116,
+      "atr": 0.0131,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0667,
+      "pnl_value": -0.0302,
+      "weight": 0.0026,
+      "rank": 101,
+      "atr": 0.088,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 116,
+      "atr": 0.0131,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.088,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 173.0969,
+    "leverage": 0.0201,
+    "atr": 0.0005,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0858,
+      "pnl_value": 0.148,
+      "weight": 0.0142,
+      "rank": 25,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0551,
+      "pnl_value": 0.0857,
+      "weight": 0.0128,
+      "rank": 95,
+      "atr": 0.1007,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0151,
+      "pnl_value": 0.0241,
+      "weight": 0.0132,
+      "rank": 14,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0885,
+      "pnl_value": -0.1375,
+      "weight": 0.0128,
+      "rank": 110,
+      "atr": 0.1002,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0948,
+      "pnl_value": -0.1543,
+      "weight": 0.0134,
+      "rank": 128,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SHIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 128,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 110,
+      "atr": 0.1002,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 95,
+      "atr": 0.1007,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 120.3805,
+    "leverage": 0.0664,
+    "atr": 0.0064,
+    "marketcap_pnt": 0.011,
+    "green_marketcap_pnt": 0
+  }
+}

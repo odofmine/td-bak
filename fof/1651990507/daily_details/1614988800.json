@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.1668,
+      "pnl_value": 22.2956,
+      "weight": 0.0238,
+      "rank": 80,
+      "atr": 0.0893,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": 0.0489,
+      "pnl_value": 5.5802,
+      "weight": 0.0203,
+      "rank": 70,
+      "atr": 0.1046,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0097,
+      "pnl_value": 1.277,
+      "weight": 0.0235,
+      "rank": 25,
+      "atr": 0.0905,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0067,
+      "pnl_value": 0.7575,
+      "weight": 0.0201,
+      "rank": 13,
+      "atr": 0.1058,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": 0.0006,
+      "pnl_value": 0.085,
+      "weight": 0.0263,
+      "rank": 88,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.023,
+      "pnl_value": -2.4582,
+      "weight": 0.019,
+      "rank": 71,
+      "atr": 0.1116,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0239,
+      "pnl_value": -2.6436,
+      "weight": 0.0197,
+      "rank": 77,
+      "atr": 0.1079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0256,
+      "pnl_value": -2.514,
+      "weight": 0.0175,
+      "rank": 68,
+      "atr": 0.1214,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.026,
+      "pnl_value": -3.3588,
+      "weight": 0.023,
+      "rank": 35,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0351,
+      "pnl_value": -3.7026,
+      "weight": 0.0188,
+      "rank": 91,
+      "atr": 0.1126,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.042,
+      "pnl_value": -4.3683,
+      "weight": 0.0185,
+      "rank": 100,
+      "atr": 0.1144,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0515,
+      "pnl_value": -4.0198,
+      "weight": 0.0139,
+      "rank": 102,
+      "atr": 0.1526,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0893,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0905,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 35,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 70,
+      "atr": 0.1046,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 13,
+      "atr": 0.1058,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 77,
+      "atr": 0.1079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1116,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 91,
+      "atr": 0.1126,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 100,
+      "atr": 0.1144,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 68,
+      "atr": 0.1214,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.1526,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 5623.5791,
+    "leverage": 0.2444,
+    "atr": 0.0255,
+    "marketcap_pnt": 0.0129,
+    "green_marketcap_pnt": 0
+  }
+}

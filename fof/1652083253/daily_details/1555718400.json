@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "BAT",
+      "pnl": 0.1142,
+      "pnl_value": 0.4214,
+      "weight": 0.0224,
+      "rank": 25,
+      "atr": 0.0608,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0652,
+      "pnl_value": 0.1298,
+      "weight": 0.0121,
+      "rank": 55,
+      "atr": 0.112,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0428,
+      "pnl_value": 0.1783,
+      "weight": 0.0253,
+      "rank": 81,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": 0.0395,
+      "pnl_value": 0.1309,
+      "weight": 0.0201,
+      "rank": 46,
+      "atr": 0.0676,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0216,
+      "pnl_value": 0.104,
+      "weight": 0.0292,
+      "rank": 7,
+      "atr": 0.0466,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0199,
+      "pnl_value": -0.0642,
+      "weight": 0.0196,
+      "rank": 34,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.029,
+      "pnl_value": -0.0869,
+      "weight": 0.0182,
+      "rank": 16,
+      "atr": 0.0745,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.0434,
+      "pnl_value": -0.1143,
+      "weight": 0.016,
+      "rank": 196,
+      "atr": 0.085,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0466,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 81,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 25,
+      "atr": 0.0608,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0676,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 34,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.0745,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 196,
+      "atr": 0.085,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 55,
+      "atr": 0.112,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0042,
+    "cum_pnl": 164.387,
+    "leverage": 0.1629,
+    "atr": 0.0109,
+    "marketcap_pnt": 0.0261,
+    "green_marketcap_pnt": 0
+  }
+}

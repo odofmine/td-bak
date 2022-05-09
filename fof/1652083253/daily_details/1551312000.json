@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0007,
+      "pnl_value": -0.0092,
+      "weight": 0.1178,
+      "rank": 57,
+      "atr": 0.0727,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": -0.0383,
+      "pnl_value": -0.4541,
+      "weight": 0.1051,
+      "rank": 157,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GVT",
+      "pnl": -0.1251,
+      "pnl_value": -1.7723,
+      "weight": 0.1256,
+      "rank": 160,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MDA",
+      "pnl": -0.1706,
+      "pnl_value": -0.987,
+      "weight": 0.0513,
+      "rank": 167,
+      "atr": 0.167,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LOOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GVT",
+      "rank": 160,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0727,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 157,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 167,
+      "atr": 0.167,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0286,
+    "cum_pnl": 108.5878,
+    "leverage": 0.3998,
+    "atr": 0.0343,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

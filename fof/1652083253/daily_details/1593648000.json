@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "SNX",
+      "pnl": 0.0688,
+      "pnl_value": 0.4976,
+      "weight": 0.0117,
+      "rank": 63,
+      "atr": 0.0587,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.024,
+      "pnl_value": 0.1054,
+      "weight": 0.0071,
+      "rank": 82,
+      "atr": 0.0974,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VEST",
+      "pnl": -0.0018,
+      "pnl_value": -0.0094,
+      "weight": 0.0084,
+      "rank": 39,
+      "atr": 0.0818,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.0419,
+      "pnl_value": -0.324,
+      "weight": 0.0125,
+      "rank": 80,
+      "atr": 0.055,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0444,
+      "pnl_value": -0.3656,
+      "weight": 0.0133,
+      "rank": 11,
+      "atr": 0.0518,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0698,
+      "pnl_value": -0.3497,
+      "weight": 0.0081,
+      "rank": 160,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0882,
+      "pnl_value": -0.4527,
+      "weight": 0.0083,
+      "rank": 133,
+      "atr": 0.083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.1223,
+      "pnl_value": -0.8319,
+      "weight": 0.011,
+      "rank": 53,
+      "atr": 0.0627,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0518,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 80,
+      "atr": 0.055,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 63,
+      "atr": 0.0587,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 53,
+      "atr": 0.0627,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VEST",
+      "rank": 39,
+      "atr": 0.0818,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 82,
+      "atr": 0.0974,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 615.7666,
+    "leverage": 0.0804,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0115,
+    "green_marketcap_pnt": 0
+  }
+}

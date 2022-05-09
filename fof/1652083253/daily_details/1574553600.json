@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MOF",
+      "pnl": 0.1,
+      "pnl_value": 0.2813,
+      "weight": 0.0075,
+      "rank": 143,
+      "atr": 0.1129,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0548,
+      "pnl_value": -0.2322,
+      "weight": 0.0113,
+      "rank": 18,
+      "atr": 0.0754,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0968,
+      "pnl_value": -0.414,
+      "weight": 0.0114,
+      "rank": 138,
+      "atr": 0.0747,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 138,
+      "atr": 0.0747,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 18,
+      "atr": 0.0754,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 143,
+      "atr": 0.1129,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 373.6418,
+    "leverage": 0.0302,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

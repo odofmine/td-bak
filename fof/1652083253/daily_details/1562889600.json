@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "CRPT",
+      "pnl": 0.0956,
+      "pnl_value": 0.363,
+      "weight": 0.0122,
+      "rank": 166,
+      "atr": 0.1679,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0054,
+      "pnl_value": -0.0476,
+      "weight": 0.0285,
+      "rank": 38,
+      "atr": 0.0724,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0724,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRPT",
+      "rank": 166,
+      "atr": 0.1679,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 310.565,
+    "leverage": 0.0407,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

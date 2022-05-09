@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": -0.014,
+      "pnl_value": -0.0187,
+      "weight": 0.0116,
+      "rank": 28,
+      "atr": 0.0684,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0354,
+      "pnl_value": -0.037,
+      "weight": 0.0091,
+      "rank": 165,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0502,
+      "pnl_value": -0.0512,
+      "weight": 0.0089,
+      "rank": 56,
+      "atr": 0.0884,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0917,
+      "pnl_value": -0.1072,
+      "weight": 0.0102,
+      "rank": 135,
+      "atr": 0.0777,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 28,
+      "atr": 0.0684,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 135,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 165,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0884,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 113.4326,
+    "leverage": 0.0398,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

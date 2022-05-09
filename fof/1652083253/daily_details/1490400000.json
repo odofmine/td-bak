@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "NAV",
+      "pnl": 0.1194,
+      "pnl_value": 0.002,
+      "weight": 0.0144,
+      "rank": 64,
+      "atr": 0.1147,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.1062,
+      "pnl_value": 0.002,
+      "weight": 0.0162,
+      "rank": 25,
+      "atr": 0.1018,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0835,
+      "pnl_value": -0.0023,
+      "weight": 0.0236,
+      "rank": 7,
+      "atr": 0.0699,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.1638,
+      "pnl_value": -0.0049,
+      "weight": 0.0257,
+      "rank": 5,
+      "atr": 0.0642,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 5,
+      "atr": 0.0642,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0699,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 25,
+      "atr": 0.1018,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 64,
+      "atr": 0.1147,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 0.17,
+    "leverage": 0.0799,
+    "atr": 0.0066,
+    "marketcap_pnt": 0.0189,
+    "green_marketcap_pnt": 0
+  }
+}

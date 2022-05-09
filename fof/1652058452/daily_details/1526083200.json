@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "SKY",
+      "pnl": 0.0595,
+      "pnl_value": 0.1754,
+      "weight": 0.0275,
+      "rank": 108,
+      "atr": 0.1038,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCN",
+      "pnl": -0.02,
+      "pnl_value": -0.0362,
+      "weight": 0.0169,
+      "rank": 87,
+      "atr": 0.1686,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SKY",
+      "rank": 108,
+      "atr": 0.1038,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 87,
+      "atr": 0.1686,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 106.2234,
+    "leverage": 0.0444,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

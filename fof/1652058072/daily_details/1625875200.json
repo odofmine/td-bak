@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.0779,
+      "pnl_value": 0.0667,
+      "weight": 0.0126,
+      "rank": 173,
+      "atr": 0.1102,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0367,
+      "pnl_value": 0.0292,
+      "weight": 0.0117,
+      "rank": 70,
+      "atr": 0.1188,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": 0.018,
+      "pnl_value": 0.0089,
+      "weight": 0.0073,
+      "rank": 176,
+      "atr": 0.1896,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": -0.0038,
+      "pnl_value": -0.003,
+      "weight": 0.0115,
+      "rank": 155,
+      "atr": 0.1204,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0258,
+      "pnl_value": -0.018,
+      "weight": 0.0103,
+      "rank": 41,
+      "atr": 0.1353,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0277,
+      "pnl_value": -0.0175,
+      "weight": 0.0093,
+      "rank": 28,
+      "atr": 0.1491,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0372,
+      "pnl_value": -0.0232,
+      "weight": 0.0092,
+      "rank": 71,
+      "atr": 0.1502,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.045,
+      "pnl_value": -0.0257,
+      "weight": 0.0084,
+      "rank": 135,
+      "atr": 0.1651,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 70,
+      "atr": 0.1188,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 155,
+      "atr": 0.1204,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 41,
+      "atr": 0.1353,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1491,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 71,
+      "atr": 0.1502,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 135,
+      "atr": 0.1651,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALPHA",
+      "rank": 176,
+      "atr": 0.1896,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 66.9279,
+    "leverage": 0.0803,
+    "atr": 0.0111,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": 0.0033,
+      "pnl_value": 0.001,
+      "weight": 0.0203,
+      "rank": 39,
+      "atr": 0.1174,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.0871,
+      "pnl_value": -0.0279,
+      "weight": 0.0222,
+      "rank": 49,
+      "atr": 0.1074,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.1359,
+      "pnl_value": -0.0341,
+      "weight": 0.0174,
+      "rank": 27,
+      "atr": 0.137,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.1074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.1174,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.137,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 13.3523,
+    "leverage": 0.0599,
+    "atr": 0.0072,
+    "marketcap_pnt": 0.0041,
+    "green_marketcap_pnt": 0
+  }
+}

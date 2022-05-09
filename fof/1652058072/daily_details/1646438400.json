@@ -1,0 +1,122 @@
+{
+  "pnls": [
+    {
+      "name": "UMA",
+      "pnl": 0.0102,
+      "pnl_value": 0.0069,
+      "weight": 0.0037,
+      "rank": 153,
+      "atr": 0.1268,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": 0.0015,
+      "pnl_value": 0.0072,
+      "weight": 0.0258,
+      "rank": 107,
+      "atr": 0.0183,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0625,
+      "pnl_value": -0.0595,
+      "weight": 0.0052,
+      "rank": 66,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0646,
+      "pnl_value": -0.0604,
+      "weight": 0.0051,
+      "rank": 144,
+      "atr": 0.092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 107,
+      "atr": 0.0183,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1268,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 181.9977,
+    "leverage": 0.0398,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

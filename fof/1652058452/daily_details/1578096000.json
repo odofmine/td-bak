@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "CSC",
+      "pnl": 0.0656,
+      "pnl_value": 0.1238,
+      "weight": 0.0057,
+      "rank": 129,
+      "atr": 0.132,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": 0.0648,
+      "pnl_value": 0.2681,
+      "weight": 0.0125,
+      "rank": 9,
+      "atr": 0.0606,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0228,
+      "pnl_value": -0.068,
+      "weight": 0.009,
+      "rank": 82,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SEELE",
+      "pnl": -0.1485,
+      "pnl_value": -0.6197,
+      "weight": 0.0126,
+      "rank": 56,
+      "atr": 0.0599,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SEELE",
+      "rank": 56,
+      "atr": 0.0599,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0606,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CSC",
+      "rank": 129,
+      "atr": 0.132,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 329.9248,
+    "leverage": 0.0398,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0101,
+    "green_marketcap_pnt": 0
+  }
+}

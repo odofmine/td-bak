@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.1249,
+      "pnl_value": 0.0651,
+      "weight": 0.0312,
+      "rank": 15,
+      "atr": 0.1091,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTX",
+      "pnl": 0.0271,
+      "pnl_value": 0.0108,
+      "weight": 0.0239,
+      "rank": 53,
+      "atr": 0.1426,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0033,
+      "pnl_value": -0.0022,
+      "weight": 0.0393,
+      "rank": 5,
+      "atr": 0.0868,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0105,
+      "pnl_value": -0.0068,
+      "weight": 0.0387,
+      "rank": 7,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 5,
+      "atr": 0.0868,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 7,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 15,
+      "atr": 0.1091,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 53,
+      "atr": 0.1426,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.004,
+    "cum_pnl": 15.7677,
+    "leverage": 0.1331,
+    "atr": 0.0136,
+    "marketcap_pnt": 0.0351,
+    "green_marketcap_pnt": 0
+  }
+}

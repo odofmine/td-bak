@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0431,
+      "pnl_value": 0.1098,
+      "weight": 0.0127,
+      "rank": 32,
+      "atr": 0.062,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0707,
+      "pnl_value": -0.1121,
+      "weight": 0.0079,
+      "rank": 63,
+      "atr": 0.0998,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0937,
+      "pnl_value": -0.2126,
+      "weight": 0.0113,
+      "rank": 47,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FXS",
+      "pnl": -0.0956,
+      "pnl_value": -0.1631,
+      "weight": 0.0085,
+      "rank": 125,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.1122,
+      "pnl_value": -0.1914,
+      "weight": 0.0085,
+      "rank": 116,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.1387,
+      "pnl_value": -0.3175,
+      "weight": 0.0114,
+      "rank": 114,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OGN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CFX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.062,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 114,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 47,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 116,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FXS",
+      "rank": 125,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.0998,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0044,
+    "cum_pnl": 198.851,
+    "leverage": 0.0603,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

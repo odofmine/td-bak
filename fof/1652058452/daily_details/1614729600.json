@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.0885,
+      "pnl_value": 16.1479,
+      "weight": 0.0275,
+      "rank": 88,
+      "atr": 0.0751,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0188,
+      "pnl_value": 2.3557,
+      "weight": 0.0189,
+      "rank": 142,
+      "atr": 0.1093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": -0.0781,
+      "pnl_value": -7.5607,
+      "weight": 0.0146,
+      "rank": 194,
+      "atr": 0.1409,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0751,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.1409,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 6642.5874,
+    "leverage": 0.061,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

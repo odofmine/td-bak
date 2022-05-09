@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0113,
+      "pnl_value": 0.0962,
+      "weight": 0.0257,
+      "rank": 21,
+      "atr": 0.0637,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0026,
+      "pnl_value": -0.0166,
+      "weight": 0.0195,
+      "rank": 17,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0294,
+      "pnl_value": -0.2904,
+      "weight": 0.0297,
+      "rank": 18,
+      "atr": 0.0551,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0551,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 21,
+      "atr": 0.0637,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 17,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 331.0576,
+    "leverage": 0.0749,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0093,
+    "green_marketcap_pnt": 0
+  }
+}

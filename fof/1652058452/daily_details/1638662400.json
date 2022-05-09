@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0364,
+      "pnl_value": 22.938,
+      "weight": 0.0087,
+      "rank": 19,
+      "atr": 0.1008,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0144,
+      "pnl_value": 16.1552,
+      "weight": 0.0155,
+      "rank": 53,
+      "atr": 0.0568,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0942,
+      "pnl_value": -40.9555,
+      "weight": 0.006,
+      "rank": 196,
+      "atr": 0.147,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 53,
+      "atr": 0.0568,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1008,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 196,
+      "atr": 0.147,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 72465.5566,
+    "leverage": 0.0302,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

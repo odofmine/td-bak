@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0716,
+      "pnl_value": 0.3248,
+      "weight": 0.0097,
+      "rank": 111,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.009,
+      "pnl_value": -0.0588,
+      "weight": 0.0139,
+      "rank": 70,
+      "atr": 0.0573,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UBT",
+      "pnl": -0.0227,
+      "pnl_value": -0.0669,
+      "weight": 0.0063,
+      "rank": 165,
+      "atr": 0.125,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0725,
+      "pnl_value": -0.3496,
+      "weight": 0.0103,
+      "rank": 11,
+      "atr": 0.0771,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 70,
+      "atr": 0.0573,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 11,
+      "atr": 0.0771,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UBT",
+      "rank": 165,
+      "atr": 0.125,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 466.7184,
+    "leverage": 0.0402,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

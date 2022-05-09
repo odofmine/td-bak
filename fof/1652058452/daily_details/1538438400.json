@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "GNX",
+      "pnl": 0.0109,
+      "pnl_value": 0.0107,
+      "weight": 0.0094,
+      "rank": 196,
+      "atr": 0.124,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0132,
+      "pnl_value": -0.0133,
+      "weight": 0.0097,
+      "rank": 94,
+      "atr": 0.1208,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.03,
+      "pnl_value": -0.0334,
+      "weight": 0.0107,
+      "rank": 128,
+      "atr": 0.109,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QKC",
+      "rank": 128,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1208,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNX",
+      "rank": 196,
+      "atr": 0.124,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 102.8936,
+    "leverage": 0.0298,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

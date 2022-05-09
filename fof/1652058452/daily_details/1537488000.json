@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.2584,
+      "pnl_value": 0.363,
+      "weight": 0.0135,
+      "rank": 3,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PAY",
+      "pnl": 0.05,
+      "pnl_value": 0.0479,
+      "weight": 0.0092,
+      "rank": 82,
+      "atr": 0.1009,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.021,
+      "pnl_value": -0.0155,
+      "weight": 0.0071,
+      "rank": 16,
+      "atr": 0.1313,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.1009,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.1313,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 103.4488,
+    "leverage": 0.0298,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0617,
+    "green_marketcap_pnt": 0
+  }
+}

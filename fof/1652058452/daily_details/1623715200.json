@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "AMP",
+      "pnl": 0.2368,
+      "pnl_value": 47.172,
+      "weight": 0.0093,
+      "rank": 44,
+      "atr": 0.1227,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0105,
+      "pnl_value": 2.2729,
+      "weight": 0.0101,
+      "rank": 98,
+      "atr": 0.1124,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0605,
+      "pnl_value": -13.8631,
+      "weight": 0.0107,
+      "rank": 185,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMPL",
+      "rank": 185,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 98,
+      "atr": 0.1124,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMP",
+      "rank": 44,
+      "atr": 0.1227,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 21458.2253,
+    "leverage": 0.0301,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

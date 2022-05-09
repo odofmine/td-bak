@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.0119,
+      "pnl_value": 0.0126,
+      "weight": 0.0108,
+      "rank": 83,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.016,
+      "pnl_value": -0.0116,
+      "weight": 0.0074,
+      "rank": 159,
+      "atr": 0.1381,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.035,
+      "pnl_value": -0.0552,
+      "weight": 0.0161,
+      "rank": 6,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0407,
+      "pnl_value": -0.0427,
+      "weight": 0.0107,
+      "rank": 39,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0408,
+      "pnl_value": -0.0375,
+      "weight": 0.0094,
+      "rank": 11,
+      "atr": 0.109,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.044,
+      "pnl_value": -0.022,
+      "weight": 0.0051,
+      "rank": 38,
+      "atr": 0.2,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 83,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 159,
+      "atr": 0.1381,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 38,
+      "atr": 0.2,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 96.7613,
+    "leverage": 0.0595,
+    "atr": 0.0062,
+    "marketcap_pnt": 0.0293,
+    "green_marketcap_pnt": 0
+  }
+}

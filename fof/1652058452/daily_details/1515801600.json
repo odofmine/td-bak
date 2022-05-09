@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "EMC",
+      "pnl": 0.3005,
+      "pnl_value": 0.6606,
+      "weight": 0.0274,
+      "rank": 160,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GAME",
+      "pnl": 0.0989,
+      "pnl_value": 0.1841,
+      "weight": 0.0232,
+      "rank": 108,
+      "atr": 0.1182,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.008,
+      "pnl_value": 0.0121,
+      "weight": 0.0189,
+      "rank": 50,
+      "atr": 0.1453,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0561,
+      "pnl_value": -0.104,
+      "weight": 0.0231,
+      "rank": 169,
+      "atr": 0.119,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": -0.161,
+      "pnl_value": -0.4159,
+      "weight": 0.0322,
+      "rank": 199,
+      "atr": 0.0855,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QRL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NLG",
+      "rank": 199,
+      "atr": 0.0855,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 160,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 108,
+      "atr": 0.1182,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 169,
+      "atr": 0.119,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 50,
+      "atr": 0.1453,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0042,
+    "cum_pnl": 79.5651,
+    "leverage": 0.1248,
+    "atr": 0.0137,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.346,
+      "pnl_value": 0.0726,
+      "weight": 0.0196,
+      "rank": 99,
+      "atr": 0.1155,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICN",
+      "pnl": 0.2789,
+      "pnl_value": 0.063,
+      "weight": 0.0211,
+      "rank": 32,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VRC",
+      "pnl": 0.0868,
+      "pnl_value": 0.0162,
+      "weight": 0.0175,
+      "rank": 113,
+      "atr": 0.1297,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0815,
+      "pnl_value": 0.0222,
+      "weight": 0.0254,
+      "rank": 4,
+      "atr": 0.0892,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": 0.0578,
+      "pnl_value": 0.0117,
+      "weight": 0.0189,
+      "rank": 55,
+      "atr": 0.12,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTCD",
+      "pnl": 0.0488,
+      "pnl_value": 0.0133,
+      "weight": 0.0255,
+      "rank": 40,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.042,
+      "pnl_value": 0.0129,
+      "weight": 0.0286,
+      "rank": 29,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.017,
+      "pnl_value": 0.0038,
+      "weight": 0.0209,
+      "rank": 81,
+      "atr": 0.1086,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 29,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 40,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0892,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICN",
+      "rank": 32,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 81,
+      "atr": 0.1086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 99,
+      "atr": 0.1155,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 55,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VRC",
+      "rank": 113,
+      "atr": 0.1297,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0201,
+    "cum_pnl": 9.9159,
+    "leverage": 0.1775,
+    "atr": 0.0181,
+    "marketcap_pnt": 0.0276,
+    "green_marketcap_pnt": 0
+  }
+}

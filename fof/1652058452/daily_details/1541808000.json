@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0254,
+      "pnl_value": 0.3228,
+      "weight": 0.1261,
+      "rank": 6,
+      "atr": 0.0538,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.009,
+      "pnl_value": 0.0899,
+      "weight": 0.0993,
+      "rank": 3,
+      "atr": 0.0683,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0053,
+      "pnl_value": -0.0456,
+      "weight": 0.0852,
+      "rank": 67,
+      "atr": 0.0796,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRN",
+      "pnl": -0.0072,
+      "pnl_value": -0.0649,
+      "weight": 0.0891,
+      "rank": 187,
+      "atr": 0.0761,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0538,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0683,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRN",
+      "rank": 187,
+      "atr": 0.0761,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0796,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.003,
+    "cum_pnl": 100.2666,
+    "leverage": 0.3997,
+    "atr": 0.0271,
+    "marketcap_pnt": 0.1133,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0303,
+      "pnl_value": 17.5677,
+      "weight": 0.008,
+      "rank": 15,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0268,
+      "pnl_value": 17.3269,
+      "weight": 0.0089,
+      "rank": 10,
+      "atr": 0.0856,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0044,
+      "pnl_value": 4.2386,
+      "weight": 0.0132,
+      "rank": 43,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 43,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 10,
+      "atr": 0.0856,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 72568.6864,
+    "leverage": 0.0301,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0193,
+    "green_marketcap_pnt": 0
+  }
+}

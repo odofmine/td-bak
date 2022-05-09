@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "EWT",
+      "pnl": 0.1932,
+      "pnl_value": 89.9894,
+      "weight": 0.0064,
+      "rank": 196,
+      "atr": 0.1497,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0593,
+      "pnl_value": 48.7742,
+      "weight": 0.0113,
+      "rank": 19,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0495,
+      "pnl_value": -33.4822,
+      "weight": 0.0093,
+      "rank": 114,
+      "atr": 0.1034,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0608,
+      "pnl_value": -46.9453,
+      "weight": 0.0106,
+      "rank": 166,
+      "atr": 0.0908,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1188,
+      "pnl_value": -108.1109,
+      "weight": 0.0125,
+      "rank": 69,
+      "atr": 0.0774,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0774,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.0908,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 114,
+      "atr": 0.1034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 196,
+      "atr": 0.1497,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 72746.0258,
+    "leverage": 0.0501,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0062,
+    "green_marketcap_pnt": 0
+  }
+}

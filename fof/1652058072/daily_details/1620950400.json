@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.3987,
+      "pnl_value": 2.5626,
+      "weight": 0.0984,
+      "rank": 39,
+      "atr": 0.1064,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.1745,
+      "pnl_value": 1.1218,
+      "weight": 0.0984,
+      "rank": 75,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.1689,
+      "pnl_value": 1.0644,
+      "weight": 0.0965,
+      "rank": 33,
+      "atr": 0.1084,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.1306,
+      "pnl_value": 0.9088,
+      "weight": 0.1065,
+      "rank": 47,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.1064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1084,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0866,
+    "cum_pnl": 69.9758,
+    "leverage": 0.3998,
+    "atr": 0.0419,
+    "marketcap_pnt": 0.0068,
+    "green_marketcap_pnt": 0
+  }
+}

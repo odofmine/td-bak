@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0666,
+      "pnl_value": 0.0632,
+      "weight": 0.0091,
+      "rank": 3,
+      "atr": 0.0971,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0186,
+      "pnl_value": -0.0209,
+      "weight": 0.0108,
+      "rank": 6,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0242,
+      "pnl_value": -0.0328,
+      "weight": 0.013,
+      "rank": 42,
+      "atr": 0.0683,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.0716,
+      "pnl_value": -0.0515,
+      "weight": 0.0069,
+      "rank": 139,
+      "atr": 0.1286,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETP",
+      "rank": 42,
+      "atr": 0.0683,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0971,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 139,
+      "atr": 0.1286,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 103.1719,
+    "leverage": 0.0398,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.1273,
+    "green_marketcap_pnt": 0
+  }
+}

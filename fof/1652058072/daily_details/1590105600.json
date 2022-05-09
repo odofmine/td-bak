@@ -1,0 +1,132 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.1205,
+      "pnl_value": 0.0033,
+      "weight": 0.0207,
+      "rank": 89,
+      "atr": 0.0857,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0531,
+      "pnl_value": 0.0014,
+      "weight": 0.0203,
+      "rank": 51,
+      "atr": 0.0875,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0177,
+      "pnl_value": 0.0006,
+      "weight": 0.0237,
+      "rank": 47,
+      "atr": 0.075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0319,
+      "pnl_value": -0.001,
+      "weight": 0.024,
+      "rank": 61,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MATIC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENJ",
+      "rank": 61,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 47,
+      "atr": 0.075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 89,
+      "atr": 0.0857,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 51,
+      "atr": 0.0875,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 0.3252,
+    "leverage": 0.0887,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

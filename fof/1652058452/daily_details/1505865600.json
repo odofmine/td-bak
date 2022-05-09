@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "EMC2",
+      "pnl": 0.1253,
+      "pnl_value": 0.0142,
+      "weight": 0.008,
+      "rank": 185,
+      "atr": 0.2012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNGLS",
+      "pnl": 0.0329,
+      "pnl_value": 0.0049,
+      "weight": 0.0105,
+      "rank": 51,
+      "atr": 0.1543,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": 0.0287,
+      "pnl_value": 0.0048,
+      "weight": 0.0117,
+      "rank": 123,
+      "atr": 0.138,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PTOY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXC",
+      "rank": 123,
+      "atr": 0.138,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 51,
+      "atr": 0.1543,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 185,
+      "atr": 0.2012,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 13.2231,
+    "leverage": 0.0302,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

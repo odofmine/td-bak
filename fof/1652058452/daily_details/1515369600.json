@@ -1,0 +1,277 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.0387,
+      "pnl_value": 0.3384,
+      "weight": 0.0999,
+      "rank": 132,
+      "atr": 0.0936,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0164,
+      "pnl_value": 0.1919,
+      "weight": 0.1334,
+      "rank": 3,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0141,
+      "pnl_value": -0.1097,
+      "weight": 0.0887,
+      "rank": 54,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0238,
+      "pnl_value": -0.1851,
+      "weight": 0.0887,
+      "rank": 25,
+      "atr": 0.1054,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SAN",
+      "pnl": -0.0582,
+      "pnl_value": -0.5225,
+      "weight": 0.1025,
+      "rank": 85,
+      "atr": 0.0912,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0904,
+      "pnl_value": -0.7511,
+      "weight": 0.0949,
+      "rank": 18,
+      "atr": 0.0985,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.1226,
+      "pnl_value": -1.0086,
+      "weight": 0.0939,
+      "rank": 6,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.1312,
+      "pnl_value": -1.1546,
+      "weight": 0.1005,
+      "rank": 29,
+      "atr": 0.093,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.1392,
+      "pnl_value": -1.0871,
+      "weight": 0.0892,
+      "rank": 130,
+      "atr": 0.1048,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICN",
+      "pnl": -0.1457,
+      "pnl_value": -1.3759,
+      "weight": 0.1078,
+      "rank": 81,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MLN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 3,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICN",
+      "rank": 81,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 85,
+      "atr": 0.0912,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 29,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 132,
+      "atr": 0.0936,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 18,
+      "atr": 0.0985,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 6,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 130,
+      "atr": 0.1048,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 25,
+      "atr": 0.1054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 54,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 169,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 177,
+      "atr": 0.1151,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAS",
+      "rank": 82,
+      "atr": 0.1219,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 174,
+      "atr": 0.1237,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 138,
+      "atr": 0.1239,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 108,
+      "atr": 0.127,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 160,
+      "atr": 0.1308,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CFI",
+      "rank": 200,
+      "atr": 0.1523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNGLS",
+      "rank": 142,
+      "atr": 0.1564,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0647,
+    "cum_pnl": 80.9146,
+    "leverage": 0.9995,
+    "atr": 0.0935,
+    "marketcap_pnt": 0.17,
+    "green_marketcap_pnt": 0
+  }
+}

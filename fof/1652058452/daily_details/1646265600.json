@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "UMA",
+      "pnl": 0.147,
+      "pnl_value": 71.0681,
+      "weight": 0.0068,
+      "rank": 153,
+      "atr": 0.1222,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0558,
+      "pnl_value": 32.5322,
+      "weight": 0.0082,
+      "rank": 20,
+      "atr": 0.1008,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0235,
+      "pnl_value": 16.0162,
+      "weight": 0.0096,
+      "rank": 66,
+      "atr": 0.0866,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0025,
+      "pnl_value": -1.8971,
+      "weight": 0.0106,
+      "rank": 144,
+      "atr": 0.0788,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0199,
+      "pnl_value": -15.4418,
+      "weight": 0.0109,
+      "rank": 8,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0333,
+      "pnl_value": -37.3581,
+      "weight": 0.0158,
+      "rank": 1,
+      "atr": 0.0527,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NU",
+      "pnl": -0.0836,
+      "pnl_value": -45.7666,
+      "weight": 0.0077,
+      "rank": 136,
+      "atr": 0.1078,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KCS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0527,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0788,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0866,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.1008,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NU",
+      "rank": 136,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1222,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 71121.7219,
+    "leverage": 0.0696,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.445,
+    "green_marketcap_pnt": 0
+  }
+}

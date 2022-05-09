@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "ROSE",
+      "pnl": 0.3268,
+      "pnl_value": 234.5466,
+      "weight": 0.017,
+      "rank": 187,
+      "atr": 0.1164,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0431,
+      "pnl_value": 36.9347,
+      "weight": 0.0203,
+      "rank": 85,
+      "atr": 0.0975,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0332,
+      "pnl_value": 28.1367,
+      "weight": 0.0201,
+      "rank": 148,
+      "atr": 0.0987,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0036,
+      "pnl_value": -3.1959,
+      "weight": 0.0212,
+      "rank": 28,
+      "atr": 0.0935,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0099,
+      "pnl_value": -10.313,
+      "weight": 0.0246,
+      "rank": 39,
+      "atr": 0.0805,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0185,
+      "pnl_value": -19.2024,
+      "weight": 0.0246,
+      "rank": 43,
+      "atr": 0.0805,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0238,
+      "pnl_value": -29.751,
+      "weight": 0.0296,
+      "rank": 46,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0239,
+      "pnl_value": -26.4196,
+      "weight": 0.0262,
+      "rank": 103,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0712,
+      "pnl_value": -64.2885,
+      "weight": 0.0214,
+      "rank": 30,
+      "atr": 0.0928,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELR",
+      "pnl": -0.0767,
+      "pnl_value": -54.0417,
+      "weight": 0.0167,
+      "rank": 170,
+      "atr": 0.1189,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ELF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 46,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 103,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 39,
+      "atr": 0.0805,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 43,
+      "atr": 0.0805,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 30,
+      "atr": 0.0928,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 28,
+      "atr": 0.0935,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 85,
+      "atr": 0.0975,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 148,
+      "atr": 0.0987,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 187,
+      "atr": 0.1164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 170,
+      "atr": 0.1189,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": 42307.4419,
+    "leverage": 0.2217,
+    "atr": 0.0198,
+    "marketcap_pnt": 0.0116,
+    "green_marketcap_pnt": 0
+  }
+}

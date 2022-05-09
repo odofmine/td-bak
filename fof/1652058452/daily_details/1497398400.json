@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": 0.096,
+      "pnl_value": 0.0914,
+      "weight": 0.0848,
+      "rank": 30,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.114,
+      "pnl_value": -0.1692,
+      "weight": 0.1323,
+      "rank": 2,
+      "atr": 0.0623,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.1229,
+      "pnl_value": -0.1378,
+      "weight": 0.1,
+      "rank": 7,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.2005,
+      "pnl_value": -0.2156,
+      "weight": 0.0959,
+      "rank": 88,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTC",
+      "pnl": -0.2279,
+      "pnl_value": -0.2218,
+      "weight": 0.0868,
+      "rank": 100,
+      "atr": 0.0949,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0623,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 88,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTC",
+      "rank": 100,
+      "atr": 0.0949,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0582,
+    "cum_pnl": 9.5631,
+    "leverage": 0.4998,
+    "atr": 0.0412,
+    "marketcap_pnt": 0.295,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "KSM",
+      "pnl": 0.326,
+      "pnl_value": 6.738,
+      "weight": 0.018,
+      "rank": 64,
+      "atr": 0.0849,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.2098,
+      "pnl_value": 1.8305,
+      "weight": 0.0076,
+      "rank": 63,
+      "atr": 0.2006,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.1202,
+      "pnl_value": 1.9591,
+      "weight": 0.0142,
+      "rank": 36,
+      "atr": 0.1075,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0882,
+      "pnl_value": 1.6918,
+      "weight": 0.0167,
+      "rank": 105,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0117,
+      "pnl_value": 0.2612,
+      "weight": 0.0194,
+      "rank": 83,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELF",
+      "pnl": 0.0037,
+      "pnl_value": 0.0725,
+      "weight": 0.0172,
+      "rank": 163,
+      "atr": 0.0891,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0029,
+      "pnl_value": 0.0569,
+      "weight": 0.0172,
+      "rank": 33,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0478,
+      "rank": 48,
+      "atr": 0.0321,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": -0.0069,
+      "pnl_value": -0.1492,
+      "weight": 0.0188,
+      "rank": 129,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0111,
+      "pnl_value": -0.3333,
+      "weight": 0.0261,
+      "rank": 19,
+      "atr": 0.0588,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": -0.0318,
+      "pnl_value": -0.6508,
+      "weight": 0.0178,
+      "rank": 179,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0651,
+      "pnl_value": -1.3823,
+      "weight": 0.0185,
+      "rank": 66,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 48,
+      "atr": 0.0321,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0588,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 83,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 129,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 66,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 64,
+      "atr": 0.0849,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 179,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 33,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 163,
+      "atr": 0.0891,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 105,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 36,
+      "atr": 0.1075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 63,
+      "atr": 0.2006,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0088,
+    "cum_pnl": 1157.2117,
+    "leverage": 0.2393,
+    "atr": 0.0184,
+    "marketcap_pnt": 0.0122,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": 0.1394,
+      "pnl_value": 74.9557,
+      "weight": 0.0815,
+      "rank": 32,
+      "atr": 0.076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0862,
+      "pnl_value": 33.5452,
+      "weight": 0.059,
+      "rank": 60,
+      "atr": 0.1049,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0725,
+      "pnl_value": 31.3484,
+      "weight": 0.0655,
+      "rank": 98,
+      "atr": 0.0945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0157,
+      "pnl_value": 5.714,
+      "weight": 0.0552,
+      "rank": 12,
+      "atr": 0.1121,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SCRT",
+      "pnl": 0.011,
+      "pnl_value": 4.0087,
+      "weight": 0.0553,
+      "rank": 116,
+      "atr": 0.1119,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0036,
+      "pnl_value": 1.5813,
+      "weight": 0.0671,
+      "rank": 131,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0133,
+      "pnl_value": -27.7445,
+      "weight": 0.316,
+      "rank": 56,
+      "atr": 0.0196,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0196,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 32,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 131,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 98,
+      "atr": 0.0945,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 60,
+      "atr": 0.1049,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 116,
+      "atr": 0.1119,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 12,
+      "atr": 0.1121,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0187,
+    "cum_pnl": 6720.8379,
+    "leverage": 0.6996,
+    "atr": 0.0433,
+    "marketcap_pnt": 0.0089,
+    "green_marketcap_pnt": 0
+  }
+}

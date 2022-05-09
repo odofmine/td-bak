@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": -0.0906,
+      "pnl_value": -0.0558,
+      "weight": 0.0091,
+      "rank": 142,
+      "atr": 0.1683,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.1366,
+      "pnl_value": -0.1017,
+      "weight": 0.011,
+      "rank": 195,
+      "atr": 0.1392,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHR",
+      "rank": 195,
+      "atr": 0.1392,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 142,
+      "atr": 0.1683,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 66.502,
+    "leverage": 0.0201,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

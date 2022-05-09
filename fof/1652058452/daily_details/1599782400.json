@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.1013,
+      "pnl_value": 0.8616,
+      "weight": 0.0078,
+      "rank": 124,
+      "atr": 0.109,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0371,
+      "pnl_value": 0.595,
+      "weight": 0.0147,
+      "rank": 8,
+      "atr": 0.058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QQQ",
+      "pnl": 0.0193,
+      "pnl_value": 0.124,
+      "weight": 0.0059,
+      "rank": 189,
+      "atr": 0.1445,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0133,
+      "pnl_value": 0.1796,
+      "weight": 0.0124,
+      "rank": 86,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.088,
+      "pnl_value": -0.9019,
+      "weight": 0.0094,
+      "rank": 178,
+      "atr": 0.0908,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 178,
+      "atr": 0.0908,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 124,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 189,
+      "atr": 0.1445,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 1090.0529,
+    "leverage": 0.0502,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0112,
+    "green_marketcap_pnt": 0
+  }
+}

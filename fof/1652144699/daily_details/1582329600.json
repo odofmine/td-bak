@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ALGO",
+      "pnl": 0.0737,
+      "pnl_value": 0.7793,
+      "weight": 0.0197,
+      "rank": 45,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0575,
+      "pnl_value": 0.654,
+      "weight": 0.0212,
+      "rank": 102,
+      "atr": 0.077,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0375,
+      "pnl_value": -0.4906,
+      "weight": 0.0244,
+      "rank": 97,
+      "atr": 0.0668,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRUE",
+      "pnl": -0.0573,
+      "pnl_value": -0.6028,
+      "weight": 0.0196,
+      "rank": 175,
+      "atr": 0.0833,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 97,
+      "atr": 0.0668,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 45,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRUE",
+      "rank": 175,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 535.8446,
+    "leverage": 0.0849,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

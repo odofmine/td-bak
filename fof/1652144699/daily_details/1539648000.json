@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2394,
+      "pnl_value": 0.2113,
+      "weight": 0.0077,
+      "rank": 133,
+      "atr": 0.126,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0387,
+      "pnl_value": -0.0466,
+      "weight": 0.0105,
+      "rank": 120,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0606,
+      "pnl_value": -0.0812,
+      "weight": 0.0117,
+      "rank": 116,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STORJ",
+      "rank": 116,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 120,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 133,
+      "atr": 0.126,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 113.6886,
+    "leverage": 0.0299,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

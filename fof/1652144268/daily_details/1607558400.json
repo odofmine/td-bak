@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": -0.0493,
+      "pnl_value": -0.0037,
+      "weight": 0.0209,
+      "rank": 80,
+      "atr": 0.0921,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0494,
+      "pnl_value": -0.0041,
+      "weight": 0.0231,
+      "rank": 32,
+      "atr": 0.0836,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0602,
+      "pnl_value": -0.0051,
+      "weight": 0.0237,
+      "rank": 38,
+      "atr": 0.0814,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0935,
+      "pnl_value": -0.0072,
+      "weight": 0.0215,
+      "rank": 39,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PNT",
+      "pnl": -0.1076,
+      "pnl_value": -0.0057,
+      "weight": 0.0148,
+      "rank": 141,
+      "atr": 0.1301,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0814,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 32,
+      "atr": 0.0836,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 39,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 80,
+      "atr": 0.0921,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PNT",
+      "rank": 141,
+      "atr": 0.1301,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0072,
+    "cum_pnl": 2.5431,
+    "leverage": 0.104,
+    "atr": 0.0096,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

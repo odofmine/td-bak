@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2159,
+      "pnl_value": 2.5241,
+      "weight": 0.1067,
+      "rank": 104,
+      "atr": 0.0845,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MDA",
+      "pnl": 0.0236,
+      "pnl_value": 0.1132,
+      "weight": 0.0438,
+      "rank": 167,
+      "atr": 0.2056,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0121,
+      "pnl_value": 0.1641,
+      "weight": 0.1237,
+      "rank": 45,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0262,
+      "pnl_value": -0.3489,
+      "weight": 0.1214,
+      "rank": 57,
+      "atr": 0.0743,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": -0.0311,
+      "pnl_value": -0.3549,
+      "weight": 0.104,
+      "rank": 157,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ICX",
+      "rank": 45,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0743,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 104,
+      "atr": 0.0845,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 157,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 167,
+      "atr": 0.2056,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0191,
+    "cum_pnl": 110.6855,
+    "leverage": 0.4996,
+    "atr": 0.0451,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

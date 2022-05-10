@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": -0.0636,
+      "pnl_value": -0.0185,
+      "weight": 0.0188,
+      "rank": 52,
+      "atr": 0.1205,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.0903,
+      "pnl_value": -0.0309,
+      "weight": 0.0221,
+      "rank": 39,
+      "atr": 0.1025,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VRC",
+      "pnl": -0.091,
+      "pnl_value": -0.0199,
+      "weight": 0.0141,
+      "rank": 195,
+      "atr": 0.1602,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": -0.1533,
+      "pnl_value": -0.0641,
+      "weight": 0.027,
+      "rank": 49,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMNI",
+      "pnl": -0.1695,
+      "pnl_value": -0.0394,
+      "weight": 0.015,
+      "rank": 158,
+      "atr": 0.1513,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.175,
+      "pnl_value": -0.0615,
+      "weight": 0.0227,
+      "rank": 27,
+      "atr": 0.0997,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.0997,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.1025,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 52,
+      "atr": 0.1205,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMNI",
+      "rank": 158,
+      "atr": 0.1513,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VRC",
+      "rank": 195,
+      "atr": 0.1602,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0151,
+    "cum_pnl": 14.2574,
+    "leverage": 0.1197,
+    "atr": 0.0136,
+    "marketcap_pnt": 0.0051,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BTG",
+      "pnl": 0.0142,
+      "pnl_value": 0.0205,
+      "weight": 0.0124,
+      "rank": 23,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0073,
+      "pnl_value": -0.0069,
+      "weight": 0.0082,
+      "rank": 26,
+      "atr": 0.1019,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.014,
+      "pnl_value": -0.0116,
+      "weight": 0.0071,
+      "rank": 139,
+      "atr": 0.1187,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0213,
+      "pnl_value": -0.0351,
+      "weight": 0.0141,
+      "rank": 7,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0642,
+      "pnl_value": -0.0591,
+      "weight": 0.0079,
+      "rank": 38,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.1019,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 139,
+      "atr": 0.1187,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 115.44,
+    "leverage": 0.0497,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0209,
+    "green_marketcap_pnt": 0
+  }
+}

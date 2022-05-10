@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": -0.0264,
+      "pnl_value": -0.0879,
+      "weight": 0.0107,
+      "rank": 70,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.047,
+      "pnl_value": -0.1376,
+      "weight": 0.0094,
+      "rank": 87,
+      "atr": 0.1031,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 70,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 87,
+      "atr": 0.1031,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 310.0542,
+    "leverage": 0.0201,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

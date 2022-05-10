@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0113,
+      "pnl_value": 0.0364,
+      "weight": 0.0104,
+      "rank": 71,
+      "atr": 0.0635,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0095,
+      "pnl_value": -0.0325,
+      "weight": 0.0111,
+      "rank": 38,
+      "atr": 0.0596,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.0167,
+      "pnl_value": -0.0352,
+      "weight": 0.0068,
+      "rank": 156,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0313,
+      "pnl_value": -0.1048,
+      "weight": 0.0108,
+      "rank": 11,
+      "atr": 0.0613,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0482,
+      "pnl_value": -0.1673,
+      "weight": 0.0112,
+      "rank": 1,
+      "atr": 0.0593,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0593,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 38,
+      "atr": 0.0596,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.0613,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0635,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 156,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 308.8093,
+    "leverage": 0.0503,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.681,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.2719,
+      "pnl_value": 157.0938,
+      "weight": 0.0071,
+      "rank": 48,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0171,
+      "pnl_value": 9.6086,
+      "weight": 0.0069,
+      "rank": 60,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PAXG",
+      "pnl": -0.0272,
+      "pnl_value": -34.083,
+      "weight": 0.0154,
+      "rank": 104,
+      "atr": 0.0385,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0723,
+      "pnl_value": -61.7968,
+      "weight": 0.0105,
+      "rank": 43,
+      "atr": 0.0566,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 104,
+      "atr": 0.0385,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0566,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 48,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 60,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 81440.6747,
+    "leverage": 0.0399,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.004,
+    "green_marketcap_pnt": 0
+  }
+}

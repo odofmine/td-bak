@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": -0.006,
+      "pnl_value": -0.0171,
+      "weight": 0.0093,
+      "rank": 122,
+      "atr": 0.0909,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PZM",
+      "pnl": -0.0229,
+      "pnl_value": -0.068,
+      "weight": 0.0097,
+      "rank": 42,
+      "atr": 0.087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0558,
+      "pnl_value": -0.1909,
+      "weight": 0.0112,
+      "rank": 46,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 42,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 122,
+      "atr": 0.0909,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 304.3673,
+    "leverage": 0.0302,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

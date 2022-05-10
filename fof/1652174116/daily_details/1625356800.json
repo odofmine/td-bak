@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.1583,
+      "pnl_value": 35.8186,
+      "weight": 0.0091,
+      "rank": 72,
+      "atr": 0.1046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.0593,
+      "pnl_value": 14.5938,
+      "weight": 0.0099,
+      "rank": 178,
+      "atr": 0.0966,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0657,
+      "pnl_value": -18.3054,
+      "weight": 0.0112,
+      "rank": 50,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 50,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 178,
+      "atr": 0.0966,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 24894.5791,
+    "leverage": 0.0302,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

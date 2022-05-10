@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "SNM",
+      "pnl": 0.0715,
+      "pnl_value": 0.0768,
+      "weight": 0.0094,
+      "rank": 198,
+      "atr": 0.0896,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0165,
+      "pnl_value": 0.0219,
+      "weight": 0.0116,
+      "rank": 114,
+      "atr": 0.0726,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DENT",
+      "pnl": -0.018,
+      "pnl_value": -0.0181,
+      "weight": 0.0088,
+      "rank": 126,
+      "atr": 0.0953,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CVC",
+      "rank": 114,
+      "atr": 0.0726,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 198,
+      "atr": 0.0896,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 126,
+      "atr": 0.0953,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 113.405,
+    "leverage": 0.0298,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

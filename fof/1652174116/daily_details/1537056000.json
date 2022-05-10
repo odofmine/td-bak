@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "GVT",
+      "pnl": 0.0346,
+      "pnl_value": 0.0327,
+      "weight": 0.0081,
+      "rank": 152,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0189,
+      "pnl_value": -0.0261,
+      "weight": 0.0118,
+      "rank": 10,
+      "atr": 0.0684,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 10,
+      "atr": 0.0684,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 152,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 115.6545,
+    "leverage": 0.0199,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0092,
+    "green_marketcap_pnt": 0
+  }
+}

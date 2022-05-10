@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": 0.097,
+      "pnl_value": 22.5122,
+      "weight": 0.011,
+      "rank": 19,
+      "atr": 0.083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0128,
+      "pnl_value": -2.6738,
+      "weight": 0.0099,
+      "rank": 44,
+      "atr": 0.0927,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.014,
+      "pnl_value": -7.2378,
+      "weight": 0.0245,
+      "rank": 57,
+      "atr": 0.0374,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0859,
+      "pnl_value": -17.9376,
+      "weight": 0.0099,
+      "rank": 52,
+      "atr": 0.092,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 57,
+      "atr": 0.0374,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 19,
+      "atr": 0.083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 52,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 44,
+      "atr": 0.0927,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 21088.5493,
+    "leverage": 0.0553,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0082,
+    "green_marketcap_pnt": 0
+  }
+}

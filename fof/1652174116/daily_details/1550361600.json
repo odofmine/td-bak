@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": 0.0524,
+      "pnl_value": 0.6149,
+      "weight": 0.108,
+      "rank": 17,
+      "atr": 0.0861,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0098,
+      "pnl_value": -0.1328,
+      "weight": 0.1249,
+      "rank": 91,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.0293,
+      "pnl_value": -0.2694,
+      "weight": 0.0847,
+      "rank": 43,
+      "atr": 0.1098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0332,
+      "pnl_value": -0.2967,
+      "weight": 0.0822,
+      "rank": 128,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QRL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CTXC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MCO",
+      "rank": 91,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0861,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.1098,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 128,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 107.4861,
+    "leverage": 0.3998,
+    "atr": 0.0372,
+    "marketcap_pnt": 0.0052,
+    "green_marketcap_pnt": 0
+  }
+}

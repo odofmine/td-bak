@@ -1,0 +1,115 @@
+{
+  "pnls": [
+    {
+      "name": "KSM",
+      "pnl": 0.1889,
+      "pnl_value": 2.8989,
+      "weight": 0.0115,
+      "rank": 92,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0645,
+      "pnl_value": 2.7462,
+      "weight": 0.0319,
+      "rank": 57,
+      "atr": 0.0339,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0129,
+      "pnl_value": 0.2847,
+      "weight": 0.0165,
+      "rank": 99,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ENJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0339,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 99,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 92,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 1339.4836,
+    "leverage": 0.0599,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

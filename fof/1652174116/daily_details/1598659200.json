@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.1002,
+      "pnl_value": 1.4503,
+      "weight": 0.0108,
+      "rank": 82,
+      "atr": 0.074,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0573,
+      "pnl_value": 0.7453,
+      "weight": 0.0097,
+      "rank": 92,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0414,
+      "pnl_value": 1.3501,
+      "weight": 0.0243,
+      "rank": 57,
+      "atr": 0.033,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": 0.0018,
+      "pnl_value": 0.0218,
+      "weight": 0.009,
+      "rank": 196,
+      "atr": 0.089,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HMR",
+      "pnl": -0.0103,
+      "pnl_value": -0.1722,
+      "weight": 0.0125,
+      "rank": 99,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.033,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 99,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.074,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 92,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 196,
+      "atr": 0.089,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0025,
+    "cum_pnl": 1342.8789,
+    "leverage": 0.0663,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0023,
+    "green_marketcap_pnt": 0
+  }
+}

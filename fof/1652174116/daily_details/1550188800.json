@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": 0.0186,
+      "pnl_value": 0.1441,
+      "weight": 0.0712,
+      "rank": 43,
+      "atr": 0.1149,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0125,
+      "pnl_value": 0.197,
+      "weight": 0.1444,
+      "rank": 15,
+      "atr": 0.0567,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QRL",
+      "pnl": 0.0059,
+      "pnl_value": 0.047,
+      "weight": 0.0733,
+      "rank": 199,
+      "atr": 0.1117,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": 0.0017,
+      "pnl_value": 0.0173,
+      "weight": 0.0921,
+      "rank": 156,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0018,
+      "pnl_value": -0.0234,
+      "weight": 0.1188,
+      "rank": 70,
+      "atr": 0.0689,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0028,
+      "pnl_value": -0.03,
+      "weight": 0.0987,
+      "rank": 61,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0454,
+      "pnl_value": -0.4998,
+      "weight": 0.1013,
+      "rank": 17,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 15,
+      "atr": 0.0567,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 70,
+      "atr": 0.0689,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 61,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 156,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QRL",
+      "rank": 199,
+      "atr": 0.1117,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.1149,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 107.5857,
+    "leverage": 0.6998,
+    "atr": 0.0573,
+    "marketcap_pnt": 0.0113,
+    "green_marketcap_pnt": 0
+  }
+}

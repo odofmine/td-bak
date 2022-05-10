@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1115,
+      "pnl_value": 0.1845,
+      "weight": 0.1004,
+      "rank": 4,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0811,
+      "pnl_value": 0.1218,
+      "weight": 0.0912,
+      "rank": 23,
+      "atr": 0.1051,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": 0.0392,
+      "pnl_value": 0.0318,
+      "weight": 0.0492,
+      "rank": 117,
+      "atr": 0.1945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTCD",
+      "pnl": 0.0303,
+      "pnl_value": 0.0368,
+      "weight": 0.0738,
+      "rank": 53,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0174,
+      "pnl_value": 0.0606,
+      "weight": 0.2116,
+      "rank": 1,
+      "atr": 0.0453,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0045,
+      "pnl_value": -0.0055,
+      "weight": 0.0734,
+      "rank": 27,
+      "atr": 0.1305,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TIME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0453,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 23,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTCD",
+      "rank": 53,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1305,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0261,
+    "cum_pnl": 15.9066,
+    "leverage": 0.5996,
+    "atr": 0.0575,
+    "marketcap_pnt": 0.625,
+    "green_marketcap_pnt": 0
+  }
+}

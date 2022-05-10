@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.0885,
+      "pnl_value": 0.4082,
+      "weight": 0.0191,
+      "rank": 189,
+      "atr": 0.0911,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EKT",
+      "pnl": 0.0347,
+      "pnl_value": 0.1372,
+      "weight": 0.0164,
+      "rank": 148,
+      "atr": 0.106,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGT",
+      "pnl": -0.0357,
+      "pnl_value": -0.1964,
+      "weight": 0.0228,
+      "rank": 164,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0566,
+      "pnl_value": -0.3361,
+      "weight": 0.0246,
+      "rank": 22,
+      "atr": 0.0706,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0685,
+      "pnl_value": -0.329,
+      "weight": 0.0199,
+      "rank": 168,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.1036,
+      "pnl_value": -0.485,
+      "weight": 0.0194,
+      "rank": 97,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 22,
+      "atr": 0.0706,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 164,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 168,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 97,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 189,
+      "atr": 0.0911,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 148,
+      "atr": 0.106,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0033,
+    "cum_pnl": 239.5776,
+    "leverage": 0.1222,
+    "atr": 0.0104,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

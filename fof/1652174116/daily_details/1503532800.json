@@ -1,0 +1,208 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.2111,
+      "pnl_value": 0.1936,
+      "weight": 0.0797,
+      "rank": 20,
+      "atr": 0.1317,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.1334,
+      "pnl_value": 0.1242,
+      "weight": 0.0809,
+      "rank": 34,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0651,
+      "pnl_value": 0.1028,
+      "weight": 0.1373,
+      "rank": 8,
+      "atr": 0.0765,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EXP",
+      "pnl": 0.0215,
+      "pnl_value": 0.0197,
+      "weight": 0.0798,
+      "rank": 129,
+      "atr": 0.1315,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.0132,
+      "pnl_value": 0.0112,
+      "weight": 0.0738,
+      "rank": 95,
+      "atr": 0.1423,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0057,
+      "pnl_value": -0.0052,
+      "weight": 0.0797,
+      "rank": 87,
+      "atr": 0.1317,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXC",
+      "pnl": -0.0285,
+      "pnl_value": -0.0229,
+      "weight": 0.0698,
+      "rank": 146,
+      "atr": 0.1504,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0495,
+      "pnl_value": -0.0789,
+      "weight": 0.1385,
+      "rank": 12,
+      "atr": 0.0758,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0576,
+      "pnl_value": -0.1038,
+      "weight": 0.1565,
+      "rank": 7,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.1156,
+      "pnl_value": -0.1377,
+      "weight": 0.1035,
+      "rank": 4,
+      "atr": 0.1014,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MUE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 12,
+      "atr": 0.0758,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 8,
+      "atr": 0.0765,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.1014,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 34,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 129,
+      "atr": 0.1315,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 20,
+      "atr": 0.1317,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 87,
+      "atr": 0.1317,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 95,
+      "atr": 0.1423,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXC",
+      "rank": 146,
+      "atr": 0.1504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 135,
+      "atr": 0.159,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 126,
+      "atr": 0.2173,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.009,
+    "cum_pnl": 10.611,
+    "leverage": 0.9995,
+    "atr": 0.105,
+    "marketcap_pnt": 0.085,
+    "green_marketcap_pnt": 0
+  }
+}

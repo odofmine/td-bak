@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "NEBL",
+      "pnl": 0.0462,
+      "pnl_value": 0.0513,
+      "weight": 0.0097,
+      "rank": 133,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SLS",
+      "pnl": -0.0157,
+      "pnl_value": -0.0167,
+      "weight": 0.0093,
+      "rank": 197,
+      "atr": 0.1026,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0207,
+      "pnl_value": -0.0261,
+      "weight": 0.011,
+      "rank": 56,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POE",
+      "pnl": -0.0493,
+      "pnl_value": -0.0547,
+      "weight": 0.0097,
+      "rank": 159,
+      "atr": 0.0981,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SNM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POE",
+      "rank": 159,
+      "atr": 0.0981,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 133,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SLS",
+      "rank": 197,
+      "atr": 0.1026,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 113.3772,
+    "leverage": 0.0397,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

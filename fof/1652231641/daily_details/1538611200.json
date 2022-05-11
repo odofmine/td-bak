@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "GVT",
+      "pnl": 0.1817,
+      "pnl_value": 0.2285,
+      "weight": 0.0108,
+      "rank": 126,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0013,
+      "pnl_value": 0.0014,
+      "weight": 0.0091,
+      "rank": 40,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LOOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GVT",
+      "rank": 126,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 115.6723,
+    "leverage": 0.0199,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

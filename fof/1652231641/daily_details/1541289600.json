@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "CVC",
+      "pnl": -0.036,
+      "pnl_value": -0.0478,
+      "weight": 0.0116,
+      "rank": 114,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNM",
+      "pnl": -0.0626,
+      "pnl_value": -0.0659,
+      "weight": 0.0092,
+      "rank": 198,
+      "atr": 0.0884,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POE",
+      "pnl": -0.08,
+      "pnl_value": -0.0832,
+      "weight": 0.0091,
+      "rank": 159,
+      "atr": 0.0898,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CVC",
+      "rank": 114,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 198,
+      "atr": 0.0884,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POE",
+      "rank": 159,
+      "atr": 0.0898,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 113.1972,
+    "leverage": 0.0299,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

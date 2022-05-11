@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ONE",
+      "pnl": 0.0612,
+      "pnl_value": 0.001,
+      "weight": 0.0125,
+      "rank": 198,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0121,
+      "pnl_value": 0.0002,
+      "weight": 0.0135,
+      "rank": 88,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0214,
+      "pnl_value": -0.0004,
+      "weight": 0.0139,
+      "rank": 186,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 186,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 0.313,
+    "leverage": 0.0399,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.4008,
+      "pnl_value": 771.7691,
+      "weight": 0.0789,
+      "rank": 39,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": 0.1755,
+      "pnl_value": 337.9558,
+      "weight": 0.0789,
+      "rank": 75,
+      "atr": 0.1003,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.1689,
+      "pnl_value": 317.8197,
+      "weight": 0.0771,
+      "rank": 33,
+      "atr": 0.1027,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.1252,
+      "pnl_value": 288.8543,
+      "weight": 0.0945,
+      "rank": 47,
+      "atr": 0.0838,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0285,
+      "pnl_value": 75.343,
+      "weight": 0.1083,
+      "rank": 37,
+      "atr": 0.0731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0181,
+      "pnl_value": -82.3573,
+      "weight": 0.1868,
+      "rank": 53,
+      "atr": 0.0424,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0677,
+      "pnl_value": -124.1006,
+      "weight": 0.0751,
+      "rank": 139,
+      "atr": 0.1055,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LPT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 53,
+      "atr": 0.0424,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 37,
+      "atr": 0.0731,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 47,
+      "atr": 0.0838,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 75,
+      "atr": 0.1003,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 39,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 33,
+      "atr": 0.1027,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 139,
+      "atr": 0.1055,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.065,
+    "cum_pnl": 25991.9534,
+    "leverage": 0.6996,
+    "atr": 0.0554,
+    "marketcap_pnt": 0.0103,
+    "green_marketcap_pnt": 0
+  }
+}

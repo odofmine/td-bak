@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": 0.2149,
+      "pnl_value": 2.1285,
+      "weight": 0.0162,
+      "rank": 181,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0726,
+      "pnl_value": 0.7987,
+      "weight": 0.018,
+      "rank": 106,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0082,
+      "pnl_value": -0.173,
+      "weight": 0.0343,
+      "rank": 39,
+      "atr": 0.034,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.019,
+      "pnl_value": -0.1734,
+      "weight": 0.0149,
+      "rank": 70,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0494,
+      "pnl_value": -0.4922,
+      "weight": 0.0163,
+      "rank": 169,
+      "atr": 0.0716,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DGB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 39,
+      "atr": 0.034,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 106,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 169,
+      "atr": 0.0716,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 70,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0034,
+    "cum_pnl": 612.6162,
+    "leverage": 0.0997,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "FUN",
+      "pnl": -0.0209,
+      "pnl_value": -0.1946,
+      "weight": 0.0767,
+      "rank": 80,
+      "atr": 0.1147,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0297,
+      "pnl_value": -0.4004,
+      "weight": 0.1113,
+      "rank": 6,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WICC",
+      "pnl": -0.0376,
+      "pnl_value": -0.5144,
+      "weight": 0.1127,
+      "rank": 62,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0542,
+      "pnl_value": -0.6508,
+      "weight": 0.099,
+      "rank": 164,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WICC",
+      "rank": 62,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 164,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FUN",
+      "rank": 80,
+      "atr": 0.1147,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0145,
+    "cum_pnl": 118.5688,
+    "leverage": 0.3997,
+    "atr": 0.0352,
+    "marketcap_pnt": 0.0235,
+    "green_marketcap_pnt": 0
+  }
+}

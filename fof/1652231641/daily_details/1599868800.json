@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "YFI",
+      "pnl": 0.1331,
+      "pnl_value": 1.571,
+      "weight": 0.0092,
+      "rank": 28,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.1223,
+      "pnl_value": 2.3546,
+      "weight": 0.015,
+      "rank": 8,
+      "atr": 0.0563,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.0101,
+      "pnl_value": 0.1649,
+      "weight": 0.0127,
+      "rank": 86,
+      "atr": 0.0661,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": -0.0411,
+      "pnl_value": -0.4688,
+      "weight": 0.0089,
+      "rank": 178,
+      "atr": 0.0942,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0411,
+      "pnl_value": -0.4424,
+      "weight": 0.0084,
+      "rank": 124,
+      "atr": 0.1001,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QQQ",
+      "pnl": -0.0634,
+      "pnl_value": -0.4965,
+      "weight": 0.0061,
+      "rank": 189,
+      "atr": 0.1378,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0563,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HMR",
+      "rank": 86,
+      "atr": 0.0661,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 28,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 178,
+      "atr": 0.0942,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 124,
+      "atr": 0.1001,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 189,
+      "atr": 0.1378,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0021,
+    "cum_pnl": 1284.7518,
+    "leverage": 0.0603,
+    "atr": 0.005,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

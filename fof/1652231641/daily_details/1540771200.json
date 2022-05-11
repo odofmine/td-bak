@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "SNM",
+      "pnl": -0.0241,
+      "pnl_value": -0.0268,
+      "weight": 0.0097,
+      "rank": 198,
+      "atr": 0.0861,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SLS",
+      "pnl": -0.0338,
+      "pnl_value": -0.0326,
+      "weight": 0.0084,
+      "rank": 197,
+      "atr": 0.0986,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0437,
+      "pnl_value": -0.0596,
+      "weight": 0.0119,
+      "rank": 50,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0725,
+      "pnl_value": -0.0814,
+      "weight": 0.0098,
+      "rank": 133,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 133,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 198,
+      "atr": 0.0861,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SLS",
+      "rank": 197,
+      "atr": 0.0986,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 113.4234,
+    "leverage": 0.0398,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

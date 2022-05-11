@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.0654,
+      "pnl_value": 0.0727,
+      "weight": 0.0094,
+      "rank": 23,
+      "atr": 0.1223,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": 0.0406,
+      "pnl_value": 0.0667,
+      "weight": 0.0139,
+      "rank": 21,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": -0.0343,
+      "pnl_value": -0.0268,
+      "weight": 0.0066,
+      "rank": 109,
+      "atr": 0.1741,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 21,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 23,
+      "atr": 0.1223,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 109,
+      "atr": 0.1741,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.001,
+    "cum_pnl": 117.2666,
+    "leverage": 0.0299,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

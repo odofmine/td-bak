@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ANC",
+      "pnl": -0.025,
+      "pnl_value": -21.7134,
+      "weight": 0.0106,
+      "rank": 107,
+      "atr": 0.0726,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.071,
+      "pnl_value": -54.0167,
+      "weight": 0.0093,
+      "rank": 9,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 107,
+      "atr": 0.0726,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 81773.3545,
+    "leverage": 0.0199,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0115,
+    "green_marketcap_pnt": 0
+  }
+}

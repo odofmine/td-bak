@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.1282,
+      "pnl_value": 0.1946,
+      "weight": 0.0139,
+      "rank": 7,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0741,
+      "pnl_value": 0.0728,
+      "weight": 0.009,
+      "rank": 42,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0074,
+      "pnl_value": -0.0079,
+      "weight": 0.0098,
+      "rank": 88,
+      "atr": 0.0968,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.0187,
+      "pnl_value": -0.0145,
+      "weight": 0.0071,
+      "rank": 156,
+      "atr": 0.1346,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MGO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 88,
+      "atr": 0.0968,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 42,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 156,
+      "atr": 0.1346,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": 108.4051,
+    "leverage": 0.0398,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0163,
+    "green_marketcap_pnt": 0
+  }
+}

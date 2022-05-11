@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "NXC",
+      "pnl": 0.3137,
+      "pnl_value": 0.0544,
+      "weight": 0.0116,
+      "rank": 123,
+      "atr": 0.1268,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": 0.0567,
+      "pnl_value": 0.0086,
+      "weight": 0.0101,
+      "rank": 77,
+      "atr": 0.1451,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC2",
+      "pnl": 0.0416,
+      "pnl_value": 0.0055,
+      "weight": 0.0088,
+      "rank": 185,
+      "atr": 0.1667,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0202,
+      "pnl_value": -0.003,
+      "weight": 0.0098,
+      "rank": 104,
+      "atr": 0.1498,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NXC",
+      "rank": 123,
+      "atr": 0.1268,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1451,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 104,
+      "atr": 0.1498,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 185,
+      "atr": 0.1667,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 14.0205,
+    "leverage": 0.0403,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

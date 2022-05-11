@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": 0.1114,
+      "pnl_value": 0.0142,
+      "weight": 0.0895,
+      "rank": 147,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0294,
+      "pnl_value": -0.0041,
+      "weight": 0.0975,
+      "rank": 56,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0358,
+      "pnl_value": -0.0039,
+      "weight": 0.0771,
+      "rank": 47,
+      "atr": 0.1038,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0865,
+      "pnl_value": -0.0138,
+      "weight": 0.1124,
+      "rank": 79,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1491,
+      "pnl_value": -0.0261,
+      "weight": 0.1233,
+      "rank": 97,
+      "atr": 0.0649,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 97,
+      "atr": 0.0649,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 79,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 56,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 147,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 47,
+      "atr": 0.1038,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0238,
+    "cum_pnl": 0.3872,
+    "leverage": 0.4998,
+    "atr": 0.04,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

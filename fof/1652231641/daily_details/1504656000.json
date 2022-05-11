@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "BTCD",
+      "pnl": 0.0825,
+      "pnl_value": 0.0255,
+      "weight": 0.02,
+      "rank": 49,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VRC",
+      "pnl": 0.0609,
+      "pnl_value": 0.0106,
+      "weight": 0.0113,
+      "rank": 195,
+      "atr": 0.1574,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0328,
+      "pnl_value": 0.0088,
+      "weight": 0.0174,
+      "rank": 27,
+      "atr": 0.1028,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.1837,
+      "pnl_value": -0.0361,
+      "weight": 0.0127,
+      "rank": 149,
+      "atr": 0.1404,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTCD",
+      "rank": 49,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1028,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 149,
+      "atr": 0.1404,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VRC",
+      "rank": 195,
+      "atr": 0.1574,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 14.4827,
+    "leverage": 0.0614,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.003,
+    "green_marketcap_pnt": 0
+  }
+}

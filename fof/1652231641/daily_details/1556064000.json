@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0207,
+      "pnl_value": 0.0824,
+      "weight": 0.0242,
+      "rank": 7,
+      "atr": 0.0558,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": 0.0144,
+      "pnl_value": 0.0397,
+      "weight": 0.0167,
+      "rank": 156,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0055,
+      "pnl_value": 0.0168,
+      "weight": 0.0184,
+      "rank": 34,
+      "atr": 0.0731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": 0.0036,
+      "pnl_value": 0.0113,
+      "weight": 0.0191,
+      "rank": 22,
+      "atr": 0.0706,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0614,
+      "pnl_value": -0.2365,
+      "weight": 0.0234,
+      "rank": 73,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0558,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 73,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 22,
+      "atr": 0.0706,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 34,
+      "atr": 0.0731,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 156,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 163.4226,
+    "leverage": 0.1018,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.0248,
+    "green_marketcap_pnt": 0
+  }
+}

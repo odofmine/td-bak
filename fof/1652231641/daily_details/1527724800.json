@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "NXS",
+      "pnl": -0.0416,
+      "pnl_value": -0.0451,
+      "weight": 0.0091,
+      "rank": 112,
+      "atr": 0.1086,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.1506,
+      "pnl_value": -0.1972,
+      "weight": 0.011,
+      "rank": 129,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 129,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 112,
+      "atr": 0.1086,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 117.7941,
+    "leverage": 0.0201,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

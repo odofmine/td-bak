@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.0474,
+      "pnl_value": 9.3224,
+      "weight": 0.026,
+      "rank": 88,
+      "atr": 0.074,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": -0.0493,
+      "pnl_value": -5.4824,
+      "weight": 0.0147,
+      "rank": 194,
+      "atr": 0.131,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.074,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.131,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 7564.3158,
+    "leverage": 0.0407,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

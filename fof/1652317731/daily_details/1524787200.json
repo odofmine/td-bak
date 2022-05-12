@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "MONA",
+      "pnl": 0.1029,
+      "pnl_value": 0.9557,
+      "weight": 0.0926,
+      "rank": 74,
+      "atr": 0.0879,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0758,
+      "pnl_value": 0.8217,
+      "weight": 0.1081,
+      "rank": 5,
+      "atr": 0.0753,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.004,
+      "pnl_value": -0.0313,
+      "weight": 0.0786,
+      "rank": 83,
+      "atr": 0.1036,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0202,
+      "pnl_value": -0.1947,
+      "weight": 0.096,
+      "rank": 48,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.03,
+      "pnl_value": -0.4237,
+      "weight": 0.1409,
+      "rank": 35,
+      "atr": 0.0578,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0715,
+      "pnl_value": -0.5998,
+      "weight": 0.0836,
+      "rank": 54,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0578,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0753,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0879,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 54,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.1036,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0053,
+    "cum_pnl": 99.8404,
+    "leverage": 0.5998,
+    "atr": 0.0488,
+    "marketcap_pnt": 0.0295,
+    "green_marketcap_pnt": 0
+  }
+}

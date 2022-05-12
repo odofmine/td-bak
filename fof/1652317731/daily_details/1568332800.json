@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0119,
+      "pnl_value": 0.0417,
+      "weight": 0.0113,
+      "rank": 57,
+      "atr": 0.0638,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.004,
+      "pnl_value": -0.0132,
+      "weight": 0.0107,
+      "rank": 46,
+      "atr": 0.067,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0259,
+      "pnl_value": -0.068,
+      "weight": 0.0085,
+      "rank": 149,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MXM",
+      "pnl": -0.3077,
+      "pnl_value": -0.9229,
+      "weight": 0.0097,
+      "rank": 88,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.0638,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 46,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MXM",
+      "rank": 88,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 149,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 307.2853,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

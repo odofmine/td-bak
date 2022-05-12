@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "PAI",
+      "pnl": 0.0489,
+      "pnl_value": 0.2998,
+      "weight": 0.0162,
+      "rank": 161,
+      "atr": 0.093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0242,
+      "pnl_value": -0.2236,
+      "weight": 0.0244,
+      "rank": 43,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0561,
+      "pnl_value": -0.5528,
+      "weight": 0.026,
+      "rank": 18,
+      "atr": 0.0581,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0581,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 43,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAI",
+      "rank": 161,
+      "atr": 0.093,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 377.1755,
+    "leverage": 0.0666,
+    "atr": 0.0045,
+    "marketcap_pnt": 0.004,
+    "green_marketcap_pnt": 0
+  }
+}

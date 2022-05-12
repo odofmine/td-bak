@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "INJ",
+      "pnl": 0.2466,
+      "pnl_value": 0.0134,
+      "weight": 0.0153,
+      "rank": 192,
+      "atr": 0.1072,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.1376,
+      "pnl_value": 0.0107,
+      "weight": 0.0218,
+      "rank": 64,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": 0.0768,
+      "pnl_value": 0.0046,
+      "weight": 0.0168,
+      "rank": 173,
+      "atr": 0.0978,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0034,
+      "pnl_value": 0.0003,
+      "weight": 0.0283,
+      "rank": 14,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.02,
+      "pnl_value": -0.0014,
+      "weight": 0.0196,
+      "rank": 68,
+      "atr": 0.0836,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0836,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 173,
+      "atr": 0.0978,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 192,
+      "atr": 0.1072,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0078,
+    "cum_pnl": 2.585,
+    "leverage": 0.1018,
+    "atr": 0.0082,
+    "marketcap_pnt": 0.0058,
+    "green_marketcap_pnt": 0
+  }
+}

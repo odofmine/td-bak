@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": -0.0242,
+      "pnl_value": -0.0937,
+      "weight": 0.0126,
+      "rank": 84,
+      "atr": 0.0623,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0312,
+      "pnl_value": -0.1431,
+      "weight": 0.0149,
+      "rank": 3,
+      "atr": 0.0529,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0485,
+      "pnl_value": -0.179,
+      "weight": 0.012,
+      "rank": 38,
+      "atr": 0.0657,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.052,
+      "pnl_value": -0.144,
+      "weight": 0.009,
+      "rank": 21,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0525,
+      "pnl_value": -0.1082,
+      "weight": 0.0067,
+      "rank": 100,
+      "atr": 0.1162,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0601,
+      "pnl_value": -0.1589,
+      "weight": 0.0086,
+      "rank": 125,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MDA",
+      "pnl": -0.3268,
+      "pnl_value": -0.6632,
+      "weight": 0.0066,
+      "rank": 186,
+      "atr": 0.119,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0529,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 84,
+      "atr": 0.0623,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0657,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 125,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 100,
+      "atr": 0.1162,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 186,
+      "atr": 0.119,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0048,
+    "cum_pnl": 304.9547,
+    "leverage": 0.0704,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0574,
+    "green_marketcap_pnt": 0
+  }
+}

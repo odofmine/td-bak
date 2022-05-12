@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.5287,
+      "pnl_value": 3.7431,
+      "weight": 0.137,
+      "rank": 6,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.3047,
+      "pnl_value": 1.6971,
+      "weight": 0.1078,
+      "rank": 18,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRW",
+      "pnl": 0.066,
+      "pnl_value": 0.2374,
+      "weight": 0.0696,
+      "rank": 175,
+      "atr": 0.1143,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.052,
+      "pnl_value": 0.1456,
+      "weight": 0.0542,
+      "rank": 79,
+      "atr": 0.1468,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.021,
+      "pnl_value": 0.1419,
+      "weight": 0.1311,
+      "rank": 1,
+      "atr": 0.0607,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0607,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 18,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRW",
+      "rank": 175,
+      "atr": 0.1143,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 79,
+      "atr": 0.1468,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1154,
+    "cum_pnl": 56.6386,
+    "leverage": 0.4997,
+    "atr": 0.0398,
+    "marketcap_pnt": 0.6548,
+    "green_marketcap_pnt": 0
+  }
+}

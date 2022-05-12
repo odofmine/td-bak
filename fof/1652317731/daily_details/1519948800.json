@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "GVT",
+      "pnl": 0.1489,
+      "pnl_value": 0.1046,
+      "weight": 0.0081,
+      "rank": 152,
+      "atr": 0.161,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0953,
+      "pnl_value": 0.105,
+      "weight": 0.0127,
+      "rank": 12,
+      "atr": 0.1027,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0803,
+      "pnl_value": 0.0773,
+      "weight": 0.0111,
+      "rank": 63,
+      "atr": 0.1171,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CNX",
+      "pnl": 0.0464,
+      "pnl_value": 0.0403,
+      "weight": 0.01,
+      "rank": 82,
+      "atr": 0.1311,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0526,
+      "pnl_value": -0.0378,
+      "weight": 0.0083,
+      "rank": 22,
+      "atr": 0.1564,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 12,
+      "atr": 0.1027,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 63,
+      "atr": 0.1171,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CNX",
+      "rank": 82,
+      "atr": 0.1311,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 22,
+      "atr": 0.1564,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 152,
+      "atr": 0.161,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 86.0163,
+    "leverage": 0.0502,
+    "atr": 0.0065,
+    "marketcap_pnt": 0.0158,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "BTX",
+      "pnl": -0.2315,
+      "pnl_value": -0.3027,
+      "weight": 0.0147,
+      "rank": 110,
+      "atr": 0.1726,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.233,
+      "pnl_value": -0.4371,
+      "weight": 0.0211,
+      "rank": 94,
+      "atr": 0.1201,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAS",
+      "pnl": -0.3094,
+      "pnl_value": -0.7291,
+      "weight": 0.0265,
+      "rank": 52,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NMC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAS",
+      "rank": 52,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 94,
+      "atr": 0.1201,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 110,
+      "atr": 0.1726,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0165,
+    "cum_pnl": 86.456,
+    "leverage": 0.0623,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

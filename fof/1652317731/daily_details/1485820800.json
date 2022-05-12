@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "GAME",
+      "pnl": 0.0462,
+      "pnl_value": 0.0034,
+      "weight": 0.0746,
+      "rank": 23,
+      "atr": 0.102,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0389,
+      "pnl_value": 0.0041,
+      "weight": 0.1058,
+      "rank": 8,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0088,
+      "pnl_value": 0.0012,
+      "weight": 0.1373,
+      "rank": 7,
+      "atr": 0.0554,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0158,
+      "pnl_value": -0.0013,
+      "weight": 0.085,
+      "rank": 10,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0229,
+      "pnl_value": -0.0022,
+      "weight": 0.097,
+      "rank": 13,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAME",
+      "rank": 23,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0052,
+    "cum_pnl": 0.0014,
+    "leverage": 0.4997,
+    "atr": 0.038,
+    "marketcap_pnt": 0.015,
+    "green_marketcap_pnt": 0
+  }
+}

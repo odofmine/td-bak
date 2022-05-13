@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EGT",
+      "pnl": 0.0352,
+      "pnl_value": 0.1346,
+      "weight": 0.0162,
+      "rank": 38,
+      "atr": 0.0733,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRPT",
+      "pnl": -0.0205,
+      "pnl_value": -0.0334,
+      "weight": 0.0069,
+      "rank": 166,
+      "atr": 0.1723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0696,
+      "pnl_value": -0.2845,
+      "weight": 0.0173,
+      "rank": 28,
+      "atr": 0.069,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTG",
+      "rank": 28,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0733,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRPT",
+      "rank": 166,
+      "atr": 0.1723,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 235.0335,
+    "leverage": 0.0404,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

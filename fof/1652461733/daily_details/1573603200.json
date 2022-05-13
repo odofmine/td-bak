@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": -0.0242,
+      "pnl_value": -0.1545,
+      "weight": 0.0228,
+      "rank": 43,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HYN",
+      "pnl": -0.0248,
+      "pnl_value": -0.1347,
+      "weight": 0.0194,
+      "rank": 195,
+      "atr": 0.0729,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0561,
+      "pnl_value": -0.3821,
+      "weight": 0.0243,
+      "rank": 18,
+      "atr": 0.0581,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0581,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 43,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HYN",
+      "rank": 195,
+      "atr": 0.0729,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 278.3735,
+    "leverage": 0.0665,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.004,
+    "green_marketcap_pnt": 0
+  }
+}

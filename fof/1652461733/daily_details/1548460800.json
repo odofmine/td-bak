@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2327,
+      "pnl_value": 0.2003,
+      "weight": 0.0101,
+      "rank": 50,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0322,
+      "pnl_value": -0.0269,
+      "weight": 0.0098,
+      "rank": 40,
+      "atr": 0.0844,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RDD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 40,
+      "atr": 0.0844,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 84.3858,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

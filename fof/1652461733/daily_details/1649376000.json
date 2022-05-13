@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "BTRST",
+      "pnl": 0.0472,
+      "pnl_value": 32.5139,
+      "weight": 0.0099,
+      "rank": 182,
+      "atr": 0.0636,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VLX",
+      "pnl": 0.0146,
+      "pnl_value": 12.3013,
+      "weight": 0.0121,
+      "rank": 140,
+      "atr": 0.0522,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MINA",
+      "pnl": -0.0576,
+      "pnl_value": -31.6704,
+      "weight": 0.0079,
+      "rank": 83,
+      "atr": 0.0794,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AUDIO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VLX",
+      "rank": 140,
+      "atr": 0.0522,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTRST",
+      "rank": 182,
+      "atr": 0.0636,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 83,
+      "atr": 0.0794,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 69566.7585,
+    "leverage": 0.0299,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

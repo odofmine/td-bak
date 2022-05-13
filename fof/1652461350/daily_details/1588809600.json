@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.0853,
+      "pnl_value": 0.0115,
+      "weight": 0.097,
+      "rank": 79,
+      "atr": 0.0798,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0656,
+      "pnl_value": 0.0104,
+      "weight": 0.1143,
+      "rank": 57,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0085,
+      "pnl_value": 0.0011,
+      "weight": 0.0966,
+      "rank": 97,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0504,
+      "pnl_value": -0.0064,
+      "weight": 0.0919,
+      "rank": 147,
+      "atr": 0.0842,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HBAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 79,
+      "atr": 0.0798,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 97,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 147,
+      "atr": 0.0842,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.012,
+    "cum_pnl": 0.4038,
+    "leverage": 0.3998,
+    "atr": 0.031,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

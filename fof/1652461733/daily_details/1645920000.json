@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ANC",
+      "pnl": -0.025,
+      "pnl_value": -17.0466,
+      "weight": 0.0106,
+      "rank": 107,
+      "atr": 0.0726,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.071,
+      "pnl_value": -41.9512,
+      "weight": 0.0092,
+      "rank": 9,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": -0.1788,
+      "pnl_value": -114.911,
+      "weight": 0.01,
+      "rank": 150,
+      "atr": 0.0765,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ANC",
+      "rank": 107,
+      "atr": 0.0726,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 150,
+      "atr": 0.0765,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 64083.5784,
+    "leverage": 0.0298,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0117,
+    "green_marketcap_pnt": 0
+  }
+}

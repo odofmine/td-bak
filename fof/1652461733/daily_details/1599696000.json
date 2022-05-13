@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "GNO",
+      "pnl": 0.1901,
+      "pnl_value": 1.5698,
+      "weight": 0.009,
+      "rank": 178,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QQQ",
+      "pnl": 0.0353,
+      "pnl_value": 0.1881,
+      "weight": 0.0058,
+      "rank": 189,
+      "atr": 0.1496,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0004,
+      "pnl_value": -0.0058,
+      "weight": 0.0154,
+      "rank": 8,
+      "atr": 0.057,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.057,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GNO",
+      "rank": 178,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 189,
+      "atr": 0.1496,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0019,
+    "cum_pnl": 918.4535,
+    "leverage": 0.0302,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0104,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.1141,
+      "pnl_value": 0.0381,
+      "weight": 0.0783,
+      "rank": 21,
+      "atr": 0.0815,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0544,
+      "pnl_value": 0.0351,
+      "weight": 0.1512,
+      "rank": 1,
+      "atr": 0.0422,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0276,
+      "pnl_value": 0.0137,
+      "weight": 0.1162,
+      "rank": 2,
+      "atr": 0.0549,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.017,
+      "pnl_value": 0.0059,
+      "weight": 0.0811,
+      "rank": 6,
+      "atr": 0.0787,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0123,
+      "pnl_value": -0.0056,
+      "weight": 0.1062,
+      "rank": 15,
+      "atr": 0.0601,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0235,
+      "pnl_value": -0.0118,
+      "weight": 0.1177,
+      "rank": 7,
+      "atr": 0.0542,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0357,
+      "pnl_value": -0.0124,
+      "weight": 0.0816,
+      "rank": 9,
+      "atr": 0.0782,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0423,
+      "pnl_value": -0.0183,
+      "weight": 0.1015,
+      "rank": 10,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0837,
+      "pnl_value": -0.0272,
+      "weight": 0.0763,
+      "rank": 34,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.195,
+      "pnl_value": -0.0743,
+      "weight": 0.0894,
+      "rank": 95,
+      "atr": 0.0714,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0422,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0542,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0549,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0601,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 10,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 95,
+      "atr": 0.0714,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 9,
+      "atr": 0.0782,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 6,
+      "atr": 0.0787,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 21,
+      "atr": 0.0815,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 34,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 61,
+      "atr": 0.0839,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 26,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 69,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 47,
+      "atr": 0.0904,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 50,
+      "atr": 0.0939,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 54,
+      "atr": 0.0997,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0133,
+    "cum_pnl": 3.2065,
+    "leverage": 0.9995,
+    "atr": 0.0638,
+    "marketcap_pnt": 0.8461,
+    "green_marketcap_pnt": 0
+  }
+}

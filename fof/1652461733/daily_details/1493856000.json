@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.3156,
+      "pnl_value": 0.0698,
+      "weight": 0.0722,
+      "rank": 30,
+      "atr": 0.1039,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.3098,
+      "pnl_value": 0.0889,
+      "weight": 0.0937,
+      "rank": 3,
+      "atr": 0.08,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.193,
+      "pnl_value": 0.0462,
+      "weight": 0.0782,
+      "rank": 36,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.1905,
+      "pnl_value": 0.0393,
+      "weight": 0.0674,
+      "rank": 42,
+      "atr": 0.1112,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.1179,
+      "pnl_value": 0.0382,
+      "weight": 0.1058,
+      "rank": 4,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0991,
+      "pnl_value": 0.039,
+      "weight": 0.1284,
+      "rank": 6,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0287,
+      "pnl_value": 0.0094,
+      "weight": 0.1075,
+      "rank": 8,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0225,
+      "pnl_value": 0.0049,
+      "weight": 0.0718,
+      "rank": 5,
+      "atr": 0.1045,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.021,
+      "pnl_value": 0.0124,
+      "weight": 0.1928,
+      "rank": 1,
+      "atr": 0.0389,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.0415,
+      "pnl_value": -0.0104,
+      "weight": 0.0817,
+      "rank": 71,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0389,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 8,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 71,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 36,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 30,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 5,
+      "atr": 0.1045,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 42,
+      "atr": 0.1112,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 32,
+      "atr": 0.1554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 40,
+      "atr": 0.213,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1103,
+    "cum_pnl": 2.3993,
+    "leverage": 0.9995,
+    "atr": 0.075,
+    "marketcap_pnt": 0.7188,
+    "green_marketcap_pnt": 0
+  }
+}

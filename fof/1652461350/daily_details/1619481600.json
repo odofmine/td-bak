@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.544,
+      "pnl_value": 0.2623,
+      "weight": 0.0101,
+      "rank": 53,
+      "atr": 0.1039,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0926,
+      "pnl_value": 0.0433,
+      "weight": 0.0098,
+      "rank": 127,
+      "atr": 0.1073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0668,
+      "pnl_value": 0.0328,
+      "weight": 0.0103,
+      "rank": 26,
+      "atr": 0.1014,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0384,
+      "pnl_value": 0.0207,
+      "weight": 0.0113,
+      "rank": 9,
+      "atr": 0.0929,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.0256,
+      "pnl_value": 0.013,
+      "weight": 0.0106,
+      "rank": 41,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0168,
+      "pnl_value": -0.0103,
+      "weight": 0.0129,
+      "rank": 13,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0218,
+      "pnl_value": -0.0095,
+      "weight": 0.0091,
+      "rank": 152,
+      "atr": 0.1153,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0313,
+      "pnl_value": -0.0133,
+      "weight": 0.0089,
+      "rank": 77,
+      "atr": 0.1175,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0929,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.1014,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.1073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 152,
+      "atr": 0.1153,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.1175,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0071,
+    "cum_pnl": 47.0857,
+    "leverage": 0.083,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0232,
+    "green_marketcap_pnt": 0
+  }
+}

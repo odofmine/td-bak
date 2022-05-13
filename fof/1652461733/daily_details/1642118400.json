@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "SCRT",
+      "pnl": 0.1616,
+      "pnl_value": 96.1432,
+      "weight": 0.0092,
+      "rank": 92,
+      "atr": 0.0948,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.1364,
+      "pnl_value": 79.3573,
+      "weight": 0.009,
+      "rank": 82,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.031,
+      "pnl_value": 18.6506,
+      "weight": 0.0093,
+      "rank": 47,
+      "atr": 0.0944,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0296,
+      "pnl_value": 21.0265,
+      "weight": 0.011,
+      "rank": 24,
+      "atr": 0.0794,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GT",
+      "pnl": 0.0058,
+      "pnl_value": 5.8075,
+      "weight": 0.0156,
+      "rank": 135,
+      "atr": 0.0562,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0142,
+      "pnl_value": -6.8648,
+      "weight": 0.0075,
+      "rank": 170,
+      "atr": 0.1164,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0186,
+      "pnl_value": -10.5759,
+      "weight": 0.0088,
+      "rank": 30,
+      "atr": 0.0994,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KLAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GT",
+      "rank": 135,
+      "atr": 0.0562,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 24,
+      "atr": 0.0794,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 47,
+      "atr": 0.0944,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 92,
+      "atr": 0.0948,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 82,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 30,
+      "atr": 0.0994,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 170,
+      "atr": 0.1164,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 64864.0726,
+    "leverage": 0.0704,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0105,
+    "green_marketcap_pnt": 0
+  }
+}

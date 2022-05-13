@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.0474,
+      "pnl_value": 7.4788,
+      "weight": 0.0273,
+      "rank": 88,
+      "atr": 0.074,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": -0.0493,
+      "pnl_value": -4.3883,
+      "weight": 0.0154,
+      "rank": 194,
+      "atr": 0.131,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNFI",
+      "pnl": -0.1329,
+      "pnl_value": -14.0462,
+      "weight": 0.0183,
+      "rank": 178,
+      "atr": 0.1105,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.074,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1105,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.131,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 5765.3096,
+    "leverage": 0.061,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

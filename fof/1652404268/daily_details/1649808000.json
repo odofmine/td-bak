@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0189,
+      "pnl_value": 0.0155,
+      "weight": 0.0052,
+      "rank": 32,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0086,
+      "pnl_value": 0.0052,
+      "weight": 0.0038,
+      "rank": 101,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": 0.0061,
+      "pnl_value": 0.0244,
+      "weight": 0.0253,
+      "rank": 116,
+      "atr": 0.0143,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 116,
+      "atr": 0.0143,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 157.0022,
+    "leverage": 0.0343,
+    "atr": 0.0011,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

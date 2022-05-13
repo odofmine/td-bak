@@ -1,0 +1,51 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0385,
+      "pnl_value": 0.0577,
+      "weight": 0.0101,
+      "rank": 19,
+      "atr": 0.1006,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1006,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 147.4604,
+    "leverage": 0.0101,
+    "atr": 0.001,
+    "marketcap_pnt": 0.0046,
+    "green_marketcap_pnt": 0
+  }
+}

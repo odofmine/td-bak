@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0283,
+      "pnl_value": 0.0111,
+      "weight": 0.1497,
+      "rank": 2,
+      "atr": 0.0495,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0133,
+      "pnl_value": 0.0022,
+      "weight": 0.0644,
+      "rank": 54,
+      "atr": 0.1151,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0,
+      "pnl_value": -0.0,
+      "weight": 0.1799,
+      "rank": 45,
+      "atr": 0.0412,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.096,
+      "rank": 63,
+      "atr": 0.0772,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0191,
+      "pnl_value": -0.0044,
+      "weight": 0.0879,
+      "rank": 6,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0199,
+      "pnl_value": -0.0056,
+      "weight": 0.1086,
+      "rank": 44,
+      "atr": 0.0682,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0204,
+      "pnl_value": -0.0039,
+      "weight": 0.0728,
+      "rank": 137,
+      "atr": 0.1017,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.0501,
+      "pnl_value": -0.0098,
+      "weight": 0.0752,
+      "rank": 78,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0923,
+      "pnl_value": -0.0209,
+      "weight": 0.0868,
+      "rank": 79,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DATA",
+      "pnl": -0.0937,
+      "pnl_value": -0.0191,
+      "weight": 0.0782,
+      "rank": 184,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOGE",
+      "rank": 45,
+      "atr": 0.0412,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0495,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 44,
+      "atr": 0.0682,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 63,
+      "atr": 0.0772,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 79,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 184,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 78,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 137,
+      "atr": 0.1017,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 54,
+      "atr": 0.1151,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 37,
+      "atr": 0.1152,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 136,
+      "atr": 0.1167,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0194,
+    "cum_pnl": 1.5589,
+    "leverage": 0.9995,
+    "atr": 0.0741,
+    "marketcap_pnt": 0.1307,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": -0.0586,
+      "pnl_value": -3.5928,
+      "weight": 0.0081,
+      "rank": 92,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0665,
+      "pnl_value": -17.2554,
+      "weight": 0.0343,
+      "rank": 56,
+      "atr": 0.0255,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0255,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0028,
+    "cum_pnl": 7546.4599,
+    "leverage": 0.0424,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

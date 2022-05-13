@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0544,
+      "pnl_value": 0.0771,
+      "weight": 0.0096,
+      "rank": 14,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0532,
+      "pnl_value": -0.0745,
+      "weight": 0.0095,
+      "rank": 10,
+      "atr": 0.0969,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0869,
+      "pnl_value": -0.1411,
+      "weight": 0.011,
+      "rank": 83,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 10,
+      "atr": 0.0969,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 146.4726,
+    "leverage": 0.0301,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0198,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0372,
+      "pnl_value": 0.5238,
+      "weight": 0.0371,
+      "rank": 18,
+      "atr": 0.0563,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0076,
+      "pnl_value": 0.1277,
+      "weight": 0.0445,
+      "rank": 61,
+      "atr": 0.0469,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": -0.001,
+      "pnl_value": -0.012,
+      "weight": 0.0333,
+      "rank": 94,
+      "atr": 0.0628,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0241,
+      "pnl_value": -0.2373,
+      "weight": 0.0259,
+      "rank": 126,
+      "atr": 0.0807,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": -0.0248,
+      "pnl_value": -0.3064,
+      "weight": 0.0326,
+      "rank": 50,
+      "atr": 0.064,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0261,
+      "pnl_value": -0.3322,
+      "weight": 0.0336,
+      "rank": 21,
+      "atr": 0.0622,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.0393,
+      "pnl_value": -0.3876,
+      "weight": 0.026,
+      "rank": 17,
+      "atr": 0.0802,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DX",
+      "rank": 61,
+      "atr": 0.0469,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 18,
+      "atr": 0.0563,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 21,
+      "atr": 0.0622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 94,
+      "atr": 0.0628,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 50,
+      "atr": 0.064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 17,
+      "atr": 0.0802,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 126,
+      "atr": 0.0807,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 377.8908,
+    "leverage": 0.233,
+    "atr": 0.0146,
+    "marketcap_pnt": 0.0107,
+    "green_marketcap_pnt": 0
+  }
+}

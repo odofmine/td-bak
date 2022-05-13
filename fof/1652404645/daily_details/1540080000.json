@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "SALT",
+      "pnl": 0.0411,
+      "pnl_value": 0.0397,
+      "weight": 0.0084,
+      "rank": 122,
+      "atr": 0.1018,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POE",
+      "pnl": 0.0298,
+      "pnl_value": 0.0271,
+      "weight": 0.0079,
+      "rank": 183,
+      "atr": 0.1081,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GVT",
+      "pnl": 0.0123,
+      "pnl_value": 0.0158,
+      "weight": 0.0111,
+      "rank": 109,
+      "atr": 0.0766,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0143,
+      "pnl_value": -0.0153,
+      "weight": 0.0093,
+      "rank": 92,
+      "atr": 0.0919,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0153,
+      "pnl_value": -0.0199,
+      "weight": 0.0113,
+      "rank": 44,
+      "atr": 0.0754,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0299,
+      "pnl_value": -0.0365,
+      "weight": 0.0106,
+      "rank": 52,
+      "atr": 0.0804,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0344,
+      "pnl_value": -0.0419,
+      "weight": 0.0106,
+      "rank": 91,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0492,
+      "pnl_value": -0.0582,
+      "weight": 0.0103,
+      "rank": 120,
+      "atr": 0.0827,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 44,
+      "atr": 0.0754,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GVT",
+      "rank": 109,
+      "atr": 0.0766,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 91,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0804,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 120,
+      "atr": 0.0827,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0919,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 122,
+      "atr": 0.1018,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POE",
+      "rank": 183,
+      "atr": 0.1081,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 113.9034,
+    "leverage": 0.0795,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

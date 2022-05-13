@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.1055,
+      "pnl_value": 0.1567,
+      "weight": 0.0125,
+      "rank": 17,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.015,
+      "pnl_value": -0.0138,
+      "weight": 0.0077,
+      "rank": 90,
+      "atr": 0.1079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DDD",
+      "pnl": -0.0454,
+      "pnl_value": -0.0534,
+      "weight": 0.0099,
+      "rank": 113,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 17,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DDD",
+      "rank": 113,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 90,
+      "atr": 0.1079,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 117.9297,
+    "leverage": 0.0301,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

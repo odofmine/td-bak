@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.5467,
+      "pnl_value": 93.8016,
+      "weight": 0.0081,
+      "rank": 53,
+      "atr": 0.0994,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ABBC",
+      "pnl": 0.1306,
+      "pnl_value": 27.6668,
+      "weight": 0.01,
+      "rank": 176,
+      "atr": 0.081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0864,
+      "pnl_value": 13.9143,
+      "weight": 0.0076,
+      "rank": 127,
+      "atr": 0.106,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": 0.0654,
+      "pnl_value": 14.1341,
+      "weight": 0.0102,
+      "rank": 26,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0377,
+      "pnl_value": 7.2739,
+      "weight": 0.0091,
+      "rank": 9,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.0233,
+      "pnl_value": 4.1969,
+      "weight": 0.0085,
+      "rank": 41,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.02,
+      "pnl_value": 9.5952,
+      "weight": 0.0226,
+      "rank": 51,
+      "atr": 0.0359,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": -0.0159,
+      "pnl_value": -3.4404,
+      "weight": 0.0102,
+      "rank": 13,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CELO",
+      "pnl": -0.0333,
+      "pnl_value": -4.9408,
+      "weight": 0.007,
+      "rank": 77,
+      "atr": 0.1155,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 51,
+      "atr": 0.0359,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 13,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 26,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 176,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 9,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 41,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 53,
+      "atr": 0.0994,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 127,
+      "atr": 0.106,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.1155,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0077,
+    "cum_pnl": 21343.4127,
+    "leverage": 0.0933,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.0245,
+    "green_marketcap_pnt": 0
+  }
+}

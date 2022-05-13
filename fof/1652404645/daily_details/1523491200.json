@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "BTM",
+      "pnl": 0.2503,
+      "pnl_value": 0.2671,
+      "weight": 0.0123,
+      "rank": 27,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POA",
+      "pnl": 0.0743,
+      "pnl_value": 0.0593,
+      "weight": 0.0092,
+      "rank": 99,
+      "atr": 0.1022,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0364,
+      "pnl_value": 0.0271,
+      "weight": 0.0086,
+      "rank": 6,
+      "atr": 0.1097,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 27,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POA",
+      "rank": 99,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 6,
+      "atr": 0.1097,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0041,
+    "cum_pnl": 86.1188,
+    "leverage": 0.0301,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0203,
+    "green_marketcap_pnt": 0
+  }
+}

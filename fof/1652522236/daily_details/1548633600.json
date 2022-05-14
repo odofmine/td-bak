@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "NPXS",
+      "pnl": -0.0786,
+      "pnl_value": -0.0424,
+      "weight": 0.0063,
+      "rank": 41,
+      "atr": 0.1244,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0803,
+      "pnl_value": -0.0488,
+      "weight": 0.0071,
+      "rank": 81,
+      "atr": 0.112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.1143,
+      "pnl_value": -0.1115,
+      "weight": 0.0114,
+      "rank": 27,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.1215,
+      "pnl_value": -0.156,
+      "weight": 0.015,
+      "rank": 12,
+      "atr": 0.0528,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NULS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 12,
+      "atr": 0.0528,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 27,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 81,
+      "atr": 0.112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 41,
+      "atr": 0.1244,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 84.2077,
+    "leverage": 0.0398,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.011,
+    "green_marketcap_pnt": 0
+  }
+}

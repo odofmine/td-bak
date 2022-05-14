@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "UNFI",
+      "pnl": 0.1709,
+      "pnl_value": 21.9937,
+      "weight": 0.0224,
+      "rank": 178,
+      "atr": 0.1225,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADK",
+      "pnl": 0.0893,
+      "pnl_value": 9.8488,
+      "weight": 0.0192,
+      "rank": 194,
+      "atr": 0.1433,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1225,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.1433,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0055,
+    "cum_pnl": 5776.2653,
+    "leverage": 0.0416,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0002,
+    "green_marketcap_pnt": 0
+  }
+}

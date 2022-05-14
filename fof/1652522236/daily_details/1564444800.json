@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BZ",
+      "pnl": 0.0196,
+      "pnl_value": 0.0435,
+      "weight": 0.0094,
+      "rank": 185,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": 0.0192,
+      "pnl_value": 0.0484,
+      "weight": 0.0107,
+      "rank": 26,
+      "atr": 0.079,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VSYS",
+      "rank": 26,
+      "atr": 0.079,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BZ",
+      "rank": 185,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 234.6666,
+    "leverage": 0.0201,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

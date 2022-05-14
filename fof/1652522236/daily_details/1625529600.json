@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.1718,
+      "pnl_value": 31.6857,
+      "weight": 0.0088,
+      "rank": 173,
+      "atr": 0.131,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": 0.0368,
+      "pnl_value": 6.6285,
+      "weight": 0.0086,
+      "rank": 121,
+      "atr": 0.1337,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DAG",
+      "pnl": 0.0339,
+      "pnl_value": 8.4647,
+      "weight": 0.0119,
+      "rank": 193,
+      "atr": 0.0968,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0297,
+      "pnl_value": 5.2307,
+      "weight": 0.0084,
+      "rank": 124,
+      "atr": 0.1381,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XDC",
+      "pnl": -0.009,
+      "pnl_value": -1.9676,
+      "weight": 0.0104,
+      "rank": 63,
+      "atr": 0.1116,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0214,
+      "pnl_value": -4.4397,
+      "weight": 0.0099,
+      "rank": 43,
+      "atr": 0.1169,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0792,
+      "pnl_value": -20.5932,
+      "weight": 0.0124,
+      "rank": 186,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STRAX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMPL",
+      "rank": 186,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DAG",
+      "rank": 193,
+      "atr": 0.0968,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 63,
+      "atr": 0.1116,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1169,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.131,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 121,
+      "atr": 0.1337,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1381,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 20980.4598,
+    "leverage": 0.0704,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

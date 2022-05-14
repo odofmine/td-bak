@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0718,
+      "pnl_value": 0.9317,
+      "weight": 0.0146,
+      "rank": 18,
+      "atr": 0.0567,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BOA",
+      "pnl": 0.0237,
+      "pnl_value": 0.1556,
+      "weight": 0.0074,
+      "rank": 190,
+      "atr": 0.1117,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0223,
+      "pnl_value": 0.2096,
+      "weight": 0.0106,
+      "rank": 109,
+      "atr": 0.078,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0386,
+      "pnl_value": -0.1405,
+      "weight": 0.0041,
+      "rank": 90,
+      "atr": 0.2004,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0402,
+      "pnl_value": -0.3464,
+      "weight": 0.0097,
+      "rank": 49,
+      "atr": 0.0851,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0872,
+      "pnl_value": -1.0767,
+      "weight": 0.0139,
+      "rank": 39,
+      "atr": 0.0598,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0567,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 39,
+      "atr": 0.0598,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0851,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BOA",
+      "rank": 190,
+      "atr": 0.1117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 90,
+      "atr": 0.2004,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 887.412,
+    "leverage": 0.0603,
+    "atr": 0.005,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

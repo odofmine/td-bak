@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.071,
+      "pnl_value": 48.3846,
+      "weight": 0.0103,
+      "rank": 19,
+      "atr": 0.0812,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0004,
+      "pnl_value": -0.2418,
+      "weight": 0.0093,
+      "rank": 69,
+      "atr": 0.0904,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CSPR",
+      "pnl": -0.0301,
+      "pnl_value": -19.5285,
+      "weight": 0.0098,
+      "rank": 158,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0426,
+      "pnl_value": -44.2825,
+      "weight": 0.0157,
+      "rank": 53,
+      "atr": 0.0535,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0546,
+      "pnl_value": -31.4344,
+      "weight": 0.0087,
+      "rank": 166,
+      "atr": 0.0963,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0567,
+      "pnl_value": -23.2337,
+      "weight": 0.0062,
+      "rank": 196,
+      "atr": 0.134,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STMX",
+      "pnl": -0.1574,
+      "pnl_value": -106.2104,
+      "weight": 0.0102,
+      "rank": 191,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 53,
+      "atr": 0.0535,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0812,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STMX",
+      "rank": 191,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CSPR",
+      "rank": 158,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0904,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.0963,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 196,
+      "atr": 0.134,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 65961.2299,
+    "leverage": 0.0702,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0074,
+    "green_marketcap_pnt": 0
+  }
+}

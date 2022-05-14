@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": -0.1234,
+      "pnl_value": -0.1747,
+      "weight": 0.0095,
+      "rank": 69,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.13,
+      "pnl_value": -0.2228,
+      "weight": 0.0115,
+      "rank": 19,
+      "atr": 0.0788,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.1615,
+      "pnl_value": -0.2214,
+      "weight": 0.0092,
+      "rank": 140,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STMX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0788,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 147.4027,
+    "leverage": 0.0302,
+    "atr": 0.0027,
+    "marketcap_pnt": 0.0058,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0139,
+      "pnl_value": 0.0369,
+      "weight": 0.0113,
+      "rank": 52,
+      "atr": 0.0648,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0071,
+      "pnl_value": -0.0078,
+      "weight": 0.0047,
+      "rank": 140,
+      "atr": 0.1546,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0145,
+      "pnl_value": -0.0434,
+      "weight": 0.0127,
+      "rank": 37,
+      "atr": 0.0578,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZB",
+      "pnl": -0.0161,
+      "pnl_value": -0.0416,
+      "weight": 0.011,
+      "rank": 95,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IPC",
+      "pnl": -0.0436,
+      "pnl_value": -0.1085,
+      "weight": 0.0106,
+      "rank": 125,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 37,
+      "atr": 0.0578,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 52,
+      "atr": 0.0648,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZB",
+      "rank": 95,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IPC",
+      "rank": 125,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 140,
+      "atr": 0.1546,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 233.7012,
+    "leverage": 0.0503,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "CAKE",
+      "pnl": 0.0022,
+      "pnl_value": 0.004,
+      "weight": 0.0117,
+      "rank": 48,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0063,
+      "pnl_value": -0.0125,
+      "weight": 0.0126,
+      "rank": 32,
+      "atr": 0.0636,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GMT",
+      "pnl": -0.0083,
+      "pnl_value": -0.0098,
+      "weight": 0.0075,
+      "rank": 63,
+      "atr": 0.1068,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0284,
+      "pnl_value": -0.0373,
+      "weight": 0.0084,
+      "rank": 114,
+      "atr": 0.0958,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.0636,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 48,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 114,
+      "atr": 0.0958,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GMT",
+      "rank": 63,
+      "atr": 0.1068,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 155.4265,
+    "leverage": 0.0402,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

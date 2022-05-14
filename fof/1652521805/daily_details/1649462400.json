@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MINA",
+      "pnl": -0.0022,
+      "pnl_value": -0.0031,
+      "weight": 0.0091,
+      "rank": 83,
+      "atr": 0.0905,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0729,
+      "pnl_value": -0.1246,
+      "weight": 0.0108,
+      "rank": 130,
+      "atr": 0.0761,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.0761,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 83,
+      "atr": 0.0905,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 157.0725,
+    "leverage": 0.0199,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

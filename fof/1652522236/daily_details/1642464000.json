@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "SCRT",
+      "pnl": 0.0792,
+      "pnl_value": 46.4857,
+      "weight": 0.0091,
+      "rank": 81,
+      "atr": 0.092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0248,
+      "pnl_value": 14.542,
+      "weight": 0.0091,
+      "rank": 110,
+      "atr": 0.0925,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0124,
+      "pnl_value": 9.986,
+      "weight": 0.0125,
+      "rank": 29,
+      "atr": 0.067,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": 0.0103,
+      "pnl_value": 5.2916,
+      "weight": 0.008,
+      "rank": 26,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GT",
+      "pnl": 0.0083,
+      "pnl_value": 8.4087,
+      "weight": 0.0157,
+      "rank": 131,
+      "atr": 0.0537,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": -0.0314,
+      "pnl_value": -16.8112,
+      "weight": 0.0083,
+      "rank": 67,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DUSK",
+      "pnl": -0.0362,
+      "pnl_value": -17.7601,
+      "weight": 0.0076,
+      "rank": 150,
+      "atr": 0.1105,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0558,
+      "pnl_value": -34.8974,
+      "weight": 0.0097,
+      "rank": 97,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": -0.0608,
+      "pnl_value": -34.1023,
+      "weight": 0.0087,
+      "rank": 139,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0898,
+      "pnl_value": -68.3619,
+      "weight": 0.0118,
+      "rank": 5,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEAR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GT",
+      "rank": 131,
+      "atr": 0.0537,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 29,
+      "atr": 0.067,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 5,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 97,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SCRT",
+      "rank": 81,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 110,
+      "atr": 0.0925,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 139,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 67,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 26,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DUSK",
+      "rank": 150,
+      "atr": 0.1105,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 64403.4153,
+    "leverage": 0.1005,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0331,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": -0.1586,
+      "pnl_value": -1.6219,
+      "weight": 0.1119,
+      "rank": 61,
+      "atr": 0.0736,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EMC2",
+      "pnl": -0.1875,
+      "pnl_value": -1.6396,
+      "weight": 0.0957,
+      "rank": 185,
+      "atr": 0.086,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GO",
+      "pnl": -0.1977,
+      "pnl_value": -1.6679,
+      "weight": 0.0923,
+      "rank": 116,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MAID",
+      "rank": 61,
+      "atr": 0.0736,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 185,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 116,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0539,
+    "cum_pnl": 85.4632,
+    "leverage": 0.2999,
+    "atr": 0.0247,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

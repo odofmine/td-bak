@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "NOIA",
+      "pnl": 0.0812,
+      "pnl_value": 1.8896,
+      "weight": 0.0156,
+      "rank": 175,
+      "atr": 0.1132,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0233,
+      "pnl_value": 0.8354,
+      "weight": 0.024,
+      "rank": 70,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHSB",
+      "pnl": -0.0276,
+      "pnl_value": -0.8228,
+      "weight": 0.02,
+      "rank": 100,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0497,
+      "pnl_value": -1.6821,
+      "weight": 0.0227,
+      "rank": 32,
+      "atr": 0.0776,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.054,
+      "pnl_value": -1.813,
+      "weight": 0.0225,
+      "rank": 38,
+      "atr": 0.0782,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.094,
+      "pnl_value": -2.7891,
+      "weight": 0.0199,
+      "rank": 39,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIDT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEXO",
+      "rank": 70,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 32,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0782,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 100,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 39,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NOIA",
+      "rank": 175,
+      "atr": 0.1132,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0029,
+    "cum_pnl": 1485.7165,
+    "leverage": 0.1247,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0894,
+      "pnl_value": 65.3924,
+      "weight": 0.0111,
+      "rank": 14,
+      "atr": 0.0868,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.07,
+      "pnl_value": 37.8183,
+      "weight": 0.0082,
+      "rank": 92,
+      "atr": 0.1171,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEAR",
+      "pnl": 0.0683,
+      "pnl_value": 48.6203,
+      "weight": 0.0108,
+      "rank": 31,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0531,
+      "pnl_value": 29.3889,
+      "weight": 0.0084,
+      "rank": 52,
+      "atr": 0.1137,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CELO",
+      "pnl": 0.0468,
+      "pnl_value": 28.3979,
+      "weight": 0.0092,
+      "rank": 77,
+      "atr": 0.1043,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.018,
+      "pnl_value": 10.7962,
+      "weight": 0.0091,
+      "rank": 65,
+      "atr": 0.1061,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0152,
+      "pnl_value": 11.3443,
+      "weight": 0.0113,
+      "rank": 57,
+      "atr": 0.0848,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0133,
+      "pnl_value": 11.7681,
+      "weight": 0.0134,
+      "rank": 9,
+      "atr": 0.0717,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SAND",
+      "pnl": 0.0022,
+      "pnl_value": 1.4454,
+      "weight": 0.0098,
+      "rank": 38,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.016,
+      "pnl_value": -10.7754,
+      "weight": 0.0102,
+      "rank": 197,
+      "atr": 0.094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": -0.018,
+      "pnl_value": -11.7187,
+      "weight": 0.0099,
+      "rank": 68,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": -0.0183,
+      "pnl_value": -11.094,
+      "weight": 0.0092,
+      "rank": 43,
+      "atr": 0.1046,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0717,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 57,
+      "atr": 0.0848,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 14,
+      "atr": 0.0868,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 31,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 197,
+      "atr": 0.094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 68,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 38,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CELO",
+      "rank": 77,
+      "atr": 0.1043,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 43,
+      "atr": 0.1046,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 65,
+      "atr": 0.1061,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 52,
+      "atr": 0.1137,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 92,
+      "atr": 0.1171,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0032,
+    "cum_pnl": 66137.0135,
+    "leverage": 0.1206,
+    "atr": 0.0115,
+    "marketcap_pnt": 0.0321,
+    "green_marketcap_pnt": 0
+  }
+}

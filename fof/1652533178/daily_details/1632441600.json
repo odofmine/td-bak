@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MLN",
+      "pnl": -0.0867,
+      "pnl_value": -0.0757,
+      "weight": 0.0086,
+      "rank": 192,
+      "atr": 0.1404,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.1217,
+      "pnl_value": -0.1506,
+      "weight": 0.0122,
+      "rank": 168,
+      "atr": 0.0993,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COTI",
+      "rank": 168,
+      "atr": 0.0993,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 192,
+      "atr": 0.1404,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 100.22,
+    "leverage": 0.0208,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

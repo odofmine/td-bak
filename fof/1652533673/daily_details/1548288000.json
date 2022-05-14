@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.3449,
+      "pnl_value": 0.2728,
+      "weight": 0.0093,
+      "rank": 50,
+      "atr": 0.0921,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0031,
+      "pnl_value": -0.0039,
+      "weight": 0.0149,
+      "rank": 13,
+      "atr": 0.058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0294,
+      "pnl_value": -0.014,
+      "weight": 0.0056,
+      "rank": 69,
+      "atr": 0.1523,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 13,
+      "atr": 0.058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.0921,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 69,
+      "atr": 0.1523,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.003,
+    "cum_pnl": 84.2903,
+    "leverage": 0.0298,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0084,
+    "green_marketcap_pnt": 0
+  }
+}

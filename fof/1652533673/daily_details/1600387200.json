@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "CEL",
+      "pnl": 0.0925,
+      "pnl_value": 0.7147,
+      "weight": 0.0084,
+      "rank": 103,
+      "atr": 0.0964,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.0609,
+      "pnl_value": 0.6831,
+      "weight": 0.0122,
+      "rank": 19,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0282,
+      "pnl_value": 0.2623,
+      "weight": 0.0101,
+      "rank": 40,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": 0.0059,
+      "pnl_value": 0.0655,
+      "weight": 0.0121,
+      "rank": 43,
+      "atr": 0.0666,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0505,
+      "pnl_value": -0.3487,
+      "weight": 0.0075,
+      "rank": 54,
+      "atr": 0.1075,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 43,
+      "atr": 0.0666,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 103,
+      "atr": 0.0964,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 54,
+      "atr": 0.1075,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 920.189,
+    "leverage": 0.0503,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0081,
+    "green_marketcap_pnt": 0
+  }
+}

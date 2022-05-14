@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0273,
+      "pnl_value": 0.0008,
+      "weight": 0.0294,
+      "rank": 1,
+      "atr": 0.0361,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0299,
+      "pnl_value": -0.0002,
+      "weight": 0.0082,
+      "rank": 10,
+      "atr": 0.1286,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0443,
+      "pnl_value": -0.001,
+      "weight": 0.0235,
+      "rank": 6,
+      "atr": 0.0451,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0361,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0451,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 10,
+      "atr": 0.1286,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": -0.0163,
+    "leverage": 0.0611,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.8689,
+    "green_marketcap_pnt": 0
+  }
+}

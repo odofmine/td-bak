@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WABI",
+      "pnl": -0.0012,
+      "pnl_value": -0.0038,
+      "weight": 0.0264,
+      "rank": 167,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.078,
+      "pnl_value": -0.3863,
+      "weight": 0.0401,
+      "rank": 85,
+      "atr": 0.0647,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NAS",
+      "rank": 85,
+      "atr": 0.0647,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WABI",
+      "rank": 167,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0032,
+    "cum_pnl": 122.1544,
+    "leverage": 0.0665,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

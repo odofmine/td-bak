@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "LEO",
+      "pnl": 0.0069,
+      "pnl_value": 1.7908,
+      "weight": 0.0451,
+      "rank": 56,
+      "atr": 0.0254,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0079,
+      "pnl_value": -0.4961,
+      "weight": 0.0109,
+      "rank": 92,
+      "atr": 0.1046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": -0.0536,
+      "pnl_value": -3.2426,
+      "weight": 0.0105,
+      "rank": 191,
+      "atr": 0.1092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SOL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SRM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0254,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVA",
+      "rank": 191,
+      "atr": 0.1092,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 5760.2933,
+    "leverage": 0.0665,
+    "atr": 0.0034,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

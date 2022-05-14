@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0693,
+      "pnl_value": 0.1158,
+      "weight": 0.0112,
+      "rank": 19,
+      "atr": 0.0818,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": 0.0194,
+      "pnl_value": 0.027,
+      "weight": 0.0093,
+      "rank": 140,
+      "atr": 0.0984,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0012,
+      "pnl_value": -0.0017,
+      "weight": 0.0098,
+      "rank": 69,
+      "atr": 0.094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.052,
+      "pnl_value": -0.0722,
+      "weight": 0.0093,
+      "rank": 166,
+      "atr": 0.0986,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTA",
+      "pnl": -0.0678,
+      "pnl_value": -0.1052,
+      "weight": 0.0104,
+      "rank": 50,
+      "atr": 0.0885,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STMX",
+      "pnl": -0.1485,
+      "pnl_value": -0.2306,
+      "weight": 0.0104,
+      "rank": 191,
+      "atr": 0.0886,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POLS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0818,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTA",
+      "rank": 50,
+      "atr": 0.0885,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STMX",
+      "rank": 191,
+      "atr": 0.0886,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.0984,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.0986,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0018,
+    "cum_pnl": 148.0217,
+    "leverage": 0.0604,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

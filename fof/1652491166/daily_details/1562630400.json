@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "EGT",
+      "pnl": 0.2502,
+      "pnl_value": 1.6121,
+      "weight": 0.0273,
+      "rank": 38,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WTC",
+      "pnl": 0.1937,
+      "pnl_value": 0.6036,
+      "weight": 0.0132,
+      "rank": 81,
+      "atr": 0.1383,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRPT",
+      "pnl": 0.0012,
+      "pnl_value": 0.0035,
+      "weight": 0.013,
+      "rank": 166,
+      "atr": 0.1398,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": 0.0005,
+      "pnl_value": 0.0021,
+      "weight": 0.0191,
+      "rank": 125,
+      "atr": 0.0955,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAN",
+      "pnl": 0.0003,
+      "pnl_value": 0.002,
+      "weight": 0.0264,
+      "rank": 196,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.029,
+      "pnl_value": -0.1432,
+      "weight": 0.0209,
+      "rank": 174,
+      "atr": 0.0872,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0977,
+      "pnl_value": -0.519,
+      "weight": 0.0225,
+      "rank": 75,
+      "atr": 0.081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGT",
+      "rank": 38,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAN",
+      "rank": 196,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 75,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 174,
+      "atr": 0.0872,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 125,
+      "atr": 0.0955,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 81,
+      "atr": 0.1383,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRPT",
+      "rank": 166,
+      "atr": 0.1398,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0066,
+    "cum_pnl": 236.6297,
+    "leverage": 0.1424,
+    "atr": 0.0128,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

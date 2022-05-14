@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "SOL",
+      "pnl": -0.0195,
+      "pnl_value": -0.0068,
+      "weight": 0.0261,
+      "rank": 32,
+      "atr": 0.0957,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0258,
+      "pnl_value": -0.0091,
+      "weight": 0.0265,
+      "rank": 92,
+      "atr": 0.094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0857,
+      "pnl_value": -0.0247,
+      "weight": 0.0216,
+      "rank": 131,
+      "atr": 0.1152,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": -0.138,
+      "pnl_value": -0.0472,
+      "weight": 0.0256,
+      "rank": 191,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "UNI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 32,
+      "atr": 0.0957,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVA",
+      "rank": 191,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 131,
+      "atr": 0.1152,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0066,
+    "cum_pnl": 12.2632,
+    "leverage": 0.0998,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

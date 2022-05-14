@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "AAVE",
+      "pnl": 0.1271,
+      "pnl_value": 27.8065,
+      "weight": 0.0881,
+      "rank": 26,
+      "atr": 0.0944,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0026,
+      "pnl_value": -0.7438,
+      "weight": 0.1174,
+      "rank": 55,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0506,
+      "pnl_value": -10.8292,
+      "weight": 0.0862,
+      "rank": 154,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.055,
+      "pnl_value": -11.9712,
+      "weight": 0.0877,
+      "rank": 44,
+      "atr": 0.0949,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": -0.0558,
+      "pnl_value": -14.3982,
+      "weight": 0.104,
+      "rank": 48,
+      "atr": 0.08,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0629,
+      "pnl_value": -13.5443,
+      "weight": 0.0867,
+      "rank": 82,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.064,
+      "pnl_value": -15.7821,
+      "weight": 0.0993,
+      "rank": 28,
+      "atr": 0.0838,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0655,
+      "pnl_value": -16.2136,
+      "weight": 0.0997,
+      "rank": 79,
+      "atr": 0.0835,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0749,
+      "pnl_value": -19.1578,
+      "weight": 0.103,
+      "rank": 38,
+      "atr": 0.0808,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.096,
+      "pnl_value": -30.3716,
+      "weight": 0.1274,
+      "rank": 8,
+      "atr": 0.0653,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0653,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 55,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 48,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 38,
+      "atr": 0.0808,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 79,
+      "atr": 0.0835,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 28,
+      "atr": 0.0838,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 26,
+      "atr": 0.0944,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 44,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 154,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 88,
+      "atr": 0.1059,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 68,
+      "atr": 0.1136,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 108,
+      "atr": 0.1163,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0424,
+    "cum_pnl": 2376.5183,
+    "leverage": 0.9995,
+    "atr": 0.0832,
+    "marketcap_pnt": 0.0143,
+    "green_marketcap_pnt": 0
+  }
+}

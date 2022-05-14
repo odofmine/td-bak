@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "OKB",
+      "pnl": 0.1565,
+      "pnl_value": 322.2622,
+      "weight": 0.109,
+      "rank": 78,
+      "atr": 0.092,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AXS",
+      "pnl": 0.1466,
+      "pnl_value": 294.7933,
+      "weight": 0.1064,
+      "rank": 34,
+      "atr": 0.0942,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.1015,
+      "pnl_value": 165.5946,
+      "weight": 0.0863,
+      "rank": 66,
+      "atr": 0.1162,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.1005,
+      "pnl_value": 177.7762,
+      "weight": 0.0936,
+      "rank": 121,
+      "atr": 0.1071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHR",
+      "pnl": 0.0888,
+      "pnl_value": 132.2622,
+      "weight": 0.0788,
+      "rank": 167,
+      "atr": 0.1272,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": 0.0742,
+      "pnl_value": 139.2702,
+      "weight": 0.0994,
+      "rank": 122,
+      "atr": 0.1008,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0598,
+      "pnl_value": 176.3766,
+      "weight": 0.1562,
+      "rank": 1,
+      "atr": 0.0642,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0131,
+      "pnl_value": 20.2913,
+      "weight": 0.0819,
+      "rank": 60,
+      "atr": 0.1224,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0018,
+      "pnl_value": -3.3195,
+      "weight": 0.0962,
+      "rank": 144,
+      "atr": 0.1042,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.1111,
+      "pnl_value": -192.735,
+      "weight": 0.0918,
+      "rank": 135,
+      "atr": 0.1092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FLOW",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0642,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 78,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 34,
+      "atr": 0.0942,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 122,
+      "atr": 0.1008,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 144,
+      "atr": 0.1042,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 121,
+      "atr": 0.1071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 135,
+      "atr": 0.1092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 66,
+      "atr": 0.1162,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 60,
+      "atr": 0.1224,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 167,
+      "atr": 0.1272,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 72,
+      "atr": 0.1288,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0652,
+    "cum_pnl": 20127.1599,
+    "leverage": 0.9996,
+    "atr": 0.1002,
+    "marketcap_pnt": 0.4739,
+    "green_marketcap_pnt": 0
+  }
+}

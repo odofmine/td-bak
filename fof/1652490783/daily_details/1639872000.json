@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": -0.0716,
+      "pnl_value": -0.1165,
+      "weight": 0.011,
+      "rank": 12,
+      "atr": 0.1021,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0814,
+      "pnl_value": -0.1096,
+      "weight": 0.0091,
+      "rank": 153,
+      "atr": 0.1244,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AVAX",
+      "rank": 12,
+      "atr": 0.1021,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 153,
+      "atr": 0.1244,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 146.6981,
+    "leverage": 0.0201,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0096,
+    "green_marketcap_pnt": 0
+  }
+}

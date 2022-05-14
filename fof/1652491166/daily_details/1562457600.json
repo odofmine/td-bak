@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": -0.0199,
+      "pnl_value": -0.1009,
+      "weight": 0.0214,
+      "rank": 91,
+      "atr": 0.09,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.072,
+      "pnl_value": -0.3354,
+      "weight": 0.0197,
+      "rank": 150,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.1496,
+      "pnl_value": -0.75,
+      "weight": 0.0212,
+      "rank": 106,
+      "atr": 0.0906,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.09,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 106,
+      "atr": 0.0906,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 150,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.005,
+    "cum_pnl": 234.272,
+    "leverage": 0.0623,
+    "atr": 0.0058,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BEAM",
+      "pnl": 0.0693,
+      "pnl_value": 0.1794,
+      "weight": 0.0111,
+      "rank": 113,
+      "atr": 0.117,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0822,
+      "pnl_value": -0.1726,
+      "weight": 0.009,
+      "rank": 148,
+      "atr": 0.1444,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KIN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BEAM",
+      "rank": 113,
+      "atr": 0.117,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 148,
+      "atr": 0.1444,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 232.3607,
+    "leverage": 0.0201,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

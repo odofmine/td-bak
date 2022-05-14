@@ -1,0 +1,184 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.7374,
+      "pnl_value": 0.0309,
+      "weight": 0.035,
+      "rank": 7,
+      "atr": 0.0565,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BELA",
+      "pnl": 0.0778,
+      "pnl_value": 0.0015,
+      "weight": 0.0166,
+      "rank": 88,
+      "atr": 0.1191,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0116,
+      "pnl_value": -0.0003,
+      "weight": 0.0196,
+      "rank": 41,
+      "atr": 0.1008,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0381,
+      "pnl_value": -0.0011,
+      "weight": 0.0231,
+      "rank": 17,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.0601,
+      "pnl_value": -0.0009,
+      "weight": 0.0131,
+      "rank": 54,
+      "atr": 0.1509,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAUT",
+      "pnl": -0.0635,
+      "pnl_value": -0.0012,
+      "weight": 0.0162,
+      "rank": 92,
+      "atr": 0.1219,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.08,
+      "pnl_value": -0.0019,
+      "weight": 0.0199,
+      "rank": 19,
+      "atr": 0.0992,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LBC",
+      "pnl": -0.0844,
+      "pnl_value": -0.0015,
+      "weight": 0.0144,
+      "rank": 79,
+      "atr": 0.1368,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.128,
+      "pnl_value": -0.0034,
+      "weight": 0.0222,
+      "rank": 66,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.1466,
+      "pnl_value": -0.0034,
+      "weight": 0.0195,
+      "rank": 53,
+      "atr": 0.1014,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0565,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 17,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 66,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 19,
+      "atr": 0.0992,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 41,
+      "atr": 0.1008,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 53,
+      "atr": 0.1014,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 88,
+      "atr": 0.1191,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 92,
+      "atr": 0.1219,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 79,
+      "atr": 0.1368,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 54,
+      "atr": 0.1509,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0157,
+    "cum_pnl": 0.2161,
+    "leverage": 0.1996,
+    "atr": 0.0198,
+    "marketcap_pnt": 0.0128,
+    "green_marketcap_pnt": 0
+  }
+}

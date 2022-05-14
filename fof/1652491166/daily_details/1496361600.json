@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "UBQ",
+      "pnl": 0.6729,
+      "pnl_value": 0.1062,
+      "weight": 0.022,
+      "rank": 50,
+      "atr": 0.0888,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.3327,
+      "pnl_value": 0.0687,
+      "weight": 0.0288,
+      "rank": 15,
+      "atr": 0.068,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.31,
+      "pnl_value": 0.0316,
+      "weight": 0.0142,
+      "rank": 55,
+      "atr": 0.1376,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.2976,
+      "pnl_value": 0.0241,
+      "weight": 0.0113,
+      "rank": 42,
+      "atr": 0.1724,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.2288,
+      "pnl_value": 0.0453,
+      "weight": 0.0276,
+      "rank": 36,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WINGS",
+      "pnl": 0.1866,
+      "pnl_value": 0.0254,
+      "weight": 0.019,
+      "rank": 52,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0713,
+      "pnl_value": 0.0098,
+      "weight": 0.0192,
+      "rank": 7,
+      "atr": 0.1019,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0098,
+      "pnl_value": 0.0017,
+      "weight": 0.0241,
+      "rank": 2,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAVES",
+      "rank": 15,
+      "atr": 0.068,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 36,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 50,
+      "atr": 0.0888,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.1019,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WINGS",
+      "rank": 52,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 55,
+      "atr": 0.1376,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 42,
+      "atr": 0.1724,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0436,
+    "cum_pnl": 6.4881,
+    "leverage": 0.1662,
+    "atr": 0.0156,
+    "marketcap_pnt": 0.2333,
+    "green_marketcap_pnt": 0
+  }
+}

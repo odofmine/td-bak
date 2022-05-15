@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "FLOW",
+      "pnl": 0.0885,
+      "pnl_value": 17.3853,
+      "weight": 0.0297,
+      "rank": 88,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0188,
+      "pnl_value": 2.4602,
+      "weight": 0.0198,
+      "rank": 142,
+      "atr": 0.1082,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNFI",
+      "pnl": -0.061,
+      "pnl_value": -6.6501,
+      "weight": 0.0165,
+      "rank": 178,
+      "atr": 0.1292,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADK",
+      "pnl": -0.0781,
+      "pnl_value": -8.0018,
+      "weight": 0.0155,
+      "rank": 194,
+      "atr": 0.1382,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNFI",
+      "rank": 178,
+      "atr": 0.1292,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADK",
+      "rank": 194,
+      "atr": 0.1382,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 6616.1582,
+    "leverage": 0.0815,
+    "atr": 0.0086,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

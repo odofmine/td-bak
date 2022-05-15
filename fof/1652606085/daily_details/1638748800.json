@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.1112,
+      "pnl_value": 61.8388,
+      "weight": 0.0074,
+      "rank": 15,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0047,
+      "pnl_value": 4.512,
+      "weight": 0.0127,
+      "rank": 43,
+      "atr": 0.0565,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 43,
+      "atr": 0.0565,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 15,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 75238.0571,
+    "leverage": 0.0201,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0078,
+    "green_marketcap_pnt": 0
+  }
+}

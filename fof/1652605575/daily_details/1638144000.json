@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "HIVE",
+      "pnl": 0.3174,
+      "pnl_value": 0.5869,
+      "weight": 0.01,
+      "rank": 115,
+      "atr": 0.0975,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.1493,
+      "pnl_value": 0.2623,
+      "weight": 0.0095,
+      "rank": 166,
+      "atr": 0.1021,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0507,
+      "pnl_value": 0.106,
+      "weight": 0.0113,
+      "rank": 93,
+      "atr": 0.086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": 0.014,
+      "pnl_value": 0.0296,
+      "weight": 0.0114,
+      "rank": 189,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.0094,
+      "pnl_value": -0.016,
+      "weight": 0.0092,
+      "rank": 90,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0097,
+      "pnl_value": -0.0174,
+      "weight": 0.0097,
+      "rank": 173,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0252,
+      "pnl_value": -0.0489,
+      "weight": 0.0105,
+      "rank": 67,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0299,
+      "pnl_value": -0.0514,
+      "weight": 0.0093,
+      "rank": 140,
+      "atr": 0.104,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0553,
+      "pnl_value": -0.0961,
+      "weight": 0.0094,
+      "rank": 114,
+      "atr": 0.1033,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POLS",
+      "rank": 189,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 93,
+      "atr": 0.086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 67,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 115,
+      "atr": 0.0975,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 173,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.1021,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 114,
+      "atr": 0.1033,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.104,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 90,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0041,
+    "cum_pnl": 184.6668,
+    "leverage": 0.0903,
+    "atr": 0.0087,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

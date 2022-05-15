@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": -0.0143,
+      "pnl_value": -0.0003,
+      "weight": 0.0164,
+      "rank": 134,
+      "atr": 0.085,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1241,
+      "pnl_value": -0.0034,
+      "weight": 0.0199,
+      "rank": 43,
+      "atr": 0.07,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 43,
+      "atr": 0.07,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 134,
+      "atr": 0.085,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 0.3548,
+    "leverage": 0.0363,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

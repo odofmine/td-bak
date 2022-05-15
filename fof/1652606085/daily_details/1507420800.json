@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.1677,
+      "pnl_value": 0.0228,
+      "weight": 0.0112,
+      "rank": 3,
+      "atr": 0.0794,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0057,
+      "pnl_value": -0.0008,
+      "weight": 0.0122,
+      "rank": 2,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1261,
+      "pnl_value": -0.011,
+      "weight": 0.0072,
+      "rank": 93,
+      "atr": 0.1231,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.1789,
+      "pnl_value": -0.0208,
+      "weight": 0.0096,
+      "rank": 129,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0794,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 129,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 93,
+      "atr": 0.1231,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 11.1039,
+    "leverage": 0.0402,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.2483,
+    "green_marketcap_pnt": 0
+  }
+}

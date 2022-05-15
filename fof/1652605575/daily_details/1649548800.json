@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.1105,
+      "pnl_value": 0.1783,
+      "weight": 0.0082,
+      "rank": 130,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0175,
+      "pnl_value": -0.0403,
+      "weight": 0.0117,
+      "rank": 43,
+      "atr": 0.0594,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MINA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0594,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 195.8955,
+    "leverage": 0.0199,
+    "atr": 0.0014,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

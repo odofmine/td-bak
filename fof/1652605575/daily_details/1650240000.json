@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "CFX",
+      "pnl": 0.0497,
+      "pnl_value": 0.0215,
+      "weight": 0.0022,
+      "rank": 161,
+      "atr": 0.1056,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": -0.004,
+      "pnl_value": -0.0142,
+      "weight": 0.0179,
+      "rank": 106,
+      "atr": 0.013,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 106,
+      "atr": 0.013,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CFX",
+      "rank": 161,
+      "atr": 0.1056,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 195.6935,
+    "leverage": 0.0201,
+    "atr": 0.0005,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

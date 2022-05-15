@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.0925,
+      "pnl_value": 0.887,
+      "weight": 0.0967,
+      "rank": 78,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0918,
+      "pnl_value": 1.437,
+      "weight": 0.1578,
+      "rank": 2,
+      "atr": 0.0478,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0807,
+      "pnl_value": 0.7418,
+      "weight": 0.0927,
+      "rank": 17,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.0748,
+      "pnl_value": 0.8481,
+      "weight": 0.1143,
+      "rank": 126,
+      "atr": 0.066,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0695,
+      "pnl_value": 0.4403,
+      "weight": 0.0639,
+      "rank": 127,
+      "atr": 0.118,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.061,
+      "pnl_value": 0.6831,
+      "weight": 0.1128,
+      "rank": 115,
+      "atr": 0.0669,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": 0.061,
+      "pnl_value": 0.6178,
+      "weight": 0.1021,
+      "rank": 66,
+      "atr": 0.0739,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0173,
+      "pnl_value": -0.144,
+      "weight": 0.0841,
+      "rank": 81,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GRS",
+      "pnl": -0.0302,
+      "pnl_value": -0.2387,
+      "weight": 0.0796,
+      "rank": 148,
+      "atr": 0.0947,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GAS",
+      "pnl": -0.0958,
+      "pnl_value": -0.9075,
+      "weight": 0.0955,
+      "rank": 110,
+      "atr": 0.079,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0478,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 126,
+      "atr": 0.066,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 115,
+      "atr": 0.0669,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 66,
+      "atr": 0.0739,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 78,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAS",
+      "rank": 110,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 81,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRS",
+      "rank": 148,
+      "atr": 0.0947,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 127,
+      "atr": 0.118,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.044,
+    "cum_pnl": 102.5692,
+    "leverage": 0.9995,
+    "atr": 0.0754,
+    "marketcap_pnt": 0.1227,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "XDC",
+      "pnl": 0.1583,
+      "pnl_value": 37.0942,
+      "weight": 0.0098,
+      "rank": 72,
+      "atr": 0.1046,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.0593,
+      "pnl_value": 15.0263,
+      "weight": 0.0106,
+      "rank": 178,
+      "atr": 0.0966,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0045,
+      "pnl_value": -0.8279,
+      "weight": 0.0077,
+      "rank": 151,
+      "atr": 0.1329,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0657,
+      "pnl_value": -19.0177,
+      "weight": 0.0121,
+      "rank": 50,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 50,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 178,
+      "atr": 0.0966,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XDC",
+      "rank": 72,
+      "atr": 0.1046,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 151,
+      "atr": 0.1329,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 23941.0273,
+    "leverage": 0.0402,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

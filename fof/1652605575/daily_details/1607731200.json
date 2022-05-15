@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": 0.0769,
+      "pnl_value": 0.0046,
+      "weight": 0.0161,
+      "rank": 80,
+      "atr": 0.0951,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0376,
+      "pnl_value": 0.0034,
+      "weight": 0.0246,
+      "rank": 15,
+      "atr": 0.0625,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0625,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 80,
+      "atr": 0.0951,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": 2.7141,
+    "leverage": 0.0407,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0045,
+    "green_marketcap_pnt": 0
+  }
+}

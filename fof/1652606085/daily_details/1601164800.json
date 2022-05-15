@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.076,
+      "pnl_value": 0.901,
+      "weight": 0.0116,
+      "rank": 38,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QQQ",
+      "pnl": 0.0279,
+      "pnl_value": 0.2477,
+      "weight": 0.0087,
+      "rank": 162,
+      "atr": 0.0966,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0188,
+      "pnl_value": 0.1918,
+      "weight": 0.01,
+      "rank": 74,
+      "atr": 0.0834,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.081,
+      "pnl_value": -0.8529,
+      "weight": 0.0103,
+      "rank": 83,
+      "atr": 0.0812,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 38,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 83,
+      "atr": 0.0812,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0834,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 162,
+      "atr": 0.0966,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 1021.5171,
+    "leverage": 0.0406,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

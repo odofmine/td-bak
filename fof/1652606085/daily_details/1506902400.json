@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "EMC2",
+      "pnl": 0.0625,
+      "pnl_value": 0.0077,
+      "weight": 0.0101,
+      "rank": 130,
+      "atr": 0.1183,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": 0.0582,
+      "pnl_value": 0.0051,
+      "weight": 0.0072,
+      "rank": 108,
+      "atr": 0.1656,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.0249,
+      "pnl_value": 0.0028,
+      "weight": 0.0093,
+      "rank": 8,
+      "atr": 0.1289,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0004,
+      "pnl_value": -0.0001,
+      "weight": 0.0189,
+      "rank": 1,
+      "atr": 0.0634,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MUE",
+      "pnl": -0.0028,
+      "pnl_value": -0.0003,
+      "weight": 0.009,
+      "rank": 132,
+      "atr": 0.1323,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0277,
+      "pnl_value": -0.0032,
+      "weight": 0.0096,
+      "rank": 17,
+      "atr": 0.1251,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0322,
+      "pnl_value": -0.0038,
+      "weight": 0.0098,
+      "rank": 16,
+      "atr": 0.1215,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0466,
+      "pnl_value": -0.0071,
+      "weight": 0.0125,
+      "rank": 36,
+      "atr": 0.0958,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0565,
+      "pnl_value": -0.0061,
+      "weight": 0.0088,
+      "rank": 20,
+      "atr": 0.1351,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAY",
+      "pnl": -0.0759,
+      "pnl_value": -0.0079,
+      "weight": 0.0085,
+      "rank": 115,
+      "atr": 0.1403,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.1234,
+      "pnl_value": -0.0132,
+      "weight": 0.0088,
+      "rank": 42,
+      "atr": 0.1361,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AEON",
+      "pnl": -0.1608,
+      "pnl_value": -0.0159,
+      "weight": 0.0081,
+      "rank": 102,
+      "atr": 0.1476,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0634,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 36,
+      "atr": 0.0958,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 130,
+      "atr": 0.1183,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 16,
+      "atr": 0.1215,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 17,
+      "atr": 0.1251,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 8,
+      "atr": 0.1289,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MUE",
+      "rank": 132,
+      "atr": 0.1323,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 20,
+      "atr": 0.1351,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 42,
+      "atr": 0.1361,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAY",
+      "rank": 115,
+      "atr": 0.1403,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AEON",
+      "rank": 102,
+      "atr": 0.1476,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 108,
+      "atr": 0.1656,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0034,
+    "cum_pnl": 11.1305,
+    "leverage": 0.1206,
+    "atr": 0.0143,
+    "marketcap_pnt": 0.5201,
+    "green_marketcap_pnt": 0
+  }
+}

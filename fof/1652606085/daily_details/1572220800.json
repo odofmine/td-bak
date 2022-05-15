@@ -1,0 +1,225 @@
+{
+  "pnls": [
+    {
+      "name": "PZM",
+      "pnl": 0.1337,
+      "pnl_value": 3.1328,
+      "weight": 0.0903,
+      "rank": 38,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0728,
+      "pnl_value": 1.8647,
+      "weight": 0.0987,
+      "rank": 54,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0426,
+      "pnl_value": 0.9901,
+      "weight": 0.0897,
+      "rank": 11,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0061,
+      "pnl_value": 0.1581,
+      "weight": 0.1003,
+      "rank": 37,
+      "atr": 0.067,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0048,
+      "pnl_value": -0.1084,
+      "weight": 0.0871,
+      "rank": 125,
+      "atr": 0.0772,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0084,
+      "pnl_value": -0.2532,
+      "weight": 0.1165,
+      "rank": 88,
+      "atr": 0.0577,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BSV",
+      "pnl": -0.0203,
+      "pnl_value": -0.5032,
+      "weight": 0.0957,
+      "rank": 9,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0281,
+      "pnl_value": -0.6416,
+      "weight": 0.088,
+      "rank": 20,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0634,
+      "pnl_value": -2.147,
+      "weight": 0.1305,
+      "rank": 17,
+      "atr": 0.0515,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.1014,
+      "pnl_value": -2.6997,
+      "weight": 0.1026,
+      "rank": 24,
+      "atr": 0.0655,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ABBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 17,
+      "atr": 0.0515,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 88,
+      "atr": 0.0577,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 24,
+      "atr": 0.0655,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 37,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 54,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BSV",
+      "rank": 9,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 38,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 11,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 125,
+      "atr": 0.0772,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 25,
+      "atr": 0.0776,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0833,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMX",
+      "rank": 126,
+      "atr": 0.1165,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 258.1909,
+    "leverage": 0.9994,
+    "atr": 0.0672,
+    "marketcap_pnt": 0.0254,
+    "green_marketcap_pnt": 0
+  }
+}

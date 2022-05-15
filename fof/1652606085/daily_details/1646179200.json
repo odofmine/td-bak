@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.0804,
+      "pnl_value": 62.711,
+      "weight": 0.0106,
+      "rank": 144,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KEEP",
+      "pnl": 0.0331,
+      "pnl_value": 22.3963,
+      "weight": 0.0092,
+      "rank": 113,
+      "atr": 0.0925,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0295,
+      "pnl_value": 23.9068,
+      "weight": 0.011,
+      "rank": 8,
+      "atr": 0.0779,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0264,
+      "pnl_value": 19.4038,
+      "weight": 0.01,
+      "rank": 66,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0202,
+      "pnl_value": -20.9652,
+      "weight": 0.0141,
+      "rank": 58,
+      "atr": 0.0609,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": -0.0732,
+      "pnl_value": -47.9276,
+      "weight": 0.0089,
+      "rank": 119,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "API3",
+      "pnl": -0.0955,
+      "pnl_value": -54.8012,
+      "weight": 0.0078,
+      "rank": 173,
+      "atr": 0.1093,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.1085,
+      "pnl_value": -63.8319,
+      "weight": 0.008,
+      "rank": 153,
+      "atr": 0.1065,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 58,
+      "atr": 0.0609,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0779,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KEEP",
+      "rank": 113,
+      "atr": 0.0925,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 119,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "API3",
+      "rank": 173,
+      "atr": 0.1093,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 73505.6663,
+    "leverage": 0.0796,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0189,
+    "green_marketcap_pnt": 0
+  }
+}

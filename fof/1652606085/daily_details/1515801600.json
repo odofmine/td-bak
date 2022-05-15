@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "EMC",
+      "pnl": 0.3005,
+      "pnl_value": 0.7746,
+      "weight": 0.0272,
+      "rank": 160,
+      "atr": 0.0967,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": 0.2305,
+      "pnl_value": 0.5178,
+      "weight": 0.0237,
+      "rank": 94,
+      "atr": 0.1108,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WGR",
+      "pnl": 0.0132,
+      "pnl_value": 0.0302,
+      "weight": 0.0242,
+      "rank": 185,
+      "atr": 0.1087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.008,
+      "pnl_value": 0.014,
+      "weight": 0.0185,
+      "rank": 50,
+      "atr": 0.1417,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0561,
+      "pnl_value": -0.1218,
+      "weight": 0.0229,
+      "rank": 169,
+      "atr": 0.1149,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WABI",
+      "pnl": -0.0928,
+      "pnl_value": -0.2321,
+      "weight": 0.0264,
+      "rank": 154,
+      "atr": 0.0998,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NLG",
+      "pnl": -0.161,
+      "pnl_value": -0.4836,
+      "weight": 0.0317,
+      "rank": 199,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QRL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NLG",
+      "rank": 199,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 160,
+      "atr": 0.0967,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WABI",
+      "rank": 154,
+      "atr": 0.0998,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WGR",
+      "rank": 185,
+      "atr": 0.1087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 94,
+      "atr": 0.1108,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 169,
+      "atr": 0.1149,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 50,
+      "atr": 0.1417,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0053,
+    "cum_pnl": 94.2711,
+    "leverage": 0.1746,
+    "atr": 0.0184,
+    "marketcap_pnt": 0.0024,
+    "green_marketcap_pnt": 0
+  }
+}

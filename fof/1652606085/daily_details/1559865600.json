@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BTM",
+      "pnl": -0.0007,
+      "pnl_value": -0.0032,
+      "weight": 0.0206,
+      "rank": 61,
+      "atr": 0.0919,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FSN",
+      "pnl": -0.0074,
+      "pnl_value": -0.0324,
+      "weight": 0.021,
+      "rank": 172,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FSN",
+      "rank": 172,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 61,
+      "atr": 0.0919,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 207.0568,
+    "leverage": 0.0416,
+    "atr": 0.0038,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

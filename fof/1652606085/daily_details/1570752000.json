@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0385,
+      "pnl_value": 0.1057,
+      "weight": 0.0106,
+      "rank": 15,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TNT",
+      "pnl": -0.0023,
+      "pnl_value": -0.0054,
+      "weight": 0.0089,
+      "rank": 168,
+      "atr": 0.0969,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0106,
+      "pnl_value": -0.0181,
+      "weight": 0.0066,
+      "rank": 120,
+      "atr": 0.129,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0271,
+      "pnl_value": -0.0743,
+      "weight": 0.0106,
+      "rank": 169,
+      "atr": 0.0807,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0577,
+      "pnl_value": -0.1748,
+      "weight": 0.0117,
+      "rank": 46,
+      "atr": 0.0731,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.1495,
+      "pnl_value": -0.4567,
+      "weight": 0.0118,
+      "rank": 25,
+      "atr": 0.0728,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MKR",
+      "rank": 25,
+      "atr": 0.0728,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 46,
+      "atr": 0.0731,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 169,
+      "atr": 0.0807,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 168,
+      "atr": 0.0969,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 120,
+      "atr": 0.129,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 257.3199,
+    "leverage": 0.0602,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.0066,
+    "green_marketcap_pnt": 0
+  }
+}

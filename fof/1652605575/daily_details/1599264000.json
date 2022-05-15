@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "TRX",
+      "pnl": -0.1595,
+      "pnl_value": -0.007,
+      "weight": 0.0149,
+      "rank": 15,
+      "atr": 0.0861,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.3279,
+      "pnl_value": -0.0112,
+      "weight": 0.0117,
+      "rank": 158,
+      "atr": 0.1096,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 15,
+      "atr": 0.0861,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 158,
+      "atr": 0.1096,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0062,
+    "cum_pnl": 1.9119,
+    "leverage": 0.0266,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

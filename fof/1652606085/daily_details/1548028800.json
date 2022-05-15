@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "GBYTE",
+      "pnl": 0.0562,
+      "pnl_value": 0.0577,
+      "weight": 0.0104,
+      "rank": 126,
+      "atr": 0.0934,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.024,
+      "pnl_value": -0.0225,
+      "weight": 0.0095,
+      "rank": 50,
+      "atr": 0.1022,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0415,
+      "pnl_value": -0.0386,
+      "weight": 0.0094,
+      "rank": 69,
+      "atr": 0.1027,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": -0.0585,
+      "pnl_value": -0.0613,
+      "weight": 0.0106,
+      "rank": 77,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GTO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "POWR",
+      "rank": 77,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 126,
+      "atr": 0.0934,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 50,
+      "atr": 0.1022,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 69,
+      "atr": 0.1027,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 97.7687,
+    "leverage": 0.0399,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

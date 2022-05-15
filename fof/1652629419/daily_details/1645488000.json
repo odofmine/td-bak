@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "API3",
+      "pnl": 0.0495,
+      "pnl_value": 16.6634,
+      "weight": 0.0046,
+      "rank": 172,
+      "atr": 0.1421,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAXG",
+      "pnl": -0.0199,
+      "pnl_value": -22.2302,
+      "weight": 0.0153,
+      "rank": 130,
+      "atr": 0.0436,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 130,
+      "atr": 0.0436,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "API3",
+      "rank": 172,
+      "atr": 0.1421,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 73188.1767,
+    "leverage": 0.0199,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.0004,
+    "green_marketcap_pnt": 0
+  }
+}

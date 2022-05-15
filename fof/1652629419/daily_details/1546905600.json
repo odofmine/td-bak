@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.04,
+      "pnl_value": 0.0545,
+      "weight": 0.0136,
+      "rank": 6,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.018,
+      "pnl_value": 0.0141,
+      "weight": 0.0078,
+      "rank": 11,
+      "atr": 0.1141,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0024,
+      "pnl_value": -0.0035,
+      "weight": 0.0145,
+      "rank": 1,
+      "atr": 0.0616,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0054,
+      "pnl_value": -0.0048,
+      "weight": 0.0088,
+      "rank": 39,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": -0.0176,
+      "pnl_value": -0.0115,
+      "weight": 0.0065,
+      "rank": 159,
+      "atr": 0.1362,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0184,
+      "pnl_value": -0.0199,
+      "weight": 0.0108,
+      "rank": 69,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": -0.0203,
+      "pnl_value": -0.0185,
+      "weight": 0.0091,
+      "rank": 83,
+      "atr": 0.0973,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0368,
+      "pnl_value": -0.0314,
+      "weight": 0.0085,
+      "rank": 124,
+      "atr": 0.1051,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0616,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 69,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 83,
+      "atr": 0.0973,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 39,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 124,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.1141,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 159,
+      "atr": 0.1362,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 99.191,
+    "leverage": 0.0796,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.5551,
+    "green_marketcap_pnt": 0
+  }
+}

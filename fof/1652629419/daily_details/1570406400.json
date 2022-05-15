@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "TNT",
+      "pnl": 0.1405,
+      "pnl_value": 0.3599,
+      "weight": 0.0099,
+      "rank": 168,
+      "atr": 0.1006,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.1094,
+      "pnl_value": 0.3339,
+      "weight": 0.0118,
+      "rank": 15,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.0053,
+      "pnl_value": 0.0125,
+      "weight": 0.0091,
+      "rank": 114,
+      "atr": 0.1098,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MDA",
+      "pnl": -0.12,
+      "pnl_value": -0.2888,
+      "weight": 0.0093,
+      "rank": 186,
+      "atr": 0.1074,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 168,
+      "atr": 0.1006,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 186,
+      "atr": 0.1074,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 114,
+      "atr": 0.1098,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 258.1489,
+    "leverage": 0.0401,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0039,
+    "green_marketcap_pnt": 0
+  }
+}

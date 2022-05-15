@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "MLN",
+      "pnl": 0.2162,
+      "pnl_value": 3.4389,
+      "weight": 0.0142,
+      "rank": 196,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.119,
+      "pnl_value": 1.7592,
+      "weight": 0.0132,
+      "rank": 121,
+      "atr": 0.0961,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.061,
+      "pnl_value": 2.6696,
+      "weight": 0.0391,
+      "rank": 57,
+      "atr": 0.0325,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0103,
+      "pnl_value": 0.1779,
+      "weight": 0.0154,
+      "rank": 92,
+      "atr": 0.0825,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0218,
+      "pnl_value": -0.5996,
+      "weight": 0.0246,
+      "rank": 19,
+      "atr": 0.0516,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0361,
+      "pnl_value": -0.6024,
+      "weight": 0.0149,
+      "rank": 156,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0813,
+      "pnl_value": -1.6573,
+      "weight": 0.0182,
+      "rank": 82,
+      "atr": 0.0699,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0325,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0516,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0699,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 92,
+      "atr": 0.0825,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 156,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 196,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 121,
+      "atr": 0.0961,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0046,
+    "cum_pnl": 1124.2464,
+    "leverage": 0.1396,
+    "atr": 0.0089,
+    "marketcap_pnt": 0.0059,
+    "green_marketcap_pnt": 0
+  }
+}

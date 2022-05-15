@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0113,
+      "pnl_value": 0.0297,
+      "weight": 0.0099,
+      "rank": 71,
+      "atr": 0.0635,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IPC",
+      "pnl": -0.0044,
+      "pnl_value": -0.0126,
+      "weight": 0.0108,
+      "rank": 162,
+      "atr": 0.0584,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0095,
+      "pnl_value": -0.0266,
+      "weight": 0.0106,
+      "rank": 38,
+      "atr": 0.0596,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.0167,
+      "pnl_value": -0.0284,
+      "weight": 0.0064,
+      "rank": 156,
+      "atr": 0.0977,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0313,
+      "pnl_value": -0.0855,
+      "weight": 0.0103,
+      "rank": 11,
+      "atr": 0.0613,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CIX100",
+      "pnl": -0.0349,
+      "pnl_value": -0.1074,
+      "weight": 0.0116,
+      "rank": 114,
+      "atr": 0.0544,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0482,
+      "pnl_value": -0.1355,
+      "weight": 0.0106,
+      "rank": 1,
+      "atr": 0.0593,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CIX100",
+      "rank": 114,
+      "atr": 0.0544,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IPC",
+      "rank": 162,
+      "atr": 0.0584,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0593,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 38,
+      "atr": 0.0596,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.0613,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0635,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 156,
+      "atr": 0.0977,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 264.0321,
+    "leverage": 0.0702,
+    "atr": 0.0044,
+    "marketcap_pnt": 0.6813,
+    "green_marketcap_pnt": 0
+  }
+}

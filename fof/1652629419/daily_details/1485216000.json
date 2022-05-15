@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0186,
+      "pnl_value": -0.0022,
+      "weight": 0.118,
+      "rank": 2,
+      "atr": 0.0662,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.052,
+      "pnl_value": -0.0048,
+      "weight": 0.0909,
+      "rank": 13,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0623,
+      "pnl_value": -0.0039,
+      "weight": 0.0617,
+      "rank": 47,
+      "atr": 0.1265,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0744,
+      "pnl_value": -0.0097,
+      "weight": 0.1291,
+      "rank": 7,
+      "atr": 0.0605,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0605,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0662,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 47,
+      "atr": 0.1265,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0204,
+    "cum_pnl": -0.0092,
+    "leverage": 0.3997,
+    "atr": 0.0312,
+    "marketcap_pnt": 0.0623,
+    "green_marketcap_pnt": 0
+  }
+}

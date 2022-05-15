@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": -0.0344,
+      "pnl_value": -26.604,
+      "weight": 0.0098,
+      "rank": 91,
+      "atr": 0.0778,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0617,
+      "pnl_value": -54.1553,
+      "weight": 0.0111,
+      "rank": 85,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENS",
+      "pnl": -0.1274,
+      "pnl_value": -79.5423,
+      "weight": 0.0079,
+      "rank": 163,
+      "atr": 0.0965,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "APE",
+      "pnl": -0.192,
+      "pnl_value": -171.4401,
+      "weight": 0.0113,
+      "rank": 29,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 91,
+      "atr": 0.0778,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENS",
+      "rank": 163,
+      "atr": 0.0965,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0042,
+    "cum_pnl": 78693.4458,
+    "leverage": 0.0401,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0038,
+    "green_marketcap_pnt": 0
+  }
+}

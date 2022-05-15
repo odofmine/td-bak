@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ZEN",
+      "pnl": -0.0829,
+      "pnl_value": -0.3027,
+      "weight": 0.0116,
+      "rank": 82,
+      "atr": 0.0799,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CSC",
+      "pnl": -0.0876,
+      "pnl_value": -0.2287,
+      "weight": 0.0083,
+      "rank": 129,
+      "atr": 0.1113,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEN",
+      "rank": 82,
+      "atr": 0.0799,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CSC",
+      "rank": 129,
+      "atr": 0.1113,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 313.088,
+    "leverage": 0.0199,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

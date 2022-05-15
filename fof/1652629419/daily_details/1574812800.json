@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "ENG",
+      "pnl": 0.1761,
+      "pnl_value": 0.5434,
+      "weight": 0.0099,
+      "rank": 143,
+      "atr": 0.083,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.1261,
+      "pnl_value": 0.4639,
+      "weight": 0.0118,
+      "rank": 111,
+      "atr": 0.0697,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MOF",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.0084,
+      "rank": 96,
+      "atr": 0.0978,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0697,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 143,
+      "atr": 0.083,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 96,
+      "atr": 0.0978,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0032,
+    "cum_pnl": 311.6278,
+    "leverage": 0.0301,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

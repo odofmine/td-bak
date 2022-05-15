@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "BIX",
+      "pnl": 0.0277,
+      "pnl_value": 0.1817,
+      "weight": 0.0241,
+      "rank": 140,
+      "atr": 0.1168,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0181,
+      "pnl_value": 0.207,
+      "weight": 0.0421,
+      "rank": 42,
+      "atr": 0.0668,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VSYS",
+      "pnl": -0.0043,
+      "pnl_value": -0.0375,
+      "weight": 0.0322,
+      "rank": 35,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0152,
+      "pnl_value": -0.1068,
+      "weight": 0.0259,
+      "rank": 91,
+      "atr": 0.1083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HYC",
+      "pnl": -0.0445,
+      "pnl_value": -0.4384,
+      "weight": 0.0362,
+      "rank": 158,
+      "atr": 0.0777,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0634,
+      "pnl_value": -0.5661,
+      "weight": 0.0328,
+      "rank": 16,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TNT",
+      "pnl": -0.144,
+      "pnl_value": -1.2188,
+      "weight": 0.0311,
+      "rank": 188,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.1872,
+      "pnl_value": -2.1401,
+      "weight": 0.042,
+      "rank": 109,
+      "atr": 0.067,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 42,
+      "atr": 0.0668,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 109,
+      "atr": 0.067,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HYC",
+      "rank": 158,
+      "atr": 0.0777,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 16,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VSYS",
+      "rank": 35,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 188,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 91,
+      "atr": 0.1083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 140,
+      "atr": 0.1168,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0151,
+    "cum_pnl": 267.0088,
+    "leverage": 0.2664,
+    "atr": 0.0225,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

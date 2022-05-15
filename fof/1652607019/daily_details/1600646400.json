@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "QQQ",
+      "pnl": -0.0629,
+      "pnl_value": -4.8878,
+      "weight": 0.0732,
+      "rank": 162,
+      "atr": 0.1141,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0668,
+      "pnl_value": -6.634,
+      "weight": 0.0936,
+      "rank": 74,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": -0.0817,
+      "pnl_value": -9.8863,
+      "weight": 0.1141,
+      "rank": 101,
+      "atr": 0.0732,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.1502,
+      "pnl_value": -18.9606,
+      "weight": 0.119,
+      "rank": 16,
+      "atr": 0.0702,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KSM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEO",
+      "rank": 16,
+      "atr": 0.0702,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 101,
+      "atr": 0.0732,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 74,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 162,
+      "atr": 0.1141,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0381,
+    "cum_pnl": 1019.4974,
+    "leverage": 0.3999,
+    "atr": 0.0334,
+    "marketcap_pnt": 0.0058,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "EGLD",
+      "pnl": 0.262,
+      "pnl_value": 0.0229,
+      "weight": 0.0233,
+      "rank": 64,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": 0.166,
+      "pnl_value": 0.0111,
+      "weight": 0.0178,
+      "rank": 192,
+      "atr": 0.092,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0588,
+      "pnl_value": 0.0028,
+      "weight": 0.0128,
+      "rank": 49,
+      "atr": 0.1281,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0168,
+      "pnl_value": 0.0015,
+      "weight": 0.0236,
+      "rank": 141,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0133,
+      "pnl_value": -0.0014,
+      "weight": 0.0285,
+      "rank": 14,
+      "atr": 0.0576,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AION",
+      "pnl": -0.0145,
+      "pnl_value": -0.0009,
+      "weight": 0.0174,
+      "rank": 173,
+      "atr": 0.0941,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0498,
+      "pnl_value": -0.0036,
+      "weight": 0.0192,
+      "rank": 68,
+      "atr": 0.0855,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0576,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 141,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 68,
+      "atr": 0.0855,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 192,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 173,
+      "atr": 0.0941,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 49,
+      "atr": 0.1281,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0086,
+    "cum_pnl": 2.7858,
+    "leverage": 0.1426,
+    "atr": 0.0115,
+    "marketcap_pnt": 0.0067,
+    "green_marketcap_pnt": 0
+  }
+}

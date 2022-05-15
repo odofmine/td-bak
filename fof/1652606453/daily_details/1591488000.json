@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "AION",
+      "pnl": 0.1334,
+      "pnl_value": 0.0133,
+      "weight": 0.0726,
+      "rank": 149,
+      "atr": 0.0959,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.086,
+      "pnl_value": 0.0098,
+      "weight": 0.0828,
+      "rank": 173,
+      "atr": 0.084,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.0675,
+      "pnl_value": 0.0108,
+      "weight": 0.1168,
+      "rank": 17,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0509,
+      "pnl_value": 0.0074,
+      "weight": 0.1064,
+      "rank": 55,
+      "atr": 0.0654,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0041,
+      "pnl_value": 0.0007,
+      "weight": 0.1174,
+      "rank": 9,
+      "atr": 0.0593,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0016,
+      "pnl_value": -0.0002,
+      "weight": 0.0955,
+      "rank": 132,
+      "atr": 0.0729,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BEAM",
+      "pnl": -0.0064,
+      "pnl_value": -0.0007,
+      "weight": 0.0783,
+      "rank": 194,
+      "atr": 0.0889,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0093,
+      "pnl_value": -0.0013,
+      "weight": 0.105,
+      "rank": 38,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0109,
+      "pnl_value": -0.0017,
+      "weight": 0.1152,
+      "rank": 14,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0111,
+      "pnl_value": -0.0017,
+      "weight": 0.1096,
+      "rank": 27,
+      "atr": 0.0635,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HOT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LINK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.0593,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 17,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 14,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 27,
+      "atr": 0.0635,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 55,
+      "atr": 0.0654,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 38,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 132,
+      "atr": 0.0729,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 173,
+      "atr": 0.084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BEAM",
+      "rank": 194,
+      "atr": 0.0889,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AION",
+      "rank": 149,
+      "atr": 0.0959,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0265,
+    "cum_pnl": 0.4114,
+    "leverage": 0.9996,
+    "atr": 0.0696,
+    "marketcap_pnt": 0.0228,
+    "green_marketcap_pnt": 0
+  }
+}

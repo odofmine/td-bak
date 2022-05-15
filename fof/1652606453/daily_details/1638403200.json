@@ -1,0 +1,173 @@
+{
+  "pnls": [
+    {
+      "name": "MATIC",
+      "pnl": 0.0578,
+      "pnl_value": 0.1093,
+      "weight": 0.0102,
+      "rank": 19,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0363,
+      "pnl_value": 0.0766,
+      "weight": 0.0114,
+      "rank": 13,
+      "atr": 0.0767,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCEAN",
+      "pnl": -0.0188,
+      "pnl_value": -0.0309,
+      "weight": 0.0089,
+      "rank": 140,
+      "atr": 0.0976,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": -0.0597,
+      "pnl_value": -0.0895,
+      "weight": 0.0081,
+      "rank": 114,
+      "atr": 0.1075,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POLS",
+      "pnl": -0.06,
+      "pnl_value": -0.1246,
+      "weight": 0.0112,
+      "rank": 189,
+      "atr": 0.0778,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0651,
+      "pnl_value": -0.1159,
+      "weight": 0.0096,
+      "rank": 166,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1138,
+      "pnl_value": -0.2298,
+      "weight": 0.0109,
+      "rank": 69,
+      "atr": 0.0802,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "HIVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.0767,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POLS",
+      "rank": 189,
+      "atr": 0.0778,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 69,
+      "atr": 0.0802,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 166,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCEAN",
+      "rank": 140,
+      "atr": 0.0976,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 114,
+      "atr": 0.1075,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0022,
+    "cum_pnl": 183.8791,
+    "leverage": 0.0703,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0142,
+    "green_marketcap_pnt": 0
+  }
+}

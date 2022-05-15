@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "UQC",
+      "pnl": 0.0993,
+      "pnl_value": 1.1908,
+      "weight": 0.0119,
+      "rank": 116,
+      "atr": 0.1169,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.0594,
+      "pnl_value": 0.5393,
+      "weight": 0.009,
+      "rank": 84,
+      "atr": 0.1532,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0471,
+      "pnl_value": 1.0736,
+      "weight": 0.0226,
+      "rank": 70,
+      "atr": 0.0615,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0458,
+      "pnl_value": 1.0168,
+      "weight": 0.022,
+      "rank": 42,
+      "atr": 0.0633,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0006,
+      "pnl_value": -0.0273,
+      "weight": 0.0454,
+      "rank": 1,
+      "atr": 0.0307,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0307,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0615,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 42,
+      "atr": 0.0633,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UQC",
+      "rank": 116,
+      "atr": 0.1169,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 84,
+      "atr": 0.1532,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0038,
+    "cum_pnl": 1011.0507,
+    "leverage": 0.1109,
+    "atr": 0.0069,
+    "marketcap_pnt": 0.6396,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": 0.0867,
+      "pnl_value": 49.7584,
+      "weight": 0.0129,
+      "rank": 25,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0548,
+      "pnl_value": 27.7728,
+      "weight": 0.0114,
+      "rank": 95,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.0149,
+      "pnl_value": 8.4284,
+      "weight": 0.0127,
+      "rank": 14,
+      "atr": 0.0876,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.0092,
+      "pnl_value": 4.7443,
+      "weight": 0.0116,
+      "rank": 191,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRO",
+      "pnl": -0.0232,
+      "pnl_value": -16.1734,
+      "weight": 0.0157,
+      "rank": 34,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PHA",
+      "pnl": -0.0456,
+      "pnl_value": -30.4262,
+      "weight": 0.015,
+      "rank": 187,
+      "atr": 0.0742,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GT",
+      "pnl": -0.0474,
+      "pnl_value": -42.2008,
+      "weight": 0.02,
+      "rank": 156,
+      "atr": 0.0557,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.0816,
+      "pnl_value": -36.6666,
+      "weight": 0.0101,
+      "rank": 140,
+      "atr": 0.1096,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0879,
+      "pnl_value": -45.7678,
+      "weight": 0.0117,
+      "rank": 110,
+      "atr": 0.0951,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.1069,
+      "pnl_value": -55.6373,
+      "weight": 0.0117,
+      "rank": 173,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "JST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TRX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NOIA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SHIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GT",
+      "rank": 156,
+      "atr": 0.0557,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 34,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PHA",
+      "rank": 187,
+      "atr": 0.0742,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.0876,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 110,
+      "atr": 0.0951,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 173,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 191,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 95,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 140,
+      "atr": 0.1096,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0031,
+    "cum_pnl": 44346.7702,
+    "leverage": 0.1328,
+    "atr": 0.0111,
+    "marketcap_pnt": 0.0137,
+    "green_marketcap_pnt": 0
+  }
+}

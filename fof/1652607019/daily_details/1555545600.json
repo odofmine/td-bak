@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "XTZ",
+      "pnl": 0.0945,
+      "pnl_value": 0.2835,
+      "weight": 0.021,
+      "rank": 16,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.0599,
+      "pnl_value": 0.2172,
+      "weight": 0.0254,
+      "rank": 81,
+      "atr": 0.0642,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0362,
+      "pnl_value": -0.134,
+      "weight": 0.0259,
+      "rank": 46,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WABI",
+      "pnl": -0.0679,
+      "pnl_value": -0.132,
+      "weight": 0.0136,
+      "rank": 167,
+      "atr": 0.1199,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC2",
+      "pnl": -0.073,
+      "pnl_value": -0.2117,
+      "weight": 0.0203,
+      "rank": 199,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 46,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 81,
+      "atr": 0.0642,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 16,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 199,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WABI",
+      "rank": 167,
+      "atr": 0.1199,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0002,
+    "cum_pnl": 141.9125,
+    "leverage": 0.1062,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.006,
+    "green_marketcap_pnt": 0
+  }
+}

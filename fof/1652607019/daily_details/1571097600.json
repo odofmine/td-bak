@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": -0.0312,
+      "pnl_value": -0.1248,
+      "weight": 0.0154,
+      "rank": 3,
+      "atr": 0.0529,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0485,
+      "pnl_value": -0.1561,
+      "weight": 0.0124,
+      "rank": 38,
+      "atr": 0.0657,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.052,
+      "pnl_value": -0.1256,
+      "weight": 0.0093,
+      "rank": 21,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0525,
+      "pnl_value": -0.0954,
+      "weight": 0.007,
+      "rank": 100,
+      "atr": 0.1162,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0601,
+      "pnl_value": -0.1388,
+      "weight": 0.0089,
+      "rank": 125,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MDA",
+      "pnl": -0.3218,
+      "pnl_value": -0.6097,
+      "weight": 0.0073,
+      "rank": 186,
+      "atr": 0.1119,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0529,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0657,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 125,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 186,
+      "atr": 0.1119,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 100,
+      "atr": 0.1162,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0048,
+    "cum_pnl": 257.2622,
+    "leverage": 0.0603,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0571,
+    "green_marketcap_pnt": 0
+  }
+}

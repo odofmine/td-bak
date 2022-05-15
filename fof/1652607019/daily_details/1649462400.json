@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MINA",
+      "pnl": -0.0092,
+      "pnl_value": -5.6178,
+      "weight": 0.0077,
+      "rank": 83,
+      "atr": 0.0854,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": -0.0395,
+      "pnl_value": -32.655,
+      "weight": 0.0104,
+      "rank": 182,
+      "atr": 0.063,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0737,
+      "pnl_value": -52.146,
+      "weight": 0.0089,
+      "rank": 130,
+      "atr": 0.0735,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VLX",
+      "pnl": -0.0968,
+      "pnl_value": -99.344,
+      "weight": 0.0129,
+      "rank": 140,
+      "atr": 0.051,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VLX",
+      "rank": 140,
+      "atr": 0.051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTRST",
+      "rank": 182,
+      "atr": 0.063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MINA",
+      "rank": 83,
+      "atr": 0.0854,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 79334.1025,
+    "leverage": 0.0399,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

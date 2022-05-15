@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ALICE",
+      "pnl": 0.1704,
+      "pnl_value": 0.2791,
+      "weight": 0.0089,
+      "rank": 181,
+      "atr": 0.1148,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": 0.1247,
+      "pnl_value": 0.3097,
+      "weight": 0.0135,
+      "rank": 13,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.1089,
+      "pnl_value": 0.1764,
+      "weight": 0.0088,
+      "rank": 177,
+      "atr": 0.1161,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.0498,
+      "pnl_value": 0.0907,
+      "weight": 0.0099,
+      "rank": 179,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.0218,
+      "pnl_value": -0.0503,
+      "weight": 0.0125,
+      "rank": 89,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AVAX",
+      "rank": 13,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 89,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 179,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 181,
+      "atr": 0.1148,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 177,
+      "atr": 0.1161,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0044,
+    "cum_pnl": 183.8579,
+    "leverage": 0.0536,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.0083,
+    "green_marketcap_pnt": 0
+  }
+}

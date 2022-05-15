@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0306,
+      "pnl_value": 0.0008,
+      "weight": 0.0195,
+      "rank": 88,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0185,
+      "pnl_value": 0.0004,
+      "weight": 0.0179,
+      "rank": 198,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0082,
+      "pnl_value": -0.0002,
+      "weight": 0.0225,
+      "rank": 67,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RVN",
+      "rank": 67,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 0.3537,
+    "leverage": 0.0599,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

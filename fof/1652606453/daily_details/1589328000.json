@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0221,
+      "pnl_value": 0.0009,
+      "weight": 0.0333,
+      "rank": 96,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ENJ",
+      "pnl": -0.0068,
+      "pnl_value": -0.0003,
+      "weight": 0.0362,
+      "rank": 59,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0219,
+      "pnl_value": -0.0009,
+      "weight": 0.0303,
+      "rank": 38,
+      "atr": 0.0951,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0951,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.2853,
+    "leverage": 0.0998,
+    "atr": 0.0087,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

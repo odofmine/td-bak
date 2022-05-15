@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0336,
+      "pnl_value": 0.0303,
+      "weight": 0.0098,
+      "rank": 5,
+      "atr": 0.1196,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0196,
+      "pnl_value": -0.0184,
+      "weight": 0.0102,
+      "rank": 63,
+      "atr": 0.115,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0469,
+      "pnl_value": -0.0449,
+      "weight": 0.0104,
+      "rank": 15,
+      "atr": 0.1133,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0523,
+      "pnl_value": -0.0515,
+      "weight": 0.0107,
+      "rank": 13,
+      "atr": 0.1103,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.1129,
+      "pnl_value": -0.0957,
+      "weight": 0.0092,
+      "rank": 42,
+      "atr": 0.1283,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 13,
+      "atr": 0.1103,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 15,
+      "atr": 0.1133,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 63,
+      "atr": 0.115,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.1196,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 42,
+      "atr": 0.1283,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 90.8986,
+    "leverage": 0.0503,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0446,
+    "green_marketcap_pnt": 0
+  }
+}

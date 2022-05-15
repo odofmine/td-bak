@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ETN",
+      "pnl": 0.0009,
+      "pnl_value": 0.0091,
+      "weight": 0.0098,
+      "rank": 139,
+      "atr": 0.0677,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0315,
+      "pnl_value": -0.3442,
+      "weight": 0.0107,
+      "rank": 5,
+      "atr": 0.0622,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": -0.0442,
+      "pnl_value": -0.3979,
+      "weight": 0.0088,
+      "rank": 51,
+      "atr": 0.0755,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0564,
+      "pnl_value": -0.8184,
+      "weight": 0.0142,
+      "rank": 16,
+      "atr": 0.0469,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.125,
+      "pnl_value": -0.8564,
+      "weight": 0.0067,
+      "rank": 62,
+      "atr": 0.0991,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MKR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0469,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0622,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETN",
+      "rank": 139,
+      "atr": 0.0677,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 51,
+      "atr": 0.0755,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 62,
+      "atr": 0.0991,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 1019.1868,
+    "leverage": 0.0502,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0196,
+    "green_marketcap_pnt": 0
+  }
+}

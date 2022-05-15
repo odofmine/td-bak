@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": 0.0078,
+      "pnl_value": 0.0001,
+      "weight": 0.0088,
+      "rank": 8,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0142,
+      "pnl_value": -0.0002,
+      "weight": 0.0113,
+      "rank": 7,
+      "atr": 0.0676,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0676,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 0.008,
+    "leverage": 0.0201,
+    "atr": 0.0015,
+    "marketcap_pnt": 0.0087,
+    "green_marketcap_pnt": 0
+  }
+}

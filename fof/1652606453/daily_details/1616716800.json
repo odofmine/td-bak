@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "ANKR",
+      "pnl": 0.132,
+      "pnl_value": 0.0869,
+      "weight": 0.0216,
+      "rank": 114,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": 0.0794,
+      "pnl_value": 0.0496,
+      "weight": 0.0205,
+      "rank": 100,
+      "atr": 0.0977,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QTUM",
+      "pnl": 0.0501,
+      "pnl_value": 0.0321,
+      "weight": 0.021,
+      "rank": 103,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0116,
+      "pnl_value": 0.0077,
+      "weight": 0.0218,
+      "rank": 60,
+      "atr": 0.092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TFUEL",
+      "pnl": -0.0025,
+      "pnl_value": -0.0013,
+      "weight": 0.0175,
+      "rank": 57,
+      "atr": 0.1146,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": -0.0178,
+      "pnl_value": -0.0105,
+      "weight": 0.0193,
+      "rank": 149,
+      "atr": 0.104,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0393,
+      "pnl_value": -0.0323,
+      "weight": 0.027,
+      "rank": 13,
+      "atr": 0.0743,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CELR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "THETA",
+      "rank": 13,
+      "atr": 0.0743,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 60,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 114,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 103,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 100,
+      "atr": 0.0977,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANT",
+      "rank": 149,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TFUEL",
+      "rank": 57,
+      "atr": 0.1146,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 29.5989,
+    "leverage": 0.1487,
+    "atr": 0.014,
+    "marketcap_pnt": 0.0086,
+    "green_marketcap_pnt": 0
+  }
+}

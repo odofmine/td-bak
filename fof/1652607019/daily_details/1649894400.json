@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.1676,
+      "pnl_value": 114.3174,
+      "weight": 0.0086,
+      "rank": 101,
+      "atr": 0.0893,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0314,
+      "pnl_value": -36.1333,
+      "weight": 0.0145,
+      "rank": 32,
+      "atr": 0.053,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0423,
+      "pnl_value": -30.2028,
+      "weight": 0.009,
+      "rank": 15,
+      "atr": 0.0857,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 32,
+      "atr": 0.053,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 15,
+      "atr": 0.0857,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 101,
+      "atr": 0.0893,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 79351.3006,
+    "leverage": 0.0321,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0096,
+    "green_marketcap_pnt": 0
+  }
+}

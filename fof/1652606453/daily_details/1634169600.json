@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "PERP",
+      "pnl": 0.0157,
+      "pnl_value": 0.1691,
+      "weight": 0.0733,
+      "rank": 103,
+      "atr": 0.1262,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0042,
+      "pnl_value": 0.0932,
+      "weight": 0.149,
+      "rank": 5,
+      "atr": 0.0621,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0049,
+      "pnl_value": -0.0572,
+      "weight": 0.0795,
+      "rank": 53,
+      "atr": 0.1164,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.024,
+      "pnl_value": -0.3969,
+      "weight": 0.1124,
+      "rank": 8,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0241,
+      "pnl_value": -0.3219,
+      "weight": 0.0909,
+      "rank": 181,
+      "atr": 0.1018,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BADGER",
+      "pnl": -0.0591,
+      "pnl_value": -0.8253,
+      "weight": 0.0948,
+      "rank": 184,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FTM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0621,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BADGER",
+      "rank": 184,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 181,
+      "atr": 0.1018,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 53,
+      "atr": 0.1164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PERP",
+      "rank": 103,
+      "atr": 0.1262,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0091,
+    "cum_pnl": 144.8899,
+    "leverage": 0.5999,
+    "atr": 0.0555,
+    "marketcap_pnt": 0.0473,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0377,
+      "pnl_value": 0.0062,
+      "weight": 0.0135,
+      "rank": 1,
+      "atr": 0.0489,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": 0.0241,
+      "pnl_value": 0.0019,
+      "weight": 0.0066,
+      "rank": 37,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0489,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 37,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 11.1964,
+    "leverage": 0.0201,
+    "atr": 0.0013,
+    "marketcap_pnt": 0.5081,
+    "green_marketcap_pnt": 0
+  }
+}

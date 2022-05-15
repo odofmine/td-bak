@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1424,
+      "pnl_value": 0.0016,
+      "weight": 0.0115,
+      "rank": 5,
+      "atr": 0.0481,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.1251,
+      "pnl_value": 0.001,
+      "weight": 0.008,
+      "rank": 26,
+      "atr": 0.0693,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0963,
+      "pnl_value": 0.0009,
+      "weight": 0.0095,
+      "rank": 6,
+      "atr": 0.0587,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0889,
+      "pnl_value": 0.0009,
+      "weight": 0.0098,
+      "rank": 7,
+      "atr": 0.0567,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.054,
+      "pnl_value": 0.0005,
+      "weight": 0.0095,
+      "rank": 18,
+      "atr": 0.0587,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0488,
+      "pnl_value": 0.0006,
+      "weight": 0.013,
+      "rank": 1,
+      "atr": 0.0427,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0336,
+      "pnl_value": 0.0003,
+      "weight": 0.0103,
+      "rank": 21,
+      "atr": 0.054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0177,
+      "pnl_value": 0.0001,
+      "weight": 0.0083,
+      "rank": 20,
+      "atr": 0.0669,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0043,
+      "pnl_value": -0.0,
+      "weight": 0.0106,
+      "rank": 10,
+      "atr": 0.0523,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0427,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0481,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 10,
+      "atr": 0.0523,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0567,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0587,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 18,
+      "atr": 0.0587,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 20,
+      "atr": 0.0669,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 26,
+      "atr": 0.0693,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 0.0038,
+    "leverage": 0.0905,
+    "atr": 0.005,
+    "marketcap_pnt": 0.7396,
+    "green_marketcap_pnt": 0
+  }
+}

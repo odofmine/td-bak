@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.234,
+      "pnl_value": 0.2362,
+      "weight": 0.011,
+      "rank": 44,
+      "atr": 0.1276,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0792,
+      "pnl_value": 0.0661,
+      "weight": 0.0091,
+      "rank": 9,
+      "atr": 0.1531,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WTC",
+      "rank": 44,
+      "atr": 0.1276,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1531,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 91.0545,
+    "leverage": 0.0201,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0164,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0719,
+      "pnl_value": 0.1373,
+      "weight": 0.0106,
+      "rank": 66,
+      "atr": 0.0878,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0511,
+      "pnl_value": 0.1013,
+      "weight": 0.011,
+      "rank": 144,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0182,
+      "pnl_value": -0.037,
+      "weight": 0.0113,
+      "rank": 8,
+      "atr": 0.082,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CFX",
+      "pnl": -0.0941,
+      "pnl_value": -0.1169,
+      "weight": 0.0069,
+      "rank": 195,
+      "atr": 0.1334,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.082,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0878,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CFX",
+      "rank": 195,
+      "atr": 0.1334,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0005,
+    "cum_pnl": 179.1819,
+    "leverage": 0.0398,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0172,
+    "green_marketcap_pnt": 0
+  }
+}

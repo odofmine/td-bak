@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "MCO",
+      "pnl": 0.0153,
+      "pnl_value": 0.182,
+      "weight": 0.1198,
+      "rank": 91,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": 0.0145,
+      "pnl_value": 0.1444,
+      "weight": 0.1002,
+      "rank": 17,
+      "atr": 0.0863,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": 0.0018,
+      "pnl_value": 0.0229,
+      "weight": 0.1272,
+      "rank": 70,
+      "atr": 0.068,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QRL",
+      "pnl": -0.0144,
+      "pnl_value": -0.1124,
+      "weight": 0.0787,
+      "rank": 199,
+      "atr": 0.1099,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": -0.0147,
+      "pnl_value": -0.1394,
+      "weight": 0.0957,
+      "rank": 156,
+      "atr": 0.0904,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.0148,
+      "pnl_value": -0.1147,
+      "weight": 0.0781,
+      "rank": 43,
+      "atr": 0.1108,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 70,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 91,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 17,
+      "atr": 0.0863,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 156,
+      "atr": 0.0904,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QRL",
+      "rank": 199,
+      "atr": 0.1099,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 43,
+      "atr": 0.1108,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 98.2793,
+    "leverage": 0.5997,
+    "atr": 0.0519,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

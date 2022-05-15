@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1109,
+      "pnl_value": 0.0381,
+      "weight": 0.0254,
+      "rank": 43,
+      "atr": 0.1047,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0471,
+      "pnl_value": 0.0123,
+      "weight": 0.0193,
+      "rank": 61,
+      "atr": 0.1376,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FLO",
+      "pnl": -0.0168,
+      "pnl_value": -0.0043,
+      "weight": 0.0187,
+      "rank": 198,
+      "atr": 0.1421,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.0255,
+      "pnl_value": -0.0067,
+      "weight": 0.0193,
+      "rank": 96,
+      "atr": 0.1376,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0829,
+      "pnl_value": -0.0316,
+      "weight": 0.0282,
+      "rank": 82,
+      "atr": 0.0944,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.0944,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.1047,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 61,
+      "atr": 0.1376,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 96,
+      "atr": 0.1376,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLO",
+      "rank": 198,
+      "atr": 0.1421,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 12.5358,
+    "leverage": 0.1109,
+    "atr": 0.0133,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

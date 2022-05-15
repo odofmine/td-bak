@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "UBQ",
+      "pnl": 0.2932,
+      "pnl_value": 0.0398,
+      "weight": 0.0194,
+      "rank": 50,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.2168,
+      "pnl_value": 0.0328,
+      "weight": 0.0216,
+      "rank": 36,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0003,
+      "pnl_value": 0.0,
+      "weight": 0.0255,
+      "rank": 2,
+      "atr": 0.0767,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0767,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 36,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 50,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0104,
+    "cum_pnl": 6.071,
+    "leverage": 0.0665,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.2179,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "LINK",
+      "pnl": 0.0866,
+      "pnl_value": 0.2353,
+      "weight": 0.0105,
+      "rank": 15,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TNT",
+      "pnl": 0.0786,
+      "pnl_value": 0.1792,
+      "weight": 0.0088,
+      "rank": 168,
+      "atr": 0.0911,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZRX",
+      "pnl": -0.0142,
+      "pnl_value": -0.0402,
+      "weight": 0.0109,
+      "rank": 46,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 46,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 15,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 168,
+      "atr": 0.0911,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 258.2862,
+    "leverage": 0.0302,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0043,
+    "green_marketcap_pnt": 0
+  }
+}

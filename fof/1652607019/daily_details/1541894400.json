@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0468,
+      "pnl_value": 0.5944,
+      "weight": 0.1201,
+      "rank": 6,
+      "atr": 0.0526,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0217,
+      "pnl_value": 0.1834,
+      "weight": 0.0798,
+      "rank": 67,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0526,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 67,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0074,
+    "cum_pnl": 105.5613,
+    "leverage": 0.1999,
+    "atr": 0.0126,
+    "marketcap_pnt": 0.0227,
+    "green_marketcap_pnt": 0
+  }
+}

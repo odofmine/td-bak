@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.0723,
+      "pnl_value": 0.0019,
+      "weight": 0.0201,
+      "rank": 96,
+      "atr": 0.0828,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0722,
+      "pnl_value": 0.0016,
+      "weight": 0.0168,
+      "rank": 138,
+      "atr": 0.0989,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0466,
+      "pnl_value": 0.0014,
+      "weight": 0.0227,
+      "rank": 58,
+      "atr": 0.0732,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.014,
+      "pnl_value": 0.0003,
+      "weight": 0.0189,
+      "rank": 105,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0016,
+      "pnl_value": 0.0,
+      "weight": 0.0206,
+      "rank": 59,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0034,
+      "pnl_value": -0.0001,
+      "weight": 0.0258,
+      "rank": 16,
+      "atr": 0.0645,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.03,
+      "pnl_value": -0.0007,
+      "weight": 0.0179,
+      "rank": 185,
+      "atr": 0.0927,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.033,
+      "pnl_value": -0.001,
+      "weight": 0.0237,
+      "rank": 88,
+      "atr": 0.0702,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.0645,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 88,
+      "atr": 0.0702,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 58,
+      "atr": 0.0732,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 59,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 96,
+      "atr": 0.0828,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 105,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 185,
+      "atr": 0.0927,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 138,
+      "atr": 0.0989,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0026,
+    "cum_pnl": 0.2973,
+    "leverage": 0.1665,
+    "atr": 0.0133,
+    "marketcap_pnt": 0.0063,
+    "green_marketcap_pnt": 0
+  }
+}

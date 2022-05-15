@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0129,
+      "pnl_value": 0.0941,
+      "weight": 0.0069,
+      "rank": 40,
+      "atr": 0.0854,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0108,
+      "pnl_value": 0.0643,
+      "weight": 0.0056,
+      "rank": 103,
+      "atr": 0.1049,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HMR",
+      "pnl": 0.003,
+      "pnl_value": 0.0653,
+      "weight": 0.0205,
+      "rank": 75,
+      "atr": 0.029,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0397,
+      "pnl_value": -0.409,
+      "weight": 0.0097,
+      "rank": 43,
+      "atr": 0.0609,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0625,
+      "pnl_value": -0.7631,
+      "weight": 0.0115,
+      "rank": 46,
+      "atr": 0.0516,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0817,
+      "pnl_value": -0.7887,
+      "weight": 0.0091,
+      "rank": 19,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.1136,
+      "pnl_value": -0.7114,
+      "weight": 0.0059,
+      "rank": 21,
+      "atr": 0.0994,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.13,
+      "pnl_value": -1.5311,
+      "weight": 0.0111,
+      "rank": 6,
+      "atr": 0.0532,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HMR",
+      "rank": 75,
+      "atr": 0.029,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 46,
+      "atr": 0.0516,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 6,
+      "atr": 0.0532,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 43,
+      "atr": 0.0609,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 40,
+      "atr": 0.0854,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "YFI",
+      "rank": 21,
+      "atr": 0.0994,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 103,
+      "atr": 0.1049,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0037,
+    "cum_pnl": 1056.2543,
+    "leverage": 0.0803,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0253,
+    "green_marketcap_pnt": 0
+  }
+}

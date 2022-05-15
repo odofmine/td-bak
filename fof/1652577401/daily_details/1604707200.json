@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "PAXG",
+      "pnl": 0.0007,
+      "pnl_value": 0.0005,
+      "weight": 0.2809,
+      "rank": 112,
+      "atr": 0.0155,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0359,
+      "pnl_value": -0.0059,
+      "weight": 0.0618,
+      "rank": 43,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0454,
+      "pnl_value": -0.0112,
+      "weight": 0.0926,
+      "rank": 2,
+      "atr": 0.047,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0489,
+      "pnl_value": -0.0174,
+      "weight": 0.1331,
+      "rank": 1,
+      "atr": 0.0327,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0683,
+      "pnl_value": -0.0154,
+      "weight": 0.0843,
+      "rank": 8,
+      "atr": 0.0516,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0769,
+      "pnl_value": -0.01,
+      "weight": 0.0488,
+      "rank": 9,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.093,
+      "pnl_value": -0.0092,
+      "weight": 0.0372,
+      "rank": 145,
+      "atr": 0.1169,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WIN",
+      "pnl": -0.0934,
+      "pnl_value": -0.0152,
+      "weight": 0.0609,
+      "rank": 185,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 112,
+      "atr": 0.0155,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0327,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.047,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0516,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 43,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WIN",
+      "rank": 185,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 145,
+      "atr": 0.1169,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0314,
+    "cum_pnl": 1.5847,
+    "leverage": 0.7996,
+    "atr": 0.0348,
+    "marketcap_pnt": 0.7698,
+    "green_marketcap_pnt": 0
+  }
+}

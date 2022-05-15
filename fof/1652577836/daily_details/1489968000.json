@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "BTS",
+      "pnl": 0.1964,
+      "pnl_value": 0.0036,
+      "weight": 0.0162,
+      "rank": 29,
+      "atr": 0.0889,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0314,
+      "pnl_value": 0.0008,
+      "weight": 0.0213,
+      "rank": 5,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0141,
+      "pnl_value": -0.0003,
+      "weight": 0.0186,
+      "rank": 2,
+      "atr": 0.0777,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0247,
+      "pnl_value": -0.0005,
+      "weight": 0.0181,
+      "rank": 4,
+      "atr": 0.0797,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.033,
+      "pnl_value": -0.0005,
+      "weight": 0.0134,
+      "rank": 18,
+      "atr": 0.1078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0366,
+      "pnl_value": -0.0008,
+      "weight": 0.0198,
+      "rank": 7,
+      "atr": 0.0728,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0744,
+      "pnl_value": -0.0016,
+      "weight": 0.0194,
+      "rank": 8,
+      "atr": 0.0742,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0753,
+      "pnl_value": -0.0016,
+      "weight": 0.0183,
+      "rank": 3,
+      "atr": 0.0789,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 5,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0728,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0742,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0777,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0789,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.0797,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 29,
+      "atr": 0.0889,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 18,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 0.1379,
+    "leverage": 0.1451,
+    "atr": 0.0115,
+    "marketcap_pnt": 0.2421,
+    "green_marketcap_pnt": 0
+  }
+}

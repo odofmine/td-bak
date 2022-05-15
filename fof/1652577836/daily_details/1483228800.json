@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0044,
+      "pnl_value": 0.0005,
+      "weight": 0.1151,
+      "rank": 7,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0231,
+      "pnl_value": -0.0025,
+      "weight": 0.1072,
+      "rank": 5,
+      "atr": 0.064,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0372,
+      "pnl_value": -0.0039,
+      "weight": 0.1046,
+      "rank": 6,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0477,
+      "pnl_value": -0.0035,
+      "weight": 0.0728,
+      "rank": 14,
+      "atr": 0.0942,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.064,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 14,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0093,
+    "cum_pnl": -0.0093,
+    "leverage": 0.3997,
+    "atr": 0.0274,
+    "marketcap_pnt": 0.0194,
+    "green_marketcap_pnt": 0
+  }
+}

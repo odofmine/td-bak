@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2045,
+      "pnl_value": 0.5027,
+      "weight": 0.0276,
+      "rank": 104,
+      "atr": 0.0658,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": 0.0566,
+      "pnl_value": 0.1346,
+      "weight": 0.0267,
+      "rank": 77,
+      "atr": 0.068,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": 0.0494,
+      "pnl_value": 0.0929,
+      "weight": 0.0211,
+      "rank": 108,
+      "atr": 0.086,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0011,
+      "pnl_value": -0.0023,
+      "weight": 0.0243,
+      "rank": 45,
+      "atr": 0.0747,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": -0.0129,
+      "pnl_value": -0.0241,
+      "weight": 0.021,
+      "rank": 182,
+      "atr": 0.0865,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0204,
+      "pnl_value": -0.0445,
+      "weight": 0.0245,
+      "rank": 105,
+      "atr": 0.0739,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0305,
+      "pnl_value": -0.0928,
+      "weight": 0.0342,
+      "rank": 10,
+      "atr": 0.0531,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0309,
+      "pnl_value": -0.0792,
+      "weight": 0.0288,
+      "rank": 68,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": -0.0398,
+      "pnl_value": -0.1052,
+      "weight": 0.0297,
+      "rank": 128,
+      "atr": 0.0611,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CTXC",
+      "pnl": -0.0499,
+      "pnl_value": -0.0911,
+      "weight": 0.0205,
+      "rank": 157,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.0584,
+      "pnl_value": -0.13,
+      "weight": 0.025,
+      "rank": 176,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0628,
+      "pnl_value": -0.1001,
+      "weight": 0.0179,
+      "rank": 130,
+      "atr": 0.1013,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.067,
+      "pnl_value": -0.139,
+      "weight": 0.0233,
+      "rank": 57,
+      "atr": 0.0779,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 10,
+      "atr": 0.0531,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 128,
+      "atr": 0.0611,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HT",
+      "rank": 68,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 104,
+      "atr": 0.0658,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 77,
+      "atr": 0.068,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 176,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 105,
+      "atr": 0.0739,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 45,
+      "atr": 0.0747,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 57,
+      "atr": 0.0779,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 108,
+      "atr": 0.086,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 182,
+      "atr": 0.0865,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CTXC",
+      "rank": 157,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 130,
+      "atr": 0.1013,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 87.9949,
+    "leverage": 0.3246,
+    "atr": 0.0236,
+    "marketcap_pnt": 0.0152,
+    "green_marketcap_pnt": 0
+  }
+}

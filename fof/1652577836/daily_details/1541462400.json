@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1262,
+      "pnl_value": 1.3741,
+      "weight": 0.1162,
+      "rank": 4,
+      "atr": 0.0564,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.1074,
+      "pnl_value": 0.9814,
+      "weight": 0.0976,
+      "rank": 3,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EDO",
+      "pnl": 0.0379,
+      "pnl_value": 0.3055,
+      "weight": 0.0861,
+      "rank": 125,
+      "atr": 0.0761,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SNM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CVC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0564,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 125,
+      "atr": 0.0761,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0284,
+    "cum_pnl": 95.3305,
+    "leverage": 0.2999,
+    "atr": 0.0197,
+    "marketcap_pnt": 0.1382,
+    "green_marketcap_pnt": 0
+  }
+}

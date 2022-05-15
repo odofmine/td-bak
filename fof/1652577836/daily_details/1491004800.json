@@ -1,0 +1,262 @@
+{
+  "pnls": [
+    {
+      "name": "NAUT",
+      "pnl": 0.1903,
+      "pnl_value": 0.0032,
+      "weight": 0.0134,
+      "rank": 92,
+      "atr": 0.1469,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0691,
+      "pnl_value": 0.0019,
+      "weight": 0.022,
+      "rank": 9,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTS",
+      "pnl": 0.0638,
+      "pnl_value": 0.0016,
+      "weight": 0.0204,
+      "rank": 33,
+      "atr": 0.0963,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0529,
+      "pnl_value": 0.0022,
+      "weight": 0.0333,
+      "rank": 7,
+      "atr": 0.059,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": 0.0308,
+      "pnl_value": 0.0006,
+      "weight": 0.0166,
+      "rank": 88,
+      "atr": 0.1182,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.028,
+      "pnl_value": 0.0013,
+      "weight": 0.0364,
+      "rank": 4,
+      "atr": 0.054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0119,
+      "pnl_value": -0.0002,
+      "weight": 0.0164,
+      "rank": 66,
+      "atr": 0.1198,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.0222,
+      "pnl_value": -0.0004,
+      "weight": 0.0151,
+      "rank": 34,
+      "atr": 0.1303,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LBC",
+      "pnl": -0.0256,
+      "pnl_value": -0.0004,
+      "weight": 0.0123,
+      "rank": 79,
+      "atr": 0.1595,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0297,
+      "pnl_value": -0.0009,
+      "weight": 0.0252,
+      "rank": 6,
+      "atr": 0.078,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0407,
+      "pnl_value": -0.0008,
+      "weight": 0.0169,
+      "rank": 31,
+      "atr": 0.1162,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0455,
+      "pnl_value": -0.001,
+      "weight": 0.0172,
+      "rank": 41,
+      "atr": 0.1144,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.0508,
+      "pnl_value": -0.0008,
+      "weight": 0.0129,
+      "rank": 54,
+      "atr": 0.1517,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0869,
+      "pnl_value": -0.0023,
+      "weight": 0.0213,
+      "rank": 17,
+      "atr": 0.0922,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.059,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.078,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 17,
+      "atr": 0.0922,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 33,
+      "atr": 0.0963,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 41,
+      "atr": 0.1144,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 31,
+      "atr": 0.1162,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 88,
+      "atr": 0.1182,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 66,
+      "atr": 0.1198,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 34,
+      "atr": 0.1303,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 92,
+      "atr": 0.1469,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 54,
+      "atr": 0.1517,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 79,
+      "atr": 0.1595,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 0.2393,
+    "leverage": 0.2794,
+    "atr": 0.0275,
+    "marketcap_pnt": 0.0414,
+    "green_marketcap_pnt": 0
+  }
+}

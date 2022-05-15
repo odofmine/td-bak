@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "XMR",
+      "pnl": 0.0273,
+      "pnl_value": 0.3074,
+      "weight": 0.0127,
+      "rank": 15,
+      "atr": 0.0446,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0272,
+      "pnl_value": 0.1931,
+      "weight": 0.008,
+      "rank": 10,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": 0.0172,
+      "pnl_value": 0.125,
+      "weight": 0.0082,
+      "rank": 58,
+      "atr": 0.069,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0144,
+      "pnl_value": 0.246,
+      "weight": 0.0192,
+      "rank": 1,
+      "atr": 0.0295,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0077,
+      "pnl_value": 0.0644,
+      "weight": 0.0094,
+      "rank": 27,
+      "atr": 0.0601,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0031,
+      "pnl_value": 0.0331,
+      "weight": 0.0119,
+      "rank": 4,
+      "atr": 0.0477,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MKR",
+      "pnl": -0.0032,
+      "pnl_value": -0.0219,
+      "weight": 0.0077,
+      "rank": 35,
+      "atr": 0.073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.0192,
+      "pnl_value": -0.1058,
+      "weight": 0.0062,
+      "rank": 21,
+      "atr": 0.0902,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WXT",
+      "pnl": -0.0546,
+      "pnl_value": -0.3491,
+      "weight": 0.0072,
+      "rank": 185,
+      "atr": 0.0786,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0295,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 15,
+      "atr": 0.0446,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0477,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 27,
+      "atr": 0.0601,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 58,
+      "atr": 0.069,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 10,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 35,
+      "atr": 0.073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WXT",
+      "rank": 185,
+      "atr": 0.0786,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 21,
+      "atr": 0.0902,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 886.832,
+    "leverage": 0.0905,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.6443,
+    "green_marketcap_pnt": 0
+  }
+}

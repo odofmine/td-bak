@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0719,
+      "pnl_value": 0.1154,
+      "weight": 0.0111,
+      "rank": 66,
+      "atr": 0.0878,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0511,
+      "pnl_value": 0.085,
+      "weight": 0.0115,
+      "rank": 144,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CFX",
+      "pnl": -0.0941,
+      "pnl_value": -0.0993,
+      "weight": 0.0073,
+      "rank": 195,
+      "atr": 0.1334,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0878,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CFX",
+      "rank": 195,
+      "atr": 0.1334,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 143.6696,
+    "leverage": 0.0299,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

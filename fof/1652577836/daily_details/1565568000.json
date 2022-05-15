@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ZB",
+      "pnl": 0.0782,
+      "pnl_value": 0.169,
+      "weight": 0.0092,
+      "rank": 95,
+      "atr": 0.069,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.002,
+      "pnl_value": -0.0047,
+      "weight": 0.0101,
+      "rank": 52,
+      "atr": 0.0629,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": -0.0027,
+      "pnl_value": -0.007,
+      "weight": 0.0108,
+      "rank": 37,
+      "atr": 0.0586,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IPC",
+      "pnl": -0.0775,
+      "pnl_value": -0.1838,
+      "weight": 0.0101,
+      "rank": 125,
+      "atr": 0.063,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BIX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HT",
+      "rank": 37,
+      "atr": 0.0586,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 52,
+      "atr": 0.0629,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IPC",
+      "rank": 125,
+      "atr": 0.063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZB",
+      "rank": 95,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 233.8656,
+    "leverage": 0.0402,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0016,
+    "green_marketcap_pnt": 0
+  }
+}

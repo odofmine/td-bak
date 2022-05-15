@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "SAND",
+      "pnl": 0.065,
+      "pnl_value": 0.0372,
+      "weight": 0.01,
+      "rank": 155,
+      "atr": 0.1335,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0608,
+      "pnl_value": -0.0345,
+      "weight": 0.0099,
+      "rank": 43,
+      "atr": 0.1352,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0749,
+      "pnl_value": -0.0425,
+      "weight": 0.0099,
+      "rank": 57,
+      "atr": 0.1344,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0896,
+      "pnl_value": -0.0534,
+      "weight": 0.0104,
+      "rank": 124,
+      "atr": 0.1282,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1282,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAND",
+      "rank": 155,
+      "atr": 0.1335,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1344,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1352,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 56.1899,
+    "leverage": 0.0402,
+    "atr": 0.0053,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

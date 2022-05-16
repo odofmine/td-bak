@@ -1,0 +1,187 @@
+{
+  "pnls": [
+    {
+      "name": "KAVA",
+      "pnl": 0.0436,
+      "pnl_value": 8.3578,
+      "weight": 0.008,
+      "rank": 124,
+      "atr": 0.1329,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": 0.0239,
+      "pnl_value": 4.7428,
+      "weight": 0.0083,
+      "rank": 121,
+      "atr": 0.1289,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0084,
+      "pnl_value": 2.7529,
+      "weight": 0.0136,
+      "rank": 45,
+      "atr": 0.0786,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.002,
+      "pnl_value": -0.451,
+      "weight": 0.0095,
+      "rank": 57,
+      "atr": 0.1125,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0698,
+      "pnl_value": -15.7275,
+      "weight": 0.0094,
+      "rank": 173,
+      "atr": 0.1138,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0784,
+      "pnl_value": -27.788,
+      "weight": 0.0148,
+      "rank": 97,
+      "atr": 0.0724,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0838,
+      "pnl_value": -17.8704,
+      "weight": 0.0089,
+      "rank": 43,
+      "atr": 0.12,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DAG",
+      "pnl": -0.085,
+      "pnl_value": -22.4031,
+      "weight": 0.011,
+      "rank": 193,
+      "atr": 0.0971,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": -0.0877,
+      "pnl_value": -14.2784,
+      "weight": 0.0068,
+      "rank": 179,
+      "atr": 0.1563,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XDC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AMPL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KCS",
+      "rank": 97,
+      "atr": 0.0724,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEO",
+      "rank": 45,
+      "atr": 0.0786,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DAG",
+      "rank": 193,
+      "atr": 0.0971,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1125,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1138,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.12,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 121,
+      "atr": 0.1289,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1329,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MLN",
+      "rank": 179,
+      "atr": 0.1563,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 23872.1194,
+    "leverage": 0.0903,
+    "atr": 0.0096,
+    "marketcap_pnt": 0.0055,
+    "green_marketcap_pnt": 0
+  }
+}

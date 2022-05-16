@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "TNT",
+      "pnl": -0.0183,
+      "pnl_value": -0.0484,
+      "weight": 0.0102,
+      "rank": 174,
+      "atr": 0.0769,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PZM",
+      "pnl": -0.0282,
+      "pnl_value": -0.0657,
+      "weight": 0.009,
+      "rank": 51,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.041,
+      "pnl_value": -0.1165,
+      "weight": 0.011,
+      "rank": 47,
+      "atr": 0.0716,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "HOT",
+      "rank": 47,
+      "atr": 0.0716,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 174,
+      "atr": 0.0769,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 51,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 257.3466,
+    "leverage": 0.0302,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

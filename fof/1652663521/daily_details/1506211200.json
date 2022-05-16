@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "EMC2",
+      "pnl": -0.0312,
+      "pnl_value": -0.0037,
+      "weight": 0.0098,
+      "rank": 185,
+      "atr": 0.1582,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.072,
+      "pnl_value": -0.0089,
+      "weight": 0.0102,
+      "rank": 104,
+      "atr": 0.1522,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRST",
+      "pnl": -0.0874,
+      "pnl_value": -0.0108,
+      "weight": 0.0102,
+      "rank": 109,
+      "atr": 0.1525,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 104,
+      "atr": 0.1522,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 109,
+      "atr": 0.1525,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 185,
+      "atr": 0.1582,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 11.0674,
+    "leverage": 0.0302,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

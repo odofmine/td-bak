@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "CRPT",
+      "pnl": -0.0436,
+      "pnl_value": -0.0841,
+      "weight": 0.0073,
+      "rank": 147,
+      "atr": 0.1949,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BEAM",
+      "pnl": -0.0824,
+      "pnl_value": -0.2786,
+      "weight": 0.0128,
+      "rank": 113,
+      "atr": 0.1123,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BEAM",
+      "rank": 113,
+      "atr": 0.1123,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRPT",
+      "rank": 147,
+      "atr": 0.1949,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": 262.8469,
+    "leverage": 0.0201,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

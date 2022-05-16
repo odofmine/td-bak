@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "ALICE",
+      "pnl": 0.2639,
+      "pnl_value": 169.223,
+      "weight": 0.0085,
+      "rank": 151,
+      "atr": 0.1025,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CRO",
+      "pnl": 0.2246,
+      "pnl_value": 194.8941,
+      "weight": 0.0115,
+      "rank": 13,
+      "atr": 0.0762,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ROSE",
+      "pnl": 0.1536,
+      "pnl_value": 93.888,
+      "weight": 0.0081,
+      "rank": 88,
+      "atr": 0.108,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HIVE",
+      "pnl": 0.141,
+      "pnl_value": 91.4646,
+      "weight": 0.0086,
+      "rank": 161,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.1221,
+      "pnl_value": 73.6826,
+      "weight": 0.008,
+      "rank": 192,
+      "atr": 0.1095,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEN",
+      "pnl": 0.0716,
+      "pnl_value": 49.1269,
+      "weight": 0.0091,
+      "rank": 91,
+      "atr": 0.0955,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ENJ",
+      "pnl": 0.0683,
+      "pnl_value": 48.9235,
+      "weight": 0.0095,
+      "rank": 64,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0606,
+      "pnl_value": 49.3478,
+      "weight": 0.0108,
+      "rank": 57,
+      "atr": 0.0813,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POWR",
+      "pnl": 0.0394,
+      "pnl_value": 23.7843,
+      "weight": 0.008,
+      "rank": 180,
+      "atr": 0.1094,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0441,
+      "pnl_value": -50.9614,
+      "weight": 0.0153,
+      "rank": 25,
+      "atr": 0.0572,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CSPR",
+      "pnl": -0.0585,
+      "pnl_value": -48.958,
+      "weight": 0.0111,
+      "rank": 174,
+      "atr": 0.0788,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0842,
+      "pnl_value": -76.8689,
+      "weight": 0.0121,
+      "rank": 11,
+      "atr": 0.0723,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EGLD",
+      "rank": 25,
+      "atr": 0.0572,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 11,
+      "atr": 0.0723,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRO",
+      "rank": 13,
+      "atr": 0.0762,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CSPR",
+      "rank": 174,
+      "atr": 0.0788,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 57,
+      "atr": 0.0813,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ENJ",
+      "rank": 64,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 91,
+      "atr": 0.0955,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HIVE",
+      "rank": 161,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALICE",
+      "rank": 151,
+      "atr": 0.1025,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ROSE",
+      "rank": 88,
+      "atr": 0.108,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 180,
+      "atr": 0.1094,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 192,
+      "atr": 0.1095,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0082,
+    "cum_pnl": 76063.7755,
+    "leverage": 0.1206,
+    "atr": 0.0105,
+    "marketcap_pnt": 0.0253,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "PAXG",
+      "pnl": 0.0065,
+      "pnl_value": 8.2099,
+      "weight": 0.0173,
+      "rank": 104,
+      "atr": 0.0395,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UMA",
+      "pnl": -0.0726,
+      "pnl_value": -26.4119,
+      "weight": 0.005,
+      "rank": 105,
+      "atr": 0.1362,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0966,
+      "pnl_value": -53.405,
+      "weight": 0.0076,
+      "rank": 162,
+      "atr": 0.0898,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "KNC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ANC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "PAXG",
+      "rank": 104,
+      "atr": 0.0395,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 162,
+      "atr": 0.0898,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 105,
+      "atr": 0.1362,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 72644.3546,
+    "leverage": 0.0299,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

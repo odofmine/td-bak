@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": 0.0033,
+      "pnl_value": 0.0009,
+      "weight": 0.0215,
+      "rank": 39,
+      "atr": 0.114,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.1359,
+      "pnl_value": -0.0307,
+      "weight": 0.0184,
+      "rank": 27,
+      "atr": 0.1332,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "VRC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.114,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1332,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 11.2639,
+    "leverage": 0.0399,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

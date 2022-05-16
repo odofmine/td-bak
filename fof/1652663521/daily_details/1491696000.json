@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "POT",
+      "pnl": 0.0825,
+      "pnl_value": 0.0129,
+      "weight": 0.0889,
+      "rank": 63,
+      "atr": 0.1009,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.02,
+      "pnl_value": 0.006,
+      "weight": 0.1722,
+      "rank": 1,
+      "atr": 0.0521,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0199,
+      "pnl_value": -0.003,
+      "weight": 0.0865,
+      "rank": 20,
+      "atr": 0.1037,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": -0.0692,
+      "pnl_value": -0.0074,
+      "weight": 0.061,
+      "rank": 50,
+      "atr": 0.147,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": -0.0912,
+      "pnl_value": -0.0146,
+      "weight": 0.0911,
+      "rank": 84,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0521,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 84,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 63,
+      "atr": 0.1009,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.1037,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 50,
+      "atr": 0.147,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 0.7522,
+    "leverage": 0.4997,
+    "atr": 0.0449,
+    "marketcap_pnt": 0.65,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "SYS",
+      "pnl": -0.0232,
+      "pnl_value": -21.7369,
+      "weight": 0.0125,
+      "rank": 153,
+      "atr": 0.1106,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0385,
+      "pnl_value": -21.9527,
+      "weight": 0.0076,
+      "rank": 74,
+      "atr": 0.1815,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SYS",
+      "rank": 153,
+      "atr": 0.1106,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 74,
+      "atr": 0.1815,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0006,
+    "cum_pnl": 75009.3885,
+    "leverage": 0.0201,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.093,
+      "pnl_value": 2.984,
+      "weight": 0.032,
+      "rank": 70,
+      "atr": 0.0637,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0807,
+      "pnl_value": 2.4284,
+      "weight": 0.03,
+      "rank": 42,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.0177,
+      "pnl_value": 0.2277,
+      "weight": 0.0128,
+      "rank": 84,
+      "atr": 0.1582,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 70,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CEL",
+      "rank": 42,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 84,
+      "atr": 0.1582,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0056,
+    "cum_pnl": 1007.2574,
+    "leverage": 0.0748,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

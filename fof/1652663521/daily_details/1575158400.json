@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "ATOM",
+      "pnl": -0.0275,
+      "pnl_value": -0.0937,
+      "weight": 0.0109,
+      "rank": 19,
+      "atr": 0.0656,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0409,
+      "pnl_value": -0.1216,
+      "weight": 0.0095,
+      "rank": 112,
+      "atr": 0.075,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ENG",
+      "pnl": -0.0534,
+      "pnl_value": -0.1439,
+      "weight": 0.0086,
+      "rank": 143,
+      "atr": 0.0832,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0815,
+      "pnl_value": -0.2857,
+      "weight": 0.0112,
+      "rank": 111,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MATIC",
+      "rank": 111,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 19,
+      "atr": 0.0656,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 112,
+      "atr": 0.075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ENG",
+      "rank": 143,
+      "atr": 0.0832,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 311.3456,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

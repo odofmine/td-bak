@@ -1,0 +1,229 @@
+{
+  "pnls": [
+    {
+      "name": "NAV",
+      "pnl": 0.2308,
+      "pnl_value": 0.053,
+      "weight": 0.0805,
+      "rank": 65,
+      "atr": 0.0831,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.1612,
+      "pnl_value": 0.0455,
+      "weight": 0.099,
+      "rank": 2,
+      "atr": 0.0676,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.1599,
+      "pnl_value": 0.0566,
+      "weight": 0.1242,
+      "rank": 6,
+      "atr": 0.0539,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0758,
+      "pnl_value": 0.022,
+      "weight": 0.1017,
+      "rank": 44,
+      "atr": 0.0658,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0679,
+      "pnl_value": 0.0162,
+      "weight": 0.0835,
+      "rank": 7,
+      "atr": 0.0801,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0361,
+      "pnl_value": 0.0096,
+      "weight": 0.0935,
+      "rank": 8,
+      "atr": 0.0716,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0117,
+      "pnl_value": 0.0054,
+      "weight": 0.1625,
+      "rank": 1,
+      "atr": 0.0412,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0123,
+      "pnl_value": -0.0027,
+      "weight": 0.0758,
+      "rank": 9,
+      "atr": 0.0883,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0202,
+      "pnl_value": -0.005,
+      "weight": 0.0861,
+      "rank": 16,
+      "atr": 0.0777,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0255,
+      "pnl_value": -0.0067,
+      "weight": 0.0927,
+      "rank": 10,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EXP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0412,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0539,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 44,
+      "atr": 0.0658,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0676,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 8,
+      "atr": 0.0716,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 10,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 16,
+      "atr": 0.0777,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 7,
+      "atr": 0.0801,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.0831,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0883,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 5,
+      "atr": 0.0942,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 76,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.1009,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 55,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.068,
+    "cum_pnl": 2.046,
+    "leverage": 0.9995,
+    "atr": 0.0669,
+    "marketcap_pnt": 0.8592,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.2652,
+      "pnl_value": 0.0189,
+      "weight": 0.0697,
+      "rank": 38,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0321,
+      "pnl_value": 0.0026,
+      "weight": 0.0798,
+      "rank": 10,
+      "atr": 0.0737,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0186,
+      "pnl_value": 0.0029,
+      "weight": 0.1524,
+      "rank": 1,
+      "atr": 0.0386,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0164,
+      "pnl_value": 0.0019,
+      "weight": 0.1144,
+      "rank": 7,
+      "atr": 0.0514,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0013,
+      "pnl_value": 0.0001,
+      "weight": 0.0834,
+      "rank": 8,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0386,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0514,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0737,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 38,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0259,
+    "cum_pnl": 0.05,
+    "leverage": 0.4997,
+    "atr": 0.0294,
+    "marketcap_pnt": 0.8675,
+    "green_marketcap_pnt": 0
+  }
+}

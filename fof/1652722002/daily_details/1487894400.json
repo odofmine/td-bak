@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.049,
+      "pnl_value": 0.0041,
+      "weight": 0.0838,
+      "rank": 6,
+      "atr": 0.0464,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0039,
+      "pnl_value": 0.0005,
+      "weight": 0.1161,
+      "rank": 1,
+      "atr": 0.0335,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0335,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0464,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 0.0078,
+    "leverage": 0.1999,
+    "atr": 0.0078,
+    "marketcap_pnt": 0.866,
+    "green_marketcap_pnt": 0
+  }
+}

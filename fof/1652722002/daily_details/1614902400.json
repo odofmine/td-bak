@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.0693,
+      "pnl_value": 10.2848,
+      "weight": 0.0223,
+      "rank": 80,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0201,
+      "pnl_value": 2.6628,
+      "weight": 0.0199,
+      "rank": 108,
+      "atr": 0.1007,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.0041,
+      "pnl_value": -0.5462,
+      "weight": 0.02,
+      "rank": 77,
+      "atr": 0.1003,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COTI",
+      "pnl": -0.0084,
+      "pnl_value": -1.3204,
+      "weight": 0.0235,
+      "rank": 165,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAXP",
+      "pnl": -0.012,
+      "pnl_value": -1.6159,
+      "weight": 0.0203,
+      "rank": 182,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0143,
+      "pnl_value": -1.7474,
+      "weight": 0.0184,
+      "rank": 142,
+      "atr": 0.1086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0173,
+      "pnl_value": -2.1768,
+      "weight": 0.0189,
+      "rank": 71,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EWT",
+      "pnl": -0.0431,
+      "pnl_value": -4.2761,
+      "weight": 0.0149,
+      "rank": 102,
+      "atr": 0.134,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ANKR",
+      "pnl": -0.046,
+      "pnl_value": -5.2683,
+      "weight": 0.0172,
+      "rank": 140,
+      "atr": 0.1163,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0716,
+      "pnl_value": -12.1599,
+      "weight": 0.0255,
+      "rank": 25,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MANA",
+      "pnl": -0.102,
+      "pnl_value": -9.1688,
+      "weight": 0.0135,
+      "rank": 100,
+      "atr": 0.1487,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": -0.1097,
+      "pnl_value": -21.7576,
+      "weight": 0.0298,
+      "rank": 88,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UNFI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FLOW",
+      "rank": 88,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 25,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COTI",
+      "rank": 165,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 80,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAXP",
+      "rank": 182,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 77,
+      "atr": 0.1003,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 108,
+      "atr": 0.1007,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 71,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 142,
+      "atr": 0.1086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ANKR",
+      "rank": 140,
+      "atr": 0.1163,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EWT",
+      "rank": 102,
+      "atr": 0.134,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MANA",
+      "rank": 100,
+      "atr": 0.1487,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0071,
+    "cum_pnl": 6609.9946,
+    "leverage": 0.2442,
+    "atr": 0.024,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

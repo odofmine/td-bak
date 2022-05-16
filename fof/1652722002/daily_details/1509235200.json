@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "FLO",
+      "pnl": -0.0266,
+      "pnl_value": -0.006,
+      "weight": 0.0165,
+      "rank": 198,
+      "atr": 0.1375,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0821,
+      "pnl_value": -0.0215,
+      "weight": 0.0192,
+      "rank": 61,
+      "atr": 0.1183,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.1739,
+      "pnl_value": -0.0634,
+      "weight": 0.0267,
+      "rank": 43,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "POT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 61,
+      "atr": 0.1183,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLO",
+      "rank": 198,
+      "atr": 0.1375,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0067,
+    "cum_pnl": 12.5643,
+    "leverage": 0.0624,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

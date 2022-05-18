@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.0747,
+      "pnl_value": 59.7894,
+      "weight": 0.0105,
+      "rank": 29,
+      "atr": 0.0739,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0621,
+      "pnl_value": 44.9855,
+      "weight": 0.0095,
+      "rank": 91,
+      "atr": 0.0811,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0343,
+      "pnl_value": 26.4371,
+      "weight": 0.0101,
+      "rank": 85,
+      "atr": 0.0764,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CRV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.0739,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0764,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 91,
+      "atr": 0.0811,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": 76390.6761,
+    "leverage": 0.0301,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

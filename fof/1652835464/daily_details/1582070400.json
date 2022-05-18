@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "DX",
+      "pnl": 0.0067,
+      "pnl_value": 0.0773,
+      "weight": 0.0254,
+      "rank": 102,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UBT",
+      "pnl": -0.0462,
+      "pnl_value": -0.5427,
+      "weight": 0.0259,
+      "rank": 154,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0666,
+      "pnl_value": -1.4177,
+      "weight": 0.0469,
+      "rank": 37,
+      "atr": 0.0473,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRUE",
+      "pnl": -0.1009,
+      "pnl_value": -1.5249,
+      "weight": 0.0333,
+      "rank": 175,
+      "atr": 0.0666,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.3257,
+      "pnl_value": -5.1585,
+      "weight": 0.0349,
+      "rank": 58,
+      "atr": 0.0635,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 37,
+      "atr": 0.0473,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 58,
+      "atr": 0.0635,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRUE",
+      "rank": 175,
+      "atr": 0.0666,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBT",
+      "rank": 154,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 102,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0189,
+    "cum_pnl": 444.183,
+    "leverage": 0.1664,
+    "atr": 0.0111,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.174,
+      "pnl_value": 0.2057,
+      "weight": 0.0106,
+      "rank": 6,
+      "atr": 0.0818,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": 0.0248,
+      "pnl_value": 0.0169,
+      "weight": 0.0061,
+      "rank": 148,
+      "atr": 0.1431,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": 0.0195,
+      "pnl_value": 0.0192,
+      "weight": 0.0088,
+      "rank": 82,
+      "atr": 0.0982,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0188,
+      "pnl_value": 0.0234,
+      "weight": 0.0112,
+      "rank": 24,
+      "atr": 0.0775,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0004,
+      "pnl_value": -0.0006,
+      "weight": 0.0135,
+      "rank": 9,
+      "atr": 0.0644,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0035,
+      "pnl_value": -0.0043,
+      "weight": 0.0111,
+      "rank": 3,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EDO",
+      "pnl": -0.0064,
+      "pnl_value": -0.006,
+      "weight": 0.0084,
+      "rank": 190,
+      "atr": 0.1039,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0644,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 24,
+      "atr": 0.0775,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0818,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 82,
+      "atr": 0.0982,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 190,
+      "atr": 0.1039,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 148,
+      "atr": 0.1431,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 110.7607,
+    "leverage": 0.0697,
+    "atr": 0.0061,
+    "marketcap_pnt": 0.0879,
+    "green_marketcap_pnt": 0
+  }
+}

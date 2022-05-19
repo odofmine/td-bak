@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0414,
+      "pnl_value": -0.0063,
+      "weight": 0.1492,
+      "rank": 2,
+      "atr": 0.0494,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0651,
+      "pnl_value": -0.0045,
+      "weight": 0.0686,
+      "rank": 54,
+      "atr": 0.1074,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0726,
+      "pnl_value": -0.0057,
+      "weight": 0.0777,
+      "rank": 29,
+      "atr": 0.0948,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0837,
+      "pnl_value": -0.0082,
+      "weight": 0.096,
+      "rank": 13,
+      "atr": 0.0768,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.1052,
+      "pnl_value": -0.0116,
+      "weight": 0.1082,
+      "rank": 6,
+      "atr": 0.0681,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0494,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0681,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0768,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 29,
+      "atr": 0.0948,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 54,
+      "atr": 0.1074,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0357,
+    "cum_pnl": -0.0213,
+    "leverage": 0.4997,
+    "atr": 0.0368,
+    "marketcap_pnt": 0.0608,
+    "green_marketcap_pnt": 0
+  }
+}

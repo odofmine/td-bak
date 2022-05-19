@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0013,
+      "pnl_value": 0.0018,
+      "weight": 0.0119,
+      "rank": 40,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OCN",
+      "pnl": -0.0737,
+      "pnl_value": -0.0873,
+      "weight": 0.0106,
+      "rank": 102,
+      "atr": 0.101,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIP",
+      "pnl": -0.1136,
+      "pnl_value": -0.0927,
+      "weight": 0.0073,
+      "rank": 142,
+      "atr": 0.1473,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LOOM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCN",
+      "rank": 102,
+      "atr": 0.101,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIP",
+      "rank": 142,
+      "atr": 0.1473,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 110.646,
+    "leverage": 0.0298,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

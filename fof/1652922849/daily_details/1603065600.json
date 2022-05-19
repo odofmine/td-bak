@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "XLM",
+      "pnl": 0.0718,
+      "pnl_value": 1.0293,
+      "weight": 0.0138,
+      "rank": 18,
+      "atr": 0.0567,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0223,
+      "pnl_value": 0.2311,
+      "weight": 0.01,
+      "rank": 109,
+      "atr": 0.078,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BOA",
+      "pnl": -0.0017,
+      "pnl_value": -0.0097,
+      "weight": 0.0054,
+      "rank": 190,
+      "atr": 0.1439,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0386,
+      "pnl_value": -0.1562,
+      "weight": 0.0039,
+      "rank": 90,
+      "atr": 0.2004,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": -0.0402,
+      "pnl_value": -0.384,
+      "weight": 0.0092,
+      "rank": 49,
+      "atr": 0.0851,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MX",
+      "pnl": -0.0578,
+      "pnl_value": -0.9009,
+      "weight": 0.015,
+      "rank": 194,
+      "atr": 0.0524,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0872,
+      "pnl_value": -1.186,
+      "weight": 0.0131,
+      "rank": 39,
+      "atr": 0.0598,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MX",
+      "rank": 194,
+      "atr": 0.0524,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 18,
+      "atr": 0.0567,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 39,
+      "atr": 0.0598,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 109,
+      "atr": 0.078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 49,
+      "atr": 0.0851,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BOA",
+      "rank": 190,
+      "atr": 0.1439,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 90,
+      "atr": 0.2004,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0013,
+    "cum_pnl": 1036.3347,
+    "leverage": 0.0704,
+    "atr": 0.0055,
+    "marketcap_pnt": 0.0075,
+    "green_marketcap_pnt": 0
+  }
+}

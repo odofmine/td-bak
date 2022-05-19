@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "XVG",
+      "pnl": 0.0669,
+      "pnl_value": 0.0531,
+      "weight": 0.0087,
+      "rank": 26,
+      "atr": 0.2128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0632,
+      "pnl_value": -0.0658,
+      "weight": 0.0114,
+      "rank": 60,
+      "atr": 0.163,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOST",
+      "rank": 60,
+      "atr": 0.163,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XVG",
+      "rank": 26,
+      "atr": 0.2128,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 90.2004,
+    "leverage": 0.0201,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}

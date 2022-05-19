@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.1346,
+      "pnl_value": 0.0015,
+      "weight": 0.0083,
+      "rank": 105,
+      "atr": 0.0756,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ERD",
+      "pnl": 0.0997,
+      "pnl_value": 0.001,
+      "weight": 0.0075,
+      "rank": 133,
+      "atr": 0.0832,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": 0.0389,
+      "pnl_value": 0.0006,
+      "weight": 0.0109,
+      "rank": 11,
+      "atr": 0.0576,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0221,
+      "pnl_value": -0.0003,
+      "weight": 0.0119,
+      "rank": 116,
+      "atr": 0.0527,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": -0.1362,
+      "pnl_value": -0.0021,
+      "weight": 0.0116,
+      "rank": 176,
+      "atr": 0.0543,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTT",
+      "rank": 116,
+      "atr": 0.0527,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 176,
+      "atr": 0.0543,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0576,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0756,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.0832,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0004,
+    "cum_pnl": 0.3064,
+    "leverage": 0.0502,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0088,
+    "green_marketcap_pnt": 0
+  }
+}

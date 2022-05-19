@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": -0.0075,
+      "pnl_value": -0.0382,
+      "weight": 0.016,
+      "rank": 21,
+      "atr": 0.0529,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MX",
+      "pnl": -0.0075,
+      "pnl_value": -0.0093,
+      "weight": 0.0039,
+      "rank": 180,
+      "atr": 0.2169,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.0529,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MX",
+      "rank": 180,
+      "atr": 0.2169,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0001,
+    "cum_pnl": 316.6203,
+    "leverage": 0.0199,
+    "atr": 0.0017,
+    "marketcap_pnt": 0.0028,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.1375,
+      "pnl_value": 0.1291,
+      "weight": 0.0083,
+      "rank": 37,
+      "atr": 0.126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0075,
+      "pnl_value": -0.0108,
+      "weight": 0.0127,
+      "rank": 22,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EDO",
+      "pnl": -0.0285,
+      "pnl_value": -0.0284,
+      "weight": 0.0088,
+      "rank": 165,
+      "atr": 0.1186,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 22,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 165,
+      "atr": 0.1186,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 37,
+      "atr": 0.126,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 112.204,
+    "leverage": 0.0298,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0032,
+    "green_marketcap_pnt": 0
+  }
+}

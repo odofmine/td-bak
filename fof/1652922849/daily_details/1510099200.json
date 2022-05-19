@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.0281,
+      "pnl_value": 0.0528,
+      "weight": 0.1336,
+      "rank": 10,
+      "atr": 0.0877,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0144,
+      "pnl_value": 0.0209,
+      "weight": 0.1034,
+      "rank": 24,
+      "atr": 0.1133,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.0516,
+      "pnl_value": -0.0455,
+      "weight": 0.0629,
+      "rank": 65,
+      "atr": 0.1862,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 10,
+      "atr": 0.0877,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 24,
+      "atr": 0.1133,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 65,
+      "atr": 0.1862,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 13.0664,
+    "leverage": 0.2999,
+    "atr": 0.0351,
+    "marketcap_pnt": 0.0082,
+    "green_marketcap_pnt": 0
+  }
+}

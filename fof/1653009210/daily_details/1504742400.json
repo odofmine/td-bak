@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "KMD",
+      "pnl": 0.0717,
+      "pnl_value": 0.0231,
+      "weight": 0.0259,
+      "rank": 27,
+      "atr": 0.1019,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.033,
+      "pnl_value": -0.0088,
+      "weight": 0.0214,
+      "rank": 124,
+      "atr": 0.1234,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VRC",
+      "pnl": -0.084,
+      "pnl_value": -0.0187,
+      "weight": 0.0179,
+      "rank": 195,
+      "atr": 0.1472,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SIB",
+      "pnl": -0.0886,
+      "pnl_value": -0.0161,
+      "weight": 0.0146,
+      "rank": 149,
+      "atr": 0.1807,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1019,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 124,
+      "atr": 0.1234,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VRC",
+      "rank": 195,
+      "atr": 0.1472,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 149,
+      "atr": 0.1807,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0017,
+    "cum_pnl": 11.4014,
+    "leverage": 0.0798,
+    "atr": 0.0106,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

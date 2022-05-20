@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "TMTG",
+      "pnl": 0.1499,
+      "pnl_value": 0.8184,
+      "weight": 0.0053,
+      "rank": 74,
+      "atr": 0.1451,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0884,
+      "pnl_value": 0.9836,
+      "weight": 0.0108,
+      "rank": 29,
+      "atr": 0.0722,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0568,
+      "pnl_value": 0.9481,
+      "weight": 0.0162,
+      "rank": 16,
+      "atr": 0.048,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QQQ",
+      "pnl": -0.0876,
+      "pnl_value": -0.7123,
+      "weight": 0.0079,
+      "rank": 162,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WXT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 16,
+      "atr": 0.048,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 29,
+      "atr": 0.0722,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QQQ",
+      "rank": 162,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TMTG",
+      "rank": 74,
+      "atr": 0.1451,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 1030.8221,
+    "leverage": 0.0402,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0078,
+    "green_marketcap_pnt": 0
+  }
+}

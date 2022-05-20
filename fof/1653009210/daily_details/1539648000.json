@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "RVN",
+      "pnl": 0.2394,
+      "pnl_value": 0.2023,
+      "weight": 0.0077,
+      "rank": 133,
+      "atr": 0.126,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.0234,
+      "pnl_value": 0.0259,
+      "weight": 0.0101,
+      "rank": 194,
+      "atr": 0.0956,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0387,
+      "pnl_value": -0.0446,
+      "weight": 0.0105,
+      "rank": 120,
+      "atr": 0.0923,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0606,
+      "pnl_value": -0.0784,
+      "weight": 0.0118,
+      "rank": 116,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QSP",
+      "pnl": -0.0647,
+      "pnl_value": -0.0746,
+      "weight": 0.0105,
+      "rank": 190,
+      "atr": 0.092,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GO",
+      "pnl": -0.0764,
+      "pnl_value": -0.0654,
+      "weight": 0.0078,
+      "rank": 149,
+      "atr": 0.1237,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MDA",
+      "pnl": -0.1918,
+      "pnl_value": -0.238,
+      "weight": 0.0113,
+      "rank": 118,
+      "atr": 0.0858,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "STORJ",
+      "rank": 116,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 118,
+      "atr": 0.0858,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QSP",
+      "rank": 190,
+      "atr": 0.092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 120,
+      "atr": 0.0923,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 194,
+      "atr": 0.0956,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 149,
+      "atr": 0.1237,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 133,
+      "atr": 0.126,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 108.4893,
+    "leverage": 0.0697,
+    "atr": 0.0068,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

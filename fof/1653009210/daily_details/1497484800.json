@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0038,
+      "pnl_value": 0.0034,
+      "weight": 0.0959,
+      "rank": 7,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0024,
+      "pnl_value": 0.0028,
+      "weight": 0.1241,
+      "rank": 2,
+      "atr": 0.0731,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0032,
+      "pnl_value": -0.0029,
+      "weight": 0.0984,
+      "rank": 30,
+      "atr": 0.0922,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": -0.0722,
+      "pnl_value": -0.0542,
+      "weight": 0.0815,
+      "rank": 88,
+      "atr": 0.1113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0731,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.0922,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 88,
+      "atr": 0.1113,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0055,
+    "cum_pnl": 8.1633,
+    "leverage": 0.3999,
+    "atr": 0.0363,
+    "marketcap_pnt": 0.2948,
+    "green_marketcap_pnt": 0
+  }
+}

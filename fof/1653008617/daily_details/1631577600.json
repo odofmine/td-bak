@@ -1,0 +1,262 @@
+{
+  "pnls": [
+    {
+      "name": "CELR",
+      "pnl": 0.2236,
+      "pnl_value": 0.4904,
+      "weight": 0.0173,
+      "rank": 128,
+      "atr": 0.1064,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TRX",
+      "pnl": 0.1301,
+      "pnl_value": 0.4206,
+      "weight": 0.0255,
+      "rank": 24,
+      "atr": 0.0723,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.0778,
+      "pnl_value": 0.1924,
+      "weight": 0.0195,
+      "rank": 91,
+      "atr": 0.0943,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": 0.0754,
+      "pnl_value": 0.2389,
+      "weight": 0.025,
+      "rank": 32,
+      "atr": 0.0738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.072,
+      "pnl_value": 0.1827,
+      "weight": 0.02,
+      "rank": 8,
+      "atr": 0.092,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": 0.0563,
+      "pnl_value": 0.1648,
+      "weight": 0.0231,
+      "rank": 43,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0336,
+      "pnl_value": 0.0741,
+      "weight": 0.0174,
+      "rank": 46,
+      "atr": 0.1058,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.008,
+      "pnl_value": -0.0218,
+      "weight": 0.0216,
+      "rank": 31,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AVAX",
+      "pnl": -0.0307,
+      "pnl_value": -0.0634,
+      "weight": 0.0163,
+      "rank": 14,
+      "atr": 0.113,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0401,
+      "pnl_value": -0.0925,
+      "weight": 0.0182,
+      "rank": 11,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": -0.045,
+      "pnl_value": -0.118,
+      "weight": 0.0207,
+      "rank": 25,
+      "atr": 0.0891,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": -0.0578,
+      "pnl_value": -0.1494,
+      "weight": 0.0204,
+      "rank": 15,
+      "atr": 0.0901,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0659,
+      "pnl_value": -0.142,
+      "weight": 0.017,
+      "rank": 58,
+      "atr": 0.1083,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.067,
+      "pnl_value": -0.1469,
+      "weight": 0.0173,
+      "rank": 117,
+      "atr": 0.1061,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TRX",
+      "rank": 24,
+      "atr": 0.0723,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 32,
+      "atr": 0.0738,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 43,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 31,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 25,
+      "atr": 0.0891,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 15,
+      "atr": 0.0901,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 8,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 91,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 11,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 46,
+      "atr": 0.1058,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 117,
+      "atr": 0.1061,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CELR",
+      "rank": 128,
+      "atr": 0.1064,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 58,
+      "atr": 0.1083,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 14,
+      "atr": 0.113,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0081,
+    "cum_pnl": 126.808,
+    "leverage": 0.2793,
+    "atr": 0.0258,
+    "marketcap_pnt": 0.0551,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.0242,
+      "pnl_value": 0.0002,
+      "weight": 0.0093,
+      "rank": 21,
+      "atr": 0.0569,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0188,
+      "pnl_value": 0.0002,
+      "weight": 0.0102,
+      "rank": 10,
+      "atr": 0.0516,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0097,
+      "pnl_value": -0.0001,
+      "weight": 0.0117,
+      "rank": 5,
+      "atr": 0.0451,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0112,
+      "pnl_value": -0.0001,
+      "weight": 0.0132,
+      "rank": 1,
+      "atr": 0.04,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0205,
+      "pnl_value": -0.0002,
+      "weight": 0.0095,
+      "rank": 6,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0246,
+      "pnl_value": -0.0002,
+      "weight": 0.0098,
+      "rank": 7,
+      "atr": 0.054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0347,
+      "pnl_value": -0.0003,
+      "weight": 0.0094,
+      "rank": 18,
+      "atr": 0.0562,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0403,
+      "pnl_value": -0.0003,
+      "weight": 0.0084,
+      "rank": 26,
+      "atr": 0.0629,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0428,
+      "pnl_value": -0.0004,
+      "weight": 0.0089,
+      "rank": 34,
+      "atr": 0.0591,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BEAM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.04,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0451,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 10,
+      "atr": 0.0516,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.054,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 18,
+      "atr": 0.0562,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.0569,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 34,
+      "atr": 0.0591,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 26,
+      "atr": 0.0629,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0014,
+    "cum_pnl": -0.0015,
+    "leverage": 0.0904,
+    "atr": 0.0048,
+    "marketcap_pnt": 0.7377,
+    "green_marketcap_pnt": 0
+  }
+}

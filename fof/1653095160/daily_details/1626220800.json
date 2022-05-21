@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.121,
+      "pnl_value": 32.424,
+      "weight": 0.0113,
+      "rank": 70,
+      "atr": 0.0785,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PHA",
+      "pnl": -0.0732,
+      "pnl_value": -15.2653,
+      "weight": 0.0088,
+      "rank": 184,
+      "atr": 0.1005,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FLOW",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LEO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AXS",
+      "rank": 70,
+      "atr": 0.0785,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PHA",
+      "rank": 184,
+      "atr": 0.1005,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 23722.7252,
+    "leverage": 0.0201,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

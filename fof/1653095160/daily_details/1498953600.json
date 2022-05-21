@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "PIVX",
+      "pnl": 0.1103,
+      "pnl_value": 0.0094,
+      "weight": 0.0094,
+      "rank": 45,
+      "atr": 0.1277,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GNO",
+      "pnl": 0.0812,
+      "pnl_value": 0.0095,
+      "weight": 0.0128,
+      "rank": 28,
+      "atr": 0.0941,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": -0.0069,
+      "pnl_value": -0.0008,
+      "weight": 0.0122,
+      "rank": 31,
+      "atr": 0.0986,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GNO",
+      "rank": 28,
+      "atr": 0.0941,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 31,
+      "atr": 0.0986,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 45,
+      "atr": 0.1277,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 8.1233,
+    "leverage": 0.0344,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.005,
+    "green_marketcap_pnt": 0
+  }
+}

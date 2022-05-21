@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "DAG",
+      "pnl": 0.1479,
+      "pnl_value": 40.4117,
+      "weight": 0.0115,
+      "rank": 193,
+      "atr": 0.1048,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.1093,
+      "pnl_value": 24.6787,
+      "weight": 0.0095,
+      "rank": 43,
+      "atr": 0.1271,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0038,
+      "pnl_value": -0.7824,
+      "weight": 0.0087,
+      "rank": 124,
+      "atr": 0.1378,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AMPL",
+      "pnl": -0.0336,
+      "pnl_value": -10.5357,
+      "weight": 0.0132,
+      "rank": 186,
+      "atr": 0.0914,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.034,
+      "pnl_value": -7.684,
+      "weight": 0.0095,
+      "rank": 173,
+      "atr": 0.1266,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0361,
+      "pnl_value": -7.9019,
+      "weight": 0.0092,
+      "rank": 139,
+      "atr": 0.1315,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": -0.0425,
+      "pnl_value": -8.8893,
+      "weight": 0.0088,
+      "rank": 121,
+      "atr": 0.1373,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "AMPL",
+      "rank": 186,
+      "atr": 0.0914,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DAG",
+      "rank": 193,
+      "atr": 0.1048,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1266,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1271,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 139,
+      "atr": 0.1315,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 121,
+      "atr": 0.1373,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.1378,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 23795.7072,
+    "leverage": 0.0704,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0025,
+    "green_marketcap_pnt": 0
+  }
+}

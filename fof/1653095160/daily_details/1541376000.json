@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": -0.0158,
+      "pnl_value": -0.022,
+      "weight": 0.0128,
+      "rank": 4,
+      "atr": 0.0549,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNM",
+      "pnl": -0.0172,
+      "pnl_value": -0.0138,
+      "weight": 0.0074,
+      "rank": 197,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.0173,
+      "pnl_value": -0.0177,
+      "weight": 0.0094,
+      "rank": 111,
+      "atr": 0.0744,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EDO",
+      "pnl": -0.0504,
+      "pnl_value": -0.0553,
+      "weight": 0.0101,
+      "rank": 125,
+      "atr": 0.0696,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BLZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QSP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MFT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0549,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 125,
+      "atr": 0.0696,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 111,
+      "atr": 0.0744,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 197,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.001,
+    "cum_pnl": 107.5556,
+    "leverage": 0.0397,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0481,
+    "green_marketcap_pnt": 0
+  }
+}

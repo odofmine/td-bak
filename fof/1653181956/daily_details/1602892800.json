@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "WAVES",
+      "pnl": 0.0792,
+      "pnl_value": 0.544,
+      "weight": 0.0066,
+      "rank": 57,
+      "atr": 0.0859,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": 0.0083,
+      "pnl_value": 0.0901,
+      "weight": 0.0104,
+      "rank": 7,
+      "atr": 0.0542,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0213,
+      "pnl_value": -0.304,
+      "weight": 0.0137,
+      "rank": 5,
+      "atr": 0.0414,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ABBC",
+      "pnl": -0.0369,
+      "pnl_value": -0.3646,
+      "weight": 0.0095,
+      "rank": 58,
+      "atr": 0.0592,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEXO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0414,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 7,
+      "atr": 0.0542,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ABBC",
+      "rank": 58,
+      "atr": 0.0592,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 57,
+      "atr": 0.0859,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 1039.087,
+    "leverage": 0.0402,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0253,
+    "green_marketcap_pnt": 0
+  }
+}

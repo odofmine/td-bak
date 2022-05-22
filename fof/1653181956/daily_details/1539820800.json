@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "GO",
+      "pnl": 0.0961,
+      "pnl_value": 0.0757,
+      "weight": 0.0072,
+      "rank": 149,
+      "atr": 0.1324,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0793,
+      "pnl_value": 0.0894,
+      "weight": 0.0103,
+      "rank": 92,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.024,
+      "pnl_value": 0.031,
+      "weight": 0.0118,
+      "rank": 52,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0432,
+      "pnl_value": -0.052,
+      "weight": 0.011,
+      "rank": 93,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BLZ",
+      "pnl": -0.048,
+      "pnl_value": -0.0504,
+      "weight": 0.0096,
+      "rank": 182,
+      "atr": 0.0994,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QSP",
+      "pnl": -0.053,
+      "pnl_value": -0.0533,
+      "weight": 0.0092,
+      "rank": 190,
+      "atr": 0.1045,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0574,
+      "pnl_value": -0.0691,
+      "weight": 0.011,
+      "rank": 116,
+      "atr": 0.0869,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0666,
+      "pnl_value": -0.0692,
+      "weight": 0.0095,
+      "rank": 194,
+      "atr": 0.1004,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 116,
+      "atr": 0.0869,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BLZ",
+      "rank": 182,
+      "atr": 0.0994,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 194,
+      "atr": 0.1004,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QSP",
+      "rank": 190,
+      "atr": 0.1045,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 149,
+      "atr": 0.1324,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0009,
+    "cum_pnl": 108.357,
+    "leverage": 0.0796,
+    "atr": 0.0077,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

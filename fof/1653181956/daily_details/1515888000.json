@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0185,
+      "pnl_value": -0.0541,
+      "weight": 0.0307,
+      "rank": 3,
+      "atr": 0.0713,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WGR",
+      "pnl": -0.0442,
+      "pnl_value": -0.0864,
+      "weight": 0.0205,
+      "rank": 185,
+      "atr": 0.107,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.0685,
+      "pnl_value": -0.1689,
+      "weight": 0.0259,
+      "rank": 160,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": -0.1017,
+      "pnl_value": -0.2024,
+      "weight": 0.0209,
+      "rank": 199,
+      "atr": 0.1049,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.1043,
+      "pnl_value": -0.157,
+      "weight": 0.0158,
+      "rank": 50,
+      "atr": 0.1388,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.1116,
+      "pnl_value": -0.2062,
+      "weight": 0.0194,
+      "rank": 94,
+      "atr": 0.1131,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WABI",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 3,
+      "atr": 0.0713,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 160,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 199,
+      "atr": 0.1049,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WGR",
+      "rank": 185,
+      "atr": 0.107,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 94,
+      "atr": 0.1131,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 50,
+      "atr": 0.1388,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0092,
+    "cum_pnl": 93.396,
+    "leverage": 0.1332,
+    "atr": 0.0132,
+    "marketcap_pnt": 0.1387,
+    "green_marketcap_pnt": 0
+  }
+}

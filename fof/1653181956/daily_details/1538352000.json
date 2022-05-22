@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "OCN",
+      "pnl": 0.4753,
+      "pnl_value": 0.7061,
+      "weight": 0.0133,
+      "rank": 102,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIP",
+      "pnl": 0.0278,
+      "pnl_value": 0.0202,
+      "weight": 0.0065,
+      "rank": 142,
+      "atr": 0.1385,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0009,
+      "pnl_value": -0.0007,
+      "weight": 0.0071,
+      "rank": 94,
+      "atr": 0.1263,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTG",
+      "pnl": -0.0166,
+      "pnl_value": -0.0239,
+      "weight": 0.0129,
+      "rank": 23,
+      "atr": 0.0704,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OCN",
+      "rank": 102,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0704,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1263,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIP",
+      "rank": 142,
+      "atr": 0.1385,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0063,
+    "cum_pnl": 111.4063,
+    "leverage": 0.0398,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": 0.1114,
+      "pnl_value": 0.0048,
+      "weight": 0.0186,
+      "rank": 30,
+      "atr": 0.134,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.0939,
+      "pnl_value": 0.0062,
+      "weight": 0.0283,
+      "rank": 65,
+      "atr": 0.0884,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": 0.0241,
+      "pnl_value": 0.0018,
+      "weight": 0.0315,
+      "rank": 37,
+      "atr": 0.0793,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0129,
+      "pnl_value": 0.0017,
+      "weight": 0.0552,
+      "rank": 1,
+      "atr": 0.0453,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0128,
+      "pnl_value": 0.001,
+      "weight": 0.0341,
+      "rank": 4,
+      "atr": 0.0734,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0166,
+      "pnl_value": -0.0012,
+      "weight": 0.0302,
+      "rank": 10,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.032,
+      "pnl_value": -0.0032,
+      "weight": 0.0427,
+      "rank": 6,
+      "atr": 0.0586,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0325,
+      "pnl_value": -0.0019,
+      "weight": 0.0256,
+      "rank": 9,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TIME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0453,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 6,
+      "atr": 0.0586,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 4,
+      "atr": 0.0734,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 37,
+      "atr": 0.0793,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 10,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.0884,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.134,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.004,
+    "cum_pnl": 1.3361,
+    "leverage": 0.2662,
+    "atr": 0.02,
+    "marketcap_pnt": 0.7133,
+    "green_marketcap_pnt": 0
+  }
+}

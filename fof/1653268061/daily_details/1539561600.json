@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "IOTX",
+      "pnl": 0.0976,
+      "pnl_value": 0.1079,
+      "weight": 0.0101,
+      "rank": 194,
+      "atr": 0.0985,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "MDA",
+      "pnl": 0.0592,
+      "pnl_value": 0.0784,
+      "weight": 0.0121,
+      "rank": 118,
+      "atr": 0.0819,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": 0.0308,
+      "pnl_value": 0.026,
+      "weight": 0.0077,
+      "rank": 133,
+      "atr": 0.1295,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MDA",
+      "rank": 118,
+      "atr": 0.0819,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 194,
+      "atr": 0.0985,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 133,
+      "atr": 0.1295,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0019,
+    "cum_pnl": 108.7622,
+    "leverage": 0.0299,
+    "atr": 0.003,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

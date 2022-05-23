@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "NXS",
+      "pnl": 0.0368,
+      "pnl_value": 0.0408,
+      "weight": 0.0098,
+      "rank": 105,
+      "atr": 0.1071,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0183,
+      "pnl_value": 0.0226,
+      "weight": 0.0109,
+      "rank": 53,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCN",
+      "pnl": 0.0118,
+      "pnl_value": 0.012,
+      "weight": 0.009,
+      "rank": 25,
+      "atr": 0.1169,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0015,
+      "pnl_value": 0.0019,
+      "weight": 0.0107,
+      "rank": 5,
+      "atr": 0.0975,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MFT",
+      "pnl": -0.0533,
+      "pnl_value": -0.0574,
+      "weight": 0.0095,
+      "rank": 200,
+      "atr": 0.1097,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0846,
+      "pnl_value": -0.1408,
+      "weight": 0.0147,
+      "rank": 12,
+      "atr": 0.0713,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.1057,
+      "pnl_value": -0.0598,
+      "weight": 0.005,
+      "rank": 52,
+      "atr": 0.2094,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 12,
+      "atr": 0.0713,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 53,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0975,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 105,
+      "atr": 0.1071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MFT",
+      "rank": 200,
+      "atr": 0.1097,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 25,
+      "atr": 0.1169,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 52,
+      "atr": 0.2094,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 112.0566,
+    "leverage": 0.0696,
+    "atr": 0.0073,
+    "marketcap_pnt": 0.0369,
+    "green_marketcap_pnt": 0
+  }
+}

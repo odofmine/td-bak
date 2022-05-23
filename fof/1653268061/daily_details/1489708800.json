@@ -1,0 +1,167 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.0881,
+      "pnl_value": 0.0105,
+      "weight": 0.0967,
+      "rank": 3,
+      "atr": 0.0726,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0291,
+      "pnl_value": 0.003,
+      "weight": 0.084,
+      "rank": 8,
+      "atr": 0.0836,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0184,
+      "pnl_value": -0.0025,
+      "weight": 0.1115,
+      "rank": 4,
+      "atr": 0.063,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0226,
+      "pnl_value": -0.0044,
+      "weight": 0.1568,
+      "rank": 2,
+      "atr": 0.0448,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0698,
+      "pnl_value": -0.0058,
+      "weight": 0.0678,
+      "rank": 20,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.1283,
+      "pnl_value": -0.0139,
+      "weight": 0.0879,
+      "rank": 13,
+      "atr": 0.0799,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.1651,
+      "pnl_value": -0.0255,
+      "weight": 0.1252,
+      "rank": 7,
+      "atr": 0.0561,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.1802,
+      "pnl_value": -0.0193,
+      "weight": 0.0867,
+      "rank": 9,
+      "atr": 0.081,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SDC",
+      "pnl": -0.4562,
+      "pnl_value": -0.0467,
+      "weight": 0.0829,
+      "rank": 18,
+      "atr": 0.0847,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0448,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0561,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0726,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0799,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.081,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0836,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 18,
+      "atr": 0.0847,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0847,
+    "cum_pnl": 0.1301,
+    "leverage": 0.8995,
+    "atr": 0.0632,
+    "marketcap_pnt": 0.1348,
+    "green_marketcap_pnt": 0
+  }
+}

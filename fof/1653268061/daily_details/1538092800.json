@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "OCN",
+      "pnl": 0.1798,
+      "pnl_value": 0.1923,
+      "weight": 0.0096,
+      "rank": 176,
+      "atr": 0.0878,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": 0.0142,
+      "pnl_value": 0.0198,
+      "weight": 0.0125,
+      "rank": 23,
+      "atr": 0.0678,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0023,
+      "pnl_value": -0.0026,
+      "weight": 0.01,
+      "rank": 59,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": -0.0073,
+      "pnl_value": -0.0067,
+      "weight": 0.0083,
+      "rank": 26,
+      "atr": 0.1019,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.014,
+      "pnl_value": -0.0111,
+      "weight": 0.0071,
+      "rank": 139,
+      "atr": 0.1187,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0213,
+      "pnl_value": -0.0338,
+      "weight": 0.0142,
+      "rank": 7,
+      "atr": 0.0596,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.0642,
+      "pnl_value": -0.0565,
+      "weight": 0.0079,
+      "rank": 38,
+      "atr": 0.1063,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 7,
+      "atr": 0.0596,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.0678,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 59,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCN",
+      "rank": 176,
+      "atr": 0.0878,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 26,
+      "atr": 0.1019,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.1063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 139,
+      "atr": 0.1187,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 110.5077,
+    "leverage": 0.0696,
+    "atr": 0.0059,
+    "marketcap_pnt": 0.0216,
+    "green_marketcap_pnt": 0
+  }
+}

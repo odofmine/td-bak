@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "WINGS",
+      "pnl": 0.4309,
+      "pnl_value": 0.0423,
+      "weight": 0.0139,
+      "rank": 52,
+      "atr": 0.1371,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": 0.2506,
+      "pnl_value": 0.0434,
+      "weight": 0.0245,
+      "rank": 36,
+      "atr": 0.0781,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "UBQ",
+      "pnl": 0.1587,
+      "pnl_value": 0.0245,
+      "weight": 0.0218,
+      "rank": 50,
+      "atr": 0.0878,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0347,
+      "pnl_value": -0.0061,
+      "weight": 0.0248,
+      "rank": 2,
+      "atr": 0.0771,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0771,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GBYTE",
+      "rank": 36,
+      "atr": 0.0781,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UBQ",
+      "rank": 50,
+      "atr": 0.0878,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WINGS",
+      "rank": 52,
+      "atr": 0.1371,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0147,
+    "cum_pnl": 6.1751,
+    "leverage": 0.085,
+    "atr": 0.0076,
+    "marketcap_pnt": 0.2182,
+    "green_marketcap_pnt": 0
+  }
+}

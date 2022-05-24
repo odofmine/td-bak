@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "HOT",
+      "pnl": 0.2218,
+      "pnl_value": 0.0877,
+      "weight": 0.0035,
+      "rank": 52,
+      "atr": 0.249,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.1232,
+      "pnl_value": 0.1183,
+      "weight": 0.0085,
+      "rank": 53,
+      "atr": 0.1035,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MFT",
+      "pnl": 0.0627,
+      "pnl_value": 0.0539,
+      "weight": 0.0076,
+      "rank": 200,
+      "atr": 0.1158,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCN",
+      "pnl": 0.0447,
+      "pnl_value": 0.0364,
+      "weight": 0.0072,
+      "rank": 25,
+      "atr": 0.122,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0206,
+      "pnl_value": 0.0282,
+      "weight": 0.0121,
+      "rank": 12,
+      "atr": 0.0726,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0043,
+      "pnl_value": -0.0097,
+      "weight": 0.0201,
+      "rank": 1,
+      "atr": 0.0438,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0256,
+      "pnl_value": -0.0263,
+      "weight": 0.0091,
+      "rank": 5,
+      "atr": 0.0964,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0274,
+      "pnl_value": -0.0353,
+      "weight": 0.0114,
+      "rank": 49,
+      "atr": 0.0769,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0438,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 12,
+      "atr": 0.0726,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 49,
+      "atr": 0.0769,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0964,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 53,
+      "atr": 0.1035,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MFT",
+      "rank": 200,
+      "atr": 0.1158,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 25,
+      "atr": 0.122,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 52,
+      "atr": 0.249,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0022,
+    "cum_pnl": 112.2373,
+    "leverage": 0.0795,
+    "atr": 0.007,
+    "marketcap_pnt": 0.576,
+    "green_marketcap_pnt": 0
+  }
+}

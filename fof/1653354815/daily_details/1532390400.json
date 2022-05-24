@@ -1,0 +1,51 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0878,
+      "pnl_value": 0.0999,
+      "weight": 0.01,
+      "rank": 1,
+      "atr": 0.044,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XWC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.044,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 112.8472,
+    "leverage": 0.01,
+    "atr": 0.0004,
+    "marketcap_pnt": 0.4645,
+    "green_marketcap_pnt": 0
+  }
+}

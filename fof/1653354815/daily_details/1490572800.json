@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BELA",
+      "pnl": 0.1637,
+      "pnl_value": 0.0017,
+      "weight": 0.0088,
+      "rank": 88,
+      "atr": 0.1298,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.1296,
+      "pnl_value": 0.0017,
+      "weight": 0.0112,
+      "rank": 17,
+      "atr": 0.1023,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0064,
+      "pnl_value": 0.0001,
+      "weight": 0.0146,
+      "rank": 4,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.0924,
+      "pnl_value": -0.0014,
+      "weight": 0.0127,
+      "rank": 53,
+      "atr": 0.0899,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.1133,
+      "pnl_value": -0.0013,
+      "weight": 0.0099,
+      "rank": 31,
+      "atr": 0.116,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 4,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 53,
+      "atr": 0.0899,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 17,
+      "atr": 0.1023,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 31,
+      "atr": 0.116,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 88,
+      "atr": 0.1298,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 0.1771,
+    "leverage": 0.0572,
+    "atr": 0.0057,
+    "marketcap_pnt": 0.0177,
+    "green_marketcap_pnt": 0
+  }
+}

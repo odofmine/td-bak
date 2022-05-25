@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "STX",
+      "pnl": -0.0586,
+      "pnl_value": -3.925,
+      "weight": 0.0101,
+      "rank": 92,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0665,
+      "pnl_value": -18.8647,
+      "weight": 0.0428,
+      "rank": 56,
+      "atr": 0.0255,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.1602,
+      "pnl_value": -11.4751,
+      "weight": 0.0108,
+      "rank": 132,
+      "atr": 0.1012,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AVA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 56,
+      "atr": 0.0255,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 132,
+      "atr": 0.1012,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 92,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0052,
+    "cum_pnl": 6595.6427,
+    "leverage": 0.0637,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

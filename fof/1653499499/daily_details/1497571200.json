@@ -1,0 +1,68 @@
+{
+  "pnls": [
+    {
+      "name": "POT",
+      "pnl": 0.1331,
+      "pnl_value": 0.11,
+      "weight": 0.0902,
+      "rank": 88,
+      "atr": 0.122,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0288,
+      "pnl_value": -0.029,
+      "weight": 0.1097,
+      "rank": 30,
+      "atr": 0.1003,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.1003,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 88,
+      "atr": 0.122,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0088,
+    "cum_pnl": 8.2443,
+    "leverage": 0.1999,
+    "atr": 0.022,
+    "marketcap_pnt": 0.0018,
+    "green_marketcap_pnt": 0
+  }
+}

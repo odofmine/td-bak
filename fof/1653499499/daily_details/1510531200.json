@@ -1,0 +1,139 @@
+{
+  "pnls": [
+    {
+      "name": "BTX",
+      "pnl": 0.3082,
+      "pnl_value": 0.2587,
+      "weight": 0.059,
+      "rank": 53,
+      "atr": 0.1632,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0804,
+      "pnl_value": 0.1079,
+      "weight": 0.0943,
+      "rank": 11,
+      "atr": 0.1021,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0014,
+      "pnl_value": 0.0023,
+      "weight": 0.1167,
+      "rank": 7,
+      "atr": 0.0825,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": -0.0044,
+      "pnl_value": -0.005,
+      "weight": 0.0786,
+      "rank": 9,
+      "atr": 0.1225,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.1474,
+      "pnl_value": -0.317,
+      "weight": 0.1512,
+      "rank": 5,
+      "atr": 0.0637,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LBC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 5,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 7,
+      "atr": 0.0825,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 11,
+      "atr": 0.1021,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 9,
+      "atr": 0.1225,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 53,
+      "atr": 0.1632,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0033,
+    "cum_pnl": 13.2698,
+    "leverage": 0.4998,
+    "atr": 0.0481,
+    "marketcap_pnt": 0.0481,
+    "green_marketcap_pnt": 0
+  }
+}

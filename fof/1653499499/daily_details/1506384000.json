@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "TRST",
+      "pnl": 0.107,
+      "pnl_value": 0.0115,
+      "weight": 0.0089,
+      "rank": 105,
+      "atr": 0.1573,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EMC2",
+      "pnl": -0.0125,
+      "pnl_value": -0.0017,
+      "weight": 0.0112,
+      "rank": 167,
+      "atr": 0.1257,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EMC2",
+      "rank": 167,
+      "atr": 0.1257,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 105,
+      "atr": 0.1573,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 11.1177,
+    "leverage": 0.0201,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0003,
+    "green_marketcap_pnt": 0
+  }
+}

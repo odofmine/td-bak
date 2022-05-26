@@ -1,0 +1,187 @@
+{
+  "pnls": [
+    {
+      "name": "EXP",
+      "pnl": 0.1956,
+      "pnl_value": 0.0392,
+      "weight": 0.1011,
+      "rank": 90,
+      "atr": 0.1004,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.1322,
+      "pnl_value": 0.0312,
+      "weight": 0.119,
+      "rank": 20,
+      "atr": 0.0853,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.1094,
+      "pnl_value": 0.0218,
+      "weight": 0.1006,
+      "rank": 52,
+      "atr": 0.1009,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": 0.0876,
+      "pnl_value": 0.0187,
+      "weight": 0.1074,
+      "rank": 54,
+      "atr": 0.0945,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAUT",
+      "pnl": 0.0791,
+      "pnl_value": 0.0138,
+      "weight": 0.0881,
+      "rank": 98,
+      "atr": 0.1152,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": 0.0727,
+      "pnl_value": 0.0119,
+      "weight": 0.0825,
+      "rank": 44,
+      "atr": 0.1231,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0276,
+      "pnl_value": 0.0049,
+      "weight": 0.0891,
+      "rank": 38,
+      "atr": 0.1139,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0303,
+      "pnl_value": -0.0077,
+      "weight": 0.1272,
+      "rank": 8,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LBC",
+      "pnl": -0.0709,
+      "pnl_value": -0.0119,
+      "weight": 0.0844,
+      "rank": 86,
+      "atr": 0.1202,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XCP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.0853,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 54,
+      "atr": 0.0945,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 90,
+      "atr": 0.1004,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 52,
+      "atr": 0.1009,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 38,
+      "atr": 0.1139,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAUT",
+      "rank": 98,
+      "atr": 0.1152,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 86,
+      "atr": 0.1202,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 44,
+      "atr": 0.1231,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0615,
+    "cum_pnl": 1.1045,
+    "leverage": 0.8994,
+    "atr": 0.0913,
+    "marketcap_pnt": 0.0097,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": -0.0023,
+      "pnl_value": -0.0001,
+      "weight": 0.0244,
+      "rank": 2,
+      "atr": 0.048,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0577,
+      "pnl_value": -0.0011,
+      "weight": 0.02,
+      "rank": 8,
+      "atr": 0.0586,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.048,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0586,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0012,
+    "cum_pnl": -0.0185,
+    "leverage": 0.0444,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0582,
+    "green_marketcap_pnt": 0
+  }
+}

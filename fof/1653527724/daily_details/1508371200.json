@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1986,
+      "pnl_value": 0.2622,
+      "weight": 0.1046,
+      "rank": 82,
+      "atr": 0.116,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0299,
+      "pnl_value": -0.0293,
+      "weight": 0.0776,
+      "rank": 69,
+      "atr": 0.1564,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0893,
+      "pnl_value": -0.1326,
+      "weight": 0.1177,
+      "rank": 116,
+      "atr": 0.1031,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PIVX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEBL",
+      "rank": 116,
+      "atr": 0.1031,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.116,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 69,
+      "atr": 0.1564,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0079,
+    "cum_pnl": 11.7201,
+    "leverage": 0.2999,
+    "atr": 0.0364,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

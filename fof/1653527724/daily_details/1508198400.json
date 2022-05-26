@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "NEBL",
+      "pnl": 0.2111,
+      "pnl_value": 0.1618,
+      "weight": 0.0613,
+      "rank": 116,
+      "atr": 0.1352,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0255,
+      "pnl_value": -0.0277,
+      "weight": 0.0871,
+      "rank": 25,
+      "atr": 0.0951,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0279,
+      "pnl_value": -0.0606,
+      "weight": 0.1738,
+      "rank": 1,
+      "atr": 0.0477,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0334,
+      "pnl_value": -0.0299,
+      "weight": 0.0716,
+      "rank": 82,
+      "atr": 0.1157,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0521,
+      "pnl_value": -0.0489,
+      "weight": 0.0751,
+      "rank": 30,
+      "atr": 0.1103,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0541,
+      "pnl_value": -0.0864,
+      "weight": 0.1277,
+      "rank": 2,
+      "atr": 0.0649,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.086,
+      "pnl_value": -0.1109,
+      "weight": 0.1031,
+      "rank": 5,
+      "atr": 0.0804,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0477,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0649,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0804,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 25,
+      "atr": 0.0951,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 30,
+      "atr": 0.1103,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 82,
+      "atr": 0.1157,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 116,
+      "atr": 0.1352,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0162,
+    "cum_pnl": 11.3033,
+    "leverage": 0.6997,
+    "atr": 0.058,
+    "marketcap_pnt": 0.7573,
+    "green_marketcap_pnt": 0
+  }
+}

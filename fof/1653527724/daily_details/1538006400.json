@@ -1,0 +1,78 @@
+{
+  "pnls": [
+    {
+      "name": "OCN",
+      "pnl": 0.1544,
+      "pnl_value": 0.1803,
+      "weight": 0.0105,
+      "rank": 176,
+      "atr": 0.0984,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STEEM",
+      "pnl": 0.0403,
+      "pnl_value": 0.0421,
+      "weight": 0.0094,
+      "rank": 38,
+      "atr": 0.109,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XLM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OCN",
+      "rank": 176,
+      "atr": 0.0984,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 38,
+      "atr": 0.109,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.002,
+    "cum_pnl": 110.4063,
+    "leverage": 0.0199,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0013,
+    "green_marketcap_pnt": 0
+  }
+}

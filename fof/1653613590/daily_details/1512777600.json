@@ -1,0 +1,256 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.2445,
+      "pnl_value": 1.5054,
+      "weight": 0.1389,
+      "rank": 6,
+      "atr": 0.0646,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.037,
+      "pnl_value": 0.1685,
+      "weight": 0.1027,
+      "rank": 23,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.0461,
+      "pnl_value": -0.1415,
+      "weight": 0.0692,
+      "rank": 101,
+      "atr": 0.1296,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0475,
+      "pnl_value": -0.1971,
+      "weight": 0.0935,
+      "rank": 43,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0585,
+      "pnl_value": -0.1824,
+      "weight": 0.0703,
+      "rank": 37,
+      "atr": 0.1276,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0753,
+      "pnl_value": -0.5791,
+      "weight": 0.1735,
+      "rank": 1,
+      "atr": 0.0517,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRW",
+      "pnl": -0.0787,
+      "pnl_value": -0.2655,
+      "weight": 0.0761,
+      "rank": 189,
+      "atr": 0.1178,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": -0.0805,
+      "pnl_value": -0.2665,
+      "weight": 0.0747,
+      "rank": 127,
+      "atr": 0.12,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": -0.0848,
+      "pnl_value": -0.4398,
+      "weight": 0.1169,
+      "rank": 8,
+      "atr": 0.0767,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.1364,
+      "pnl_value": -0.5063,
+      "weight": 0.0837,
+      "rank": 35,
+      "atr": 0.1072,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "MONA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0517,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0646,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 8,
+      "atr": 0.0767,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 23,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 43,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 35,
+      "atr": 0.1072,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CRW",
+      "rank": 189,
+      "atr": 0.1178,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 127,
+      "atr": 0.12,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 37,
+      "atr": 0.1276,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 101,
+      "atr": 0.1296,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 28,
+      "atr": 0.1302,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 87,
+      "atr": 0.1369,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AST",
+      "rank": 149,
+      "atr": 0.137,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCN",
+      "rank": 32,
+      "atr": 0.1379,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ION",
+      "rank": 180,
+      "atr": 0.152,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 105,
+      "atr": 0.1817,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0204,
+    "cum_pnl": 42.4324,
+    "leverage": 0.9995,
+    "atr": 0.0897,
+    "marketcap_pnt": 0.6011,
+    "green_marketcap_pnt": 0
+  }
+}

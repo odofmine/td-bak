@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EMC2",
+      "pnl": 0.0448,
+      "pnl_value": 0.0042,
+      "weight": 0.0078,
+      "rank": 185,
+      "atr": 0.1804,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRW",
+      "pnl": -0.0441,
+      "pnl_value": -0.005,
+      "weight": 0.0094,
+      "rank": 130,
+      "atr": 0.1504,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1168,
+      "pnl_value": -0.0183,
+      "weight": 0.0129,
+      "rank": 77,
+      "atr": 0.1096,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "IOC",
+      "rank": 77,
+      "atr": 0.1096,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRW",
+      "rank": 130,
+      "atr": 0.1504,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC2",
+      "rank": 185,
+      "atr": 0.1804,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0016,
+    "cum_pnl": 11.1121,
+    "leverage": 0.0301,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0006,
+    "green_marketcap_pnt": 0
+  }
+}

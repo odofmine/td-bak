@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "KCS",
+      "pnl": 0.0391,
+      "pnl_value": 0.0997,
+      "weight": 0.0095,
+      "rank": 64,
+      "atr": 0.077,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": -0.009,
+      "pnl_value": -0.0201,
+      "weight": 0.0083,
+      "rank": 20,
+      "atr": 0.0883,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BZ",
+      "pnl": -0.0134,
+      "pnl_value": -0.0488,
+      "weight": 0.0136,
+      "rank": 185,
+      "atr": 0.054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NRG",
+      "pnl": -0.0658,
+      "pnl_value": -0.1552,
+      "weight": 0.0088,
+      "rank": 71,
+      "atr": 0.0829,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "THETA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BZ",
+      "rank": 185,
+      "atr": 0.054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 64,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NRG",
+      "rank": 71,
+      "atr": 0.0829,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 20,
+      "atr": 0.0883,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 266.9009,
+    "leverage": 0.0402,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

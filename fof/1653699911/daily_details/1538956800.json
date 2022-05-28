@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "EDO",
+      "pnl": 0.0962,
+      "pnl_value": 0.0965,
+      "weight": 0.009,
+      "rank": 158,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SALT",
+      "pnl": 0.0347,
+      "pnl_value": 0.0243,
+      "weight": 0.0063,
+      "rank": 119,
+      "atr": 0.1259,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": 0.0169,
+      "pnl_value": 0.0175,
+      "weight": 0.0093,
+      "rank": 164,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0123,
+      "pnl_value": 0.0123,
+      "weight": 0.009,
+      "rank": 35,
+      "atr": 0.0892,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0028,
+      "pnl_value": -0.0051,
+      "weight": 0.0161,
+      "rank": 14,
+      "atr": 0.0497,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QKC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 14,
+      "atr": 0.0497,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 164,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 158,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 35,
+      "atr": 0.0892,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 119,
+      "atr": 0.1259,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 110.6026,
+    "leverage": 0.0497,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

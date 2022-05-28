@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "NANO",
+      "pnl": 0.022,
+      "pnl_value": 0.0005,
+      "weight": 0.0177,
+      "rank": 62,
+      "atr": 0.0798,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0143,
+      "pnl_value": -0.0003,
+      "weight": 0.0166,
+      "rank": 134,
+      "atr": 0.085,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1241,
+      "pnl_value": -0.0033,
+      "weight": 0.0201,
+      "rank": 43,
+      "atr": 0.07,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 43,
+      "atr": 0.07,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 62,
+      "atr": 0.0798,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 134,
+      "atr": 0.085,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 0.3068,
+    "leverage": 0.0544,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.0015,
+    "green_marketcap_pnt": 0
+  }
+}

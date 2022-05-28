@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": -0.073,
+      "pnl_value": -0.0122,
+      "weight": 0.0136,
+      "rank": 39,
+      "atr": 0.1131,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OMG",
+      "pnl": -0.0755,
+      "pnl_value": -0.012,
+      "weight": 0.0129,
+      "rank": 12,
+      "atr": 0.119,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MTL",
+      "rank": 39,
+      "atr": 0.1131,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OMG",
+      "rank": 12,
+      "atr": 0.119,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.002,
+    "cum_pnl": 11.2398,
+    "leverage": 0.0265,
+    "atr": 0.0031,
+    "marketcap_pnt": 0.0076,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.1778,
+      "pnl_value": 0.0174,
+      "weight": 0.0081,
+      "rank": 93,
+      "atr": 0.123,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": -0.0193,
+      "pnl_value": -0.0028,
+      "weight": 0.012,
+      "rank": 3,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 93,
+      "atr": 0.123,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 11.0702,
+    "leverage": 0.0201,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0539,
+    "green_marketcap_pnt": 0
+  }
+}

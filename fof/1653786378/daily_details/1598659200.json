@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "SC",
+      "pnl": 0.0835,
+      "pnl_value": 0.0023,
+      "weight": 0.0102,
+      "rank": 82,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0399,
+      "pnl_value": 0.0022,
+      "weight": 0.0197,
+      "rank": 57,
+      "atr": 0.0428,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEND",
+      "pnl": -0.0306,
+      "pnl_value": -0.0008,
+      "weight": 0.0099,
+      "rank": 30,
+      "atr": 0.0849,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 57,
+      "atr": 0.0428,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 82,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LEND",
+      "rank": 30,
+      "atr": 0.0849,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0013,
+    "cum_pnl": 1.7451,
+    "leverage": 0.0398,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0034,
+    "green_marketcap_pnt": 0
+  }
+}

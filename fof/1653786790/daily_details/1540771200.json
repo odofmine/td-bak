@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0339,
+      "pnl_value": 0.0366,
+      "weight": 0.0099,
+      "rank": 56,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNM",
+      "pnl": -0.0241,
+      "pnl_value": -0.0261,
+      "weight": 0.0099,
+      "rank": 198,
+      "atr": 0.0861,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SLS",
+      "pnl": -0.0338,
+      "pnl_value": -0.0321,
+      "weight": 0.0087,
+      "rank": 197,
+      "atr": 0.0986,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0437,
+      "pnl_value": -0.0582,
+      "weight": 0.0122,
+      "rank": 50,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0725,
+      "pnl_value": -0.0791,
+      "weight": 0.01,
+      "rank": 133,
+      "atr": 0.0854,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.1095,
+      "pnl_value": -0.1076,
+      "weight": 0.009,
+      "rank": 167,
+      "atr": 0.0946,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MFT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 133,
+      "atr": 0.0854,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 198,
+      "atr": 0.0861,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 167,
+      "atr": 0.0946,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SLS",
+      "rank": 197,
+      "atr": 0.0986,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0024,
+    "cum_pnl": 107.9023,
+    "leverage": 0.0597,
+    "atr": 0.0051,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

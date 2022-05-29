@@ -1,0 +1,224 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0441,
+      "pnl_value": 8.824,
+      "weight": 0.1956,
+      "rank": 1,
+      "atr": 0.0279,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "AMPL",
+      "pnl": 0.0229,
+      "pnl_value": 0.6893,
+      "weight": 0.0294,
+      "rank": 77,
+      "atr": 0.1856,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": 0.0226,
+      "pnl_value": 3.387,
+      "weight": 0.1463,
+      "rank": 44,
+      "atr": 0.0373,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0188,
+      "pnl_value": 2.4083,
+      "weight": 0.1252,
+      "rank": 8,
+      "atr": 0.0436,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.017,
+      "pnl_value": 1.0191,
+      "weight": 0.0585,
+      "rank": 6,
+      "atr": 0.0932,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0078,
+      "pnl_value": 1.8355,
+      "weight": 0.2294,
+      "rank": 21,
+      "atr": 0.0238,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": -0.0064,
+      "pnl_value": -0.4926,
+      "weight": 0.0756,
+      "rank": 9,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRB",
+      "pnl": -0.0068,
+      "pnl_value": -0.2164,
+      "weight": 0.031,
+      "rank": 155,
+      "atr": 0.1759,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "VGX",
+      "pnl": -0.03,
+      "pnl_value": -1.5718,
+      "weight": 0.0513,
+      "rank": 166,
+      "atr": 0.1063,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ADX",
+      "pnl": -0.0825,
+      "pnl_value": -4.8266,
+      "weight": 0.0572,
+      "rank": 199,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BSV",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NRG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 21,
+      "atr": 0.0238,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0279,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTT",
+      "rank": 44,
+      "atr": 0.0373,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 8,
+      "atr": 0.0436,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0932,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADX",
+      "rank": 199,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VGX",
+      "rank": 166,
+      "atr": 0.1063,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TRB",
+      "rank": 155,
+      "atr": 0.1759,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AMPL",
+      "rank": 77,
+      "atr": 0.1856,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0108,
+    "cum_pnl": 1032.6136,
+    "leverage": 0.9995,
+    "atr": 0.0546,
+    "marketcap_pnt": 0.652,
+    "green_marketcap_pnt": 0
+  }
+}

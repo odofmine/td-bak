@@ -1,0 +1,85 @@
+{
+  "pnls": [
+    {
+      "name": "CVC",
+      "pnl": 0.0156,
+      "pnl_value": 0.0185,
+      "weight": 0.0109,
+      "rank": 114,
+      "atr": 0.072,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SNM",
+      "pnl": -0.0289,
+      "pnl_value": -0.0289,
+      "weight": 0.0092,
+      "rank": 198,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BLZ",
+      "pnl": -0.0339,
+      "pnl_value": -0.0358,
+      "weight": 0.0097,
+      "rank": 185,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QSP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CVC",
+      "rank": 114,
+      "atr": 0.072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BLZ",
+      "rank": 185,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNM",
+      "rank": 198,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 107.8713,
+    "leverage": 0.0298,
+    "atr": 0.0023,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

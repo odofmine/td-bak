@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": 0.0999,
+      "pnl_value": 0.0274,
+      "weight": 0.1243,
+      "rank": 7,
+      "atr": 0.0679,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0783,
+      "pnl_value": 0.0193,
+      "weight": 0.1118,
+      "rank": 5,
+      "atr": 0.0755,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TIME",
+      "pnl": 0.0663,
+      "pnl_value": 0.0096,
+      "weight": 0.0659,
+      "rank": 66,
+      "atr": 0.1281,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0475,
+      "pnl_value": 0.0102,
+      "weight": 0.097,
+      "rank": 11,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": 0.0161,
+      "pnl_value": 0.0035,
+      "weight": 0.0995,
+      "rank": 41,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0066,
+      "pnl_value": 0.0026,
+      "weight": 0.1788,
+      "rank": 1,
+      "atr": 0.0472,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0053,
+      "pnl_value": 0.0011,
+      "weight": 0.0977,
+      "rank": 8,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BLK",
+      "pnl": -0.0163,
+      "pnl_value": -0.0029,
+      "weight": 0.0805,
+      "rank": 61,
+      "atr": 0.1048,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": -0.0433,
+      "pnl_value": -0.0083,
+      "weight": 0.0872,
+      "rank": 65,
+      "atr": 0.0968,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": -0.0678,
+      "pnl_value": -0.0085,
+      "weight": 0.0568,
+      "rank": 62,
+      "atr": 0.1486,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0472,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0679,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0755,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 41,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 11,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.0968,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BLK",
+      "rank": 61,
+      "atr": 0.1048,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 66,
+      "atr": 0.1281,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 62,
+      "atr": 0.1486,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 33,
+      "atr": 0.1565,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0245,
+    "cum_pnl": 1.2579,
+    "leverage": 0.9995,
+    "atr": 0.0844,
+    "marketcap_pnt": 0.7097,
+    "green_marketcap_pnt": 0
+  }
+}

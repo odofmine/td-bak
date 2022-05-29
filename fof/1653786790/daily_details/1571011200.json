@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MDA",
+      "pnl": 0.1485,
+      "pnl_value": 0.3062,
+      "weight": 0.0079,
+      "rank": 186,
+      "atr": 0.1231,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.1145,
+      "pnl_value": 0.4215,
+      "weight": 0.0141,
+      "rank": 38,
+      "atr": 0.069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0926,
+      "pnl_value": 0.186,
+      "weight": 0.0077,
+      "rank": 100,
+      "atr": 0.1267,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.0193,
+      "pnl_value": 0.0529,
+      "weight": 0.0105,
+      "rank": 125,
+      "atr": 0.0922,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 125,
+      "atr": 0.0922,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MDA",
+      "rank": 186,
+      "atr": 0.1231,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 100,
+      "atr": 0.1267,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0037,
+    "cum_pnl": 260.9183,
+    "leverage": 0.0402,
+    "atr": 0.0039,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

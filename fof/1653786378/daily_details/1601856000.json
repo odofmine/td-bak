@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "MKR",
+      "pnl": -0.0065,
+      "pnl_value": -0.0002,
+      "weight": 0.0096,
+      "rank": 36,
+      "atr": 0.088,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0121,
+      "pnl_value": -0.0004,
+      "weight": 0.0119,
+      "rank": 5,
+      "atr": 0.0712,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0263,
+      "pnl_value": -0.0006,
+      "weight": 0.0086,
+      "rank": 62,
+      "atr": 0.0983,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 5,
+      "atr": 0.0712,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MKR",
+      "rank": 36,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 62,
+      "atr": 0.0983,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 1.6077,
+    "leverage": 0.0301,
+    "atr": 0.0025,
+    "marketcap_pnt": 0.0147,
+    "green_marketcap_pnt": 0
+  }
+}

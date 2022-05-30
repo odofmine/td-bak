@@ -1,0 +1,201 @@
+{
+  "pnls": [
+    {
+      "name": "DAG",
+      "pnl": 0.3072,
+      "pnl_value": 87.6896,
+      "weight": 0.012,
+      "rank": 193,
+      "atr": 0.0976,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FLOW",
+      "pnl": 0.2275,
+      "pnl_value": 49.2494,
+      "weight": 0.0091,
+      "rank": 106,
+      "atr": 0.1284,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": 0.0736,
+      "pnl_value": 18.3844,
+      "weight": 0.0105,
+      "rank": 173,
+      "atr": 0.1112,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STX",
+      "pnl": 0.0434,
+      "pnl_value": 10.627,
+      "weight": 0.0103,
+      "rank": 70,
+      "atr": 0.1137,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ALPHA",
+      "pnl": 0.0177,
+      "pnl_value": 2.6126,
+      "weight": 0.0062,
+      "rank": 176,
+      "atr": 0.1889,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": 0.0063,
+      "pnl_value": 1.9948,
+      "weight": 0.0133,
+      "rank": 97,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0028,
+      "pnl_value": -1.0865,
+      "weight": 0.0166,
+      "rank": 45,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0243,
+      "pnl_value": -5.9649,
+      "weight": 0.0103,
+      "rank": 41,
+      "atr": 0.1137,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0286,
+      "pnl_value": -5.3072,
+      "weight": 0.0078,
+      "rank": 28,
+      "atr": 0.1486,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0401,
+      "pnl_value": -7.3404,
+      "weight": 0.0077,
+      "rank": 71,
+      "atr": 0.1523,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STORJ",
+      "pnl": -0.0459,
+      "pnl_value": -7.5317,
+      "weight": 0.0069,
+      "rank": 135,
+      "atr": 0.1678,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 45,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 97,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DAG",
+      "rank": 193,
+      "atr": 0.0976,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1112,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 41,
+      "atr": 0.1137,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 70,
+      "atr": 0.1137,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FLOW",
+      "rank": 106,
+      "atr": 0.1284,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 28,
+      "atr": 0.1486,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 71,
+      "atr": 0.1523,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STORJ",
+      "rank": 135,
+      "atr": 0.1678,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ALPHA",
+      "rank": 176,
+      "atr": 0.1889,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.006,
+    "cum_pnl": 23933.3048,
+    "leverage": 0.1107,
+    "atr": 0.0129,
+    "marketcap_pnt": 0.0083,
+    "green_marketcap_pnt": 0
+  }
+}

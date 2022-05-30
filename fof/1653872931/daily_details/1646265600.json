@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "UMA",
+      "pnl": 0.1405,
+      "pnl_value": 0.1636,
+      "weight": 0.0066,
+      "rank": 153,
+      "atr": 0.1235,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0558,
+      "pnl_value": 0.0788,
+      "weight": 0.008,
+      "rank": 20,
+      "atr": 0.1024,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.024,
+      "pnl_value": 0.0403,
+      "weight": 0.0095,
+      "rank": 66,
+      "atr": 0.0865,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0018,
+      "pnl_value": 0.0033,
+      "weight": 0.0104,
+      "rank": 144,
+      "atr": 0.0788,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": -0.0193,
+      "pnl_value": -0.034,
+      "weight": 0.01,
+      "rank": 8,
+      "atr": 0.0823,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0328,
+      "pnl_value": -0.0873,
+      "weight": 0.0151,
+      "rank": 1,
+      "atr": 0.0547,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "API3",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0547,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 144,
+      "atr": 0.0788,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 8,
+      "atr": 0.0823,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 66,
+      "atr": 0.0865,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.1024,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UMA",
+      "rank": 153,
+      "atr": 0.1235,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 175.6016,
+    "leverage": 0.0596,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.4448,
+    "green_marketcap_pnt": 0
+  }
+}

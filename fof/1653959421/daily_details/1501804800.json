@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "MIOTA",
+      "pnl": 0.1862,
+      "pnl_value": 0.0191,
+      "weight": 0.0113,
+      "rank": 8,
+      "atr": 0.1386,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.0792,
+      "pnl_value": 0.0073,
+      "weight": 0.0101,
+      "rank": 59,
+      "atr": 0.1559,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XDN",
+      "pnl": -0.0051,
+      "pnl_value": -0.0004,
+      "weight": 0.0082,
+      "rank": 91,
+      "atr": 0.1913,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXT",
+      "pnl": -0.0504,
+      "pnl_value": -0.0046,
+      "weight": 0.01,
+      "rank": 44,
+      "atr": 0.157,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": -0.0793,
+      "pnl_value": -0.0077,
+      "weight": 0.0107,
+      "rank": 92,
+      "atr": 0.1468,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MIOTA",
+      "rank": 8,
+      "atr": 0.1386,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 92,
+      "atr": 0.1468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 59,
+      "atr": 0.1559,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXT",
+      "rank": 44,
+      "atr": 0.157,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XDN",
+      "rank": 91,
+      "atr": 0.1913,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0015,
+    "cum_pnl": 8.0916,
+    "leverage": 0.0503,
+    "atr": 0.0079,
+    "marketcap_pnt": 0.0101,
+    "green_marketcap_pnt": 0
+  }
+}

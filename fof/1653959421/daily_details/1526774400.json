@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.04,
+      "pnl_value": 0.0525,
+      "weight": 0.0114,
+      "rank": 39,
+      "atr": 0.0773,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0198,
+      "pnl_value": 0.0237,
+      "weight": 0.0104,
+      "rank": 25,
+      "atr": 0.0843,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XAS",
+      "pnl": -0.0239,
+      "pnl_value": -0.0284,
+      "weight": 0.0103,
+      "rank": 169,
+      "atr": 0.0856,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0355,
+      "pnl_value": -0.0351,
+      "weight": 0.0086,
+      "rank": 121,
+      "atr": 0.1021,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.0773,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 25,
+      "atr": 0.0843,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XAS",
+      "rank": 169,
+      "atr": 0.0856,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 121,
+      "atr": 0.1021,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 114.0322,
+    "leverage": 0.0407,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.0048,
+    "green_marketcap_pnt": 0
+  }
+}

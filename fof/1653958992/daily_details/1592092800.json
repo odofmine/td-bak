@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "BNT",
+      "pnl": 0.0092,
+      "pnl_value": 0.0002,
+      "weight": 0.0174,
+      "rank": 134,
+      "atr": 0.0863,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0008,
+      "pnl_value": 0.0,
+      "weight": 0.0204,
+      "rank": 199,
+      "atr": 0.0737,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0101,
+      "pnl_value": -0.0003,
+      "weight": 0.026,
+      "rank": 195,
+      "atr": 0.058,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0108,
+      "pnl_value": -0.0002,
+      "weight": 0.0171,
+      "rank": 97,
+      "atr": 0.0882,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAT",
+      "pnl": -0.0612,
+      "pnl_value": -0.0015,
+      "weight": 0.0186,
+      "rank": 165,
+      "atr": 0.081,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.0751,
+      "pnl_value": -0.0022,
+      "weight": 0.0224,
+      "rank": 110,
+      "atr": 0.0671,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STX",
+      "pnl": -0.1215,
+      "pnl_value": -0.0028,
+      "weight": 0.0178,
+      "rank": 115,
+      "atr": 0.0846,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NANO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ERD",
+      "rank": 195,
+      "atr": 0.058,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 110,
+      "atr": 0.0671,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 199,
+      "atr": 0.0737,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 165,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STX",
+      "rank": 115,
+      "atr": 0.0846,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 134,
+      "atr": 0.0863,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 97,
+      "atr": 0.0882,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0053,
+    "cum_pnl": 0.2999,
+    "leverage": 0.1397,
+    "atr": 0.0105,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

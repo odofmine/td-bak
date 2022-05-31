@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "CHSB",
+      "pnl": 0.2189,
+      "pnl_value": 7.7524,
+      "weight": 0.0199,
+      "rank": 100,
+      "atr": 0.0774,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.1183,
+      "pnl_value": 4.4835,
+      "weight": 0.0213,
+      "rank": 35,
+      "atr": 0.0721,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XHV",
+      "pnl": 0.0912,
+      "pnl_value": 2.7252,
+      "weight": 0.0168,
+      "rank": 166,
+      "atr": 0.0912,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRAC",
+      "pnl": 0.0888,
+      "pnl_value": 1.7854,
+      "weight": 0.0113,
+      "rank": 133,
+      "atr": 0.1361,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0531,
+      "pnl_value": 2.9019,
+      "weight": 0.0307,
+      "rank": 14,
+      "atr": 0.0501,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CKB",
+      "pnl": 0.0467,
+      "pnl_value": 1.9013,
+      "weight": 0.0229,
+      "rank": 105,
+      "atr": 0.0672,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0467,
+      "pnl_value": 1.2795,
+      "weight": 0.0154,
+      "rank": 49,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": -0.0338,
+      "pnl_value": -0.9452,
+      "weight": 0.0157,
+      "rank": 42,
+      "atr": 0.0979,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.0454,
+      "pnl_value": -1.7536,
+      "weight": 0.0217,
+      "rank": 192,
+      "atr": 0.071,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NOIA",
+      "pnl": -0.1074,
+      "pnl_value": -3.4596,
+      "weight": 0.0181,
+      "rank": 123,
+      "atr": 0.0847,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.1075,
+      "pnl_value": -5.1242,
+      "weight": 0.0268,
+      "rank": 64,
+      "atr": 0.0574,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.1559,
+      "pnl_value": -6.5756,
+      "weight": 0.0237,
+      "rank": 104,
+      "atr": 0.065,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 14,
+      "atr": 0.0501,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 64,
+      "atr": 0.0574,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 104,
+      "atr": 0.065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CKB",
+      "rank": 105,
+      "atr": 0.0672,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 192,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 35,
+      "atr": 0.0721,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 100,
+      "atr": 0.0774,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NOIA",
+      "rank": 123,
+      "atr": 0.0847,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XHV",
+      "rank": 166,
+      "atr": 0.0912,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 42,
+      "atr": 0.0979,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 49,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRAC",
+      "rank": 133,
+      "atr": 0.1361,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 1783.3918,
+    "leverage": 0.2443,
+    "atr": 0.0184,
+    "marketcap_pnt": 0.0092,
+    "green_marketcap_pnt": 0
+  }
+}

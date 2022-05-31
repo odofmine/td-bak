@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "RNT",
+      "pnl": 0.4262,
+      "pnl_value": 0.5149,
+      "weight": 0.012,
+      "rank": 161,
+      "atr": 0.0843,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MGO",
+      "pnl": -0.0144,
+      "pnl_value": -0.0114,
+      "weight": 0.0079,
+      "rank": 73,
+      "atr": 0.1269,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "RNT",
+      "rank": 161,
+      "atr": 0.0843,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MGO",
+      "rank": 73,
+      "atr": 0.1269,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.005,
+    "cum_pnl": 100.1837,
+    "leverage": 0.0199,
+    "atr": 0.002,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

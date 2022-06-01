@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": 0.0752,
+      "pnl_value": 0.0013,
+      "weight": 0.0181,
+      "rank": 8,
+      "atr": 0.0641,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0072,
+      "pnl_value": 0.0002,
+      "weight": 0.0247,
+      "rank": 6,
+      "atr": 0.0472,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0146,
+      "pnl_value": -0.0003,
+      "weight": 0.0237,
+      "rank": 2,
+      "atr": 0.0492,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0331,
+      "pnl_value": -0.0006,
+      "weight": 0.0185,
+      "rank": 5,
+      "atr": 0.063,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0472,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0492,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 5,
+      "atr": 0.063,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0641,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": -0.0179,
+    "leverage": 0.085,
+    "atr": 0.0047,
+    "marketcap_pnt": 0.0737,
+    "green_marketcap_pnt": 0
+  }
+}

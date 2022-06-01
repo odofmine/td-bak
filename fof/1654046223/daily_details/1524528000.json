@@ -1,0 +1,400 @@
+{
+  "pnls": [
+    {
+      "name": "EOS",
+      "pnl": 0.3003,
+      "pnl_value": 3.0243,
+      "weight": 0.0948,
+      "rank": 5,
+      "atr": 0.0852,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0971,
+      "pnl_value": 0.8958,
+      "weight": 0.0869,
+      "rank": 72,
+      "atr": 0.0929,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SMT",
+      "pnl": 0.0952,
+      "pnl_value": 1.0726,
+      "weight": 0.1061,
+      "rank": 149,
+      "atr": 0.0761,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.092,
+      "pnl_value": 0.9783,
+      "weight": 0.1001,
+      "rank": 2,
+      "atr": 0.0807,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.056,
+      "pnl_value": 0.6089,
+      "weight": 0.1023,
+      "rank": 24,
+      "atr": 0.0789,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RUFF",
+      "pnl": 0.0556,
+      "pnl_value": 0.5405,
+      "weight": 0.0916,
+      "rank": 161,
+      "atr": 0.0882,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0389,
+      "pnl_value": 0.467,
+      "weight": 0.1129,
+      "rank": 12,
+      "atr": 0.0715,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": 0.0,
+      "pnl_value": 0.0,
+      "weight": 0.086,
+      "rank": 9,
+      "atr": 0.0939,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0232,
+      "pnl_value": -0.2919,
+      "weight": 0.1186,
+      "rank": 4,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ABT",
+      "pnl": -0.0355,
+      "pnl_value": -0.3782,
+      "weight": 0.1002,
+      "rank": 133,
+      "atr": 0.0806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 12,
+      "atr": 0.0715,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SMT",
+      "rank": 149,
+      "atr": 0.0761,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 24,
+      "atr": 0.0789,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ABT",
+      "rank": 133,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0807,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0852,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RUFF",
+      "rank": 161,
+      "atr": 0.0882,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 72,
+      "atr": 0.0929,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 9,
+      "atr": 0.0939,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QTUM",
+      "rank": 18,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 54,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0961,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DTA",
+      "rank": 174,
+      "atr": 0.0967,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 17,
+      "atr": 0.0979,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GAS",
+      "rank": 73,
+      "atr": 0.1006,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HPB",
+      "rank": 146,
+      "atr": 0.1027,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 62,
+      "atr": 0.1028,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 58,
+      "atr": 0.1039,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 132,
+      "atr": 0.1069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 156,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 137,
+      "atr": 0.1075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 21,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 187,
+      "atr": 0.1092,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.1102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QASH",
+      "rank": 68,
+      "atr": 0.117,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 191,
+      "atr": 0.1198,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTG",
+      "rank": 23,
+      "atr": 0.1204,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 150,
+      "atr": 0.1209,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 107,
+      "atr": 0.1249,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 55,
+      "atr": 0.1315,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 138,
+      "atr": 0.1375,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DBC",
+      "rank": 109,
+      "atr": 0.1403,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TNB",
+      "rank": 131,
+      "atr": 0.1561,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NANO",
+      "rank": 28,
+      "atr": 0.1576,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 108,
+      "atr": 0.1976,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 52,
+      "atr": 0.2405,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0651,
+    "cum_pnl": 112.1335,
+    "leverage": 0.9995,
+    "atr": 0.0808,
+    "marketcap_pnt": 0.27,
+    "green_marketcap_pnt": 0
+  }
+}

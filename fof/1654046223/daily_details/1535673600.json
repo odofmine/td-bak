@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0215,
+      "pnl_value": 0.0155,
+      "weight": 0.0064,
+      "rank": 47,
+      "atr": 0.1242,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.004,
+      "pnl_value": 0.0077,
+      "weight": 0.0169,
+      "rank": 1,
+      "atr": 0.0472,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0147,
+      "pnl_value": -0.0183,
+      "weight": 0.011,
+      "rank": 52,
+      "atr": 0.0725,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0592,
+      "pnl_value": -0.0368,
+      "weight": 0.0055,
+      "rank": 149,
+      "atr": 0.1432,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0472,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETP",
+      "rank": 52,
+      "atr": 0.0725,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 47,
+      "atr": 0.1242,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 149,
+      "atr": 0.1432,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 112.0243,
+    "leverage": 0.0398,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.5485,
+    "green_marketcap_pnt": 0
+  }
+}

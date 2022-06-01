@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "NEBL",
+      "pnl": 0.1418,
+      "pnl_value": 0.1392,
+      "weight": 0.009,
+      "rank": 165,
+      "atr": 0.0914,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GO",
+      "pnl": 0.056,
+      "pnl_value": 0.0501,
+      "weight": 0.0082,
+      "rank": 158,
+      "atr": 0.0996,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0235,
+      "pnl_value": 0.0267,
+      "weight": 0.0104,
+      "rank": 135,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0155,
+      "pnl_value": -0.0183,
+      "weight": 0.0108,
+      "rank": 36,
+      "atr": 0.0759,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SALT",
+      "pnl": -0.0242,
+      "pnl_value": -0.0206,
+      "weight": 0.0078,
+      "rank": 98,
+      "atr": 0.1054,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EDO",
+      "pnl": -0.0394,
+      "pnl_value": -0.0438,
+      "weight": 0.0102,
+      "rank": 143,
+      "atr": 0.08,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0438,
+      "pnl_value": -0.0492,
+      "weight": 0.0103,
+      "rank": 42,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0551,
+      "pnl_value": -0.068,
+      "weight": 0.0113,
+      "rank": 52,
+      "atr": 0.0728,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MFT",
+      "pnl": -0.0736,
+      "pnl_value": -0.0698,
+      "weight": 0.0087,
+      "rank": 174,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0779,
+      "pnl_value": -0.1096,
+      "weight": 0.0129,
+      "rank": 28,
+      "atr": 0.0634,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 28,
+      "atr": 0.0634,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0728,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 36,
+      "atr": 0.0759,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 135,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 42,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 143,
+      "atr": 0.08,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 165,
+      "atr": 0.0914,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MFT",
+      "rank": 174,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 158,
+      "atr": 0.0996,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 98,
+      "atr": 0.1054,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0015,
+    "cum_pnl": 107.9092,
+    "leverage": 0.0996,
+    "atr": 0.0082,
+    "marketcap_pnt": 0.0057,
+    "green_marketcap_pnt": 0
+  }
+}

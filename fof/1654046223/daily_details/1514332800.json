@@ -1,0 +1,228 @@
+{
+  "pnls": [
+    {
+      "name": "DCT",
+      "pnl": 0.6664,
+      "pnl_value": 0.7945,
+      "weight": 0.0147,
+      "rank": 168,
+      "atr": 0.1763,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.2759,
+      "pnl_value": 0.4676,
+      "weight": 0.0209,
+      "rank": 101,
+      "atr": 0.1243,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QRL",
+      "pnl": 0.126,
+      "pnl_value": 0.1349,
+      "weight": 0.0132,
+      "rank": 135,
+      "atr": 0.1965,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.101,
+      "pnl_value": 0.199,
+      "weight": 0.0243,
+      "rank": 57,
+      "atr": 0.1069,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ION",
+      "pnl": 0.0196,
+      "pnl_value": 0.031,
+      "weight": 0.0195,
+      "rank": 185,
+      "atr": 0.1328,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0196,
+      "pnl_value": -0.0383,
+      "weight": 0.0241,
+      "rank": 39,
+      "atr": 0.1076,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0225,
+      "pnl_value": -0.0537,
+      "weight": 0.0294,
+      "rank": 21,
+      "atr": 0.0884,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SAN",
+      "pnl": -0.0351,
+      "pnl_value": -0.0759,
+      "weight": 0.0267,
+      "rank": 55,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0505,
+      "pnl_value": -0.1011,
+      "weight": 0.0247,
+      "rank": 34,
+      "atr": 0.1053,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PAY",
+      "pnl": -0.0528,
+      "pnl_value": -0.0813,
+      "weight": 0.019,
+      "rank": 47,
+      "atr": 0.1367,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WGR",
+      "pnl": -0.0833,
+      "pnl_value": -0.1858,
+      "weight": 0.0275,
+      "rank": 159,
+      "atr": 0.0944,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXT",
+      "pnl": -0.1533,
+      "pnl_value": -0.2748,
+      "weight": 0.0221,
+      "rank": 20,
+      "atr": 0.1176,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ANT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARDR",
+      "rank": 21,
+      "atr": 0.0884,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WGR",
+      "rank": 159,
+      "atr": 0.0944,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SAN",
+      "rank": 55,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 34,
+      "atr": 0.1053,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 57,
+      "atr": 0.1069,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 39,
+      "atr": 0.1076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXT",
+      "rank": 20,
+      "atr": 0.1176,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 101,
+      "atr": 0.1243,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ION",
+      "rank": 185,
+      "atr": 0.1328,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PAY",
+      "rank": 47,
+      "atr": 0.1367,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCT",
+      "rank": 168,
+      "atr": 0.1763,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QRL",
+      "rank": 135,
+      "atr": 0.1965,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0101,
+    "cum_pnl": 80.9149,
+    "leverage": 0.2661,
+    "atr": 0.0312,
+    "marketcap_pnt": 0.0127,
+    "green_marketcap_pnt": 0
+  }
+}

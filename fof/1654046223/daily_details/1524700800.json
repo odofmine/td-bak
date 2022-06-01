@@ -1,0 +1,230 @@
+{
+  "pnls": [
+    {
+      "name": "IOST",
+      "pnl": 0.1643,
+      "pnl_value": 1.3007,
+      "weight": 0.0866,
+      "rank": 54,
+      "atr": 0.11,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DTA",
+      "pnl": 0.1424,
+      "pnl_value": 0.9414,
+      "weight": 0.0723,
+      "rank": 174,
+      "atr": 0.1316,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.1188,
+      "pnl_value": 1.6715,
+      "weight": 0.1539,
+      "rank": 35,
+      "atr": 0.0619,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.1181,
+      "pnl_value": 0.8985,
+      "weight": 0.0832,
+      "rank": 83,
+      "atr": 0.1145,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.1019,
+      "pnl_value": 1.0931,
+      "weight": 0.1174,
+      "rank": 4,
+      "atr": 0.0811,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0945,
+      "pnl_value": 0.9014,
+      "weight": 0.1043,
+      "rank": 48,
+      "atr": 0.0913,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DBC",
+      "pnl": 0.0871,
+      "pnl_value": 0.4899,
+      "weight": 0.0615,
+      "rank": 109,
+      "atr": 0.1547,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0678,
+      "pnl_value": 0.7459,
+      "weight": 0.1204,
+      "rank": 5,
+      "atr": 0.0791,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SYS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RUFF",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SMT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0619,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0791,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0811,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0913,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 54,
+      "atr": 0.11,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.1145,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DTA",
+      "rank": 174,
+      "atr": 0.1316,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DBC",
+      "rank": 109,
+      "atr": 0.1547,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.088,
+    "cum_pnl": 98.4473,
+    "leverage": 0.7996,
+    "atr": 0.0762,
+    "marketcap_pnt": 0.0837,
+    "green_marketcap_pnt": 0
+  }
+}

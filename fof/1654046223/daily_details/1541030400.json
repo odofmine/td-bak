@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0224,
+      "pnl_value": 0.0253,
+      "weight": 0.0104,
+      "rank": 56,
+      "atr": 0.084,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DENT",
+      "pnl": -0.0055,
+      "pnl_value": -0.0054,
+      "weight": 0.009,
+      "rank": 126,
+      "atr": 0.097,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0327,
+      "pnl_value": -0.0373,
+      "weight": 0.0105,
+      "rank": 60,
+      "atr": 0.0826,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 60,
+      "atr": 0.0826,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.084,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DENT",
+      "rank": 126,
+      "atr": 0.097,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 107.7997,
+    "leverage": 0.0299,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

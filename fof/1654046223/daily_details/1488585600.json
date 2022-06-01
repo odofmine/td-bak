@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.0954,
+      "pnl_value": 0.0088,
+      "weight": 0.0818,
+      "rank": 9,
+      "atr": 0.0718,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.0063,
+      "pnl_value": -0.0007,
+      "weight": 0.0969,
+      "rank": 7,
+      "atr": 0.0606,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0148,
+      "pnl_value": -0.0029,
+      "weight": 0.1712,
+      "rank": 1,
+      "atr": 0.0343,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0186,
+      "pnl_value": -0.0019,
+      "weight": 0.0883,
+      "rank": 6,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.0362,
+      "pnl_value": -0.0022,
+      "weight": 0.0535,
+      "rank": 10,
+      "atr": 0.1096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0447,
+      "pnl_value": -0.0062,
+      "weight": 0.1223,
+      "rank": 2,
+      "atr": 0.048,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0928,
+      "pnl_value": -0.009,
+      "weight": 0.0857,
+      "rank": 4,
+      "atr": 0.0685,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0343,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.048,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0606,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 6,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 4,
+      "atr": 0.0685,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 9,
+      "atr": 0.0718,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 10,
+      "atr": 0.1096,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0124,
+    "cum_pnl": 0.1188,
+    "leverage": 0.6997,
+    "atr": 0.0411,
+    "marketcap_pnt": 0.9509,
+    "green_marketcap_pnt": 0
+  }
+}

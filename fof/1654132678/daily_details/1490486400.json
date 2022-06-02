@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.499,
+      "pnl_value": 0.0081,
+      "weight": 0.0139,
+      "rank": 18,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.3998,
+      "pnl_value": 0.0053,
+      "weight": 0.0114,
+      "rank": 64,
+      "atr": 0.1051,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XRP",
+      "pnl": 0.0552,
+      "pnl_value": 0.0009,
+      "weight": 0.0146,
+      "rank": 5,
+      "atr": 0.082,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XRP",
+      "rank": 5,
+      "atr": 0.082,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 18,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 64,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0123,
+    "cum_pnl": 0.1763,
+    "leverage": 0.0399,
+    "atr": 0.0036,
+    "marketcap_pnt": 0.0121,
+    "green_marketcap_pnt": 0
+  }
+}

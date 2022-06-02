@@ -1,0 +1,126 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": 0.1114,
+      "pnl_value": 0.0139,
+      "weight": 0.0885,
+      "rank": 147,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0294,
+      "pnl_value": -0.004,
+      "weight": 0.0963,
+      "rank": 56,
+      "atr": 0.0821,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "HBAR",
+      "pnl": -0.0358,
+      "pnl_value": -0.0038,
+      "weight": 0.0762,
+      "rank": 47,
+      "atr": 0.1038,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0403,
+      "pnl_value": -0.006,
+      "weight": 0.1057,
+      "rank": 94,
+      "atr": 0.0748,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HOT",
+      "pnl": -0.0865,
+      "pnl_value": -0.0136,
+      "weight": 0.1111,
+      "rank": 79,
+      "atr": 0.0712,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.1491,
+      "pnl_value": -0.0256,
+      "weight": 0.1219,
+      "rank": 97,
+      "atr": 0.0649,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZIL",
+      "rank": 97,
+      "atr": 0.0649,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HOT",
+      "rank": 79,
+      "atr": 0.0712,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 94,
+      "atr": 0.0748,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 56,
+      "atr": 0.0821,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 147,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HBAR",
+      "rank": 47,
+      "atr": 0.1038,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0278,
+    "cum_pnl": 0.3719,
+    "leverage": 0.5997,
+    "atr": 0.0475,
+    "marketcap_pnt": 0.0021,
+    "green_marketcap_pnt": 0
+  }
+}

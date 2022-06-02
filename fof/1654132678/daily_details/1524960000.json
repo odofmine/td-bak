@@ -1,0 +1,215 @@
+{
+  "pnls": [
+    {
+      "name": "ONT",
+      "pnl": 0.3167,
+      "pnl_value": 3.91,
+      "weight": 0.113,
+      "rank": 49,
+      "atr": 0.0698,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.14,
+      "pnl_value": 1.7565,
+      "weight": 0.1148,
+      "rank": 5,
+      "atr": 0.0687,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.1356,
+      "pnl_value": 1.342,
+      "weight": 0.0906,
+      "rank": 83,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POA",
+      "pnl": 0.0646,
+      "pnl_value": 0.6624,
+      "weight": 0.0939,
+      "rank": 128,
+      "atr": 0.084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": 0.029,
+      "pnl_value": 0.2719,
+      "weight": 0.0859,
+      "rank": 54,
+      "atr": 0.0918,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0262,
+      "pnl_value": -0.4014,
+      "weight": 0.1401,
+      "rank": 35,
+      "atr": 0.0563,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0277,
+      "pnl_value": -0.2813,
+      "weight": 0.0929,
+      "rank": 74,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0287,
+      "pnl_value": -0.2724,
+      "weight": 0.0868,
+      "rank": 120,
+      "atr": 0.0909,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": -0.0332,
+      "pnl_value": -0.3069,
+      "weight": 0.0847,
+      "rank": 21,
+      "atr": 0.0931,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0496,
+      "pnl_value": -0.5243,
+      "weight": 0.0967,
+      "rank": 48,
+      "atr": 0.0816,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0563,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.0687,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 49,
+      "atr": 0.0698,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0816,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POA",
+      "rank": 128,
+      "atr": 0.084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 120,
+      "atr": 0.0909,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 54,
+      "atr": 0.0918,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 21,
+      "atr": 0.0931,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 137,
+      "atr": 0.0935,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 150,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 55,
+      "atr": 0.1145,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0563,
+    "cum_pnl": 114.4149,
+    "leverage": 0.9994,
+    "atr": 0.0789,
+    "marketcap_pnt": 0.0349,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "IOTX",
+      "pnl": 0.2615,
+      "pnl_value": 0.2527,
+      "weight": 0.0089,
+      "rank": 196,
+      "atr": 0.1021,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": 0.1186,
+      "pnl_value": 0.1327,
+      "weight": 0.0103,
+      "rank": 165,
+      "atr": 0.0886,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MFT",
+      "pnl": 0.101,
+      "pnl_value": 0.0943,
+      "weight": 0.0086,
+      "rank": 174,
+      "atr": 0.1065,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0554,
+      "pnl_value": 0.0745,
+      "weight": 0.0124,
+      "rank": 50,
+      "atr": 0.0735,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GO",
+      "pnl": 0.0183,
+      "pnl_value": 0.0188,
+      "weight": 0.0095,
+      "rank": 158,
+      "atr": 0.096,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WTC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "REP",
+      "rank": 50,
+      "atr": 0.0735,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEBL",
+      "rank": 165,
+      "atr": 0.0886,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 158,
+      "atr": 0.096,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 196,
+      "atr": 0.1021,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MFT",
+      "rank": 174,
+      "atr": 0.1065,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0053,
+    "cum_pnl": 108.1689,
+    "leverage": 0.0497,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

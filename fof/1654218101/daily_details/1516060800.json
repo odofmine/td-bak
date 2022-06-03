@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": -0.188,
+      "pnl_value": -0.3109,
+      "weight": 0.0176,
+      "rank": 56,
+      "atr": 0.1519,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.2315,
+      "pnl_value": -0.3372,
+      "weight": 0.0155,
+      "rank": 110,
+      "atr": 0.1726,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.233,
+      "pnl_value": -0.4859,
+      "weight": 0.0222,
+      "rank": 94,
+      "atr": 0.1201,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GAS",
+      "pnl": -0.3094,
+      "pnl_value": -0.811,
+      "weight": 0.0279,
+      "rank": 52,
+      "atr": 0.0958,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NLG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "WGR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "GAS",
+      "rank": 52,
+      "atr": 0.0958,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 94,
+      "atr": 0.1201,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.1519,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 110,
+      "atr": 0.1726,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0207,
+    "cum_pnl": 91.0054,
+    "leverage": 0.0832,
+    "atr": 0.0107,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "pnls": [
+    {
+      "name": "SALT",
+      "pnl": 0.2226,
+      "pnl_value": 0.2041,
+      "weight": 0.0084,
+      "rank": 122,
+      "atr": 0.1126,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EDO",
+      "pnl": 0.0619,
+      "pnl_value": 0.0696,
+      "weight": 0.0103,
+      "rank": 154,
+      "atr": 0.092,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CVC",
+      "pnl": 0.0463,
+      "pnl_value": 0.0546,
+      "weight": 0.0108,
+      "rank": 120,
+      "atr": 0.0876,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0244,
+      "pnl_value": 0.0311,
+      "weight": 0.0117,
+      "rank": 52,
+      "atr": 0.0815,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QSP",
+      "pnl": 0.0139,
+      "pnl_value": 0.014,
+      "weight": 0.0092,
+      "rank": 190,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": 0.0054,
+      "pnl_value": 0.0069,
+      "weight": 0.0117,
+      "rank": 91,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GO",
+      "pnl": -0.0041,
+      "pnl_value": -0.0036,
+      "weight": 0.008,
+      "rank": 149,
+      "atr": 0.1182,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": -0.0082,
+      "pnl_value": -0.0092,
+      "weight": 0.0102,
+      "rank": 92,
+      "atr": 0.0931,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ELA",
+      "pnl": -0.0158,
+      "pnl_value": -0.018,
+      "weight": 0.0104,
+      "rank": 93,
+      "atr": 0.0916,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "OCN",
+      "pnl": -0.0502,
+      "pnl_value": -0.0482,
+      "weight": 0.0088,
+      "rank": 105,
+      "atr": 0.1073,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STORJ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0815,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "POWR",
+      "rank": 91,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 120,
+      "atr": 0.0876,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 93,
+      "atr": 0.0916,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 154,
+      "atr": 0.092,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 92,
+      "atr": 0.0931,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QSP",
+      "rank": 190,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OCN",
+      "rank": 105,
+      "atr": 0.1073,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 122,
+      "atr": 0.1126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GO",
+      "rank": 149,
+      "atr": 0.1182,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 108.4442,
+    "leverage": 0.0995,
+    "atr": 0.0095,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

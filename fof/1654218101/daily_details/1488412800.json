@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.1099,
+      "pnl_value": 0.0086,
+      "weight": 0.0723,
+      "rank": 9,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.0872,
+      "pnl_value": 0.0116,
+      "weight": 0.1221,
+      "rank": 2,
+      "atr": 0.0444,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0172,
+      "pnl_value": 0.002,
+      "weight": 0.1054,
+      "rank": 4,
+      "atr": 0.0514,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0444,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 4,
+      "atr": 0.0514,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 9,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0204,
+    "cum_pnl": 0.1085,
+    "leverage": 0.2998,
+    "atr": 0.0163,
+    "marketcap_pnt": 0.0712,
+    "green_marketcap_pnt": 0
+  }
+}

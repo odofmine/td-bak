@@ -1,0 +1,241 @@
+{
+  "pnls": [
+    {
+      "name": "ELA",
+      "pnl": -0.1181,
+      "pnl_value": -0.1199,
+      "weight": 0.0091,
+      "rank": 95,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAS",
+      "pnl": -0.1277,
+      "pnl_value": -0.1468,
+      "weight": 0.0103,
+      "rank": 84,
+      "atr": 0.0884,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.1312,
+      "pnl_value": -0.1683,
+      "weight": 0.0115,
+      "rank": 118,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EDO",
+      "pnl": -0.1455,
+      "pnl_value": -0.1818,
+      "weight": 0.0112,
+      "rank": 158,
+      "atr": 0.0811,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ARK",
+      "pnl": -0.1516,
+      "pnl_value": -0.1606,
+      "weight": 0.0095,
+      "rank": 85,
+      "atr": 0.0962,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GTO",
+      "pnl": -0.1525,
+      "pnl_value": -0.1514,
+      "weight": 0.0089,
+      "rank": 135,
+      "atr": 0.1025,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "CVC",
+      "pnl": -0.1533,
+      "pnl_value": -0.171,
+      "weight": 0.01,
+      "rank": 121,
+      "atr": 0.0906,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.1664,
+      "pnl_value": -0.1819,
+      "weight": 0.0098,
+      "rank": 92,
+      "atr": 0.0932,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.1808,
+      "pnl_value": -0.2219,
+      "weight": 0.011,
+      "rank": 43,
+      "atr": 0.0827,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.1828,
+      "pnl_value": -0.1794,
+      "weight": 0.0088,
+      "rank": 59,
+      "atr": 0.1032,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BLZ",
+      "pnl": -0.2131,
+      "pnl_value": -0.221,
+      "weight": 0.0093,
+      "rank": 172,
+      "atr": 0.0982,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NEBL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "SALT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QKC",
+      "rank": 118,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 158,
+      "atr": 0.0811,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 43,
+      "atr": 0.0827,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 84,
+      "atr": 0.0884,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CVC",
+      "rank": 121,
+      "atr": 0.0906,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 92,
+      "atr": 0.0932,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 85,
+      "atr": 0.0962,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BLZ",
+      "rank": 172,
+      "atr": 0.0982,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ELA",
+      "rank": 95,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 135,
+      "atr": 0.1025,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 59,
+      "atr": 0.1032,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0171,
+    "cum_pnl": 108.6524,
+    "leverage": 0.1094,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0035,
+    "green_marketcap_pnt": 0
+  }
+}

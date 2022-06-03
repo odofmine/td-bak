@@ -1,0 +1,112 @@
+{
+  "pnls": [
+    {
+      "name": "KSM",
+      "pnl": 0.1408,
+      "pnl_value": 0.0411,
+      "weight": 0.0935,
+      "rank": 45,
+      "atr": 0.0901,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.1307,
+      "pnl_value": 0.0203,
+      "weight": 0.0497,
+      "rank": 66,
+      "atr": 0.1693,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NPXS",
+      "pnl": 0.018,
+      "pnl_value": 0.0078,
+      "weight": 0.139,
+      "rank": 165,
+      "atr": 0.0606,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTT",
+      "pnl": 0.0138,
+      "pnl_value": 0.0051,
+      "weight": 0.1176,
+      "rank": 53,
+      "atr": 0.0716,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NPXS",
+      "rank": 165,
+      "atr": 0.0606,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTT",
+      "rank": 53,
+      "atr": 0.0716,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 45,
+      "atr": 0.0901,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 66,
+      "atr": 0.1693,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0238,
+    "cum_pnl": 2.1929,
+    "leverage": 0.3998,
+    "atr": 0.0337,
+    "marketcap_pnt": 0.0019,
+    "green_marketcap_pnt": 0
+  }
+}

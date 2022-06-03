@@ -1,0 +1,177 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.4425,
+      "pnl_value": 0.8019,
+      "weight": 0.1278,
+      "rank": 6,
+      "atr": 0.0757,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": 0.12,
+      "pnl_value": 0.0904,
+      "weight": 0.0531,
+      "rank": 65,
+      "atr": 0.182,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0348,
+      "pnl_value": 0.0596,
+      "weight": 0.1209,
+      "rank": 9,
+      "atr": 0.08,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": 0.0245,
+      "pnl_value": 0.0526,
+      "weight": 0.1514,
+      "rank": 3,
+      "atr": 0.0639,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.0466,
+      "pnl_value": -0.0558,
+      "weight": 0.0845,
+      "rank": 17,
+      "atr": 0.1145,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": -0.0603,
+      "pnl_value": -0.0731,
+      "weight": 0.0855,
+      "rank": 11,
+      "atr": 0.1131,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LBC",
+      "pnl": -0.186,
+      "pnl_value": -0.1624,
+      "weight": 0.0616,
+      "rank": 174,
+      "atr": 0.157,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.1898,
+      "pnl_value": -0.1973,
+      "weight": 0.0733,
+      "rank": 48,
+      "atr": 0.1319,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.2355,
+      "pnl_value": -0.4722,
+      "weight": 0.1414,
+      "rank": 10,
+      "atr": 0.0684,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BCH",
+      "rank": 3,
+      "atr": 0.0639,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 10,
+      "atr": 0.0684,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0757,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.08,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 11,
+      "atr": 0.1131,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 17,
+      "atr": 0.1145,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 48,
+      "atr": 0.1319,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 174,
+      "atr": 0.157,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 65,
+      "atr": 0.182,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 13.2229,
+    "leverage": 0.8995,
+    "atr": 0.087,
+    "marketcap_pnt": 0.0858,
+    "green_marketcap_pnt": 0
+  }
+}

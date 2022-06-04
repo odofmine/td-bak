@@ -1,0 +1,160 @@
+{
+  "pnls": [
+    {
+      "name": "TOMO",
+      "pnl": 0.1288,
+      "pnl_value": 27.5215,
+      "weight": 0.009,
+      "rank": 173,
+      "atr": 0.1213,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DAG",
+      "pnl": 0.1224,
+      "pnl_value": 28.1797,
+      "weight": 0.0097,
+      "rank": 193,
+      "atr": 0.1128,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0492,
+      "pnl_value": 16.815,
+      "weight": 0.0144,
+      "rank": 45,
+      "atr": 0.0763,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KCS",
+      "pnl": -0.0387,
+      "pnl_value": -12.5045,
+      "weight": 0.0136,
+      "rank": 97,
+      "atr": 0.0806,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0602,
+      "pnl_value": -11.8617,
+      "weight": 0.0083,
+      "rank": 43,
+      "atr": 0.1321,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GLM",
+      "pnl": -0.0696,
+      "pnl_value": -13.7148,
+      "weight": 0.0083,
+      "rank": 121,
+      "atr": 0.1325,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EGLD",
+      "pnl": -0.0733,
+      "pnl_value": -14.7847,
+      "weight": 0.0085,
+      "rank": 57,
+      "atr": 0.1289,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0888,
+      "pnl_value": -18.3377,
+      "weight": 0.0087,
+      "rank": 124,
+      "atr": 0.126,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MLN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 45,
+      "atr": 0.0763,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KCS",
+      "rank": 97,
+      "atr": 0.0806,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DAG",
+      "rank": 193,
+      "atr": 0.1128,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 173,
+      "atr": 0.1213,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.126,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EGLD",
+      "rank": 57,
+      "atr": 0.1289,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1321,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GLM",
+      "rank": 121,
+      "atr": 0.1325,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 23743.6565,
+    "leverage": 0.0805,
+    "atr": 0.0088,
+    "marketcap_pnt": 0.0054,
+    "green_marketcap_pnt": 0
+  }
+}

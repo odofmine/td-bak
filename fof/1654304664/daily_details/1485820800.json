@@ -1,0 +1,82 @@
+{
+  "pnls": [
+    {
+      "name": "MAID",
+      "pnl": 0.0389,
+      "pnl_value": 0.0039,
+      "weight": 0.0995,
+      "rank": 8,
+      "atr": 0.0719,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": 0.0088,
+      "pnl_value": 0.0011,
+      "weight": 0.1291,
+      "rank": 7,
+      "atr": 0.0554,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0158,
+      "pnl_value": -0.0013,
+      "weight": 0.0799,
+      "rank": 10,
+      "atr": 0.0895,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0229,
+      "pnl_value": -0.0021,
+      "weight": 0.0912,
+      "rank": 13,
+      "atr": 0.0784,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 7,
+      "atr": 0.0554,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 8,
+      "atr": 0.0719,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 13,
+      "atr": 0.0784,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 10,
+      "atr": 0.0895,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0017,
+    "cum_pnl": -0.0011,
+    "leverage": 0.3997,
+    "atr": 0.0286,
+    "marketcap_pnt": 0.0142,
+    "green_marketcap_pnt": 0
+  }
+}

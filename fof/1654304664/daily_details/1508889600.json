@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "FLO",
+      "pnl": 0.1144,
+      "pnl_value": 0.0405,
+      "weight": 0.0262,
+      "rank": 198,
+      "atr": 0.1495,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0118,
+      "pnl_value": -0.006,
+      "weight": 0.0376,
+      "rank": 82,
+      "atr": 0.1041,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0716,
+      "pnl_value": -0.0349,
+      "weight": 0.0361,
+      "rank": 43,
+      "atr": 0.1085,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.1041,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.1085,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FLO",
+      "rank": 198,
+      "atr": 0.1495,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 12.5212,
+    "leverage": 0.0999,
+    "atr": 0.0117,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

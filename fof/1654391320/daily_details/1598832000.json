@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.121,
+      "pnl_value": 0.0048,
+      "weight": 0.0143,
+      "rank": 36,
+      "atr": 0.0996,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": 0.037,
+      "pnl_value": 0.002,
+      "weight": 0.0199,
+      "rank": 199,
+      "atr": 0.0717,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SNX",
+      "pnl": 0.0049,
+      "pnl_value": 0.0002,
+      "weight": 0.0151,
+      "rank": 33,
+      "atr": 0.094,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FTT",
+      "pnl": -0.0002,
+      "pnl_value": -0.0,
+      "weight": 0.0356,
+      "rank": 48,
+      "atr": 0.04,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": -0.0091,
+      "pnl_value": -0.0004,
+      "weight": 0.0172,
+      "rank": 83,
+      "atr": 0.0828,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0106,
+      "pnl_value": -0.0006,
+      "weight": 0.0213,
+      "rank": 19,
+      "atr": 0.0668,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0827,
+      "pnl_value": -0.0037,
+      "weight": 0.0163,
+      "rank": 66,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "FTT",
+      "rank": 48,
+      "atr": 0.04,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 19,
+      "atr": 0.0668,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 199,
+      "atr": 0.0717,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 83,
+      "atr": 0.0828,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 66,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SNX",
+      "rank": 33,
+      "atr": 0.094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 36,
+      "atr": 0.0996,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 1.7528,
+    "leverage": 0.1397,
+    "atr": 0.01,
+    "marketcap_pnt": 0.0097,
+    "green_marketcap_pnt": 0
+  }
+}

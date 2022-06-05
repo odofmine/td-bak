@@ -1,0 +1,119 @@
+{
+  "pnls": [
+    {
+      "name": "SALT",
+      "pnl": 0.1765,
+      "pnl_value": 0.1419,
+      "weight": 0.0072,
+      "rank": 136,
+      "atr": 0.1262,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.0697,
+      "pnl_value": 0.0661,
+      "weight": 0.0085,
+      "rank": 81,
+      "atr": 0.1072,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0162,
+      "pnl_value": 0.0266,
+      "weight": 0.0147,
+      "rank": 30,
+      "atr": 0.0621,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SC",
+      "pnl": 0.0139,
+      "pnl_value": 0.0157,
+      "weight": 0.0101,
+      "rank": 40,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": 0.0051,
+      "pnl_value": 0.0053,
+      "weight": 0.0093,
+      "rank": 128,
+      "atr": 0.0984,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZIP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0621,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SC",
+      "rank": 40,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 128,
+      "atr": 0.0984,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 81,
+      "atr": 0.1072,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 136,
+      "atr": 0.1262,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0023,
+    "cum_pnl": 110.9016,
+    "leverage": 0.0498,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}

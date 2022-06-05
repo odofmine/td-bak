@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "LYM",
+      "pnl": -0.0049,
+      "pnl_value": -0.0059,
+      "weight": 0.0105,
+      "rank": 165,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0317,
+      "pnl_value": -0.0348,
+      "weight": 0.0096,
+      "rank": 129,
+      "atr": 0.1082,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LYM",
+      "rank": 165,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 129,
+      "atr": 0.1082,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 113.276,
+    "leverage": 0.0201,
+    "atr": 0.0021,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

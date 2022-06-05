@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ZRX",
+      "pnl": 0.0175,
+      "pnl_value": 0.0483,
+      "weight": 0.0106,
+      "rank": 38,
+      "atr": 0.0754,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TNT",
+      "pnl": -0.0192,
+      "pnl_value": -0.0476,
+      "weight": 0.0095,
+      "rank": 174,
+      "atr": 0.0849,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XRP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZRX",
+      "rank": 38,
+      "atr": 0.0754,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TNT",
+      "rank": 174,
+      "atr": 0.0849,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0,
+    "cum_pnl": 259.5604,
+    "leverage": 0.0201,
+    "atr": 0.0016,
+    "marketcap_pnt": 0.0009,
+    "green_marketcap_pnt": 0
+  }
+}

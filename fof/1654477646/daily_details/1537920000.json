@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": -0.0232,
+      "pnl_value": -0.0222,
+      "weight": 0.0086,
+      "rank": 3,
+      "atr": 0.0932,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0248,
+      "pnl_value": -0.0326,
+      "weight": 0.0118,
+      "rank": 42,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0355,
+      "pnl_value": -0.0376,
+      "weight": 0.0095,
+      "rank": 6,
+      "atr": 0.085,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETP",
+      "rank": 42,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.085,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.0932,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 110.1838,
+    "leverage": 0.0299,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.1272,
+    "green_marketcap_pnt": 0
+  }
+}

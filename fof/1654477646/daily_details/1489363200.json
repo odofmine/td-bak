@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.2205,
+      "pnl_value": 0.0069,
+      "weight": 0.0282,
+      "rank": 2,
+      "atr": 0.0537,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0854,
+      "pnl_value": 0.0016,
+      "weight": 0.0167,
+      "rank": 20,
+      "atr": 0.0907,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0795,
+      "pnl_value": 0.002,
+      "weight": 0.0222,
+      "rank": 4,
+      "atr": 0.0681,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0609,
+      "pnl_value": 0.0012,
+      "weight": 0.0175,
+      "rank": 9,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SDC",
+      "pnl": 0.0205,
+      "pnl_value": 0.0004,
+      "weight": 0.0195,
+      "rank": 18,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.028,
+      "pnl_value": -0.0007,
+      "weight": 0.0232,
+      "rank": 3,
+      "atr": 0.0652,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0537,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0652,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.0681,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SDC",
+      "rank": 18,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.0907,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0103,
+    "cum_pnl": 0.1235,
+    "leverage": 0.1273,
+    "atr": 0.0091,
+    "marketcap_pnt": 0.1246,
+    "green_marketcap_pnt": 0
+  }
+}

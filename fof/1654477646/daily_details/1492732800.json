@@ -1,0 +1,231 @@
+{
+  "pnls": [
+    {
+      "name": "XEM",
+      "pnl": 0.1628,
+      "pnl_value": 0.0334,
+      "weight": 0.0958,
+      "rank": 8,
+      "atr": 0.0908,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": 0.1345,
+      "pnl_value": 0.027,
+      "weight": 0.0939,
+      "rank": 41,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0733,
+      "pnl_value": 0.0137,
+      "weight": 0.0876,
+      "rank": 44,
+      "atr": 0.0993,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0481,
+      "pnl_value": 0.0097,
+      "weight": 0.0942,
+      "rank": 11,
+      "atr": 0.0923,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DGB",
+      "pnl": 0.0306,
+      "pnl_value": 0.004,
+      "weight": 0.0604,
+      "rank": 62,
+      "atr": 0.144,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.0111,
+      "pnl_value": 0.0023,
+      "weight": 0.098,
+      "rank": 17,
+      "atr": 0.0887,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0093,
+      "pnl_value": 0.0036,
+      "weight": 0.1779,
+      "rank": 1,
+      "atr": 0.0489,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.0069,
+      "pnl_value": 0.0013,
+      "weight": 0.0916,
+      "rank": 65,
+      "atr": 0.0949,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": -0.023,
+      "pnl_value": -0.0064,
+      "weight": 0.1292,
+      "rank": 7,
+      "atr": 0.0673,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TIME",
+      "pnl": -0.0689,
+      "pnl_value": -0.0105,
+      "weight": 0.0709,
+      "rank": 66,
+      "atr": 0.1226,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EXP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BCY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0489,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0673,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 17,
+      "atr": 0.0887,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0908,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 11,
+      "atr": 0.0923,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 41,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.0949,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 44,
+      "atr": 0.0993,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 66,
+      "atr": 0.1226,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DGB",
+      "rank": 62,
+      "atr": 0.144,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 33,
+      "atr": 0.163,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0365,
+    "cum_pnl": 1.2195,
+    "leverage": 0.9995,
+    "atr": 0.087,
+    "marketcap_pnt": 0.693,
+    "green_marketcap_pnt": 0
+  }
+}

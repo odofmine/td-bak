@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.0449,
+      "pnl_value": 0.0045,
+      "weight": 0.1,
+      "rank": 2,
+      "atr": 0.0807,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0807,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 0.0078,
+    "leverage": 0.1,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.0392,
+    "green_marketcap_pnt": 0
+  }
+}

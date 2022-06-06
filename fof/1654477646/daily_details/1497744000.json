@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "KMD",
+      "pnl": 0.0938,
+      "pnl_value": 0.0279,
+      "weight": 0.0319,
+      "rank": 33,
+      "atr": 0.073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "VRC",
+      "pnl": 0.0231,
+      "pnl_value": 0.0039,
+      "weight": 0.0182,
+      "rank": 126,
+      "atr": 0.1278,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0437,
+      "pnl_value": -0.0116,
+      "weight": 0.0285,
+      "rank": 6,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LBC",
+      "pnl": -0.064,
+      "pnl_value": -0.0127,
+      "weight": 0.0213,
+      "rank": 63,
+      "atr": 0.109,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARDR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "KMD",
+      "rank": 33,
+      "atr": 0.073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LBC",
+      "rank": 63,
+      "atr": 0.109,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VRC",
+      "rank": 126,
+      "atr": 0.1278,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 8.3328,
+    "leverage": 0.0999,
+    "atr": 0.0093,
+    "marketcap_pnt": 0.0171,
+    "green_marketcap_pnt": 0
+  }
+}

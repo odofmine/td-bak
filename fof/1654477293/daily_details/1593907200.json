@@ -1,0 +1,218 @@
+{
+  "pnls": [
+    {
+      "name": "VET",
+      "pnl": 0.1422,
+      "pnl_value": 0.0024,
+      "weight": 0.0127,
+      "rank": 28,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ZRX",
+      "pnl": 0.0743,
+      "pnl_value": 0.0009,
+      "weight": 0.009,
+      "rank": 45,
+      "atr": 0.0787,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NPXS",
+      "pnl": 0.0016,
+      "pnl_value": 0.0,
+      "weight": 0.0108,
+      "rank": 176,
+      "atr": 0.0656,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTT",
+      "pnl": -0.0083,
+      "pnl_value": -0.0001,
+      "weight": 0.0135,
+      "rank": 116,
+      "atr": 0.0525,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0154,
+      "pnl_value": -0.0002,
+      "weight": 0.0088,
+      "rank": 140,
+      "atr": 0.0803,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.019,
+      "pnl_value": -0.0003,
+      "weight": 0.0129,
+      "rank": 11,
+      "atr": 0.0549,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.02,
+      "pnl_value": -0.0002,
+      "weight": 0.008,
+      "rank": 160,
+      "atr": 0.0884,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": -0.0371,
+      "pnl_value": -0.0004,
+      "weight": 0.0089,
+      "rank": 163,
+      "atr": 0.0795,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": -0.0407,
+      "pnl_value": -0.0004,
+      "weight": 0.0083,
+      "rank": 183,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0491,
+      "pnl_value": -0.0006,
+      "weight": 0.0092,
+      "rank": 133,
+      "atr": 0.0768,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": -0.0663,
+      "pnl_value": -0.0008,
+      "weight": 0.0098,
+      "rank": 105,
+      "atr": 0.0723,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IOTX",
+      "pnl": -0.0762,
+      "pnl_value": -0.0008,
+      "weight": 0.0085,
+      "rank": 200,
+      "atr": 0.0837,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTT",
+      "rank": 116,
+      "atr": 0.0525,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 11,
+      "atr": 0.0549,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VET",
+      "rank": 28,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NPXS",
+      "rank": 176,
+      "atr": 0.0656,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNT",
+      "rank": 105,
+      "atr": 0.0723,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 133,
+      "atr": 0.0768,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZRX",
+      "rank": 45,
+      "atr": 0.0787,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 163,
+      "atr": 0.0795,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 140,
+      "atr": 0.0803,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOTX",
+      "rank": 200,
+      "atr": 0.0837,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 183,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 160,
+      "atr": 0.0884,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0005,
+    "cum_pnl": 0.3069,
+    "leverage": 0.1204,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0121,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "ZIP",
+      "pnl": 0.2678,
+      "pnl_value": 0.2227,
+      "weight": 0.0074,
+      "rank": 142,
+      "atr": 0.1334,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "GNX",
+      "pnl": 0.0109,
+      "pnl_value": 0.0093,
+      "weight": 0.0076,
+      "rank": 196,
+      "atr": 0.1306,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "LOOM",
+      "pnl": -0.0132,
+      "pnl_value": -0.0119,
+      "weight": 0.008,
+      "rank": 94,
+      "atr": 0.1245,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.03,
+      "pnl_value": -0.03,
+      "weight": 0.0089,
+      "rank": 128,
+      "atr": 0.111,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OCN",
+      "pnl": -0.4357,
+      "pnl_value": -0.8766,
+      "weight": 0.0179,
+      "rank": 102,
+      "atr": 0.0557,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OCN",
+      "rank": 102,
+      "atr": 0.0557,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 128,
+      "atr": 0.111,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LOOM",
+      "rank": 94,
+      "atr": 0.1245,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GNX",
+      "rank": 196,
+      "atr": 0.1306,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ZIP",
+      "rank": 142,
+      "atr": 0.1334,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0061,
+    "cum_pnl": 110.7199,
+    "leverage": 0.0498,
+    "atr": 0.005,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "ARK",
+      "pnl": -0.0931,
+      "pnl_value": -0.0132,
+      "weight": 0.0116,
+      "rank": 22,
+      "atr": 0.1047,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PTOY",
+      "pnl": -0.1375,
+      "pnl_value": -0.0143,
+      "weight": 0.0085,
+      "rank": 124,
+      "atr": 0.1428,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ARK",
+      "rank": 22,
+      "atr": 0.1047,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PTOY",
+      "rank": 124,
+      "atr": 0.1428,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0023,
+    "cum_pnl": 11.181,
+    "leverage": 0.0201,
+    "atr": 0.0024,
+    "marketcap_pnt": 0.0022,
+    "green_marketcap_pnt": 0
+  }
+}

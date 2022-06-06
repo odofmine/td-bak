@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "BELA",
+      "pnl": 0.1339,
+      "pnl_value": 0.027,
+      "weight": 0.1149,
+      "rank": 84,
+      "atr": 0.0848,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": 0.0321,
+      "pnl_value": 0.0055,
+      "weight": 0.0975,
+      "rank": 20,
+      "atr": 0.0999,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": 0.0147,
+      "pnl_value": 0.0015,
+      "weight": 0.0593,
+      "rank": 50,
+      "atr": 0.1644,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0244,
+      "pnl_value": -0.0029,
+      "weight": 0.069,
+      "rank": 43,
+      "atr": 0.1412,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.0403,
+      "pnl_value": -0.0058,
+      "weight": 0.0818,
+      "rank": 33,
+      "atr": 0.1191,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0496,
+      "pnl_value": -0.0082,
+      "weight": 0.0942,
+      "rank": 8,
+      "atr": 0.1034,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": -0.0595,
+      "pnl_value": -0.0106,
+      "weight": 0.1013,
+      "rank": 10,
+      "atr": 0.0962,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.1364,
+      "pnl_value": -0.0434,
+      "weight": 0.1815,
+      "rank": 5,
+      "atr": 0.0537,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.0537,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 84,
+      "atr": 0.0848,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 10,
+      "atr": 0.0962,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.0999,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.1034,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 33,
+      "atr": 0.1191,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 43,
+      "atr": 0.1412,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 50,
+      "atr": 0.1644,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.021,
+    "cum_pnl": 0.7172,
+    "leverage": 0.7995,
+    "atr": 0.0779,
+    "marketcap_pnt": 0.025,
+    "green_marketcap_pnt": 0
+  }
+}

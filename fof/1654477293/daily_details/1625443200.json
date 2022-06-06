@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "COMP",
+      "pnl": 0.1098,
+      "pnl_value": 0.078,
+      "weight": 0.011,
+      "rank": 43,
+      "atr": 0.1301,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "KAVA",
+      "pnl": -0.0051,
+      "pnl_value": -0.0034,
+      "weight": 0.0103,
+      "rank": 124,
+      "atr": 0.14,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAX",
+      "pnl": -0.0297,
+      "pnl_value": -0.017,
+      "weight": 0.0089,
+      "rank": 139,
+      "atr": 0.1621,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "COMP",
+      "rank": 43,
+      "atr": 0.1301,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 124,
+      "atr": 0.14,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAX",
+      "rank": 139,
+      "atr": 0.1621,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0009,
+    "cum_pnl": 63.6401,
+    "leverage": 0.0302,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.002,
+    "green_marketcap_pnt": 0
+  }
+}

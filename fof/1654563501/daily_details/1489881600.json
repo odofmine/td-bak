@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "ETH",
+      "pnl": 0.2682,
+      "pnl_value": 0.0274,
+      "weight": 0.0951,
+      "rank": 2,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.1963,
+      "pnl_value": 0.0219,
+      "weight": 0.1038,
+      "rank": 7,
+      "atr": 0.0821,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.1521,
+      "pnl_value": 0.0162,
+      "weight": 0.0991,
+      "rank": 4,
+      "atr": 0.086,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0059,
+      "pnl_value": 0.0005,
+      "weight": 0.0864,
+      "rank": 20,
+      "atr": 0.0987,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0072,
+      "pnl_value": -0.0009,
+      "weight": 0.1153,
+      "rank": 3,
+      "atr": 0.0739,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 3,
+      "atr": 0.0739,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 7,
+      "atr": 0.0821,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 4,
+      "atr": 0.086,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 20,
+      "atr": 0.0987,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0607,
+    "cum_pnl": 0.1389,
+    "leverage": 0.4997,
+    "atr": 0.0426,
+    "marketcap_pnt": 0.1257,
+    "green_marketcap_pnt": 0
+  }
+}

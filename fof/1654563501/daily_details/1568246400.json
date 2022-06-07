@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.032,
+      "pnl_value": 0.0754,
+      "weight": 0.0089,
+      "rank": 57,
+      "atr": 0.066,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.0099,
+      "pnl_value": -0.0188,
+      "weight": 0.0072,
+      "rank": 149,
+      "atr": 0.0819,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BZ",
+      "pnl": -0.0181,
+      "pnl_value": -0.0678,
+      "weight": 0.0141,
+      "rank": 139,
+      "atr": 0.0418,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BZ",
+      "rank": 139,
+      "atr": 0.0418,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 57,
+      "atr": 0.066,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 149,
+      "atr": 0.0819,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0,
+    "cum_pnl": 264.044,
+    "leverage": 0.0302,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

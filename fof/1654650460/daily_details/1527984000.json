@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "THETA",
+      "pnl": 0.0575,
+      "pnl_value": 0.0572,
+      "weight": 0.0087,
+      "rank": 129,
+      "atr": 0.1121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.0529,
+      "pnl_value": 0.055,
+      "weight": 0.0091,
+      "rank": 112,
+      "atr": 0.1073,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0007,
+      "pnl_value": -0.0011,
+      "weight": 0.0138,
+      "rank": 18,
+      "atr": 0.071,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EKT",
+      "pnl": -0.0038,
+      "pnl_value": -0.0039,
+      "weight": 0.009,
+      "rank": 193,
+      "atr": 0.1087,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LYM",
+      "pnl": -0.0107,
+      "pnl_value": -0.0119,
+      "weight": 0.0097,
+      "rank": 165,
+      "atr": 0.101,
+      "score": 1,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 18,
+      "atr": 0.071,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LYM",
+      "rank": 165,
+      "atr": 0.101,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 112,
+      "atr": 0.1073,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 193,
+      "atr": 0.1087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 129,
+      "atr": 0.1121,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0008,
+    "cum_pnl": 113.3713,
+    "leverage": 0.0503,
+    "atr": 0.0049,
+    "marketcap_pnt": 0.0056,
+    "green_marketcap_pnt": 0
+  }
+}

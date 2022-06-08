@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "BTC",
+      "pnl": 0.0303,
+      "pnl_value": 0.0867,
+      "weight": 0.2086,
+      "rank": 1,
+      "atr": 0.0454,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BLK",
+      "pnl": -0.0184,
+      "pnl_value": -0.018,
+      "weight": 0.0716,
+      "rank": 184,
+      "atr": 0.1322,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0188,
+      "pnl_value": -0.0272,
+      "weight": 0.1056,
+      "rank": 4,
+      "atr": 0.0897,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0278,
+      "pnl_value": -0.0275,
+      "weight": 0.0723,
+      "rank": 27,
+      "atr": 0.131,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": -0.0377,
+      "pnl_value": -0.0262,
+      "weight": 0.0506,
+      "rank": 117,
+      "atr": 0.1872,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.075,
+      "pnl_value": -0.0935,
+      "weight": 0.091,
+      "rank": 23,
+      "atr": 0.104,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0454,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0897,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 23,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.131,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BLK",
+      "rank": 184,
+      "atr": 0.1322,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1872,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0077,
+    "cum_pnl": 12.5894,
+    "leverage": 0.5997,
+    "atr": 0.0568,
+    "marketcap_pnt": 0.6244,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "pnls": [
+    {
+      "name": "SALT",
+      "pnl": 0.0959,
+      "pnl_value": 0.0911,
+      "weight": 0.0087,
+      "rank": 98,
+      "atr": 0.0988,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EDO",
+      "pnl": 0.0672,
+      "pnl_value": 0.0727,
+      "weight": 0.0099,
+      "rank": 143,
+      "atr": 0.0868,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": 0.0395,
+      "pnl_value": 0.0458,
+      "weight": 0.0106,
+      "rank": 52,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PIVX",
+      "pnl": 0.0023,
+      "pnl_value": 0.0024,
+      "weight": 0.0094,
+      "rank": 86,
+      "atr": 0.0913,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.0133,
+      "pnl_value": -0.0161,
+      "weight": 0.0111,
+      "rank": 42,
+      "atr": 0.0781,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0427,
+      "pnl_value": -0.0467,
+      "weight": 0.01,
+      "rank": 108,
+      "atr": 0.0867,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POWR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QSP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "CVC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTM",
+      "rank": 42,
+      "atr": 0.0781,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 52,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 108,
+      "atr": 0.0867,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EDO",
+      "rank": 143,
+      "atr": 0.0868,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 86,
+      "atr": 0.0913,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SALT",
+      "rank": 98,
+      "atr": 0.0988,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0014,
+    "cum_pnl": 108.4219,
+    "leverage": 0.0597,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0029,
+    "green_marketcap_pnt": 0
+  }
+}

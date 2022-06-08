@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.1516,
+      "pnl_value": 104.1416,
+      "weight": 0.009,
+      "rank": 29,
+      "atr": 0.0736,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": 0.0713,
+      "pnl_value": 41.3725,
+      "weight": 0.0076,
+      "rank": 91,
+      "atr": 0.0869,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0329,
+      "pnl_value": 23.6371,
+      "weight": 0.0094,
+      "rank": 85,
+      "atr": 0.07,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTRST",
+      "pnl": -0.0109,
+      "pnl_value": -10.2754,
+      "weight": 0.0123,
+      "rank": 148,
+      "atr": 0.0536,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CAKE",
+      "pnl": -0.0417,
+      "pnl_value": -37.914,
+      "weight": 0.0119,
+      "rank": 44,
+      "atr": 0.0555,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTRST",
+      "rank": 148,
+      "atr": 0.0536,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CAKE",
+      "rank": 44,
+      "atr": 0.0555,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.07,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.0736,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 91,
+      "atr": 0.0869,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0016,
+    "cum_pnl": 76445.126,
+    "leverage": 0.0502,
+    "atr": 0.0033,
+    "marketcap_pnt": 0.0053,
+    "green_marketcap_pnt": 0
+  }
+}

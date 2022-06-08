@@ -1,0 +1,211 @@
+{
+  "pnls": [
+    {
+      "name": "TIME",
+      "pnl": 0.1568,
+      "pnl_value": 0.0258,
+      "weight": 0.0753,
+      "rank": 66,
+      "atr": 0.1292,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.148,
+      "pnl_value": 0.0443,
+      "weight": 0.1373,
+      "rank": 8,
+      "atr": 0.0709,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0379,
+      "pnl_value": 0.0085,
+      "weight": 0.1024,
+      "rank": 44,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NAV",
+      "pnl": 0.0343,
+      "pnl_value": 0.0063,
+      "weight": 0.0845,
+      "rank": 65,
+      "atr": 0.1152,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EXP",
+      "pnl": -0.0017,
+      "pnl_value": -0.0003,
+      "weight": 0.0905,
+      "rank": 67,
+      "atr": 0.1075,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCY",
+      "pnl": -0.0047,
+      "pnl_value": -0.0009,
+      "weight": 0.0868,
+      "rank": 45,
+      "atr": 0.1121,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.0071,
+      "pnl_value": -0.0012,
+      "weight": 0.0799,
+      "rank": 50,
+      "atr": 0.1218,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REP",
+      "pnl": -0.041,
+      "pnl_value": -0.009,
+      "weight": 0.1009,
+      "rank": 9,
+      "atr": 0.0964,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0454,
+      "pnl_value": -0.0124,
+      "weight": 0.1256,
+      "rank": 17,
+      "atr": 0.0775,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": -0.1445,
+      "pnl_value": -0.0367,
+      "weight": 0.1163,
+      "rank": 41,
+      "atr": 0.0837,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "NAUT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0709,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 17,
+      "atr": 0.0775,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 41,
+      "atr": 0.0837,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 44,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.0964,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EXP",
+      "rank": 67,
+      "atr": 0.1075,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCY",
+      "rank": 45,
+      "atr": 0.1121,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAV",
+      "rank": 65,
+      "atr": 0.1152,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 50,
+      "atr": 0.1218,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TIME",
+      "rank": 66,
+      "atr": 0.1292,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 33,
+      "atr": 0.1603,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0111,
+    "cum_pnl": 1.2052,
+    "leverage": 0.9995,
+    "atr": 0.0973,
+    "marketcap_pnt": 0.0166,
+    "green_marketcap_pnt": 0
+  }
+}

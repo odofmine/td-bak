@@ -1,0 +1,143 @@
+{
+  "pnls": [
+    {
+      "name": "ARDR",
+      "pnl": 0.257,
+      "pnl_value": 0.0354,
+      "weight": 0.0113,
+      "rank": 47,
+      "atr": 0.1078,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": 0.1983,
+      "pnl_value": 0.0184,
+      "weight": 0.0076,
+      "rank": 11,
+      "atr": 0.1596,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC2",
+      "pnl": 0.0738,
+      "pnl_value": 0.011,
+      "weight": 0.0122,
+      "rank": 167,
+      "atr": 0.1002,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BAY",
+      "pnl": 0.0684,
+      "pnl_value": 0.0077,
+      "weight": 0.0092,
+      "rank": 132,
+      "atr": 0.1319,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TRST",
+      "pnl": 0.0145,
+      "pnl_value": 0.0015,
+      "weight": 0.0085,
+      "rank": 105,
+      "atr": 0.1438,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": -0.0408,
+      "pnl_value": -0.0053,
+      "weight": 0.0106,
+      "rank": 16,
+      "atr": 0.1149,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STEEM",
+      "pnl": -0.1054,
+      "pnl_value": -0.0141,
+      "weight": 0.011,
+      "rank": 21,
+      "atr": 0.1107,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PTOY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EMC2",
+      "rank": 167,
+      "atr": 0.1002,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 47,
+      "atr": 0.1078,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STEEM",
+      "rank": 21,
+      "atr": 0.1107,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 16,
+      "atr": 0.1149,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAY",
+      "rank": 132,
+      "atr": 0.1319,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRST",
+      "rank": 105,
+      "atr": 0.1438,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 11,
+      "atr": 0.1596,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0045,
+    "cum_pnl": 11.2398,
+    "leverage": 0.0704,
+    "atr": 0.0085,
+    "marketcap_pnt": 0.0148,
+    "green_marketcap_pnt": 0
+  }
+}

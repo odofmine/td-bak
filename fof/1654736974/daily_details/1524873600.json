@@ -1,0 +1,163 @@
+{
+  "pnls": [
+    {
+      "name": "ONT",
+      "pnl": 0.335,
+      "pnl_value": 3.3393,
+      "weight": 0.0988,
+      "rank": 49,
+      "atr": 0.0819,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NAS",
+      "pnl": 0.2614,
+      "pnl_value": 2.0785,
+      "weight": 0.0788,
+      "rank": 83,
+      "atr": 0.1027,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.1306,
+      "pnl_value": 1.442,
+      "weight": 0.1094,
+      "rank": 5,
+      "atr": 0.074,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": 0.0927,
+      "pnl_value": 1.2535,
+      "weight": 0.134,
+      "rank": 35,
+      "atr": 0.0604,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": 0.0515,
+      "pnl_value": 0.4865,
+      "weight": 0.0937,
+      "rank": 48,
+      "atr": 0.0864,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "GTO",
+      "pnl": 0.0021,
+      "pnl_value": 0.0183,
+      "weight": 0.0866,
+      "rank": 150,
+      "atr": 0.0934,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": -0.0256,
+      "pnl_value": -0.254,
+      "weight": 0.0984,
+      "rank": 74,
+      "atr": 0.0822,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DTA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IHT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WAN",
+      "rank": 35,
+      "atr": 0.0604,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 5,
+      "atr": 0.074,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 49,
+      "atr": 0.0819,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 74,
+      "atr": 0.0822,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 48,
+      "atr": 0.0864,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GTO",
+      "rank": 150,
+      "atr": 0.0934,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NAS",
+      "rank": 83,
+      "atr": 0.1027,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0829,
+    "cum_pnl": 108.2583,
+    "leverage": 0.6997,
+    "atr": 0.0566,
+    "marketcap_pnt": 0.0299,
+    "green_marketcap_pnt": 0
+  }
+}

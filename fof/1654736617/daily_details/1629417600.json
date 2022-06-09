@@ -1,0 +1,225 @@
+{
+  "pnls": [
+    {
+      "name": "AVAX",
+      "pnl": 0.2771,
+      "pnl_value": 3.3542,
+      "weight": 0.1116,
+      "rank": 41,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HNT",
+      "pnl": 0.1479,
+      "pnl_value": 1.4342,
+      "weight": 0.0894,
+      "rank": 66,
+      "atr": 0.0875,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.1288,
+      "pnl_value": 1.238,
+      "weight": 0.0886,
+      "rank": 123,
+      "atr": 0.0883,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ALGO",
+      "pnl": 0.0889,
+      "pnl_value": 0.9318,
+      "weight": 0.0967,
+      "rank": 44,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SOL",
+      "pnl": 0.0808,
+      "pnl_value": 0.9344,
+      "weight": 0.1066,
+      "rank": 11,
+      "atr": 0.0734,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DOT",
+      "pnl": 0.0591,
+      "pnl_value": 0.6137,
+      "weight": 0.0958,
+      "rank": 9,
+      "atr": 0.0817,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.042,
+      "pnl_value": 0.5275,
+      "weight": 0.1159,
+      "rank": 22,
+      "atr": 0.0675,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0114,
+      "pnl_value": 0.1194,
+      "weight": 0.0967,
+      "rank": 39,
+      "atr": 0.0809,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEAR",
+      "pnl": -0.0167,
+      "pnl_value": -0.1902,
+      "weight": 0.1052,
+      "rank": 73,
+      "atr": 0.0744,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FTM",
+      "pnl": -0.0308,
+      "pnl_value": -0.311,
+      "weight": 0.093,
+      "rank": 96,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DODO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LUNA",
+      "rank": 22,
+      "atr": 0.0675,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AVAX",
+      "rank": 41,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SOL",
+      "rank": 11,
+      "atr": 0.0734,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEAR",
+      "rank": 73,
+      "atr": 0.0744,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 39,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ALGO",
+      "rank": 44,
+      "atr": 0.0809,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOT",
+      "rank": 9,
+      "atr": 0.0817,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FTM",
+      "rank": 96,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HNT",
+      "rank": 66,
+      "atr": 0.0875,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 123,
+      "atr": 0.0883,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 116,
+      "atr": 0.099,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DODO",
+      "rank": 192,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHR",
+      "rank": 195,
+      "atr": 0.1219,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0798,
+    "cum_pnl": 116.1039,
+    "leverage": 0.9995,
+    "atr": 0.0782,
+    "marketcap_pnt": 0.0303,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "LUNA",
+      "pnl": 0.0648,
+      "pnl_value": 56.8102,
+      "weight": 0.0121,
+      "rank": 9,
+      "atr": 0.0808,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "OKB",
+      "pnl": -0.0034,
+      "pnl_value": -1.39,
+      "weight": 0.0056,
+      "rank": 67,
+      "atr": 0.1738,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "YFI",
+      "pnl": -0.0565,
+      "pnl_value": -51.1067,
+      "weight": 0.0125,
+      "rank": 83,
+      "atr": 0.0779,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "YFI",
+      "rank": 83,
+      "atr": 0.0779,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 9,
+      "atr": 0.0808,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "OKB",
+      "rank": 67,
+      "atr": 0.1738,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0001,
+    "cum_pnl": 72414.9038,
+    "leverage": 0.0302,
+    "atr": 0.0029,
+    "marketcap_pnt": 0.0149,
+    "green_marketcap_pnt": 0
+  }
+}

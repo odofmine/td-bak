@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": -0.0658,
+      "pnl_value": -0.0883,
+      "weight": 0.0117,
+      "rank": 30,
+      "atr": 0.0733,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XAS",
+      "pnl": -0.0721,
+      "pnl_value": -0.0753,
+      "weight": 0.0091,
+      "rank": 143,
+      "atr": 0.0946,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "IHT",
+      "pnl": -0.1191,
+      "pnl_value": -0.1285,
+      "weight": 0.0094,
+      "rank": 144,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LYM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "QSP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ZEC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0733,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IHT",
+      "rank": 144,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XAS",
+      "rank": 143,
+      "atr": 0.0946,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0025,
+    "cum_pnl": 113.5015,
+    "leverage": 0.0302,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0027,
+    "green_marketcap_pnt": 0
+  }
+}

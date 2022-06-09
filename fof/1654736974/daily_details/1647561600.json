@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "KNC",
+      "pnl": 0.089,
+      "pnl_value": 53.0991,
+      "weight": 0.0085,
+      "rank": 120,
+      "atr": 0.0862,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEXO",
+      "pnl": 0.0344,
+      "pnl_value": 23.4292,
+      "weight": 0.0097,
+      "rank": 69,
+      "atr": 0.076,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.0113,
+      "pnl_value": 5.6457,
+      "weight": 0.0071,
+      "rank": 75,
+      "atr": 0.1037,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BAT",
+      "pnl": -0.0104,
+      "pnl_value": -6.4688,
+      "weight": 0.0089,
+      "rank": 76,
+      "atr": 0.0824,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LEO",
+      "pnl": -0.0248,
+      "pnl_value": -27.2088,
+      "weight": 0.0156,
+      "rank": 26,
+      "atr": 0.0472,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 26,
+      "atr": 0.0472,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEXO",
+      "rank": 69,
+      "atr": 0.076,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BAT",
+      "rank": 76,
+      "atr": 0.0824,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 120,
+      "atr": 0.0862,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 75,
+      "atr": 0.1037,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0007,
+    "cum_pnl": 70252.4728,
+    "leverage": 0.0498,
+    "atr": 0.0037,
+    "marketcap_pnt": 0.0055,
+    "green_marketcap_pnt": 0
+  }
+}

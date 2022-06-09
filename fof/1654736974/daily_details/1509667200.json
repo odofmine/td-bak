@@ -1,0 +1,129 @@
+{
+  "pnls": [
+    {
+      "name": "BCH",
+      "pnl": 0.1115,
+      "pnl_value": 0.1426,
+      "weight": 0.0955,
+      "rank": 4,
+      "atr": 0.0954,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0811,
+      "pnl_value": 0.094,
+      "weight": 0.0866,
+      "rank": 23,
+      "atr": 0.1051,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "VIA",
+      "pnl": 0.0392,
+      "pnl_value": 0.0246,
+      "weight": 0.0468,
+      "rank": 117,
+      "atr": 0.1945,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0174,
+      "pnl_value": 0.0468,
+      "weight": 0.2011,
+      "rank": 1,
+      "atr": 0.0453,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KMD",
+      "pnl": -0.0045,
+      "pnl_value": -0.0042,
+      "weight": 0.0698,
+      "rank": 27,
+      "atr": 0.1305,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "GBYTE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BLK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "TIME",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0453,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 4,
+      "atr": 0.0954,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 23,
+      "atr": 0.1051,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KMD",
+      "rank": 27,
+      "atr": 0.1305,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 117,
+      "atr": 0.1945,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0227,
+    "cum_pnl": 12.6951,
+    "leverage": 0.4998,
+    "atr": 0.0455,
+    "marketcap_pnt": 0.6243,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.0461,
+      "pnl_value": 0.0118,
+      "weight": 0.154,
+      "rank": 5,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REP",
+      "pnl": 0.0201,
+      "pnl_value": 0.0029,
+      "weight": 0.0874,
+      "rank": 9,
+      "atr": 0.1075,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SJCX",
+      "pnl": 0.016,
+      "pnl_value": 0.0021,
+      "weight": 0.0802,
+      "rank": 41,
+      "atr": 0.1171,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MAID",
+      "pnl": 0.0128,
+      "pnl_value": 0.0022,
+      "weight": 0.1038,
+      "rank": 10,
+      "atr": 0.0905,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0087,
+      "pnl_value": -0.0013,
+      "weight": 0.0903,
+      "rank": 20,
+      "atr": 0.104,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.0441,
+      "pnl_value": -0.0056,
+      "weight": 0.0762,
+      "rank": 33,
+      "atr": 0.1233,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0929,
+      "pnl_value": -0.0166,
+      "weight": 0.1078,
+      "rank": 8,
+      "atr": 0.0871,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "POT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 5,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0871,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MAID",
+      "rank": 10,
+      "atr": 0.0905,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.104,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 9,
+      "atr": 0.1075,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SJCX",
+      "rank": 41,
+      "atr": 0.1171,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 33,
+      "atr": 0.1233,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0027,
+    "cum_pnl": 0.656,
+    "leverage": 0.6997,
+    "atr": 0.0658,
+    "marketcap_pnt": 0.0293,
+    "green_marketcap_pnt": 0
+  }
+}

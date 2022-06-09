@@ -1,0 +1,92 @@
+{
+  "pnls": [
+    {
+      "name": "DATA",
+      "pnl": -0.0285,
+      "pnl_value": -0.0574,
+      "weight": 0.0174,
+      "rank": 163,
+      "atr": 0.1183,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0449,
+      "pnl_value": -0.1376,
+      "weight": 0.0265,
+      "rank": 39,
+      "atr": 0.0779,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NULS",
+      "pnl": -0.0618,
+      "pnl_value": -0.168,
+      "weight": 0.0235,
+      "rank": 90,
+      "atr": 0.088,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DCN",
+      "pnl": -0.0723,
+      "pnl_value": -0.1037,
+      "weight": 0.0124,
+      "rank": 62,
+      "atr": 0.1664,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ECA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 39,
+      "atr": 0.0779,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NULS",
+      "rank": 90,
+      "atr": 0.088,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DATA",
+      "rank": 163,
+      "atr": 0.1183,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCN",
+      "rank": 62,
+      "atr": 0.1664,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.004,
+    "cum_pnl": 114.2203,
+    "leverage": 0.0798,
+    "atr": 0.0083,
+    "marketcap_pnt": 0.0033,
+    "green_marketcap_pnt": 0
+  }
+}

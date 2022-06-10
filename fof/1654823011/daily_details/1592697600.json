@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "CHZ",
+      "pnl": 0.0587,
+      "pnl_value": 0.001,
+      "weight": 0.0124,
+      "rank": 134,
+      "atr": 0.0701,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STRAT",
+      "pnl": 0.0386,
+      "pnl_value": 0.0005,
+      "weight": 0.0097,
+      "rank": 155,
+      "atr": 0.0888,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0082,
+      "pnl_value": 0.0001,
+      "weight": 0.0107,
+      "rank": 198,
+      "atr": 0.0812,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0359,
+      "pnl_value": -0.0005,
+      "weight": 0.0105,
+      "rank": 88,
+      "atr": 0.0824,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": -0.0505,
+      "pnl_value": -0.0007,
+      "weight": 0.0105,
+      "rank": 154,
+      "atr": 0.0822,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0661,
+      "pnl_value": -0.0013,
+      "weight": 0.0149,
+      "rank": 181,
+      "atr": 0.0582,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0582,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 134,
+      "atr": 0.0701,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0812,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 154,
+      "atr": 0.0822,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0824,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 155,
+      "atr": 0.0888,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0007,
+    "cum_pnl": 0.3238,
+    "leverage": 0.0687,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.001,
+    "green_marketcap_pnt": 0
+  }
+}

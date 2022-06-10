@@ -1,0 +1,225 @@
+{
+  "pnls": [
+    {
+      "name": "DCR",
+      "pnl": 0.082,
+      "pnl_value": 7.6408,
+      "weight": 0.0865,
+      "rank": 62,
+      "atr": 0.0686,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KSM",
+      "pnl": 0.0697,
+      "pnl_value": 4.8035,
+      "weight": 0.064,
+      "rank": 54,
+      "atr": 0.0928,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.0379,
+      "pnl_value": 3.8655,
+      "weight": 0.0947,
+      "rank": 44,
+      "atr": 0.0627,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "LEO",
+      "pnl": 0.0008,
+      "pnl_value": 0.2507,
+      "weight": 0.303,
+      "rank": 20,
+      "atr": 0.0196,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LINK",
+      "pnl": -0.0282,
+      "pnl_value": -2.1791,
+      "weight": 0.0718,
+      "rank": 6,
+      "atr": 0.0827,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": -0.0297,
+      "pnl_value": -2.1922,
+      "weight": 0.0684,
+      "rank": 137,
+      "atr": 0.0868,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": -0.0539,
+      "pnl_value": -4.5139,
+      "weight": 0.0777,
+      "rank": 63,
+      "atr": 0.0764,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEN",
+      "pnl": -0.0562,
+      "pnl_value": -4.8771,
+      "weight": 0.0805,
+      "rank": 122,
+      "atr": 0.0737,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADX",
+      "pnl": -0.0736,
+      "pnl_value": -5.9385,
+      "weight": 0.0749,
+      "rank": 191,
+      "atr": 0.0793,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.1271,
+      "pnl_value": -10.6972,
+      "weight": 0.0781,
+      "rank": 152,
+      "atr": 0.076,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CEL",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AAVE",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LEO",
+      "rank": 20,
+      "atr": 0.0196,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 44,
+      "atr": 0.0627,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 62,
+      "atr": 0.0686,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEN",
+      "rank": 122,
+      "atr": 0.0737,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 152,
+      "atr": 0.076,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 63,
+      "atr": 0.0764,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ADX",
+      "rank": 191,
+      "atr": 0.0793,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 6,
+      "atr": 0.0827,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 137,
+      "atr": 0.0868,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "KSM",
+      "rank": 54,
+      "atr": 0.0928,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 34,
+      "atr": 0.0943,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 153,
+      "atr": 0.1019,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHR",
+      "rank": 155,
+      "atr": 0.1652,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0128,
+    "cum_pnl": 1062.5512,
+    "leverage": 0.9996,
+    "atr": 0.0594,
+    "marketcap_pnt": 0.0169,
+    "green_marketcap_pnt": 0
+  }
+}

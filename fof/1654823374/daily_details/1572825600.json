@@ -1,0 +1,225 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": 0.1788,
+      "pnl_value": 4.8557,
+      "weight": 0.0974,
+      "rank": 58,
+      "atr": 0.0695,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": 0.1496,
+      "pnl_value": 4.3131,
+      "weight": 0.1034,
+      "rank": 10,
+      "atr": 0.0655,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": 0.0741,
+      "pnl_value": 1.939,
+      "weight": 0.0938,
+      "rank": 90,
+      "atr": 0.0722,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ATOM",
+      "pnl": 0.0712,
+      "pnl_value": 1.9458,
+      "weight": 0.098,
+      "rank": 20,
+      "atr": 0.0691,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "HC",
+      "pnl": 0.0569,
+      "pnl_value": 1.3553,
+      "weight": 0.0855,
+      "rank": 70,
+      "atr": 0.0792,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DX",
+      "pnl": 0.0279,
+      "pnl_value": 0.6955,
+      "weight": 0.0893,
+      "rank": 140,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PZM",
+      "pnl": 0.0275,
+      "pnl_value": 0.7535,
+      "weight": 0.0984,
+      "rank": 29,
+      "atr": 0.0688,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "TOMO",
+      "pnl": 0.0036,
+      "pnl_value": 0.0822,
+      "weight": 0.0814,
+      "rank": 158,
+      "atr": 0.0832,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0038,
+      "pnl_value": -0.1267,
+      "weight": 0.1201,
+      "rank": 12,
+      "atr": 0.0564,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0466,
+      "pnl_value": -1.7206,
+      "weight": 0.1323,
+      "rank": 36,
+      "atr": 0.0512,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OKB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DCR",
+      "rank": 36,
+      "atr": 0.0512,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 12,
+      "atr": 0.0564,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 10,
+      "atr": 0.0655,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PZM",
+      "rank": 29,
+      "atr": 0.0688,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ATOM",
+      "rank": 20,
+      "atr": 0.0691,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 58,
+      "atr": 0.0695,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 90,
+      "atr": 0.0722,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DX",
+      "rank": 140,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HC",
+      "rank": 70,
+      "atr": 0.0792,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TOMO",
+      "rank": 158,
+      "atr": 0.0832,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TT",
+      "rank": 132,
+      "atr": 0.093,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 73,
+      "atr": 0.1164,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MOF",
+      "rank": 119,
+      "atr": 0.143,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0505,
+    "cum_pnl": 291.893,
+    "leverage": 0.9996,
+    "atr": 0.0677,
+    "marketcap_pnt": 0.0162,
+    "green_marketcap_pnt": 0
+  }
+}

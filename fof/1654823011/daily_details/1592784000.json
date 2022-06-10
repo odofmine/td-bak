@@ -1,0 +1,102 @@
+{
+  "pnls": [
+    {
+      "name": "RLC",
+      "pnl": 0.0671,
+      "pnl_value": 0.0008,
+      "weight": 0.0092,
+      "rank": 142,
+      "atr": 0.0867,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0143,
+      "pnl_value": 0.0002,
+      "weight": 0.0098,
+      "rank": 184,
+      "atr": 0.0816,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0109,
+      "pnl_value": -0.0002,
+      "weight": 0.012,
+      "rank": 116,
+      "atr": 0.0665,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": -0.0707,
+      "pnl_value": -0.0011,
+      "weight": 0.0117,
+      "rank": 138,
+      "atr": 0.0682,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "STRAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CHZ",
+      "rank": 116,
+      "atr": 0.0665,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ERD",
+      "rank": 138,
+      "atr": 0.0682,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 184,
+      "atr": 0.0816,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 142,
+      "atr": 0.0867,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0002,
+    "cum_pnl": 0.3235,
+    "leverage": 0.0427,
+    "atr": 0.0032,
+    "marketcap_pnt": 0.0007,
+    "green_marketcap_pnt": 0
+  }
+}

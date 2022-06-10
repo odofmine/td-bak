@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "CHSB",
+      "pnl": 0.1123,
+      "pnl_value": 19.271,
+      "weight": 0.094,
+      "rank": 70,
+      "atr": 0.0749,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": 0.0834,
+      "pnl_value": 17.5654,
+      "weight": 0.1154,
+      "rank": 32,
+      "atr": 0.061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZIL",
+      "pnl": 0.0729,
+      "pnl_value": 12.1438,
+      "weight": 0.0913,
+      "rank": 45,
+      "atr": 0.0771,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CEL",
+      "pnl": 0.0076,
+      "pnl_value": 1.7344,
+      "weight": 0.1244,
+      "rank": 40,
+      "atr": 0.0566,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "INJ",
+      "pnl": -0.1124,
+      "pnl_value": -15.302,
+      "weight": 0.0746,
+      "rank": 165,
+      "atr": 0.0943,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XEM",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CEL",
+      "rank": 40,
+      "atr": 0.0566,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 32,
+      "atr": 0.061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHSB",
+      "rank": 70,
+      "atr": 0.0749,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZIL",
+      "rank": 45,
+      "atr": 0.0771,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "INJ",
+      "rank": 165,
+      "atr": 0.0943,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0194,
+    "cum_pnl": 1859.4321,
+    "leverage": 0.4997,
+    "atr": 0.0352,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

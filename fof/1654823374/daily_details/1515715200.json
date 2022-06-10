@@ -1,0 +1,217 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.5453,
+      "pnl_value": 1.234,
+      "weight": 0.0247,
+      "rank": 94,
+      "atr": 0.156,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.2676,
+      "pnl_value": 0.9733,
+      "weight": 0.0397,
+      "rank": 199,
+      "atr": 0.0972,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "PART",
+      "pnl": 0.1744,
+      "pnl_value": 0.4026,
+      "weight": 0.0252,
+      "rank": 149,
+      "atr": 0.1533,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": 0.1069,
+      "pnl_value": 0.4631,
+      "weight": 0.0473,
+      "rank": 3,
+      "atr": 0.0816,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QRL",
+      "pnl": 0.0946,
+      "pnl_value": 0.1759,
+      "weight": 0.0203,
+      "rank": 184,
+      "atr": 0.1898,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "ARK",
+      "pnl": 0.0755,
+      "pnl_value": 0.1728,
+      "weight": 0.025,
+      "rank": 50,
+      "atr": 0.1545,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": 0.0509,
+      "pnl_value": 0.1823,
+      "weight": 0.0391,
+      "rank": 160,
+      "atr": 0.0986,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WGR",
+      "pnl": 0.0438,
+      "pnl_value": 0.1449,
+      "weight": 0.0361,
+      "rank": 185,
+      "atr": 0.107,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XCP",
+      "pnl": -0.1556,
+      "pnl_value": -0.6015,
+      "weight": 0.0422,
+      "rank": 169,
+      "atr": 0.0915,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ICN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "OMG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "LSK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "GAS",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETH",
+      "rank": 3,
+      "atr": 0.0816,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XCP",
+      "rank": 169,
+      "atr": 0.0915,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 199,
+      "atr": 0.0972,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EMC",
+      "rank": 160,
+      "atr": 0.0986,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WGR",
+      "rank": 185,
+      "atr": 0.107,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 149,
+      "atr": 0.1533,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARK",
+      "rank": 50,
+      "atr": 0.1545,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 94,
+      "atr": 0.156,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QRL",
+      "rank": 184,
+      "atr": 0.1898,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0344,
+    "cum_pnl": 93.772,
+    "leverage": 0.2996,
+    "atr": 0.0347,
+    "marketcap_pnt": 0.1393,
+    "green_marketcap_pnt": 0
+  }
+}

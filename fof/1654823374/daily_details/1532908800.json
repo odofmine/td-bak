@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "BAY",
+      "pnl": -0.0216,
+      "pnl_value": -0.0234,
+      "weight": 0.0095,
+      "rank": 179,
+      "atr": 0.0989,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BIX",
+      "pnl": -0.081,
+      "pnl_value": -0.0913,
+      "weight": 0.0099,
+      "rank": 92,
+      "atr": 0.0952,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.0816,
+      "pnl_value": -0.0975,
+      "weight": 0.0105,
+      "rank": 117,
+      "atr": 0.0894,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZCL",
+      "rank": 117,
+      "atr": 0.0894,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BIX",
+      "rank": 92,
+      "atr": 0.0952,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BAY",
+      "rank": 179,
+      "atr": 0.0989,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0019,
+    "cum_pnl": 112.6509,
+    "leverage": 0.0299,
+    "atr": 0.0028,
+    "marketcap_pnt": 0.0008,
+    "green_marketcap_pnt": 0
+  }
+}

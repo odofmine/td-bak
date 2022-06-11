@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "GAS",
+      "pnl": 0.1238,
+      "pnl_value": 0.2829,
+      "weight": 0.0242,
+      "rank": 52,
+      "atr": 0.0974,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NLG",
+      "pnl": 0.0494,
+      "pnl_value": 0.0904,
+      "weight": 0.0194,
+      "rank": 165,
+      "atr": 0.1216,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QASH",
+      "pnl": -0.0667,
+      "pnl_value": -0.1359,
+      "weight": 0.0216,
+      "rank": 44,
+      "atr": 0.1094,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0845,
+      "pnl_value": -0.142,
+      "weight": 0.0178,
+      "rank": 56,
+      "atr": 0.1324,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WGR",
+      "pnl": -0.102,
+      "pnl_value": -0.1945,
+      "weight": 0.0202,
+      "rank": 152,
+      "atr": 0.1168,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "EMC",
+      "pnl": -0.1517,
+      "pnl_value": -0.3465,
+      "weight": 0.0242,
+      "rank": 94,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ARK",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "EMC",
+      "rank": 94,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "GAS",
+      "rank": 52,
+      "atr": 0.0974,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QASH",
+      "rank": 44,
+      "atr": 0.1094,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WGR",
+      "rank": 152,
+      "atr": 0.1168,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "NLG",
+      "rank": 165,
+      "atr": 0.1216,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 56,
+      "atr": 0.1324,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 92.9504,
+    "leverage": 0.1274,
+    "atr": 0.0141,
+    "marketcap_pnt": 0.0042,
+    "green_marketcap_pnt": 0
+  }
+}

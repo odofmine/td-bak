@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "PART",
+      "pnl": -0.059,
+      "pnl_value": -0.0392,
+      "weight": 0.0072,
+      "rank": 74,
+      "atr": 0.1542,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0616,
+      "pnl_value": -0.0694,
+      "weight": 0.0122,
+      "rank": 1,
+      "atr": 0.0917,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0704,
+      "pnl_value": -0.0845,
+      "weight": 0.013,
+      "rank": 9,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0807,
+      "pnl_value": -0.079,
+      "weight": 0.0106,
+      "rank": 56,
+      "atr": 0.1054,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": -0.1146,
+      "pnl_value": -0.0963,
+      "weight": 0.0091,
+      "rank": 48,
+      "atr": 0.1234,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MTL",
+      "pnl": -0.1228,
+      "pnl_value": -0.0941,
+      "weight": 0.0083,
+      "rank": 137,
+      "atr": 0.1352,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CNX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "FCT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0917,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 56,
+      "atr": 0.1054,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 48,
+      "atr": 0.1234,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 137,
+      "atr": 0.1352,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 74,
+      "atr": 0.1542,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.005,
+    "cum_pnl": 90.8723,
+    "leverage": 0.0604,
+    "atr": 0.0067,
+    "marketcap_pnt": 0.437,
+    "green_marketcap_pnt": 0
+  }
+}

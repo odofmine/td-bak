@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": 0.1836,
+      "pnl_value": 0.0062,
+      "weight": 0.0258,
+      "rank": 181,
+      "atr": 0.0551,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0306,
+      "pnl_value": 0.0007,
+      "weight": 0.0175,
+      "rank": 88,
+      "atr": 0.0814,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.0185,
+      "pnl_value": 0.0004,
+      "weight": 0.0161,
+      "rank": 198,
+      "atr": 0.0883,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0082,
+      "pnl_value": -0.0002,
+      "weight": 0.0202,
+      "rank": 67,
+      "atr": 0.0705,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "STRAT",
+      "pnl": -0.1273,
+      "pnl_value": -0.0034,
+      "weight": 0.0202,
+      "rank": 155,
+      "atr": 0.0704,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0551,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 155,
+      "atr": 0.0704,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 67,
+      "atr": 0.0705,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0814,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0883,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0028,
+    "cum_pnl": 0.3201,
+    "leverage": 0.0998,
+    "atr": 0.0071,
+    "marketcap_pnt": 0.0012,
+    "green_marketcap_pnt": 0
+  }
+}

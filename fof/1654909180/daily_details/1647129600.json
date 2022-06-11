@@ -1,0 +1,58 @@
+{
+  "pnls": [
+    {
+      "name": "ZEC",
+      "pnl": 0.0211,
+      "pnl_value": 0.0384,
+      "weight": 0.0104,
+      "rank": 60,
+      "atr": 0.0849,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0529,
+      "pnl_value": -0.0879,
+      "weight": 0.0095,
+      "rank": 43,
+      "atr": 0.0926,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "WAVES",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ZEC",
+      "rank": 60,
+      "atr": 0.0849,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 43,
+      "atr": 0.0926,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 174.0196,
+    "leverage": 0.0199,
+    "atr": 0.0018,
+    "marketcap_pnt": 0.0026,
+    "green_marketcap_pnt": 0
+  }
+}

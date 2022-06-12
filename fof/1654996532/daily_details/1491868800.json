@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "VIA",
+      "pnl": 0.2058,
+      "pnl_value": 0.0269,
+      "weight": 0.0738,
+      "rank": 87,
+      "atr": 0.1233,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "POT",
+      "pnl": 0.0728,
+      "pnl_value": 0.012,
+      "weight": 0.093,
+      "rank": 54,
+      "atr": 0.0979,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0407,
+      "pnl_value": 0.0062,
+      "weight": 0.0862,
+      "rank": 52,
+      "atr": 0.1056,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0116,
+      "pnl_value": 0.0038,
+      "weight": 0.1847,
+      "rank": 1,
+      "atr": 0.0493,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0053,
+      "pnl_value": -0.0009,
+      "weight": 0.0908,
+      "rank": 20,
+      "atr": 0.1002,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BELA",
+      "pnl": -0.0279,
+      "pnl_value": -0.0044,
+      "weight": 0.0884,
+      "rank": 68,
+      "atr": 0.103,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "PPC",
+      "pnl": -0.042,
+      "pnl_value": -0.0061,
+      "weight": 0.0825,
+      "rank": 34,
+      "atr": 0.1103,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.0521,
+      "pnl_value": -0.0092,
+      "weight": 0.1002,
+      "rank": 8,
+      "atr": 0.0908,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0493,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0908,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "POT",
+      "rank": 54,
+      "atr": 0.0979,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 20,
+      "atr": 0.1002,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BELA",
+      "rank": 68,
+      "atr": 0.103,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 52,
+      "atr": 0.1056,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PPC",
+      "rank": 34,
+      "atr": 0.1103,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 87,
+      "atr": 0.1233,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.016,
+    "cum_pnl": 0.8007,
+    "leverage": 0.7996,
+    "atr": 0.0728,
+    "marketcap_pnt": 0.7072,
+    "green_marketcap_pnt": 0
+  }
+}

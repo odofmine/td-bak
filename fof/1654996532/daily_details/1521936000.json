@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": -0.0116,
+      "pnl_value": -0.0104,
+      "weight": 0.0098,
+      "rank": 123,
+      "atr": 0.134,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.0226,
+      "pnl_value": -0.0214,
+      "weight": 0.0103,
+      "rank": 23,
+      "atr": 0.1278,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 23,
+      "atr": 0.1278,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 123,
+      "atr": 0.134,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0003,
+    "cum_pnl": 90.5257,
+    "leverage": 0.0201,
+    "atr": 0.0026,
+    "marketcap_pnt": 0.0031,
+    "green_marketcap_pnt": 0
+  }
+}

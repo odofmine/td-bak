@@ -1,0 +1,41 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": -0.0784,
+      "pnl_value": -0.0889,
+      "weight": 0.01,
+      "rank": 13,
+      "atr": 0.0648,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETC",
+      "rank": 13,
+      "atr": 0.0648,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 112.2791,
+    "leverage": 0.01,
+    "atr": 0.0006,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

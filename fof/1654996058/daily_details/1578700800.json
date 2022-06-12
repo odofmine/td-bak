@@ -1,0 +1,269 @@
+{
+  "pnls": [
+    {
+      "name": "DASH",
+      "pnl": 0.1159,
+      "pnl_value": 0.001,
+      "weight": 0.0084,
+      "rank": 26,
+      "atr": 0.0637,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0387,
+      "pnl_value": 0.0004,
+      "weight": 0.01,
+      "rank": 21,
+      "atr": 0.0536,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZEC",
+      "pnl": 0.0341,
+      "pnl_value": 0.0003,
+      "weight": 0.0089,
+      "rank": 34,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LINK",
+      "pnl": 0.0213,
+      "pnl_value": 0.0002,
+      "weight": 0.0082,
+      "rank": 20,
+      "atr": 0.0651,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LTC",
+      "pnl": 0.0053,
+      "pnl_value": 0.0001,
+      "weight": 0.0096,
+      "rank": 6,
+      "atr": 0.0558,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "EOS",
+      "pnl": 0.0007,
+      "pnl_value": 0.0,
+      "weight": 0.0099,
+      "rank": 7,
+      "atr": 0.0543,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0044,
+      "pnl_value": -0.0,
+      "weight": 0.0103,
+      "rank": 10,
+      "atr": 0.0524,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ADA",
+      "pnl": -0.0054,
+      "pnl_value": -0.0001,
+      "weight": 0.01,
+      "rank": 13,
+      "atr": 0.0535,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "TRX",
+      "pnl": -0.0061,
+      "pnl_value": -0.0001,
+      "weight": 0.009,
+      "rank": 12,
+      "atr": 0.0595,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BNB",
+      "pnl": -0.01,
+      "pnl_value": -0.0001,
+      "weight": 0.0103,
+      "rank": 8,
+      "atr": 0.052,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DOGE",
+      "pnl": -0.0153,
+      "pnl_value": -0.0002,
+      "weight": 0.0115,
+      "rank": 31,
+      "atr": 0.0468,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ETH",
+      "pnl": -0.0168,
+      "pnl_value": -0.0002,
+      "weight": 0.0104,
+      "rank": 2,
+      "atr": 0.0516,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0189,
+      "pnl_value": -0.0002,
+      "weight": 0.0094,
+      "rank": 18,
+      "atr": 0.0569,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0218,
+      "pnl_value": -0.0003,
+      "weight": 0.013,
+      "rank": 1,
+      "atr": 0.0415,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BCH",
+      "pnl": -0.0414,
+      "pnl_value": -0.0005,
+      "weight": 0.0117,
+      "rank": 5,
+      "atr": 0.0461,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0415,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BCH",
+      "rank": 5,
+      "atr": 0.0461,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DOGE",
+      "rank": 31,
+      "atr": 0.0468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETH",
+      "rank": 2,
+      "atr": 0.0516,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.052,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 10,
+      "atr": 0.0524,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ADA",
+      "rank": 13,
+      "atr": 0.0535,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 21,
+      "atr": 0.0536,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 7,
+      "atr": 0.0543,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0558,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 18,
+      "atr": 0.0569,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "TRX",
+      "rank": 12,
+      "atr": 0.0595,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZEC",
+      "rank": 34,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 26,
+      "atr": 0.0637,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LINK",
+      "rank": 20,
+      "atr": 0.0651,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0003,
+    "cum_pnl": 0.0041,
+    "leverage": 0.1506,
+    "atr": 0.0081,
+    "marketcap_pnt": 0.8373,
+    "green_marketcap_pnt": 0
+  }
+}

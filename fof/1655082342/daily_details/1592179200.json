@@ -1,0 +1,105 @@
+{
+  "pnls": [
+    {
+      "name": "REN",
+      "pnl": 0.1491,
+      "pnl_value": 0.0031,
+      "weight": 0.0161,
+      "rank": 88,
+      "atr": 0.0896,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ERD",
+      "pnl": 0.07,
+      "pnl_value": 0.0022,
+      "weight": 0.0246,
+      "rank": 181,
+      "atr": 0.0588,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "WAN",
+      "pnl": -0.0234,
+      "pnl_value": -0.0006,
+      "weight": 0.0191,
+      "rank": 186,
+      "atr": 0.0758,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BNT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STRAT",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "IOST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "STX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0588,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "WAN",
+      "rank": 186,
+      "atr": 0.0758,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.0896,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0037,
+    "cum_pnl": 0.3047,
+    "leverage": 0.0598,
+    "atr": 0.0043,
+    "marketcap_pnt": 0.0005,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "LTC",
+      "pnl": 0.5287,
+      "pnl_value": 4.1324,
+      "weight": 0.1629,
+      "rank": 6,
+      "atr": 0.0581,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WAVES",
+      "pnl": 0.3047,
+      "pnl_value": 1.8754,
+      "weight": 0.1283,
+      "rank": 18,
+      "atr": 0.0738,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MCO",
+      "pnl": 0.2134,
+      "pnl_value": 0.5968,
+      "weight": 0.0583,
+      "rank": 66,
+      "atr": 0.1622,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "CRW",
+      "pnl": 0.066,
+      "pnl_value": 0.2622,
+      "weight": 0.0828,
+      "rank": 175,
+      "atr": 0.1143,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NXS",
+      "pnl": 0.052,
+      "pnl_value": 0.1608,
+      "weight": 0.0645,
+      "rank": 79,
+      "atr": 0.1468,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.021,
+      "pnl_value": 0.1568,
+      "weight": 0.156,
+      "rank": 1,
+      "atr": 0.0607,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CND",
+      "pnl": -0.1473,
+      "pnl_value": -0.3315,
+      "weight": 0.0469,
+      "rank": 184,
+      "atr": 0.2016,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.0581,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0607,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WAVES",
+      "rank": 18,
+      "atr": 0.0738,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRW",
+      "rank": 175,
+      "atr": 0.1143,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NXS",
+      "rank": 79,
+      "atr": 0.1468,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MCO",
+      "rank": 66,
+      "atr": 0.1622,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CND",
+      "rank": 184,
+      "atr": 0.2016,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.1428,
+    "cum_pnl": 53.8314,
+    "leverage": 0.6997,
+    "atr": 0.0662,
+    "marketcap_pnt": 0.6552,
+    "green_marketcap_pnt": 0
+  }
+}

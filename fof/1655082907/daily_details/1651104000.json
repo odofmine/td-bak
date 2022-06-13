@@ -1,0 +1,65 @@
+{
+  "pnls": [
+    {
+      "name": "APE",
+      "pnl": 0.2198,
+      "pnl_value": 176.2749,
+      "weight": 0.0105,
+      "rank": 29,
+      "atr": 0.0701,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KAVA",
+      "pnl": 0.0813,
+      "pnl_value": 62.1155,
+      "weight": 0.01,
+      "rank": 85,
+      "atr": 0.0736,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "KNC",
+      "pnl": -0.005,
+      "pnl_value": -3.6938,
+      "weight": 0.0096,
+      "rank": 91,
+      "atr": 0.0768,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "APE",
+      "rank": 29,
+      "atr": 0.0701,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KAVA",
+      "rank": 85,
+      "atr": 0.0736,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "KNC",
+      "rank": 91,
+      "atr": 0.0768,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0031,
+    "cum_pnl": 76625.3726,
+    "leverage": 0.0301,
+    "atr": 0.0022,
+    "marketcap_pnt": 0.0036,
+    "green_marketcap_pnt": 0
+  }
+}

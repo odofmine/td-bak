@@ -1,0 +1,133 @@
+{
+  "pnls": [
+    {
+      "name": "AXS",
+      "pnl": 0.2763,
+      "pnl_value": 1368.1159,
+      "weight": 0.1188,
+      "rank": 38,
+      "atr": 0.0796,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XTZ",
+      "pnl": 0.1853,
+      "pnl_value": 714.4929,
+      "weight": 0.0925,
+      "rank": 30,
+      "atr": 0.1022,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ICX",
+      "pnl": 0.1086,
+      "pnl_value": 423.2165,
+      "weight": 0.0935,
+      "rank": 85,
+      "atr": 0.1011,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "OMG",
+      "pnl": 0.0637,
+      "pnl_value": 318.4058,
+      "weight": 0.12,
+      "rank": 77,
+      "atr": 0.0788,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LUNA",
+      "pnl": 0.0274,
+      "pnl_value": 105.556,
+      "weight": 0.0924,
+      "rank": 13,
+      "atr": 0.1023,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0106,
+      "pnl_value": -42.5036,
+      "weight": 0.0961,
+      "rank": 81,
+      "atr": 0.0984,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0146,
+      "pnl_value": -52.5,
+      "weight": 0.0864,
+      "rank": 71,
+      "atr": 0.1094,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "OMG",
+      "rank": 77,
+      "atr": 0.0788,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AXS",
+      "rank": 38,
+      "atr": 0.0796,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 81,
+      "atr": 0.0984,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ICX",
+      "rank": 85,
+      "atr": 0.1011,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XTZ",
+      "rank": 30,
+      "atr": 0.1022,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LUNA",
+      "rank": 13,
+      "atr": 0.1023,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 71,
+      "atr": 0.1094,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.068,
+    "cum_pnl": 44510.6429,
+    "leverage": 0.6997,
+    "atr": 0.0662,
+    "marketcap_pnt": 0.0149,
+    "green_marketcap_pnt": 0
+  }
+}

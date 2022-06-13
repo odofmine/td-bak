@@ -1,0 +1,136 @@
+{
+  "pnls": [
+    {
+      "name": "EKT",
+      "pnl": 0.0366,
+      "pnl_value": 0.1086,
+      "weight": 0.0111,
+      "rank": 71,
+      "atr": 0.0623,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NRG",
+      "pnl": 0.0361,
+      "pnl_value": 0.0772,
+      "weight": 0.008,
+      "rank": 55,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0246,
+      "pnl_value": 0.0356,
+      "weight": 0.0054,
+      "rank": 79,
+      "atr": 0.1273,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CIX100",
+      "pnl": 0.0009,
+      "pnl_value": 0.0032,
+      "weight": 0.0127,
+      "rank": 114,
+      "atr": 0.0548,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0007,
+      "pnl_value": 0.0022,
+      "weight": 0.0115,
+      "rank": 1,
+      "atr": 0.0603,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0214,
+      "pnl_value": -0.0659,
+      "weight": 0.0115,
+      "rank": 11,
+      "atr": 0.0604,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "DCR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XTZ",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "CIX100",
+      "rank": 114,
+      "atr": 0.0548,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0603,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 11,
+      "atr": 0.0604,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EKT",
+      "rank": 71,
+      "atr": 0.0623,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NRG",
+      "rank": 55,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 79,
+      "atr": 0.1273,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0006,
+    "cum_pnl": 266.6851,
+    "leverage": 0.0602,
+    "atr": 0.0042,
+    "marketcap_pnt": 0.6811,
+    "green_marketcap_pnt": 0
+  }
+}

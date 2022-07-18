@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "LSK",
+      "pnl": 0.1249,
+      "pnl_value": 0.0574,
+      "weight": 0.0322,
+      "rank": 15,
+      "atr": 0.1084,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MIOTA",
+      "pnl": 0.0384,
+      "pnl_value": 0.0155,
+      "weight": 0.0283,
+      "rank": 9,
+      "atr": 0.123,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": 0.0271,
+      "pnl_value": 0.0096,
+      "weight": 0.0249,
+      "rank": 53,
+      "atr": 0.1397,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0033,
+      "pnl_value": -0.0019,
+      "weight": 0.0409,
+      "rank": 5,
+      "atr": 0.0852,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": -0.0105,
+      "pnl_value": -0.006,
+      "weight": 0.0401,
+      "rank": 7,
+      "atr": 0.087,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "DASH",
+      "rank": 5,
+      "atr": 0.0852,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XMR",
+      "rank": 7,
+      "atr": 0.087,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LSK",
+      "rank": 15,
+      "atr": 0.1084,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 9,
+      "atr": 0.123,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 53,
+      "atr": 0.1397,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0052,
+    "cum_pnl": 13.3443,
+    "leverage": 0.1664,
+    "atr": 0.0174,
+    "marketcap_pnt": 0.0437,
+    "green_marketcap_pnt": 0
+  }
+}

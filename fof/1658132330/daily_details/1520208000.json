@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "MTL",
+      "pnl": 0.164,
+      "pnl_value": 0.1179,
+      "weight": 0.0078,
+      "rank": 137,
+      "atr": 0.1563,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "PART",
+      "pnl": 0.1322,
+      "pnl_value": 0.0865,
+      "weight": 0.0071,
+      "rank": 74,
+      "atr": 0.17,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "BTM",
+      "pnl": 0.0865,
+      "pnl_value": 0.0717,
+      "weight": 0.009,
+      "rank": 48,
+      "atr": 0.1347,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": 0.0113,
+      "pnl_value": 0.0116,
+      "weight": 0.0111,
+      "rank": 56,
+      "atr": 0.1095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XMR",
+      "pnl": 0.0059,
+      "pnl_value": 0.0076,
+      "weight": 0.0139,
+      "rank": 9,
+      "atr": 0.0873,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": -0.0055,
+      "pnl_value": -0.0066,
+      "weight": 0.013,
+      "rank": 1,
+      "atr": 0.0935,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "CNX",
+      "pnl": -0.0482,
+      "pnl_value": -0.0422,
+      "weight": 0.0095,
+      "rank": 55,
+      "atr": 0.1274,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "FCT",
+      "pnl": -0.0826,
+      "pnl_value": -0.0677,
+      "weight": 0.0089,
+      "rank": 62,
+      "atr": 0.1364,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XMR",
+      "rank": 9,
+      "atr": 0.0873,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0935,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 56,
+      "atr": 0.1095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "CNX",
+      "rank": 55,
+      "atr": 0.1274,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTM",
+      "rank": 48,
+      "atr": 0.1347,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "FCT",
+      "rank": 62,
+      "atr": 0.1364,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MTL",
+      "rank": 137,
+      "atr": 0.1563,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "PART",
+      "rank": 74,
+      "atr": 0.17,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0019,
+    "cum_pnl": 91.3348,
+    "leverage": 0.0803,
+    "atr": 0.0097,
+    "marketcap_pnt": 0.4385,
+    "green_marketcap_pnt": 0
+  }
+}

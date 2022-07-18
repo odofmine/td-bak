@@ -1,0 +1,75 @@
+{
+  "pnls": [
+    {
+      "name": "WTC",
+      "pnl": 0.0213,
+      "pnl_value": 0.0225,
+      "weight": 0.0115,
+      "rank": 44,
+      "atr": 0.1319,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0067,
+      "pnl_value": -0.0065,
+      "weight": 0.0106,
+      "rank": 9,
+      "atr": 0.1436,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "IOC",
+      "pnl": -0.1162,
+      "pnl_value": -0.0896,
+      "weight": 0.0084,
+      "rank": 195,
+      "atr": 0.181,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "BTX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "WTC",
+      "rank": 44,
+      "atr": 0.1319,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 9,
+      "atr": 0.1436,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "IOC",
+      "rank": 195,
+      "atr": 0.181,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 90.7405,
+    "leverage": 0.0305,
+    "atr": 0.0046,
+    "marketcap_pnt": 0.0166,
+    "green_marketcap_pnt": 0
+  }
+}

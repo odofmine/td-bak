@@ -1,0 +1,109 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": -0.0135,
+      "pnl_value": -0.0185,
+      "weight": 0.012,
+      "rank": 17,
+      "atr": 0.0663,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ONT",
+      "pnl": -0.0312,
+      "pnl_value": -0.0302,
+      "weight": 0.0085,
+      "rank": 25,
+      "atr": 0.0936,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.0488,
+      "pnl_value": -0.059,
+      "weight": 0.0106,
+      "rank": 30,
+      "atr": 0.0745,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "DDD",
+      "pnl": -0.054,
+      "pnl_value": -0.0604,
+      "weight": 0.0098,
+      "rank": 113,
+      "atr": 0.081,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "HPB",
+      "pnl": -0.062,
+      "pnl_value": -0.0664,
+      "weight": 0.0094,
+      "rank": 128,
+      "atr": 0.0841,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DATA",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 17,
+      "atr": 0.0663,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 30,
+      "atr": 0.0745,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DDD",
+      "rank": 113,
+      "atr": 0.081,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "HPB",
+      "rank": 128,
+      "atr": 0.0841,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONT",
+      "rank": 25,
+      "atr": 0.0936,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0021,
+    "cum_pnl": 112.8163,
+    "leverage": 0.0503,
+    "atr": 0.004,
+    "marketcap_pnt": 0.0105,
+    "green_marketcap_pnt": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "VTC",
+      "pnl": 0.0853,
+      "pnl_value": 0.1088,
+      "weight": 0.0951,
+      "rank": 43,
+      "atr": 0.108,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "NEBL",
+      "pnl": -0.0071,
+      "pnl_value": -0.01,
+      "weight": 0.1048,
+      "rank": 82,
+      "atr": 0.098,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "NEBL",
+      "rank": 82,
+      "atr": 0.098,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 43,
+      "atr": 0.108,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0074,
+    "cum_pnl": 12.5216,
+    "leverage": 0.1999,
+    "atr": 0.0205,
+    "marketcap_pnt": 0.0011,
+    "green_marketcap_pnt": 0
+  }
+}

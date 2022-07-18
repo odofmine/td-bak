@@ -1,0 +1,139 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.0088,
+      "pnl_value": 0.0175,
+      "weight": 0.0105,
+      "rank": 48,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0054,
+      "pnl_value": -0.01,
+      "weight": 0.0098,
+      "rank": 18,
+      "atr": 0.1067,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0476,
+      "pnl_value": -0.0801,
+      "weight": 0.0089,
+      "rank": 19,
+      "atr": 0.1184,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "TWT",
+      "pnl": -0.117,
+      "pnl_value": -0.2433,
+      "weight": 0.011,
+      "rank": 119,
+      "atr": 0.0953,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "ELF",
+      "pnl": -0.2563,
+      "pnl_value": -0.4605,
+      "weight": 0.0095,
+      "rank": 164,
+      "atr": 0.1102,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SHIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "COMP",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "REN",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "DYDX",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "TWT",
+      "rank": 119,
+      "atr": 0.0953,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.1067,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 164,
+      "atr": 0.1102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1184,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0041,
+    "cum_pnl": 187.3361,
+    "leverage": 0.0497,
+    "atr": 0.0052,
+    "marketcap_pnt": 0.0114,
+    "green_marketcap_pnt": 0
+  }
+}

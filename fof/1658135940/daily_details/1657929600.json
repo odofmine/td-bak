@@ -1,0 +1,235 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.2102,
+      "pnl_value": 81.3183,
+      "weight": 0.0051,
+      "rank": 130,
+      "atr": 0.1937,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RAY",
+      "pnl": 0.1553,
+      "pnl_value": 113.1112,
+      "weight": 0.0096,
+      "rank": 198,
+      "atr": 0.1041,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "AR",
+      "pnl": 0.1348,
+      "pnl_value": 105.3475,
+      "weight": 0.0103,
+      "rank": 83,
+      "atr": 0.0974,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "UNI",
+      "pnl": 0.0877,
+      "pnl_value": 73.23,
+      "weight": 0.011,
+      "rank": 18,
+      "atr": 0.0906,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": 0.0609,
+      "pnl_value": 45.7389,
+      "weight": 0.0099,
+      "rank": 110,
+      "atr": 0.1005,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CRV",
+      "pnl": 0.0605,
+      "pnl_value": 39.0319,
+      "weight": 0.0085,
+      "rank": 72,
+      "atr": 0.1179,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0371,
+      "pnl_value": 25.0627,
+      "weight": 0.0089,
+      "rank": 147,
+      "atr": 0.112,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MATIC",
+      "pnl": 0.037,
+      "pnl_value": 28.8938,
+      "weight": 0.0103,
+      "rank": 19,
+      "atr": 0.0973,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AAVE",
+      "pnl": 0.0273,
+      "pnl_value": 18.46,
+      "weight": 0.0089,
+      "rank": 45,
+      "atr": 0.1121,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "COMP",
+      "pnl": 0.014,
+      "pnl_value": 8.8965,
+      "weight": 0.0084,
+      "rank": 85,
+      "atr": 0.1182,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MX",
+      "pnl": 0.0068,
+      "pnl_value": 8.9351,
+      "weight": 0.0173,
+      "rank": 158,
+      "atr": 0.0578,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.0162,
+      "pnl_value": -15.1036,
+      "weight": 0.0123,
+      "rank": 48,
+      "atr": 0.0815,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.0256,
+      "pnl_value": -17.1085,
+      "weight": 0.0088,
+      "rank": 154,
+      "atr": 0.1139,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "MX",
+      "rank": 158,
+      "atr": 0.0578,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0815,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0906,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.0973,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 83,
+      "atr": 0.0974,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 110,
+      "atr": 0.1005,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "RAY",
+      "rank": 198,
+      "atr": 0.1041,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 147,
+      "atr": 0.112,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.1121,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 154,
+      "atr": 0.1139,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CRV",
+      "rank": 72,
+      "atr": 0.1179,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 85,
+      "atr": 0.1182,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 130,
+      "atr": 0.1937,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0068,
+    "cum_pnl": 76385.3594,
+    "leverage": 0.1293,
+    "atr": 0.013,
+    "marketcap_pnt": 0.0147,
+    "green_marketcap_pnt": 0
+  }
+}

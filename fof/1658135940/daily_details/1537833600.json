@@ -1,0 +1,122 @@
+{
+  "pnls": [
+    {
+      "name": "XRP",
+      "pnl": 0.0666,
+      "pnl_value": 0.069,
+      "weight": 0.0093,
+      "rank": 3,
+      "atr": 0.095,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "XLM",
+      "pnl": -0.0186,
+      "pnl_value": -0.0222,
+      "weight": 0.0107,
+      "rank": 6,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ETP",
+      "pnl": -0.0242,
+      "pnl_value": -0.0353,
+      "weight": 0.0131,
+      "rank": 42,
+      "atr": 0.0677,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "QKC",
+      "pnl": -0.0716,
+      "pnl_value": -0.0534,
+      "weight": 0.0067,
+      "rank": 139,
+      "atr": 0.1311,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTG",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "EDO",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "PAY",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ETP",
+      "rank": 42,
+      "atr": 0.0677,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XLM",
+      "rank": 6,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "XRP",
+      "rank": 3,
+      "atr": 0.095,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QKC",
+      "rank": 139,
+      "atr": 0.1311,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0004,
+    "cum_pnl": 110.2762,
+    "leverage": 0.0398,
+    "atr": 0.0035,
+    "marketcap_pnt": 0.1273,
+    "green_marketcap_pnt": 0
+  }
+}

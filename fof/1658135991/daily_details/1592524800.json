@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "ERD",
+      "pnl": 0.1408,
+      "pnl_value": 0.005,
+      "weight": 0.0271,
+      "rank": 181,
+      "atr": 0.0529,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ONE",
+      "pnl": 0.093,
+      "pnl_value": 0.002,
+      "weight": 0.0166,
+      "rank": 198,
+      "atr": 0.0863,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "RLC",
+      "pnl": 0.0405,
+      "pnl_value": 0.001,
+      "weight": 0.018,
+      "rank": 154,
+      "atr": 0.0794,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "STRAT",
+      "pnl": 0.0336,
+      "pnl_value": 0.0008,
+      "weight": 0.017,
+      "rank": 155,
+      "atr": 0.0842,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "REN",
+      "pnl": 0.0165,
+      "pnl_value": 0.0004,
+      "weight": 0.0181,
+      "rank": 88,
+      "atr": 0.079,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTS",
+      "pnl": -0.0386,
+      "pnl_value": -0.0011,
+      "weight": 0.0207,
+      "rank": 118,
+      "atr": 0.0692,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "RVN",
+      "pnl": -0.0431,
+      "pnl_value": -0.0011,
+      "weight": 0.02,
+      "rank": 67,
+      "atr": 0.0715,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "CHZ",
+      "pnl": -0.0442,
+      "pnl_value": -0.0013,
+      "weight": 0.022,
+      "rank": 134,
+      "atr": 0.065,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "ERD",
+      "rank": 181,
+      "atr": 0.0529,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "CHZ",
+      "rank": 134,
+      "atr": 0.065,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTS",
+      "rank": 118,
+      "atr": 0.0692,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RVN",
+      "rank": 67,
+      "atr": 0.0715,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 88,
+      "atr": 0.079,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "RLC",
+      "rank": 154,
+      "atr": 0.0794,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "STRAT",
+      "rank": 155,
+      "atr": 0.0842,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ONE",
+      "rank": 198,
+      "atr": 0.0863,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0043,
+    "cum_pnl": 0.3258,
+    "leverage": 0.1595,
+    "atr": 0.0114,
+    "marketcap_pnt": 0.0017,
+    "green_marketcap_pnt": 0
+  }
+}

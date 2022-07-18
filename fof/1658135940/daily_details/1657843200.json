@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "LDO",
+      "pnl": 0.2521,
+      "pnl_value": 84.0545,
+      "weight": 0.0044,
+      "rank": 130,
+      "atr": 0.236,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": 0.0706,
+      "pnl_value": 65.8564,
+      "weight": 0.0123,
+      "rank": 48,
+      "atr": 0.0851,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SUSHI",
+      "pnl": 0.0086,
+      "pnl_value": 5.9584,
+      "weight": 0.0091,
+      "rank": 147,
+      "atr": 0.1148,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0082,
+      "pnl_value": -6.696,
+      "weight": 0.0108,
+      "rank": 19,
+      "atr": 0.097,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "AAVE",
+      "pnl": -0.0091,
+      "pnl_value": -6.4851,
+      "weight": 0.0094,
+      "rank": 45,
+      "atr": 0.1116,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0187,
+      "pnl_value": -14.8608,
+      "weight": 0.0105,
+      "rank": 110,
+      "atr": 0.0995,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "AR",
+      "pnl": -0.0209,
+      "pnl_value": -17.3068,
+      "weight": 0.0109,
+      "rank": 83,
+      "atr": 0.0959,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.0329,
+      "pnl_value": -29.9615,
+      "weight": 0.012,
+      "rank": 18,
+      "atr": 0.0872,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0851,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0872,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "AR",
+      "rank": 83,
+      "atr": 0.0959,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.097,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 110,
+      "atr": 0.0995,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "AAVE",
+      "rank": 45,
+      "atr": 0.1116,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SUSHI",
+      "rank": 147,
+      "atr": 0.1148,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LDO",
+      "rank": 130,
+      "atr": 0.236,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0011,
+    "cum_pnl": 75869.5457,
+    "leverage": 0.0794,
+    "atr": 0.0084,
+    "marketcap_pnt": 0.0133,
+    "green_marketcap_pnt": 0
+  }
+}

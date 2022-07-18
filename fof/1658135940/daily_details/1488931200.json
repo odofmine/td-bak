@@ -1,0 +1,95 @@
+{
+  "pnls": [
+    {
+      "name": "REP",
+      "pnl": -0.081,
+      "pnl_value": -0.0078,
+      "weight": 0.084,
+      "rank": 10,
+      "atr": 0.1049,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DCR",
+      "pnl": -0.1657,
+      "pnl_value": -0.0167,
+      "weight": 0.0886,
+      "rank": 34,
+      "atr": 0.0995,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": -0.1752,
+      "pnl_value": -0.0254,
+      "weight": 0.1272,
+      "rank": 8,
+      "atr": 0.0693,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "ETH",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "XMR",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "XEM",
+      "rank": 8,
+      "atr": 0.0693,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DCR",
+      "rank": 34,
+      "atr": 0.0995,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "REP",
+      "rank": 10,
+      "atr": 0.1049,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0437,
+    "cum_pnl": 0.089,
+    "leverage": 0.2998,
+    "atr": 0.0264,
+    "marketcap_pnt": 0.0073,
+    "green_marketcap_pnt": 0
+  }
+}

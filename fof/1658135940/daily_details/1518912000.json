@@ -1,0 +1,116 @@
+{
+  "pnls": [
+    {
+      "name": "ETC",
+      "pnl": -0.0141,
+      "pnl_value": -0.013,
+      "weight": 0.01,
+      "rank": 16,
+      "atr": 0.1238,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTX",
+      "pnl": -0.0367,
+      "pnl_value": -0.0294,
+      "weight": 0.0087,
+      "rank": 66,
+      "atr": 0.142,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SYS",
+      "pnl": -0.0392,
+      "pnl_value": -0.0368,
+      "weight": 0.0102,
+      "rank": 74,
+      "atr": 0.1207,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LTC",
+      "pnl": -0.0666,
+      "pnl_value": -0.0638,
+      "weight": 0.0104,
+      "rank": 6,
+      "atr": 0.1188,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ZCL",
+      "pnl": -0.0677,
+      "pnl_value": -0.0612,
+      "weight": 0.0098,
+      "rank": 61,
+      "atr": 0.1258,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "LSK",
+      "pnl": -0.1181,
+      "pnl_value": -0.1219,
+      "weight": 0.0112,
+      "rank": 14,
+      "atr": 0.1102,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "LSK",
+      "rank": 14,
+      "atr": 0.1102,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LTC",
+      "rank": 6,
+      "atr": 0.1188,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SYS",
+      "rank": 74,
+      "atr": 0.1207,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 16,
+      "atr": 0.1238,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ZCL",
+      "rank": 61,
+      "atr": 0.1258,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "BTX",
+      "rank": 66,
+      "atr": 0.142,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0035,
+    "cum_pnl": 90.8103,
+    "leverage": 0.0603,
+    "atr": 0.0074,
+    "marketcap_pnt": 0.0371,
+    "green_marketcap_pnt": 0
+  }
+}

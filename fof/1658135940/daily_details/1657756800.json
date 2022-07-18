@@ -1,0 +1,48 @@
+{
+  "pnls": [
+    {
+      "name": "QNT",
+      "pnl": 0.1508,
+      "pnl_value": 115.2897,
+      "weight": 0.0101,
+      "rank": 48,
+      "atr": 0.0946,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SRM",
+      "pnl": -0.0299,
+      "pnl_value": -22.1742,
+      "weight": 0.0098,
+      "rank": 110,
+      "atr": 0.0969,
+      "score": 2,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0946,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SRM",
+      "rank": 110,
+      "atr": 0.0969,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0012,
+    "cum_pnl": 75788.9865,
+    "leverage": 0.0199,
+    "atr": 0.0019,
+    "marketcap_pnt": 0.0014,
+    "green_marketcap_pnt": 0
+  }
+}

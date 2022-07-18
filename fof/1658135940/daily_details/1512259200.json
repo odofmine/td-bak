@@ -1,0 +1,232 @@
+{
+  "pnls": [
+    {
+      "name": "MIOTA",
+      "pnl": 0.269,
+      "pnl_value": 0.7393,
+      "weight": 0.0885,
+      "rank": 10,
+      "atr": 0.0938,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "ARDR",
+      "pnl": 0.0965,
+      "pnl_value": 0.2984,
+      "weight": 0.0995,
+      "rank": 30,
+      "atr": 0.0834,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "XEM",
+      "pnl": 0.0761,
+      "pnl_value": 0.1847,
+      "weight": 0.0782,
+      "rank": 12,
+      "atr": 0.1061,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "MONA",
+      "pnl": 0.0389,
+      "pnl_value": 0.0956,
+      "weight": 0.0792,
+      "rank": 37,
+      "atr": 0.1048,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "BTC",
+      "pnl": 0.0304,
+      "pnl_value": 0.1492,
+      "weight": 0.1581,
+      "rank": 1,
+      "atr": 0.0525,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "ETC",
+      "pnl": 0.0055,
+      "pnl_value": 0.0173,
+      "weight": 0.1005,
+      "rank": 11,
+      "atr": 0.0826,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "DASH",
+      "pnl": -0.0023,
+      "pnl_value": -0.0088,
+      "weight": 0.1211,
+      "rank": 6,
+      "atr": 0.0685,
+      "score": 1,
+      "status": "o"
+    },
+    {
+      "name": "VTC",
+      "pnl": -0.0092,
+      "pnl_value": -0.0247,
+      "weight": 0.0863,
+      "rank": 40,
+      "atr": 0.0962,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "WTC",
+      "pnl": -0.0312,
+      "pnl_value": -0.0703,
+      "weight": 0.0726,
+      "rank": 63,
+      "atr": 0.1142,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "EOS",
+      "pnl": -0.0844,
+      "pnl_value": -0.303,
+      "weight": 0.1156,
+      "rank": 13,
+      "atr": 0.0718,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "SIB",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    },
+    {
+      "name": "AST",
+      "pnl": "-",
+      "pnl_value": "-",
+      "weight": "-",
+      "rank": "-",
+      "atr": "-",
+      "score": "-",
+      "status": "-"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BTC",
+      "rank": 1,
+      "atr": 0.0525,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "DASH",
+      "rank": 6,
+      "atr": 0.0685,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "EOS",
+      "rank": 13,
+      "atr": 0.0718,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "ETC",
+      "rank": 11,
+      "atr": 0.0826,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ARDR",
+      "rank": 30,
+      "atr": 0.0834,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MIOTA",
+      "rank": 10,
+      "atr": 0.0938,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VTC",
+      "rank": 40,
+      "atr": 0.0962,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MONA",
+      "rank": 37,
+      "atr": 0.1048,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "XEM",
+      "rank": 12,
+      "atr": 0.1061,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "WTC",
+      "rank": 63,
+      "atr": 0.1142,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "SIB",
+      "rank": 178,
+      "atr": 0.1147,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "VIA",
+      "rank": 132,
+      "atr": 0.1158,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "PIVX",
+      "rank": 47,
+      "atr": 0.1208,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "GRS",
+      "rank": 127,
+      "atr": 0.1402,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": 0.0347,
+    "cum_pnl": 31.1368,
+    "leverage": 0.9996,
+    "atr": 0.083,
+    "marketcap_pnt": 0.578,
+    "green_marketcap_pnt": 0
+  }
+}

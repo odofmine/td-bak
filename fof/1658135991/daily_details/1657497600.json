@@ -1,0 +1,150 @@
+{
+  "pnls": [
+    {
+      "name": "ELF",
+      "pnl": 0.1113,
+      "pnl_value": 0.203,
+      "weight": 0.0096,
+      "rank": 164,
+      "atr": 0.115,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "MATIC",
+      "pnl": -0.0152,
+      "pnl_value": -0.0275,
+      "weight": 0.0095,
+      "rank": 19,
+      "atr": 0.1169,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "QNT",
+      "pnl": -0.021,
+      "pnl_value": -0.0463,
+      "weight": 0.0116,
+      "rank": 48,
+      "atr": 0.0954,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "SHIB",
+      "pnl": -0.0794,
+      "pnl_value": -0.1644,
+      "weight": 0.0109,
+      "rank": 14,
+      "atr": 0.102,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "COMP",
+      "pnl": -0.0901,
+      "pnl_value": -0.1523,
+      "weight": 0.0089,
+      "rank": 85,
+      "atr": 0.1245,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "UNI",
+      "pnl": -0.1074,
+      "pnl_value": -0.2428,
+      "weight": 0.0119,
+      "rank": 18,
+      "atr": 0.0929,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "REN",
+      "pnl": -0.1281,
+      "pnl_value": -0.202,
+      "weight": 0.0083,
+      "rank": 154,
+      "atr": 0.1336,
+      "score": 1,
+      "status": "+"
+    },
+    {
+      "name": "DYDX",
+      "pnl": -0.1572,
+      "pnl_value": -0.2688,
+      "weight": 0.009,
+      "rank": 159,
+      "atr": 0.1234,
+      "score": 1,
+      "status": "+"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "UNI",
+      "rank": 18,
+      "atr": 0.0929,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "QNT",
+      "rank": 48,
+      "atr": 0.0954,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "SHIB",
+      "rank": 14,
+      "atr": 0.102,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "ELF",
+      "rank": 164,
+      "atr": 0.115,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "MATIC",
+      "rank": 19,
+      "atr": 0.1169,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "DYDX",
+      "rank": 159,
+      "atr": 0.1234,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "COMP",
+      "rank": 85,
+      "atr": 0.1245,
+      "type": 0,
+      "score": 1
+    },
+    {
+      "name": "REN",
+      "rank": 154,
+      "atr": 0.1336,
+      "type": 0,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0047,
+    "cum_pnl": 188.1126,
+    "leverage": 0.0797,
+    "atr": 0.0089,
+    "marketcap_pnt": 0.0186,
+    "green_marketcap_pnt": 0
+  }
+}

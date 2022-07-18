@@ -1,0 +1,99 @@
+{
+  "pnls": [
+    {
+      "name": "BNB",
+      "pnl": 0.0934,
+      "pnl_value": 0.0033,
+      "weight": 0.0134,
+      "rank": 8,
+      "atr": 0.0619,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "THETA",
+      "pnl": -0.0115,
+      "pnl_value": -0.0003,
+      "weight": 0.009,
+      "rank": 45,
+      "atr": 0.0916,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "LRC",
+      "pnl": -0.0133,
+      "pnl_value": -0.0003,
+      "weight": 0.0073,
+      "rank": 70,
+      "atr": 0.1127,
+      "score": 2,
+      "status": "o"
+    },
+    {
+      "name": "NEO",
+      "pnl": -0.0638,
+      "pnl_value": -0.0018,
+      "weight": 0.0107,
+      "rank": 21,
+      "atr": 0.077,
+      "score": 2,
+      "status": "+"
+    },
+    {
+      "name": "IOST",
+      "pnl": -0.1195,
+      "pnl_value": -0.0031,
+      "weight": 0.0098,
+      "rank": 141,
+      "atr": 0.0841,
+      "score": 2,
+      "status": "o"
+    }
+  ],
+  "raw_selected": [
+    {
+      "name": "BNB",
+      "rank": 8,
+      "atr": 0.0619,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "NEO",
+      "rank": 21,
+      "atr": 0.077,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "IOST",
+      "rank": 141,
+      "atr": 0.0841,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "THETA",
+      "rank": 45,
+      "atr": 0.0916,
+      "type": 1,
+      "score": 1
+    },
+    {
+      "name": "LRC",
+      "rank": 70,
+      "atr": 0.1127,
+      "type": 1,
+      "score": 1
+    }
+  ],
+  "summary": {
+    "daily_pnl": -0.0008,
+    "cum_pnl": 1.6569,
+    "leverage": 0.0502,
+    "atr": 0.0041,
+    "marketcap_pnt": 0.0158,
+    "green_marketcap_pnt": 0
+  }
+}
